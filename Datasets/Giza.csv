@@ -1,0 +1,624 @@
+items,count,total,rnd,customer,age,city,paymentType
+"whole milk,butter,yogurt,rice,abrasive cleaner",5,1771,3,Ahmed,30,Giza,Credit
+whole milk,1,1538,3,Ahmed,30,Giza,Cash
+"yogurt,beverages,bottled water,specialty bar",4,556,3,Ahmed,30,Giza,Cash
+"root vegetables,other vegetables,whole milk,beverages,sugar",5,676,3,Ahmed,30,Giza,Credit
+"red/blush wine,newspapers",2,1261,3,Ahmed,30,Giza,Credit
+bottled water,1,906,3,Ahmed,30,Giza,Credit
+"soda,misc. beverages",2,1324,3,Ahmed,30,Giza,Cash
+"rolls/buns,fruit/vegetable juice",2,1025,3,Ahmed,30,Giza,Cash
+"hamburger meat,whole milk,frozen vegetables,rolls/buns,bottled beer,sparkling wine",6,1928,3,Ahmed,30,Giza,Cash
+misc. beverages,1,491,3,Ahmed,30,Giza,Cash
+"whole milk,frozen vegetables",2,1084,3,Ahmed,30,Giza,Cash
+"whole milk,rolls/buns,sugar,bottled water,soda",5,556,3,Ahmed,30,Giza,Credit
+"tropical fruit,specialty cheese,bottled water",3,488,3,Ahmed,30,Giza,Cash
+"other vegetables,bottled water,waffles,dishes,shopping bags",5,2459,3,Ahmed,30,Giza,Credit
+other vegetables,1,564,3,Ahmed,30,Giza,Credit
+"whole milk,mustard,bottled water",3,2326,3,Ahmed,30,Giza,Credit
+"citrus fruit,whole milk,curd,dessert,yogurt,whipped/sour cream,frozen dessert,rolls/buns,salt,sugar,cereals,canned vegetables,canned fish,skin care,hygiene articles,napkins",16,1485,3,Ahmed,30,Giza,Cash
+"hard cheese,rolls/buns,bottled water,newspapers",4,1175,3,Ahmed,30,Giza,Cash
+"pip fruit,other vegetables,fruit/vegetable juice",3,1074,3,Ahmed,30,Giza,Credit
+"root vegetables,whole milk,pet care,detergent",4,2260,3,Ahmed,30,Giza,Credit
+"turkey,pip fruit,salad dressing,pastry",4,2356,3,Ahmed,30,Giza,Credit
+"chicken,other vegetables,whole milk,vinegar,oil,bottled water,canned beer,napkins,newspapers",9,337,3,Ahmed,30,Giza,Credit
+"salt,salty snack,cookware",3,1143,3,Ahmed,30,Giza,Cash
+canned beer,1,1544,3,Ahmed,30,Giza,Cash
+"onions,whole milk,beverages,frozen dessert",4,1007,3,Ahmed,30,Giza,Cash
+specialty bar,1,313,3,Ahmed,30,Giza,Cash
+"frankfurter,yogurt",2,1596,3,Ahmed,30,Giza,Cash
+"other vegetables,whole milk,rolls/buns,margarine,bottled water,bottled beer",6,1148,3,Ahmed,30,Giza,Cash
+"citrus fruit,tropical fruit,onions,other vegetables,shopping bags",5,131,3,Ahmed,30,Giza,Credit
+rolls/buns,1,156,3,Ahmed,30,Giza,Cash
+"pork,beef,hamburger meat,other vegetables,whole milk,frozen vegetables,rolls/buns,margarine,shopping bags",9,2175,3,Ahmed,30,Giza,Cash
+"frankfurter,sausage,liver loaf,root vegetables,curd,frozen vegetables,rolls/buns,semi-finished bread,hygiene articles,photo/film",10,1578,3,Ahmed,30,Giza,Credit
+"hamburger meat,citrus fruit,other vegetables",3,1124,3,Ahmed,30,Giza,Credit
+"whole milk,cream cheese ,soda,fruit/vegetable juice",4,1472,3,Ahmed,30,Giza,Cash
+ice cream,1,875,3,Ahmed,30,Giza,Credit
+"dessert,candy",2,2401,3,Ahmed,30,Giza,Credit
+"rolls/buns,pastry,red/blush wine",3,913,3,Ahmed,30,Giza,Credit
+"rolls/buns,soda,snack products,newspapers",4,965,3,Ahmed,30,Giza,Credit
+"root vegetables,other vegetables,whole milk,yogurt,fruit/vegetable juice,white wine",6,1660,3,Ahmed,30,Giza,Cash
+"pork,pip fruit,other vegetables,whole milk,curd,white bread,sugar,bottled water,soda",9,333,3,Ahmed,30,Giza,Cash
+"pork,whole milk,pastry,sauces",4,1366,3,Ahmed,30,Giza,Cash
+"beef,citrus fruit,whole milk,domestic eggs,rolls/buns,pastry,roll products ,tea,fruit/vegetable juice",9,1898,3,Ahmed,30,Giza,Cash
+"coffee,soda",2,363,3,Ahmed,30,Giza,Cash
+"cream cheese ,bottled water,canned beer",3,1431,3,Ahmed,30,Giza,Cash
+"rolls/buns,canned fish",2,569,3,Ahmed,30,Giza,Cash
+pastry,1,434,3,Ahmed,30,Giza,Credit
+"beef,pip fruit,root vegetables,rolls/buns,margarine",5,215,3,Ahmed,30,Giza,Credit
+decalcifier,1,1498,3,Ahmed,30,Giza,Credit
+canned beer,1,327,3,Ahmed,30,Giza,Cash
+"pork,root vegetables,whole milk,whipped/sour cream",4,1410,3,Ahmed,30,Giza,Cash
+"other vegetables,whole milk,margarine,bottled beer",4,1931,3,Ahmed,30,Giza,Credit
+"ham,chicken,citrus fruit,berries,onions,whole milk,curd,yogurt,frozen vegetables,rolls/buns,margarine,soda,liquor (appetizer),cake bar,candy,seasonal products,skin care",17,1803,3,Ahmed,30,Giza,Credit
+"soda,newspapers",2,1613,3,Ahmed,30,Giza,Credit
+bottled beer,1,476,3,Ahmed,30,Giza,Credit
+"pip fruit,herbs,other vegetables,whole milk,coffee,female sanitary products,hygiene articles,shopping bags",8,1481,3,Ahmed,30,Giza,Cash
+"sausage,pork,other vegetables,frozen fish,rolls/buns,semi-finished bread,artif. sweetener,ready soups,bottled water,hygiene articles,newspapers",11,2371,3,Ahmed,30,Giza,Cash
+whipped/sour cream,1,1351,3,Ahmed,30,Giza,Credit
+"chicken,pork,hamburger meat,pip fruit,nuts/prunes,root vegetables,other vegetables,whole milk,spread cheese,frozen potato products,brown bread,Instant food products,soda,fruit/vegetable juice,shopping bags",15,2130,3,Ahmed,30,Giza,Cash
+"bottled water,soda,chewing gum,napkins",4,1246,3,Ahmed,30,Giza,Credit
+"root vegetables,whole milk,white bread,brown bread,sweet spreads,dog food,brandy,shopping bags",8,1727,3,Ahmed,30,Giza,Cash
+"chicken,other vegetables,salt",3,1730,3,Ahmed,30,Giza,Credit
+"curd,roll products ,margarine,bottled water,canned beer,white wine,dish cleaner",7,355,3,Ahmed,30,Giza,Cash
+"frankfurter,hamburger meat,whole milk,butter,curd,flour,rice,oil,sugar,mustard,salty snack,chocolate,chocolate marshmallow,dish cleaner,dental care",15,536,3,Ahmed,30,Giza,Cash
+"rolls/buns,coffee",2,2427,3,Ahmed,30,Giza,Credit
+hygiene articles,1,1551,3,Ahmed,30,Giza,Cash
+"whole milk,frozen meals,newspapers",3,988,3,Ahmed,30,Giza,Cash
+"other vegetables,whole milk,yogurt",3,196,3,Ahmed,30,Giza,Cash
+onions,1,994,3,Ahmed,30,Giza,Cash
+bottled water,1,559,3,Ahmed,30,Giza,Cash
+shopping bags,1,811,3,Ahmed,30,Giza,Cash
+"whole milk,pastry",2,2109,3,Ahmed,30,Giza,Credit
+canned fish,1,1837,3,Ahmed,30,Giza,Credit
+"sausage,root vegetables,rolls/buns,bottled water,white wine,flower (seeds)",6,140,3,Ahmed,30,Giza,Cash
+"brown bread,oil,sugar,soda,bottled beer",5,1062,3,Ahmed,30,Giza,Credit
+sparkling wine,1,1663,3,Ahmed,30,Giza,Credit
+"other vegetables,nut snack",2,1069,3,Ahmed,30,Giza,Cash
+"pip fruit,other vegetables,butter,yogurt,whipped/sour cream,brown bread,pastry,fruit/vegetable juice,detergent",9,1785,3,Ahmed,30,Giza,Cash
+"citrus fruit,tropical fruit,pip fruit,long life bakery product",4,2232,3,Ahmed,30,Giza,Credit
+"grapes,chocolate,light bulbs",3,224,3,Ahmed,30,Giza,Credit
+"bottled water,soda,chewing gum,specialty chocolate,candy",5,2216,3,Ahmed,30,Giza,Credit
+"pork,whole milk,sugar,soda,long life bakery product,chocolate",6,1476,3,Ahmed,30,Giza,Cash
+"domestic eggs,seasonal products,shopping bags",3,1814,3,Ahmed,30,Giza,Credit
+"frankfurter,whole milk,whipped/sour cream,curd cheese,domestic eggs,margarine,baking powder,cat food,bottled water,canned beer,candy,napkins",12,122,3,Ahmed,30,Giza,Cash
+"pork,citrus fruit,other vegetables,domestic eggs,margarine,canned beer",6,1825,3,Ahmed,30,Giza,Cash
+whipped/sour cream,1,2283,3,Ahmed,30,Giza,Cash
+"frankfurter,ham,root vegetables,onions,whole milk,yogurt,rolls/buns,white bread,brown bread,margarine",10,883,3,Ahmed,30,Giza,Cash
+"citrus fruit,yogurt,brown bread,pasta",4,1414,3,Ahmed,30,Giza,Credit
+"whole milk,canned fish,soda,bottled beer,hygiene articles,candles",6,237,3,Ahmed,30,Giza,Credit
+coffee,1,676,3,Ahmed,30,Giza,Cash
+canned beer,1,1077,3,Ahmed,30,Giza,Cash
+"frankfurter,packaged fruit/vegetables,brown bread,margarine,waffles",5,2274,3,Ahmed,30,Giza,Cash
+"packaged fruit/vegetables,whole milk,pastry,bottled water,soda,misc. beverages,chewing gum,specialty bar,hygiene articles,pot plants,shopping bags",11,781,3,Ahmed,30,Giza,Cash
+detergent,1,953,3,Ahmed,30,Giza,Credit
+"other vegetables,whole milk,soups,bottled water,bottled beer",5,2165,3,Ahmed,30,Giza,Credit
+"ham,other vegetables,whole milk,frozen vegetables",4,2329,3,Ahmed,30,Giza,Cash
+"citrus fruit,whole milk,domestic eggs,canned fruit,dog food,misc. beverages,detergent",7,2069,3,Ahmed,30,Giza,Cash
+"citrus fruit,tropical fruit,root vegetables,yogurt,roll products ,margarine,sugar,bottled water,napkins,house keeping products",10,1962,3,Ahmed,30,Giza,Credit
+"soda,canned beer",2,704,3,Ahmed,30,Giza,Cash
+"rolls/buns,canned beer",2,1675,3,Ahmed,30,Giza,Cash
+napkins,1,1458,3,Ahmed,30,Giza,Credit
+"tropical fruit,other vegetables,yogurt,spread cheese,soda",5,1507,3,Ahmed,30,Giza,Credit
+bottled water,1,2286,3,Ahmed,30,Giza,Credit
+"cream cheese ,soda",2,676,3,Ahmed,30,Giza,Cash
+"sausage,other vegetables",2,993,3,Ahmed,30,Giza,Credit
+"frankfurter,white bread,pastry,dog food,soda,shopping bags",6,1205,3,Ahmed,30,Giza,Cash
+"rolls/buns,newspapers",2,984,3,Ahmed,30,Giza,Cash
+"sausage,whole milk,dessert,spices,bottled beer",5,2027,3,Ahmed,30,Giza,Credit
+"whole milk,bottled water,napkins",3,1245,3,Ahmed,30,Giza,Cash
+newspapers,1,994,3,Ahmed,30,Giza,Cash
+"root vegetables,whole milk,domestic eggs",3,2156,3,Ahmed,30,Giza,Cash
+"tropical fruit,napkins",2,1616,3,Ahmed,30,Giza,Credit
+"other vegetables,brown bread,soda,canned beer,shopping bags",5,432,3,Ahmed,30,Giza,Credit
+"citrus fruit,rolls/buns,bottled water,red/blush wine,newspapers",5,466,3,Ahmed,30,Giza,Cash
+"tropical fruit,whole milk,butter,brown bread",4,896,3,Ahmed,30,Giza,Cash
+"ham,pork,butter milk,sweet spreads,shopping bags",5,179,3,Ahmed,30,Giza,Credit
+"sausage,tropical fruit,whole milk,curd,butter milk,whipped/sour cream,rolls/buns,softener,house keeping products",9,694,3,Ahmed,30,Giza,Credit
+soda,1,673,3,Ahmed,30,Giza,Cash
+chewing gum,1,341,3,Ahmed,30,Giza,Credit
+"pip fruit,berries,root vegetables,other vegetables,whole milk,whipped/sour cream",6,302,3,Ahmed,30,Giza,Credit
+"root vegetables,other vegetables,whole milk,bottled water,bottled beer",5,1541,3,Ahmed,30,Giza,Cash
+"canned beer,specialty chocolate",2,1258,3,Ahmed,30,Giza,Cash
+"pip fruit,root vegetables,sugar,coffee,bottled beer",5,617,3,Ahmed,30,Giza,Cash
+bottled water,1,834,3,Ahmed,30,Giza,Credit
+"ice cream,bottled water",2,860,3,Ahmed,30,Giza,Credit
+"bottled beer,shopping bags",2,2448,3,Ahmed,30,Giza,Cash
+whole milk,1,1020,3,Ahmed,30,Giza,Cash
+"chocolate,pot plants",2,1391,3,Ahmed,30,Giza,Credit
+"citrus fruit,white bread,ketchup,fruit/vegetable juice,bottled beer,salty snack,popcorn,shopping bags",8,977,3,Ahmed,30,Giza,Credit
+bottled beer,1,1839,3,Ahmed,30,Giza,Cash
+"canned beer,liquor",2,2403,3,Ahmed,30,Giza,Credit
+"sausage,ham,chicken,other vegetables,whole milk,butter,whipped/sour cream,cream cheese ",8,658,3,Ahmed,30,Giza,Cash
+"onions,dessert,yogurt,domestic eggs,rolls/buns,brown bread,pastry,cat food,bottled water,soda,fruit/vegetable juice,long life bakery product,chocolate,female sanitary products,napkins",15,1345,3,Ahmed,30,Giza,Credit
+"other vegetables,whole milk,yogurt,spices",4,1523,3,Ahmed,30,Giza,Credit
+"berries,chewing gum,seasonal products,newspapers",4,2227,3,Ahmed,30,Giza,Cash
+"whole milk,specialty bar",2,2067,3,Ahmed,30,Giza,Credit
+"whole milk,specialty fat,soda",3,1248,3,Ahmed,30,Giza,Cash
+"finished products,citrus fruit,yogurt,pastry,soda,waffles,shopping bags",7,1103,3,Ahmed,30,Giza,Cash
+"fish,brown bread,pet care,napkins",4,2050,3,Ahmed,30,Giza,Credit
+"berries,onions,whipped/sour cream,brown bread,pasta,liquor,dishes",7,792,3,Ahmed,30,Giza,Credit
+"chicken,citrus fruit,yogurt,UHT-milk,soft cheese,rolls/buns,margarine,mustard,coffee,kitchen towels,candles",11,2382,3,Ahmed,30,Giza,Cash
+"domestic eggs,rolls/buns",2,1295,3,Ahmed,30,Giza,Cash
+"meat,pork,tropical fruit,whole milk,curd,rolls/buns,cat food,bottled water,soda",9,1972,3,Ahmed,30,Giza,Cash
+"rolls/buns,newspapers",2,1821,3,Ahmed,30,Giza,Credit
+chewing gum,1,2034,3,Ahmed,30,Giza,Credit
+"dish cleaner,napkins",2,1068,3,Ahmed,30,Giza,Credit
+"yogurt,organic products,shopping bags",3,322,3,Ahmed,30,Giza,Cash
+"yogurt,bottled beer,liquor (appetizer),chewing gum",4,1455,3,Ahmed,30,Giza,Cash
+"beef,whole milk,frozen vegetables,sweet spreads,candy,dish cleaner,dental care,photo/film",8,2084,3,Ahmed,30,Giza,Credit
+"meat,beef,root vegetables,butter,flour,fruit/vegetable juice,whisky,white wine,napkins",9,659,3,Ahmed,30,Giza,Credit
+"hamburger meat,yogurt,rolls/buns,artif. sweetener,sauces,dish cleaner,dishes",7,2366,3,Ahmed,30,Giza,Credit
+"pip fruit,rolls/buns,sugar,sauces,newspapers",5,313,3,Ahmed,30,Giza,Credit
+"UHT-milk,margarine,bottled water,soda",4,1790,3,Ahmed,30,Giza,Cash
+"whole milk,coffee",2,892,3,Ahmed,30,Giza,Cash
+"pasta,fruit/vegetable juice",2,1675,3,Ahmed,30,Giza,Cash
+"beef,herbs,other vegetables,whole milk,dessert,yogurt,whipped/sour cream,mayonnaise,domestic eggs,brown bread,sweet spreads,cat food,soda,fruit/vegetable juice",14,1853,3,Ahmed,30,Giza,Cash
+"meat,curd,white bread",3,2149,3,Ahmed,30,Giza,Cash
+"canned beer,candy",2,1024,3,Ahmed,30,Giza,Credit
+"yogurt,waffles",2,1250,3,Ahmed,30,Giza,Credit
+"whipped/sour cream,candy",2,1935,3,Ahmed,30,Giza,Credit
+"pip fruit,root vegetables,whole milk,whipped/sour cream,processed cheese,white bread,flour,fruit/vegetable juice,napkins",9,1141,3,Ahmed,30,Giza,Credit
+"sausage,whipped/sour cream,white bread,baking powder",4,1833,3,Ahmed,30,Giza,Cash
+"tropical fruit,whole milk,spread cheese,cat food,coffee,bottled water,soda,misc. beverages,fruit/vegetable juice,shopping bags",10,1111,3,Ahmed,30,Giza,Cash
+"ham,pip fruit,other vegetables,cream cheese ,pastry,bottled beer",6,1091,3,Ahmed,30,Giza,Cash
+bottled water,1,809,3,Ahmed,30,Giza,Credit
+"ham,domestic eggs,brown bread,bottled water,chocolate marshmallow,seasonal products,napkins,newspapers",8,961,3,Ahmed,30,Giza,Cash
+"curd,napkins",2,2497,3,Ahmed,30,Giza,Cash
+long life bakery product,1,1354,3,Ahmed,30,Giza,Credit
+"pork,butter,hard cheese,cream cheese ",4,1604,3,Ahmed,30,Giza,Credit
+"sausage,other vegetables,yogurt,mayonnaise,rolls/buns,bottled water,soda,canned beer,shopping bags",9,2244,3,Ahmed,30,Giza,Cash
+"yogurt,UHT-milk,rolls/buns,candles",4,728,3,Ahmed,30,Giza,Cash
+"other vegetables,butter,yogurt,rolls/buns,pastry,margarine",6,1374,3,Ahmed,30,Giza,Credit
+"root vegetables,whole milk,rolls/buns,specialty chocolate",4,1308,3,Ahmed,30,Giza,Credit
+"sausage,yogurt,rolls/buns,pastry,dog food,soda",6,1603,3,Ahmed,30,Giza,Cash
+"frankfurter,rolls/buns,brown bread,shopping bags",4,837,3,Ahmed,30,Giza,Cash
+"yogurt,beverages,bottled beer,dishes",4,331,3,Ahmed,30,Giza,Cash
+"soda,misc. beverages,sparkling wine,chewing gum,specialty chocolate,shopping bags",6,898,3,Ahmed,30,Giza,Credit
+"pastry,soda",2,2234,3,Ahmed,30,Giza,Credit
+bottled beer,1,2326,3,Ahmed,30,Giza,Credit
+"sausage,bottled beer,liquor,red/blush wine",4,1762,3,Ahmed,30,Giza,Cash
+"citrus fruit,whole milk",2,2058,3,Ahmed,30,Giza,Cash
+"fish,rolls/buns,pot plants",3,893,3,Ahmed,30,Giza,Cash
+"pip fruit,yogurt",2,977,3,Ahmed,30,Giza,Cash
+"pork,tropical fruit,white bread,soda,bottled beer",5,1917,3,Ahmed,30,Giza,Cash
+"misc. beverages,canned beer",2,667,3,Ahmed,30,Giza,Cash
+"pork,beef,other vegetables,curd,whipped/sour cream,specialty cheese,dental care,shopping bags",8,2323,3,Ahmed,30,Giza,Cash
+pot plants,1,769,3,Ahmed,30,Giza,Credit
+soft cheese,1,567,3,Ahmed,30,Giza,Cash
+"chicken,soda,liquor,white wine,shopping bags",5,2486,3,Ahmed,30,Giza,Credit
+waffles,1,1911,3,Ahmed,30,Giza,Cash
+"soda,fruit/vegetable juice,cake bar,candy,candles",5,2314,3,Ahmed,30,Giza,Cash
+"root vegetables,other vegetables,yogurt,rolls/buns,flour",5,2474,3,Ahmed,30,Giza,Credit
+"pasta,soda,snack products,cake bar",4,865,3,Ahmed,30,Giza,Cash
+baking powder,1,738,3,Ahmed,30,Giza,Cash
+"whole milk,frozen meals,specialty chocolate",3,1324,3,Ahmed,30,Giza,Credit
+"zwieback,long life bakery product,dental care",3,1690,3,Ahmed,30,Giza,Cash
+"tropical fruit,other vegetables,butter milk,curd cheese,sugar,fruit/vegetable juice,bottled beer,chocolate,candles",9,787,3,Ahmed,30,Giza,Cash
+"pip fruit,soft cheese,tidbits",3,1587,3,Ahmed,30,Giza,Credit
+hygiene articles,1,201,3,Ahmed,30,Giza,Cash
+"rolls/buns,soda,canned beer",3,1502,3,Ahmed,30,Giza,Cash
+"yogurt,condensed milk,pet care,house keeping products,shopping bags",5,1887,3,Ahmed,30,Giza,Credit
+"beef,whole milk,margarine,salty snack",4,1899,3,Ahmed,30,Giza,Credit
+"frankfurter,liver loaf,pip fruit,whole milk,yogurt,beverages,cream cheese ,frozen vegetables,frozen meals,brown bread,pastry,cereals,bottled water,soda,fruit/vegetable juice,kitchen towels",16,1521,3,Ahmed,30,Giza,Cash
+"sausage,packaged fruit/vegetables,whole milk,brown bread,bottled water,newspapers",6,2020,3,Ahmed,30,Giza,Cash
+napkins,1,1949,3,Ahmed,30,Giza,Credit
+"tropical fruit,berries,other vegetables,butter,curd,UHT-milk,hard cheese,domestic eggs,rolls/buns",9,1650,3,Ahmed,30,Giza,Cash
+canned beer,1,1525,3,Ahmed,30,Giza,Credit
+"frankfurter,onions,herbs,other vegetables,yogurt,whipped/sour cream,fruit/vegetable juice",7,1126,3,Ahmed,30,Giza,Cash
+"sausage,hamburger meat,berries,UHT-milk,cat food,soda,salty snack,napkins",8,1467,3,Ahmed,30,Giza,Cash
+"pip fruit,onions,other vegetables,whole milk,butter,soft cheese,domestic eggs,white bread,margarine,cocoa drinks,bottled water,fruit/vegetable juice,chocolate",13,404,3,Ahmed,30,Giza,Credit
+"pet care,instant coffee,soda,specialty chocolate",4,960,3,Ahmed,30,Giza,Credit
+canned beer,1,565,3,Ahmed,30,Giza,Credit
+"ham,frozen potato products,white bread,pastry,cat food,bottled water,soda,candy,sound storage medium,shopping bags",10,2048,3,Ahmed,30,Giza,Cash
+"processed cheese,rolls/buns,detergent,dish cleaner,flower soil/fertilizer",5,1621,3,Ahmed,30,Giza,Credit
+"citrus fruit,specialty bar",2,1612,3,Ahmed,30,Giza,Credit
+"pastry,sugar,coffee,liquor (appetizer)",4,1339,3,Ahmed,30,Giza,Credit
+"bottled water,misc. beverages,liquor,chewing gum",4,2093,3,Ahmed,30,Giza,Cash
+"tropical fruit,UHT-milk,pastry,chocolate,napkins,shopping bags",6,2262,3,Ahmed,30,Giza,Cash
+"ham,hamburger meat,whole milk,yogurt,domestic eggs,white bread,Instant food products,chocolate",8,809,3,Ahmed,30,Giza,Cash
+"frankfurter,tropical fruit,domestic eggs,rolls/buns,soda,fruit/vegetable juice",6,961,3,Ahmed,30,Giza,Cash
+"meat,root vegetables,whole milk",3,322,3,Ahmed,30,Giza,Cash
+"yogurt,brown bread,margarine,napkins",4,206,3,Ahmed,30,Giza,Credit
+"tidbits,canned beer,red/blush wine",3,1753,3,Ahmed,30,Giza,Credit
+"waffles,specialty chocolate",2,266,3,Ahmed,30,Giza,Credit
+"tropical fruit,other vegetables,skin care",3,1524,3,Ahmed,30,Giza,Cash
+"pip fruit,whole milk,butter,cream cheese ,domestic eggs,shopping bags",6,1355,3,Ahmed,30,Giza,Credit
+"ham,chicken,citrus fruit,tropical fruit,yogurt,whipped/sour cream,domestic eggs",7,2472,3,Ahmed,30,Giza,Cash
+"other vegetables,whole milk,butter milk,yogurt,cream cheese ,domestic eggs,rolls/buns,brown bread,soda,fruit/vegetable juice,canned beer,red/blush wine,long life bakery product,chocolate,shopping bags",15,1919,3,Ahmed,30,Giza,Credit
+"sausage,whole milk,condensed milk,canned fish,soda,dishes",6,700,3,Ahmed,30,Giza,Credit
+"canned beer,shopping bags",2,2008,3,Ahmed,30,Giza,Cash
+"ham,root vegetables,whole milk,curd,yogurt,frozen meals,domestic eggs,white bread,roll products ,flour,pasta,sugar,meat spreads,chewing gum",14,784,3,Ahmed,30,Giza,Credit
+"sausage,tropical fruit,nuts/prunes,other vegetables,curd",5,2430,3,Ahmed,30,Giza,Credit
+"dessert,UHT-milk,cream cheese ,domestic eggs,brown bread,coffee,bottled water,soda,shopping bags",9,1885,3,Ahmed,30,Giza,Cash
+"pork,other vegetables,whole milk,domestic eggs",4,982,3,Ahmed,30,Giza,Credit
+seasonal products,1,1608,3,Ahmed,30,Giza,Credit
+"whole milk,curd,yogurt,chocolate marshmallow,candy,newspapers",6,2361,3,Ahmed,30,Giza,Cash
+salty snack,1,638,3,Ahmed,30,Giza,Credit
+"tropical fruit,pip fruit,UHT-milk,sugar,cat food,coffee,long life bakery product,chocolate,hygiene articles",9,236,3,Ahmed,30,Giza,Credit
+"whole milk,rolls/buns,hygiene articles,napkins,house keeping products",5,1077,3,Ahmed,30,Giza,Credit
+"beef,curd,cream cheese ,soda,photo/film",5,2441,3,Ahmed,30,Giza,Cash
+"root vegetables,other vegetables,whole milk,rolls/buns,pastry,bottled water,soda,waffles,cake bar",9,2123,3,Ahmed,30,Giza,Credit
+"sausage,pip fruit,whole milk,yogurt,sliced cheese,cream cheese ,pastry,soda,shopping bags",9,2006,3,Ahmed,30,Giza,Credit
+"sausage,soft cheese,rolls/buns,brown bread",4,526,3,Ahmed,30,Giza,Cash
+bottled water,1,1203,3,Ahmed,30,Giza,Credit
+"frankfurter,chicken,ice cream,rolls/buns",4,1008,3,Ahmed,30,Giza,Credit
+"ham,citrus fruit,butter milk,yogurt,cream cheese ,rolls/buns,dog food,female sanitary products,napkins,pot plants",10,2092,3,Ahmed,30,Giza,Cash
+"other vegetables,frozen fish,newspapers",3,2051,3,Ahmed,30,Giza,Cash
+soda,1,1594,3,Ahmed,30,Giza,Credit
+"whipped/sour cream,rolls/buns,pastry,soda,salty snack,chewing gum,cleaner,female sanitary products,shopping bags",9,1148,3,Ahmed,30,Giza,Credit
+"yogurt,beverages",2,1446,3,Ahmed,30,Giza,Cash
+"sausage,salty snack,seasonal products",3,1367,3,Ahmed,30,Giza,Cash
+specialty chocolate,1,496,3,Ahmed,30,Giza,Credit
+"citrus fruit,onions,hard cheese,specialty cheese,frozen vegetables,frozen dessert,domestic eggs,rolls/buns",8,1363,3,Ahmed,30,Giza,Cash
+yogurt,1,759,3,Ahmed,30,Giza,Cash
+"frozen meals,soda",2,2201,3,Ahmed,30,Giza,Cash
+"onions,canned beer,shopping bags",3,100,3,Ahmed,30,Giza,Credit
+whipped/sour cream,1,2197,3,Ahmed,30,Giza,Cash
+"sausage,pip fruit,yogurt,white bread,soda",5,1103,3,Ahmed,30,Giza,Credit
+photo/film,1,169,3,Ahmed,30,Giza,Cash
+"frankfurter,soda",2,1000,3,Ahmed,30,Giza,Cash
+"ham,root vegetables,onions,other vegetables,whole milk,whipped/sour cream,soft cheese,sliced cheese,hard cheese,cream cheese ,specialty cheese,domestic eggs,salt,canned fish,napkins",15,1721,3,Ahmed,30,Giza,Credit
+"citrus fruit,pip fruit,root vegetables,yogurt,margarine,dishes",6,2066,3,Ahmed,30,Giza,Cash
+"sausage,meat,other vegetables,yogurt,whipped/sour cream,domestic eggs,semi-finished bread,instant coffee,bottled water,soda,bottled beer,newspapers,shopping bags",13,1264,3,Ahmed,30,Giza,Cash
+"pork,root vegetables,whole milk,dog food,soda,hygiene articles,shopping bags",7,298,3,Ahmed,30,Giza,Cash
+"sausage,meat,pork,citrus fruit,curd,UHT-milk,brown bread,sugar,soda,fruit/vegetable juice,cookware,house keeping products",12,1464,3,Ahmed,30,Giza,Credit
+"yogurt,coffee",2,1819,3,Ahmed,30,Giza,Cash
+"meat,tropical fruit,root vegetables,other vegetables,whole milk,butter,whipped/sour cream,frozen meals,rolls/buns,hygiene articles",10,779,3,Ahmed,30,Giza,Credit
+"curd,whipped/sour cream,pudding powder,coffee,long life bakery product",5,890,3,Ahmed,30,Giza,Cash
+"finished products,bottled water,specialty bar,newspapers",4,1968,3,Ahmed,30,Giza,Credit
+"ham,onions,other vegetables,whole milk,whipped/sour cream,soft cheese,sliced cheese,brown bread,canned vegetables,sweet spreads,salty snack,specialty chocolate,dishes",13,1441,3,Ahmed,30,Giza,Credit
+"frankfurter,sausage,pork,onions,other vegetables,rolls/buns,semi-finished bread,newspapers,shopping bags",9,1207,3,Ahmed,30,Giza,Cash
+other vegetables,1,1907,3,Ahmed,30,Giza,Credit
+whole milk,1,1317,3,Ahmed,30,Giza,Cash
+"frankfurter,whole milk,frozen meals,domestic eggs,white bread,pastry,bottled beer,chocolate",8,180,3,Ahmed,30,Giza,Credit
+soda,1,1247,3,Ahmed,30,Giza,Cash
+"beef,salty snack",2,1004,3,Ahmed,30,Giza,Cash
+"sausage,root vegetables,sugar,sweet spreads,fruit/vegetable juice,bottled beer,salty snack,shopping bags",8,1684,3,Ahmed,30,Giza,Cash
+"frankfurter,sausage,liver loaf,chicken,pork,root vegetables,whole milk,whipped/sour cream,sliced cheese,frozen vegetables,bottled water,fruit/vegetable juice,salty snack,long life bakery product",14,1082,3,Ahmed,30,Giza,Cash
+"turkey,citrus fruit,butter,whipped/sour cream,hard cheese,white bread",6,991,3,Ahmed,30,Giza,Credit
+"yogurt,bottled water,soda,bottled beer,chocolate,female sanitary products",6,1535,3,Ahmed,30,Giza,Credit
+"root vegetables,other vegetables,mayonnaise,soda,chocolate,specialty chocolate",6,1528,3,Ahmed,30,Giza,Cash
+"sausage,root vegetables,bottled beer,skin care",4,985,3,Ahmed,30,Giza,Cash
+hamburger meat,1,1773,3,Ahmed,30,Giza,Credit
+"whole milk,baking powder,waffles,cleaner,newspapers",5,686,3,Ahmed,30,Giza,Credit
+seasonal products,1,105,3,Ahmed,30,Giza,Cash
+"root vegetables,other vegetables",2,170,3,Ahmed,30,Giza,Cash
+"hamburger meat,other vegetables,whole milk,pot plants",4,2325,3,Ahmed,30,Giza,Credit
+"pip fruit,root vegetables,other vegetables,whole milk,rolls/buns,brown bread,canned beer,newspapers,pot plants",9,813,3,Ahmed,30,Giza,Cash
+"whole milk,butter,soft cheese",3,397,3,Ahmed,30,Giza,Credit
+"rolls/buns,brown bread,soda",3,2179,3,Ahmed,30,Giza,Credit
+"frankfurter,chicken,root vegetables,whole milk,domestic eggs,canned fruit,flower (seeds)",7,1631,3,Ahmed,30,Giza,Cash
+ketchup,1,1514,3,Ahmed,30,Giza,Credit
+"sausage,beef,tropical fruit,other vegetables,butter,yogurt,UHT-milk,condensed milk,sliced cheese,salt,soups,sweet spreads,newspapers",13,134,3,Ahmed,30,Giza,Cash
+"vinegar,bottled beer",2,2093,3,Ahmed,30,Giza,Cash
+whole milk,1,478,3,Ahmed,30,Giza,Credit
+dishes,1,2430,3,Ahmed,30,Giza,Credit
+"hamburger meat,butter,zwieback,Instant food products,soda,misc. beverages",6,660,3,Ahmed,30,Giza,Cash
+"tropical fruit,whole milk,yogurt,whipped/sour cream,rolls/buns,cocoa drinks,bottled water,bottled beer,specialty chocolate",9,1718,3,Ahmed,30,Giza,Credit
+"pork,root vegetables,herbs,other vegetables,whole milk,processed cheese,domestic eggs,margarine,fruit/vegetable juice,hygiene articles",10,391,3,Ahmed,30,Giza,Cash
+canned beer,1,2372,3,Ahmed,30,Giza,Cash
+"yogurt,soda,waffles",3,1985,3,Ahmed,30,Giza,Cash
+"butter,yogurt,cream cheese ,spread cheese,rolls/buns,bottled water,soda,fruit/vegetable juice,newspapers",9,2346,3,Ahmed,30,Giza,Credit
+"pip fruit,beverages,pastry,hygiene articles",4,887,3,Ahmed,30,Giza,Cash
+"sausage,citrus fruit,butter,domestic eggs,rolls/buns,margarine,soda",7,1109,3,Ahmed,30,Giza,Cash
+"bottled water,soda",2,105,3,Ahmed,30,Giza,Cash
+"whole milk,canned beer",2,1335,3,Ahmed,30,Giza,Credit
+"sausage,hard cheese,rolls/buns,specialty fat,mustard,long life bakery product,seasonal products,napkins,dishes",9,1144,3,Ahmed,30,Giza,Credit
+"frozen vegetables,frozen meals",2,2245,3,Ahmed,30,Giza,Credit
+"sausage,rolls/buns",2,875,3,Ahmed,30,Giza,Credit
+"rolls/buns,canned beer",2,2368,3,Ahmed,30,Giza,Credit
+"pip fruit,soda,chewing gum",3,844,3,Ahmed,30,Giza,Cash
+"turkey,tropical fruit,yogurt,rolls/buns",4,1671,3,Ahmed,30,Giza,Credit
+"rolls/buns,soda,chewing gum",3,2473,3,Ahmed,30,Giza,Cash
+coffee,1,278,3,Ahmed,30,Giza,Credit
+"sausage,rolls/buns,newspapers,shopping bags",4,1865,3,Ahmed,30,Giza,Credit
+"rolls/buns,soda,snack products",3,2081,3,Ahmed,30,Giza,Cash
+"yogurt,frozen dessert",2,397,3,Ahmed,30,Giza,Credit
+bottled beer,1,1227,3,Ahmed,30,Giza,Credit
+"other vegetables,rolls/buns,hair spray",3,1778,3,Ahmed,30,Giza,Credit
+"sausage,rolls/buns,sugar,bottled water,soda,fruit/vegetable juice,white wine,male cosmetics",8,1933,3,Ahmed,30,Giza,Cash
+"bottled beer,newspapers",2,2293,3,Ahmed,30,Giza,Credit
+"canned beer,newspapers",2,1985,3,Ahmed,30,Giza,Credit
+newspapers,1,1733,3,Ahmed,30,Giza,Cash
+"frankfurter,sausage,whole milk,butter milk,yogurt,sliced cheese,hard cheese,rolls/buns,pastry,pickled vegetables,newspapers",11,1636,3,Ahmed,30,Giza,Credit
+"frankfurter,tropical fruit,other vegetables,rolls/buns,bottled water,soda,fruit/vegetable juice,salty snack,waffles",9,1473,3,Ahmed,30,Giza,Credit
+whole milk,1,2304,3,Ahmed,30,Giza,Credit
+"pork,other vegetables,whole milk,rolls/buns,semi-finished bread,artif. sweetener,fruit/vegetable juice,cake bar,specialty bar,skin care",10,2290,3,Ahmed,30,Giza,Credit
+"rolls/buns,pickled vegetables",2,669,3,Ahmed,30,Giza,Cash
+canned beer,1,318,3,Ahmed,30,Giza,Cash
+"pork,tropical fruit,whole milk,domestic eggs",4,433,3,Ahmed,30,Giza,Credit
+"root vegetables,herbs,other vegetables,cream cheese ,frozen vegetables,jam,canned fish,coffee",8,2311,3,Ahmed,30,Giza,Credit
+"citrus fruit,root vegetables,frozen vegetables,chewing gum",4,1235,3,Ahmed,30,Giza,Cash
+bottled beer,1,2297,3,Ahmed,30,Giza,Cash
+chocolate,1,1583,3,Ahmed,30,Giza,Cash
+"pip fruit,whipped/sour cream,hard cheese,bottled water,fruit/vegetable juice",5,1379,3,Ahmed,30,Giza,Credit
+condensed milk,1,605,3,Ahmed,30,Giza,Cash
+"pip fruit,root vegetables,frozen vegetables,frozen potato products,pastry,fruit/vegetable juice,napkins,bags",8,1021,3,Ahmed,30,Giza,Credit
+"liquor,napkins",2,1704,3,Ahmed,30,Giza,Credit
+"other vegetables,dessert,white bread,dog food,flower soil/fertilizer",5,248,3,Ahmed,30,Giza,Credit
+semi-finished bread,1,2066,3,Ahmed,30,Giza,Cash
+"sausage,frozen meals,shopping bags",3,1157,3,Ahmed,30,Giza,Credit
+"tropical fruit,whole milk,newspapers,shopping bags",4,1290,3,Ahmed,30,Giza,Cash
+cereals,1,2163,3,Ahmed,30,Giza,Credit
+"root vegetables,other vegetables,whole milk,rolls/buns,sugar,cereals,soda,soap",8,560,3,Ahmed,30,Giza,Cash
+"beef,tropical fruit,whole milk,margarine,soda,candles",6,1355,3,Ahmed,30,Giza,Cash
+"tropical fruit,other vegetables,UHT-milk,domestic eggs,pot plants",5,746,3,Ahmed,30,Giza,Cash
+flower soil/fertilizer,1,2098,3,Ahmed,30,Giza,Credit
+butter milk,1,2145,3,Ahmed,30,Giza,Credit
+"sausage,tropical fruit,root vegetables,other vegetables,hard cheese,fruit/vegetable juice,long life bakery product,waffles",8,1956,3,Ahmed,30,Giza,Cash
+"pip fruit,other vegetables,whole milk,butter,whipped/sour cream,sliced cheese,pastry,hygiene articles,napkins",9,635,3,Ahmed,30,Giza,Credit
+whole milk,1,428,3,Ahmed,30,Giza,Cash
+"sliced cheese,rolls/buns",2,430,3,Ahmed,30,Giza,Credit
+"pork,other vegetables",2,658,3,Ahmed,30,Giza,Cash
+"chicken,butter,frozen vegetables,soda,misc. beverages,chocolate,specialty chocolate",7,1991,3,Ahmed,30,Giza,Cash
+"tropical fruit,pip fruit,root vegetables,onions,other vegetables,whole milk,whipped/sour cream,misc. beverages,fruit/vegetable juice,red/blush wine,salty snack,detergent,shopping bags",13,2182,3,Ahmed,30,Giza,Credit
+canned beer,1,1790,3,Ahmed,30,Giza,Cash
+"whole milk,domestic eggs",2,1938,3,Ahmed,30,Giza,Cash
+rolls/buns,1,1294,3,Ahmed,30,Giza,Credit
+"tropical fruit,root vegetables,whole milk,yogurt,whipped/sour cream,rolls/buns,margarine,sugar,Instant food products,bottled water",10,698,3,Ahmed,30,Giza,Credit
+pastry,1,2043,3,Ahmed,30,Giza,Cash
+"frankfurter,beef,other vegetables,cream cheese ,domestic eggs,baking powder,salty snack,shopping bags",8,1214,3,Ahmed,30,Giza,Credit
+"other vegetables,bottled water,canned beer,chewing gum,newspapers",5,163,3,Ahmed,30,Giza,Cash
+"pip fruit,root vegetables,frozen vegetables,rolls/buns,semi-finished bread,soda,white wine,newspapers",8,719,3,Ahmed,30,Giza,Cash
+"pip fruit,whole milk,frozen vegetables,bottled water",4,352,3,Ahmed,30,Giza,Cash
+beef,1,2379,3,Ahmed,30,Giza,Cash
+"citrus fruit,tropical fruit,pip fruit,other vegetables,curd,butter milk,UHT-milk,frozen meals,brown bread,semi-finished bread,spices,fruit/vegetable juice,hygiene articles",13,1377,3,Ahmed,30,Giza,Cash
+pip fruit,1,1847,3,Ahmed,30,Giza,Credit
+"frozen meals,ice cream,frozen potato products",3,1175,3,Ahmed,30,Giza,Credit
+"frankfurter,citrus fruit,rolls/buns,soda",4,1534,3,Ahmed,30,Giza,Cash
+"beverages,newspapers",2,303,3,Ahmed,30,Giza,Credit
+"fruit/vegetable juice,chewing gum",2,1117,3,Ahmed,30,Giza,Credit
+"whole milk,brown bread,dog food,chocolate,hygiene articles,pot plants",6,2393,3,Ahmed,30,Giza,Credit
+"frankfurter,curd,rolls/buns,brown bread,mustard,candy",6,686,3,Ahmed,30,Giza,Cash
+"frozen vegetables,rolls/buns",2,1992,3,Ahmed,30,Giza,Cash
+soda,1,1272,3,Ahmed,30,Giza,Cash
+"pip fruit,soda,bottled beer,canned beer,waffles,chocolate",6,672,3,Ahmed,30,Giza,Cash
+"ice cream,brown bread",2,802,3,Ahmed,30,Giza,Credit
+"chicken,hamburger meat,grapes,other vegetables,whipped/sour cream,brown bread,canned beer,sparkling wine,flower (seeds)",9,1771,3,Ahmed,30,Giza,Cash
+"sausage,chicken,pork,root vegetables,other vegetables,whole milk,rolls/buns,fruit/vegetable juice,canned beer",9,175,3,Ahmed,30,Giza,Credit
+"sausage,citrus fruit,other vegetables",3,664,3,Ahmed,30,Giza,Credit
+"whole milk,curd,soda,light bulbs,pot plants,shopping bags",6,1101,3,Ahmed,30,Giza,Credit
+"other vegetables,white bread,soda,bottled beer",4,290,3,Ahmed,30,Giza,Cash
+"tropical fruit,whole milk,beverages,rolls/buns",4,1391,3,Ahmed,30,Giza,Credit
+"pork,tropical fruit,yogurt,white bread,fruit/vegetable juice",5,1085,3,Ahmed,30,Giza,Cash
+"coffee,red/blush wine",2,274,3,Ahmed,30,Giza,Cash
+"tropical fruit,whole milk,yogurt,ice cream,bottled water,soda,hygiene articles,napkins",8,1606,3,Ahmed,30,Giza,Credit
+"other vegetables,whole milk,brown bread",3,299,3,Ahmed,30,Giza,Cash
+"ham,whole milk,white bread,bottled beer",4,2416,3,Ahmed,30,Giza,Cash
+"whole milk,dessert,beverages,detergent,flower (seeds)",5,1155,3,Ahmed,30,Giza,Cash
+"berries,pastry,sugar,soda,chocolate,make up remover",6,1220,3,Ahmed,30,Giza,Credit
+"pork,beef,soda,canned beer",4,910,3,Ahmed,30,Giza,Credit
+"beef,root vegetables,packaged fruit/vegetables,whole milk,rolls/buns,pastry,oil,bottled water,soda,canned beer",10,1707,3,Ahmed,30,Giza,Credit
+"soda,soap",2,211,3,Ahmed,30,Giza,Credit
+"beverages,specialty bar",2,1192,3,Ahmed,30,Giza,Credit
+"meat,chicken,root vegetables,other vegetables,whole milk,whipped/sour cream,rolls/buns,abrasive cleaner,cleaner,napkins,house keeping products",11,243,3,Ahmed,30,Giza,Credit
+"beverages,bottled water,long life bakery product",3,1977,3,Ahmed,30,Giza,Cash
+"whipped/sour cream,frozen vegetables,hygiene articles",3,1101,3,Ahmed,30,Giza,Cash
+"yogurt,beverages,frozen meals,long life bakery product",4,1464,3,Ahmed,30,Giza,Cash
+"whole milk,whipped/sour cream",2,655,3,Ahmed,30,Giza,Cash
+other vegetables,1,1118,3,Ahmed,30,Giza,Credit
+fruit/vegetable juice,1,466,3,Ahmed,30,Giza,Credit
+"frozen meals,soda",2,2217,3,Ahmed,30,Giza,Cash
+photo/film,1,2384,3,Ahmed,30,Giza,Cash
+"other vegetables,UHT-milk,canned vegetables,bottled water,cake bar,shopping bags",6,1441,3,Ahmed,30,Giza,Cash
+whole milk,1,2230,3,Ahmed,30,Giza,Credit
+bottled beer,1,1436,3,Ahmed,30,Giza,Credit
+"rolls/buns,specialty chocolate",2,2451,3,Ahmed,30,Giza,Credit
+"citrus fruit,rolls/buns,specialty bar",3,2124,3,Ahmed,30,Giza,Cash
+"soda,fruit/vegetable juice",2,2433,3,Ahmed,30,Giza,Credit
+"frankfurter,tropical fruit,whole milk,cream cheese ,rolls/buns,pet care,bottled water,napkins,dishes,shopping bags",10,136,3,Ahmed,30,Giza,Cash
+pastry,1,202,3,Ahmed,30,Giza,Credit
+"frankfurter,packaged fruit/vegetables,soft cheese,soda",4,1720,3,Ahmed,30,Giza,Credit
+"chicken,tropical fruit,yogurt",3,490,3,Ahmed,30,Giza,Credit
+"other vegetables,whole milk,yogurt,bottled water,liquor (appetizer)",5,2053,3,Ahmed,30,Giza,Credit
+nuts/prunes,1,153,3,Ahmed,30,Giza,Credit
+"other vegetables,rolls/buns",2,132,3,Ahmed,30,Giza,Cash
+"pork,root vegetables,other vegetables",3,1380,3,Ahmed,30,Giza,Credit
+"sausage,pip fruit,other vegetables,coffee",4,439,3,Ahmed,30,Giza,Credit
+"other vegetables,butter milk,rolls/buns,meat spreads",4,1532,3,Ahmed,30,Giza,Credit
+"bottled beer,canned beer",2,1413,3,Ahmed,30,Giza,Cash
+"ice cream,soda",2,2148,3,Ahmed,30,Giza,Credit
+"fish,other vegetables,white bread,soda",4,1189,3,Ahmed,30,Giza,Credit
+specialty chocolate,1,967,3,Ahmed,30,Giza,Cash
+tropical fruit,1,1752,3,Ahmed,30,Giza,Credit
+hamburger meat,1,103,3,Ahmed,30,Giza,Credit
+"citrus fruit,pip fruit,UHT-milk,pet care,coffee,bottled beer",6,593,3,Ahmed,30,Giza,Credit
+pastry,1,1821,3,Ahmed,30,Giza,Credit
+"sausage,spread cheese,rolls/buns",3,2104,3,Ahmed,30,Giza,Credit
+"rolls/buns,soda",2,398,3,Ahmed,30,Giza,Cash
+"pastry,bottled beer,liquor,red/blush wine",4,1346,3,Ahmed,30,Giza,Credit
+"sausage,tropical fruit,berries,whole milk,butter,dessert,pastry,soda,fruit/vegetable juice,long life bakery product,chewing gum,hygiene articles",12,377,3,Ahmed,30,Giza,Cash
+"tropical fruit,pip fruit,whole milk",3,268,3,Ahmed,30,Giza,Cash
+"specialty cheese,soda",2,2273,3,Ahmed,30,Giza,Credit
+"spread cheese,misc. beverages",2,1866,3,Ahmed,30,Giza,Credit
+"other vegetables,domestic eggs,napkins,dishes",4,975,3,Ahmed,30,Giza,Cash
+pet care,1,2334,3,Ahmed,30,Giza,Cash
+"chocolate,pot plants,shopping bags",3,1032,3,Ahmed,30,Giza,Credit
+canned beer,1,1485,3,Ahmed,30,Giza,Cash
+"pork,root vegetables,whole milk,whipped/sour cream,ice cream,brown bread,flour,pasta,margarine,sugar,pudding powder,bottled water,specialty chocolate,detergent,dish cleaner,hygiene articles,cling film/bags,house keeping products,candles",19,1925,3,Ahmed,30,Giza,Cash
+"sausage,ham,root vegetables,other vegetables,soft cheese,sliced cheese,mustard,specialty vegetables,bottled beer,rum,long life bakery product",11,875,3,Ahmed,30,Giza,Cash
+"berries,beverages",2,722,3,Ahmed,30,Giza,Cash
+"sausage,citrus fruit,pip fruit,whole milk,butter milk",5,1694,3,Ahmed,30,Giza,Credit
+"pork,beef,root vegetables",3,1415,3,Ahmed,30,Giza,Credit
+"pork,citrus fruit,pip fruit,root vegetables,other vegetables,whole milk,butter,curd,yogurt,whipped/sour cream,cream cheese ,frozen vegetables,frozen meals,Instant food products,soda,fruit/vegetable juice,salty snack,specialty bar",18,1110,3,Ahmed,30,Giza,Credit
+"root vegetables,other vegetables,butter",3,2409,3,Ahmed,30,Giza,Cash
+"tropical fruit,pip fruit,other vegetables,whole milk,curd,photo/film",6,1581,3,Ahmed,30,Giza,Credit
+"rolls/buns,margarine,tea,bottled beer",4,345,3,Ahmed,30,Giza,Cash
+"whipped/sour cream,newspapers",2,1531,3,Ahmed,30,Giza,Cash
+"white bread,soda,shopping bags",3,192,3,Ahmed,30,Giza,Cash
+"sausage,meat,citrus fruit,yogurt,hard cheese,frozen meals,soda,fruit/vegetable juice,napkins,newspapers",10,226,3,Ahmed,30,Giza,Credit
+"beef,root vegetables,herbs,frozen vegetables,fruit/vegetable juice,specialty chocolate",6,2259,3,Ahmed,30,Giza,Cash
+"beef,citrus fruit,root vegetables,other vegetables,whole milk,yogurt,domestic eggs,pastry,semi-finished bread,salt,sugar,sweet spreads,soda,fruit/vegetable juice,red/blush wine",15,114,3,Ahmed,30,Giza,Cash
+canned beer,1,886,3,Ahmed,30,Giza,Cash
+"citrus fruit,tropical fruit,whole milk,curd,yogurt,domestic eggs,bottled water,soda,shopping bags",9,1687,3,Ahmed,30,Giza,Credit
+"yogurt,waffles,hygiene articles",3,394,3,Ahmed,30,Giza,Credit
+"sweet spreads,waffles",2,576,3,Ahmed,30,Giza,Credit
+pork,1,2081,3,Ahmed,30,Giza,Cash
+"tropical fruit,whole milk,yogurt,pastry,soda,misc. beverages",6,485,3,Ahmed,30,Giza,Credit
+"other vegetables,whole milk",2,2062,3,Ahmed,30,Giza,Cash
+"tropical fruit,yogurt,whipped/sour cream,sliced cheese,coffee,soda,fruit/vegetable juice,hair spray,soap",9,355,3,Ahmed,30,Giza,Credit
+"frankfurter,hygiene articles",2,1448,3,Ahmed,30,Giza,Cash
+"chicken,root vegetables,other vegetables,curd,yogurt,beverages,margarine,candles,flower (seeds)",9,1589,3,Ahmed,30,Giza,Credit
+whole milk,1,1180,3,Ahmed,30,Giza,Cash
+"onions,other vegetables,yogurt,whipped/sour cream,UHT-milk,sugar",6,423,3,Ahmed,30,Giza,Credit
+"whole milk,oil,candles",3,1522,3,Ahmed,30,Giza,Credit
+"sausage,beef,whole milk,rolls/buns,pastry,fruit/vegetable juice",6,1853,3,Ahmed,30,Giza,Credit
+soda,1,727,3,Ahmed,30,Giza,Cash
+"sausage,whole milk,rolls/buns,coffee,newspapers",5,1073,3,Ahmed,30,Giza,Cash
+"frozen meals,zwieback,fruit/vegetable juice,salty snack,long life bakery product,specialty chocolate,hygiene articles,napkins",8,214,3,Ahmed,30,Giza,Credit
+"tropical fruit,pickled vegetables,fruit/vegetable juice",3,1514,3,Ahmed,30,Giza,Credit
+"curd,dessert,soda,bottled beer,cake bar",5,432,3,Ahmed,30,Giza,Cash
+"sausage,ham,pip fruit,processed cheese",4,2024,3,Ahmed,30,Giza,Credit
+"meat,other vegetables,yogurt,ice cream,fruit/vegetable juice,salty snack,newspapers",7,2492,3,Ahmed,30,Giza,Credit
+soda,1,2122,3,Ahmed,30,Giza,Credit
+tropical fruit,1,1294,3,Ahmed,30,Giza,Credit
+"sausage,other vegetables,yogurt,pickled vegetables,bottled water,liquor,shopping bags",7,2425,3,Ahmed,30,Giza,Cash
+"tropical fruit,rolls/buns,white bread,salty snack,candy",5,2256,3,Ahmed,30,Giza,Credit
+"meat,brown bread,seasonal products,shopping bags",4,2393,3,Ahmed,30,Giza,Credit
+"frozen meals,frozen potato products,coffee",3,2313,3,Ahmed,30,Giza,Credit
+"sausage,citrus fruit,butter,yogurt,brown bread,margarine,fruit/vegetable juice,hygiene articles,newspapers",9,1989,3,Ahmed,30,Giza,Credit
+pastry,1,802,3,Ahmed,30,Giza,Credit
+"pip fruit,pastry",2,2224,3,Ahmed,30,Giza,Cash
+"frankfurter,tropical fruit,pip fruit,other vegetables,frozen vegetables,frozen fish,zwieback,margarine",8,2341,3,Ahmed,30,Giza,Credit
+"citrus fruit,butter,yogurt,cream cheese ,rolls/buns,bottled water,soda,newspapers",8,730,3,Ahmed,30,Giza,Credit
+"finished products,other vegetables,long life bakery product",3,411,3,Ahmed,30,Giza,Cash
+"tropical fruit,butter,bottled water,male cosmetics,newspapers",5,1451,3,Ahmed,30,Giza,Credit
+"nuts/prunes,root vegetables,yogurt,condensed milk,ice cream,semi-finished bread,bottled beer,brandy,salty snack",9,390,3,Ahmed,30,Giza,Cash
+"hamburger meat,root vegetables,whole milk,frozen vegetables,rolls/buns,Instant food products",6,1120,3,Ahmed,30,Giza,Credit
+"hamburger meat,berries,other vegetables,whole milk,beverages,soft cheese,hard cheese,pastry,sauces,waffles",10,1419,3,Ahmed,30,Giza,Cash
+"berries,whole milk,yogurt,sugar,cling film/bags,house keeping products",6,843,3,Ahmed,30,Giza,Cash
+"yogurt,rolls/buns",2,1575,3,Ahmed,30,Giza,Credit
+"yogurt,domestic eggs,rolls/buns",3,667,3,Ahmed,30,Giza,Credit
+"frankfurter,ham,whole milk,cream cheese ,processed cheese,white bread,shopping bags",7,2410,3,Ahmed,30,Giza,Cash
+"whole milk,curd,yogurt,artif. sweetener,rum,hygiene articles,napkins,photo/film",8,1167,3,Ahmed,30,Giza,Cash
+"hamburger meat,pickled vegetables,hygiene articles",3,2039,3,Ahmed,30,Giza,Credit
+"sausage,rolls/buns,soda,chocolate",4,244,3,Ahmed,30,Giza,Credit
+"yogurt,long life bakery product",2,930,3,Ahmed,30,Giza,Credit
+"dog food,pet care,shopping bags",3,924,3,Ahmed,30,Giza,Cash
+"chicken,citrus fruit,cat food,white wine,shopping bags",5,1915,3,Ahmed,30,Giza,Cash
+"other vegetables,curd,whipped/sour cream,pastry,baking powder,canned fruit",6,1546,3,Ahmed,30,Giza,Cash
+sausage,1,661,3,Ahmed,30,Giza,Credit
+"butter,sliced cheese,frozen dessert,rolls/buns,pastry,soda,bottled beer",7,1977,3,Ahmed,30,Giza,Credit
+"beef,root vegetables,onions,herbs,whole milk,curd cheese,rolls/buns,oil,jam,bottled water,waffles",11,2355,3,Ahmed,30,Giza,Cash
+"sausage,processed cheese,white bread",3,1678,3,Ahmed,30,Giza,Credit
+"tropical fruit,coffee,candy,soap,shopping bags",5,218,3,Ahmed,30,Giza,Credit
+"berries,frozen vegetables,frozen meals",3,1978,3,Ahmed,30,Giza,Cash
+cling film/bags,1,2206,3,Ahmed,30,Giza,Credit
+"curd,whipped/sour cream",2,1190,3,Ahmed,30,Giza,Cash
+"soda,specialty chocolate,male cosmetics,shopping bags",4,2278,3,Ahmed,30,Giza,Cash
+"turkey,grapes,other vegetables,hard cheese,frozen vegetables,rolls/buns,misc. beverages,newspapers",8,1193,3,Ahmed,30,Giza,Credit
+"domestic eggs,pastry,margarine,cooking chocolate",4,1526,3,Ahmed,30,Giza,Cash
+"meat,beef,berries,other vegetables,curd,yogurt,whipped/sour cream,UHT-milk,brown bread",9,1359,3,Ahmed,30,Giza,Cash
+rolls/buns,1,1019,3,Ahmed,30,Giza,Credit
+"frankfurter,tropical fruit,whole milk",3,1160,3,Ahmed,30,Giza,Cash
+hygiene articles,1,1498,3,Ahmed,30,Giza,Cash
+canned beer,1,1751,3,Ahmed,30,Giza,Cash
+brandy,1,865,3,Ahmed,30,Giza,Credit
+"chicken,pastry",2,904,3,Ahmed,30,Giza,Cash
+"yogurt,syrup,chewing gum,newspapers",4,1331,3,Ahmed,30,Giza,Cash
+canned beer,1,2005,3,Ahmed,30,Giza,Credit
+"whole milk,yogurt,baking powder,detergent,flower (seeds),shopping bags",6,893,3,Ahmed,30,Giza,Credit
+"citrus fruit,yogurt,newspapers",3,1975,3,Ahmed,30,Giza,Credit
+"curd,coffee,soda,bottled beer,chocolate,candy,shopping bags",7,1601,3,Ahmed,30,Giza,Credit
+"sausage,soft cheese,rolls/buns,canned beer",4,1186,3,Ahmed,30,Giza,Cash
+"pip fruit,butter,rolls/buns,chocolate",4,2097,3,Ahmed,30,Giza,Credit
+"sausage,whole milk,margarine,waffles,candles",5,1576,3,Ahmed,30,Giza,Credit
+"ice cream,specialty bar",2,1922,3,Ahmed,30,Giza,Cash
+bottled beer,1,2300,3,Ahmed,30,Giza,Credit
+"root vegetables,yogurt,UHT-milk,rolls/buns",4,951,3,Ahmed,30,Giza,Credit
+"ham,tropical fruit,pip fruit,other vegetables,UHT-milk,sliced cheese,domestic eggs,white bread,fruit/vegetable juice",9,1699,3,Ahmed,30,Giza,Credit
+"hamburger meat,other vegetables,curd,rolls/buns,bottled beer,specialty bar",6,420,3,Ahmed,30,Giza,Credit
+"pork,shopping bags",2,2039,3,Ahmed,30,Giza,Credit
+"pip fruit,newspapers",2,673,3,Ahmed,30,Giza,Cash
+"dog food,detergent,hygiene articles,napkins,newspapers,pot plants",6,1285,3,Ahmed,30,Giza,Credit
+"citrus fruit,rolls/buns",2,582,3,Ahmed,30,Giza,Credit
+"hamburger meat,other vegetables",2,426,3,Ahmed,30,Giza,Credit
+"sausage,rolls/buns",2,1760,3,Ahmed,30,Giza,Credit
+flower soil/fertilizer,1,196,3,Ahmed,30,Giza,Cash
+rolls/buns,1,2244,3,Ahmed,30,Giza,Credit
+"berries,other vegetables,yogurt,UHT-milk,rolls/buns,bottled water,soda",7,1859,3,Ahmed,30,Giza,Cash
+"frozen vegetables,seasonal products,hygiene articles,newspapers",4,1494,3,Ahmed,30,Giza,Credit
+"pip fruit,ice cream,bottled water,soda,fruit/vegetable juice,bottled beer",6,209,3,Ahmed,30,Giza,Cash
+"sausage,citrus fruit,tropical fruit,other vegetables,curd,pastry,soda,chocolate,hygiene articles",9,1331,3,Ahmed,30,Giza,Cash
+"tropical fruit,whole milk,chocolate,newspapers",4,557,3,Ahmed,30,Giza,Cash
+"sausage,pip fruit,other vegetables,whole milk,hard cheese,rolls/buns,canned vegetables,candy,napkins",9,1629,3,Ahmed,30,Giza,Cash
+"margarine,candles,newspapers",3,2080,3,Ahmed,30,Giza,Credit
+"bottled water,bottled beer,specialty bar",3,2378,3,Ahmed,30,Giza,Credit
+"semi-finished bread,fruit/vegetable juice,newspapers",3,2453,3,Ahmed,30,Giza,Cash
+canned beer,1,2070,3,Ahmed,30,Giza,Credit
+"whole milk,rolls/buns,margarine,bottled beer",4,1236,3,Ahmed,30,Giza,Credit
+"pip fruit,semi-finished bread,soups",3,583,3,Ahmed,30,Giza,Cash
+"sausage,rolls/buns,pastry,cat food",4,640,3,Ahmed,30,Giza,Cash
+"turkey,tropical fruit,grapes,root vegetables,other vegetables,butter,whipped/sour cream,beverages,processed cheese,oil,baking powder,pudding powder,long life bakery product",13,676,3,Ahmed,30,Giza,Credit
+specialty chocolate,1,434,3,Ahmed,30,Giza,Credit
+kitchen utensil,1,2112,3,Ahmed,30,Giza,Credit
+"whole milk,bottled water",2,2371,3,Ahmed,30,Giza,Credit
+"rolls/buns,brown bread",2,2421,3,Ahmed,30,Giza,Credit
+waffles,1,2471,3,Ahmed,30,Giza,Cash
+"sausage,frozen vegetables,domestic eggs,soda,fruit/vegetable juice,napkins,pot plants",7,189,3,Ahmed,30,Giza,Credit
+"chicken,pork,beef,whole milk,curd,soft cheese,processed cheese,frozen potato products,rolls/buns,popcorn",10,2334,3,Ahmed,30,Giza,Cash
+"organic sausage,mustard,ready soups,soda",4,2285,3,Ahmed,30,Giza,Credit
+"pastry,soda,shopping bags",3,1552,3,Ahmed,30,Giza,Credit
+"pip fruit,grapes",2,647,3,Ahmed,30,Giza,Cash
+"citrus fruit,other vegetables,domestic eggs,shopping bags",4,2144,3,Ahmed,30,Giza,Credit
+tropical fruit,1,970,3,Ahmed,30,Giza,Cash
+"ice cream,bottled water,soda",3,1462,3,Ahmed,30,Giza,Credit
+chocolate marshmallow,1,2297,3,Ahmed,30,Giza,Cash
+"fruit/vegetable juice,cake bar,newspapers",3,659,3,Ahmed,30,Giza,Credit
+"sausage,hamburger meat,other vegetables,yogurt,sliced cheese,brown bread,sugar,fruit/vegetable juice,canned beer,cleaner,bathroom cleaner,napkins,newspapers",13,2355,3,Ahmed,30,Giza,Cash
+"other vegetables,butter,rolls/buns,flower (seeds)",4,656,3,Ahmed,30,Giza,Cash
+photo/film,1,1090,3,Ahmed,30,Giza,Cash
+"sausage,berries,curd,yogurt,whipped/sour cream,cream cheese ,frozen vegetables,tea,fruit/vegetable juice,napkins,shopping bags",11,1937,3,Ahmed,30,Giza,Cash
+"frankfurter,ham,whole milk,butter,yogurt,sliced cheese,hard cheese,domestic eggs,zwieback,baking powder,napkins",11,2157,3,Ahmed,30,Giza,Credit
+"sausage,root vegetables,soda,bottled beer,salty snack,popcorn",6,397,3,Ahmed,30,Giza,Cash
+"other vegetables,frozen fish,brown bread,red/blush wine",4,1158,3,Ahmed,30,Giza,Credit
+"rolls/buns,sugar",2,2200,3,Ahmed,30,Giza,Cash
+"other vegetables,canned beer,snack products",3,197,3,Ahmed,30,Giza,Cash
+"pork,tropical fruit,grapes,onions,other vegetables,whole milk,yogurt,frozen vegetables,pet care,bottled water,seasonal products",11,2460,3,Ahmed,30,Giza,Cash
+"citrus fruit,other vegetables,white wine,long life bakery product,candles",5,2333,3,Ahmed,30,Giza,Credit
+"citrus fruit,beverages,domestic eggs,rolls/buns,bottled water,chewing gum,chocolate marshmallow",7,2098,3,Ahmed,30,Giza,Credit
+"rolls/buns,photo/film",2,618,3,Ahmed,30,Giza,Credit
+"sausage,tropical fruit,curd,yogurt,dog food,bottled water,long life bakery product,hygiene articles,shopping bags",9,1513,3,Ahmed,30,Giza,Cash
+"sausage,pip fruit,UHT-milk,soups,sauces,cat food,newspapers",7,106,3,Ahmed,30,Giza,Cash
+"beef,root vegetables,whole milk,pastry,soda,waffles,candy",7,550,3,Ahmed,30,Giza,Cash
+"tropical fruit,whole milk,hard cheese,rolls/buns,pastry,canned vegetables,pot plants",7,1498,3,Ahmed,30,Giza,Credit
+"citrus fruit,tropical fruit,other vegetables,butter milk,yogurt,pastry,waffles,candy,dental care",9,274,3,Ahmed,30,Giza,Credit
+"liquor,house keeping products,shopping bags",3,2241,3,Ahmed,30,Giza,Credit
+"pork,beef,citrus fruit,pip fruit,root vegetables,onions,other vegetables,whole milk,butter,ice cream,bottled water,waffles,newspapers,shopping bags",14,1482,3,Ahmed,30,Giza,Credit
+"other vegetables,whole milk,dessert,sliced cheese,hard cheese,cream cheese ,pastry,margarine,sugar,ready soups,bottled water,soda,salty snack,newspapers,shopping bags",15,1670,3,Ahmed,30,Giza,Cash
+"tropical fruit,pip fruit,yogurt,canned vegetables,misc. beverages",5,1645,3,Ahmed,30,Giza,Cash
+"sausage,other vegetables,rolls/buns,oil,bottled beer,red/blush wine",6,1847,3,Ahmed,30,Giza,Credit
+"sausage,meat,chicken,pork,other vegetables,sliced cheese,brown bread,newspapers,shopping bags",9,878,3,Ahmed,30,Giza,Credit
+"chicken,newspapers",2,1623,3,Ahmed,30,Giza,Credit
+bottled water,1,1247,3,Ahmed,30,Giza,Cash
+beverages,1,1965,3,Ahmed,30,Giza,Cash
+"white wine,red/blush wine,napkins",3,1946,3,Ahmed,30,Giza,Credit
+"whole milk,zwieback,soda",3,677,3,Ahmed,30,Giza,Credit
+"whole milk,yogurt,chocolate",3,1848,3,Ahmed,30,Giza,Cash
+"other vegetables,whipped/sour cream,rolls/buns",3,2376,3,Ahmed,30,Giza,Credit
+"napkins,dishes",2,587,3,Ahmed,30,Giza,Cash
+"soap,dishes",2,1407,3,Ahmed,30,Giza,Credit
+"frankfurter,beef,citrus fruit,tropical fruit,onions,other vegetables,whole milk,yogurt,whipped/sour cream,fruit/vegetable juice",10,2279,3,Ahmed,30,Giza,Credit
+"onions,whole milk,coffee",3,794,3,Ahmed,30,Giza,Cash
+soda,1,651,3,Ahmed,30,Giza,Cash
+whole milk,1,2086,3,Ahmed,30,Giza,Credit
+"sausage,white wine,long life bakery product",3,2332,3,Ahmed,30,Giza,Credit
+"pork,other vegetables,curd",3,681,3,Ahmed,30,Giza,Credit
+"rolls/buns,bottled beer",2,2023,3,Ahmed,30,Giza,Cash
+"frankfurter,nuts/prunes,frozen meals,rolls/buns,chocolate",5,1004,3,Ahmed,30,Giza,Cash
+"sausage,tropical fruit,yogurt,frozen meals,ice cream,brown bread",6,1963,3,Ahmed,30,Giza,Cash
+"yogurt,vinegar",2,627,3,Ahmed,30,Giza,Credit
+"whole milk,rolls/buns",2,462,3,Ahmed,30,Giza,Credit
+"chicken,citrus fruit,onions,other vegetables,yogurt,pet care,pot plants",7,459,3,Ahmed,30,Giza,Cash
+chocolate,1,123,3,Ahmed,30,Giza,Cash
+"citrus fruit,whole milk,fruit/vegetable juice,white wine,chocolate",5,668,3,Ahmed,30,Giza,Credit
+"sausage,ham,pip fruit,whole milk,curd,butter milk,yogurt,sliced cheese",8,1592,3,Ahmed,30,Giza,Credit
+"tropical fruit,berries,onions,butter,yogurt,coffee,soda,fruit/vegetable juice,specialty bar",9,1342,3,Ahmed,30,Giza,Cash
+"whole milk,bottled water,rum,chewing gum",4,1652,3,Ahmed,30,Giza,Credit
+"UHT-milk,coffee,canned beer,specialty chocolate,candy",5,2148,3,Ahmed,30,Giza,Cash
+"root vegetables,herbs,other vegetables,napkins,flower (seeds)",5,1611,3,Ahmed,30,Giza,Credit
+"sausage,root vegetables,chocolate",3,737,3,Ahmed,30,Giza,Credit
+"chicken,berries,root vegetables,other vegetables,whole milk,butter,curd,condensed milk,rolls/buns,white bread,brown bread,oil,baking powder,salty snack,long life bakery product",15,2230,3,Ahmed,30,Giza,Credit
+"chicken,pork,coffee,canned beer",4,738,3,Ahmed,30,Giza,Credit
+"sliced cheese,frozen meals,margarine,red/blush wine",4,837,3,Ahmed,30,Giza,Credit

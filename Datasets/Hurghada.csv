@@ -1,0 +1,1356 @@
+items,count,total,rnd,customer,age,city,paymentType
+"citrus fruit,semi-finished bread,margarine,ready soups",4,1612,9,Maged,60,Hurghada,Cash
+"tropical fruit,cream cheese ,processed cheese,detergent,newspapers",5,1215,9,Maged,60,Hurghada,Credit
+"bottled water,canned beer",2,2384,15,Sameh,35,Hurghada,Cash
+"berries,yogurt",2,443,15,Sameh,35,Hurghada,Cash
+canned beer,1,1225,15,Sameh,35,Hurghada,Credit
+"sausage,rolls/buns,cat food,newspapers",4,2276,9,Maged,60,Hurghada,Cash
+canned beer,1,569,15,Sameh,35,Hurghada,Credit
+"whole milk,yogurt,processed cheese,pickled vegetables,soda",5,114,9,Maged,60,Hurghada,Cash
+"other vegetables,whole milk,rolls/buns,sugar",4,2142,9,Maged,60,Hurghada,Cash
+"citrus fruit,whole milk,curd,butter milk,pastry",5,1390,9,Maged,60,Hurghada,Cash
+"sausage,root vegetables,onions,yogurt,rolls/buns,brandy,detergent",7,2270,15,Sameh,35,Hurghada,Cash
+"coffee,newspapers",2,1228,9,Maged,60,Hurghada,Credit
+"frankfurter,sausage,root vegetables,other vegetables,rolls/buns,oil,pickled vegetables,bottled beer,chewing gum,dishes",10,1334,15,Sameh,35,Hurghada,Credit
+"whole milk,dessert,frozen vegetables,rolls/buns,margarine,bottled water,red/blush wine,newspapers",8,1141,15,Sameh,35,Hurghada,Cash
+"berries,whipped/sour cream",2,2104,15,Sameh,35,Hurghada,Cash
+"hamburger meat,other vegetables,whole milk,frozen vegetables,domestic eggs,soda,dishes",7,924,15,Sameh,35,Hurghada,Credit
+"frankfurter,sausage,citrus fruit,tropical fruit,pip fruit,whole milk,hard cheese,cream cheese ,domestic eggs,rice,sugar,canned fruit,misc. beverages,fruit/vegetable juice,hygiene articles",15,577,15,Sameh,35,Hurghada,Cash
+"berries,soda",2,179,9,Maged,60,Hurghada,Credit
+soda,1,892,15,Sameh,35,Hurghada,Credit
+canned beer,1,1501,15,Sameh,35,Hurghada,Cash
+"frankfurter,sausage,whole milk,rolls/buns,margarine",5,1479,15,Sameh,35,Hurghada,Cash
+"other vegetables,misc. beverages,canned beer",3,1797,15,Sameh,35,Hurghada,Cash
+"frankfurter,rolls/buns",2,2375,9,Maged,60,Hurghada,Cash
+"hamburger meat,citrus fruit,onions,rolls/buns,bottled water,dental care",6,2344,9,Maged,60,Hurghada,Cash
+"tropical fruit,other vegetables,packaged fruit/vegetables,whole milk,snack products",5,1721,15,Sameh,35,Hurghada,Cash
+"whole milk,salt",2,1838,9,Maged,60,Hurghada,Credit
+"dessert,ice cream",2,2292,15,Sameh,35,Hurghada,Cash
+"other vegetables,bottled water",2,2047,9,Maged,60,Hurghada,Credit
+dog food,1,1183,15,Sameh,35,Hurghada,Cash
+"beverages,specialty bar",2,137,15,Sameh,35,Hurghada,Credit
+newspapers,1,1378,9,Maged,60,Hurghada,Credit
+"tropical fruit,berries,root vegetables,other vegetables,bottled water,shopping bags",6,437,15,Sameh,35,Hurghada,Cash
+"other vegetables,whole milk,bottled water,soda,misc. beverages,bottled beer,red/blush wine,napkins",8,390,9,Maged,60,Hurghada,Cash
+"pork,other vegetables,whipped/sour cream,rolls/buns,soda,shopping bags",6,620,15,Sameh,35,Hurghada,Cash
+"root vegetables,other vegetables,yogurt",3,795,15,Sameh,35,Hurghada,Credit
+canned beer,1,2163,15,Sameh,35,Hurghada,Cash
+"tropical fruit,margarine,rum",3,1601,9,Maged,60,Hurghada,Cash
+pasta,1,292,15,Sameh,35,Hurghada,Credit
+"citrus fruit,tropical fruit",2,1692,15,Sameh,35,Hurghada,Cash
+liquor (appetizer),1,622,15,Sameh,35,Hurghada,Cash
+"frankfurter,beef,root vegetables,curd,dessert,yogurt,soft cheese,rolls/buns,mustard,pickled vegetables,canned beer,hygiene articles,napkins",13,979,15,Sameh,35,Hurghada,Credit
+"tropical fruit,whole milk",2,1491,9,Maged,60,Hurghada,Cash
+"frankfurter,other vegetables,yogurt,brown bread,bottled water",5,1564,9,Maged,60,Hurghada,Cash
+"yogurt,mayonnaise,rolls/buns,soda,napkins",5,1912,15,Sameh,35,Hurghada,Cash
+"curd,beverages,cream cheese ,rolls/buns,pastry,soda,cake bar,chewing gum",8,397,9,Maged,60,Hurghada,Credit
+whole milk,1,2054,9,Maged,60,Hurghada,Cash
+"berries,white bread",2,2133,15,Sameh,35,Hurghada,Credit
+"other vegetables,butter milk,frozen meals,bottled water",4,830,15,Sameh,35,Hurghada,Credit
+"sausage,tropical fruit,condensed milk,rolls/buns",4,2119,9,Maged,60,Hurghada,Credit
+shopping bags,1,1660,9,Maged,60,Hurghada,Cash
+"whole milk,butter milk,yogurt,sliced cheese,rolls/buns,sweet spreads,coffee,fruit/vegetable juice,long life bakery product,shopping bags",10,1516,15,Sameh,35,Hurghada,Credit
+"bottled water,soda",2,615,9,Maged,60,Hurghada,Credit
+salty snack,1,1376,15,Sameh,35,Hurghada,Cash
+"citrus fruit,UHT-milk,cream cheese ,frozen vegetables",4,2074,15,Sameh,35,Hurghada,Credit
+"dessert,oil,cat food,soda",4,966,15,Sameh,35,Hurghada,Credit
+"rolls/buns,zwieback,bottled water,misc. beverages,bottled beer,canned beer,brandy",7,2236,9,Maged,60,Hurghada,Credit
+"beef,tropical fruit,root vegetables,onions,other vegetables,instant coffee,soda",7,244,9,Maged,60,Hurghada,Credit
+"rolls/buns,brown bread,bottled water",3,338,9,Maged,60,Hurghada,Cash
+coffee,1,526,15,Sameh,35,Hurghada,Cash
+"whole milk,honey,waffles",3,2298,9,Maged,60,Hurghada,Cash
+"bottled water,bottled beer,napkins",3,1629,9,Maged,60,Hurghada,Credit
+"meat,other vegetables,hard cheese,frozen meals,bottled water,soda",6,237,15,Sameh,35,Hurghada,Cash
+"beverages,rolls/buns,soda",3,251,9,Maged,60,Hurghada,Cash
+"pork,other vegetables,frozen vegetables,hygiene articles",4,2337,15,Sameh,35,Hurghada,Credit
+"whole milk,curd",2,1360,9,Maged,60,Hurghada,Cash
+soda,1,1409,15,Sameh,35,Hurghada,Cash
+sparkling wine,1,272,9,Maged,60,Hurghada,Cash
+"bottled water,candy",2,2257,9,Maged,60,Hurghada,Credit
+soda,1,132,15,Sameh,35,Hurghada,Cash
+female sanitary products,1,263,15,Sameh,35,Hurghada,Cash
+"soda,female sanitary products",2,867,9,Maged,60,Hurghada,Credit
+"citrus fruit,bottled water",2,1046,15,Sameh,35,Hurghada,Credit
+"sausage,whole milk,yogurt,brown bread,cereals,bottled water,soda",7,1947,9,Maged,60,Hurghada,Credit
+"fruit/vegetable juice,long life bakery product",2,1452,9,Maged,60,Hurghada,Credit
+newspapers,1,124,9,Maged,60,Hurghada,Cash
+"pip fruit,whole milk,curd,rum",4,2269,15,Sameh,35,Hurghada,Cash
+"frankfurter,sausage,tropical fruit,root vegetables,whole milk,yogurt,rolls/buns,pastry,candy",9,2217,9,Maged,60,Hurghada,Cash
+"citrus fruit,tropical fruit,herbs,whole milk,butter,curd,whipped/sour cream,frozen vegetables,canned vegetables,misc. beverages",10,853,9,Maged,60,Hurghada,Cash
+"tropical fruit,root vegetables,other vegetables,whipped/sour cream,brown bread,canned fish,long life bakery product",7,752,15,Sameh,35,Hurghada,Cash
+"hamburger meat,other vegetables,yogurt,rolls/buns,bottled water",5,876,15,Sameh,35,Hurghada,Cash
+bottled beer,1,1499,15,Sameh,35,Hurghada,Cash
+"frankfurter,root vegetables,onions,other vegetables,white bread,canned beer",6,741,15,Sameh,35,Hurghada,Cash
+"meat,other vegetables",2,1481,15,Sameh,35,Hurghada,Cash
+newspapers,1,981,15,Sameh,35,Hurghada,Credit
+"whole milk,domestic eggs,rolls/buns,soda",4,584,15,Sameh,35,Hurghada,Credit
+"whole milk,sliced cheese,margarine,cat food,detergent,dishes,shopping bags",7,274,15,Sameh,35,Hurghada,Cash
+"other vegetables,curd,yogurt,curd cheese,margarine,cleaner,hygiene articles",7,850,9,Maged,60,Hurghada,Credit
+"rolls/buns,canned beer",2,158,15,Sameh,35,Hurghada,Cash
+"beverages,rolls/buns",2,335,9,Maged,60,Hurghada,Cash
+"rolls/buns,shopping bags",2,2341,9,Maged,60,Hurghada,Cash
+"sausage,bottled beer,liquor (appetizer)",3,1603,9,Maged,60,Hurghada,Credit
+"sausage,root vegetables,other vegetables,whole milk,bottled beer,seasonal products",6,1779,9,Maged,60,Hurghada,Cash
+"sausage,tropical fruit,semi-finished bread",3,1877,9,Maged,60,Hurghada,Cash
+yogurt,1,1136,15,Sameh,35,Hurghada,Cash
+"frankfurter,rolls/buns,mustard",3,335,15,Sameh,35,Hurghada,Credit
+other vegetables,1,2296,15,Sameh,35,Hurghada,Credit
+coffee,1,386,15,Sameh,35,Hurghada,Cash
+"frankfurter,pork,citrus fruit,root vegetables,onions,other vegetables,packaged fruit/vegetables,cat food,bottled water",9,410,15,Sameh,35,Hurghada,Cash
+"rolls/buns,soda,specialty bar",3,202,15,Sameh,35,Hurghada,Cash
+"finished products,root vegetables,packaged fruit/vegetables,yogurt,specialty cheese,frozen vegetables,ice cream,soda,bottled beer",9,919,9,Maged,60,Hurghada,Credit
+"onions,other vegetables,flour",3,1368,15,Sameh,35,Hurghada,Credit
+"packaged fruit/vegetables,whole milk,dessert,yogurt,UHT-milk,margarine,bottled water,long life bakery product",8,458,15,Sameh,35,Hurghada,Credit
+"chicken,grapes,whole milk,whipped/sour cream,mayonnaise",5,2047,9,Maged,60,Hurghada,Credit
+"frozen dessert,semi-finished bread",2,551,15,Sameh,35,Hurghada,Cash
+"frankfurter,canned beer",2,2500,15,Sameh,35,Hurghada,Credit
+ice cream,1,986,9,Maged,60,Hurghada,Cash
+"pork,fish,whole milk,butter,curd,yogurt,whipped/sour cream,flour,sugar",9,118,15,Sameh,35,Hurghada,Cash
+"root vegetables,dessert,yogurt,cream cheese ,rice",5,2369,15,Sameh,35,Hurghada,Cash
+"frankfurter,beef,tropical fruit,root vegetables,packaged fruit/vegetables,whole milk,frozen vegetables",7,533,9,Maged,60,Hurghada,Cash
+"nuts/prunes,whole milk,semi-finished bread,jam,soda,pot plants,shopping bags",7,2259,15,Sameh,35,Hurghada,Cash
+"beef,other vegetables",2,1652,9,Maged,60,Hurghada,Cash
+"meat,root vegetables,whipped/sour cream,beverages,cream cheese ,waffles,dishes",7,1273,15,Sameh,35,Hurghada,Cash
+"frankfurter,sausage,beef,root vegetables,packaged fruit/vegetables,whole milk,dessert,yogurt,sliced cheese,ice cream,rolls/buns,soda",12,1443,15,Sameh,35,Hurghada,Cash
+"berries,frozen vegetables,pet care,instant coffee",4,1063,15,Sameh,35,Hurghada,Credit
+"curd,butter milk,yogurt,sliced cheese,coffee",5,2354,15,Sameh,35,Hurghada,Cash
+"other vegetables,whole milk,frozen meals,rolls/buns,brown bread,napkins",6,291,9,Maged,60,Hurghada,Cash
+"chicken,pork,whole milk,frozen vegetables,brown bread,vinegar,bottled beer,red/blush wine,newspapers",9,1039,15,Sameh,35,Hurghada,Credit
+"tropical fruit,whole milk",2,1077,15,Sameh,35,Hurghada,Cash
+salty snack,1,169,15,Sameh,35,Hurghada,Credit
+"ham,beef,grapes,yogurt,whipped/sour cream,domestic eggs,white bread,pastry,bottled water,fruit/vegetable juice,white wine,salty snack,chocolate,newspapers,shopping bags",15,450,15,Sameh,35,Hurghada,Cash
+"beverages,rolls/buns,soda,misc. beverages,liqueur,cake bar",6,585,9,Maged,60,Hurghada,Credit
+"soda,shopping bags",2,1572,9,Maged,60,Hurghada,Credit
+"specialty chocolate,pot plants",2,1946,9,Maged,60,Hurghada,Cash
+"citrus fruit,napkins,shopping bags",3,1885,15,Sameh,35,Hurghada,Credit
+"other vegetables,whole milk,white bread,chewing gum",4,695,9,Maged,60,Hurghada,Credit
+"whole milk,rolls/buns,shopping bags",3,332,9,Maged,60,Hurghada,Credit
+"sausage,bottled water,red/blush wine",3,384,15,Sameh,35,Hurghada,Cash
+"ice cream,newspapers",2,1987,15,Sameh,35,Hurghada,Cash
+"curd,whipped/sour cream,domestic eggs,flour,misc. beverages,newspapers",6,624,9,Maged,60,Hurghada,Cash
+"tropical fruit,root vegetables,other vegetables,domestic eggs,white bread,brown bread,canned vegetables,soda,fruit/vegetable juice,rum",10,144,15,Sameh,35,Hurghada,Credit
+ice cream,1,296,9,Maged,60,Hurghada,Cash
+"bottled beer,liquor,red/blush wine",3,298,9,Maged,60,Hurghada,Credit
+"pork,other vegetables,soda",3,1341,15,Sameh,35,Hurghada,Credit
+"domestic eggs,hygiene articles,photo/film,flower soil/fertilizer",4,2241,9,Maged,60,Hurghada,Credit
+"packaged fruit/vegetables,dessert,mayonnaise,oil,soda,waffles,chocolate,flower (seeds),shopping bags",9,2299,9,Maged,60,Hurghada,Credit
+"chicken,other vegetables,whipped/sour cream,frozen vegetables,bottled water,long life bakery product",6,442,9,Maged,60,Hurghada,Credit
+"sausage,curd,frozen meals,domestic eggs,cake bar,seasonal products,detergent,cleaner,house keeping products,pot plants,shopping bags",11,1326,9,Maged,60,Hurghada,Cash
+"chicken,tropical fruit,pip fruit,root vegetables,other vegetables,whole milk,butter,yogurt,whipped/sour cream,hard cheese,frozen vegetables,frozen fish,domestic eggs,white bread,rice,specialty fat,dog food,bottled water,fruit/vegetable juice,long life bakery product,softener,napkins,cling film/bags",23,547,15,Sameh,35,Hurghada,Cash
+ice cream,1,243,15,Sameh,35,Hurghada,Cash
+"onions,domestic eggs,soda,hygiene articles",4,662,9,Maged,60,Hurghada,Credit
+"coffee,fruit/vegetable juice,dishes",3,897,9,Maged,60,Hurghada,Cash
+"whole milk,butter,pasta,misc. beverages",4,384,15,Sameh,35,Hurghada,Cash
+whole milk,1,622,15,Sameh,35,Hurghada,Cash
+"beef,bottled water,misc. beverages,specialty chocolate,shopping bags",5,1286,9,Maged,60,Hurghada,Credit
+"pork,whole milk,rolls/buns,bottled beer",4,1434,9,Maged,60,Hurghada,Cash
+"yogurt,margarine",2,434,15,Sameh,35,Hurghada,Credit
+"bottled beer,liquor",2,2042,15,Sameh,35,Hurghada,Credit
+"sausage,tropical fruit,grapes,other vegetables,processed cheese,frozen meals,domestic eggs,white bread,salty snack,newspapers",10,968,9,Maged,60,Hurghada,Cash
+"frankfurter,whole milk,yogurt,domestic eggs,brown bread,margarine,fruit/vegetable juice,canned beer,shopping bags",9,960,15,Sameh,35,Hurghada,Credit
+"pork,ice cream,soda,cake bar",4,2220,9,Maged,60,Hurghada,Credit
+brown bread,1,1658,15,Sameh,35,Hurghada,Credit
+"frozen fish,canned beer,red/blush wine",3,1407,9,Maged,60,Hurghada,Cash
+"soda,misc. beverages",2,1674,9,Maged,60,Hurghada,Credit
+"ham,butter,yogurt,hard cheese,ice cream,domestic eggs,misc. beverages,fruit/vegetable juice",8,1673,15,Sameh,35,Hurghada,Credit
+"chicken,citrus fruit,root vegetables,other vegetables,whole milk,yogurt,hard cheese,processed cheese,mayonnaise,frozen vegetables,pastry,roll products ,rice,margarine,sugar,pickled vegetables,bottled water,fruit/vegetable juice,candy,skin care,napkins",21,2444,9,Maged,60,Hurghada,Cash
+"citrus fruit,root vegetables,dessert,yogurt,UHT-milk,brown bread",6,170,9,Maged,60,Hurghada,Cash
+specialty chocolate,1,485,15,Sameh,35,Hurghada,Cash
+"citrus fruit,butter,UHT-milk,margarine,bottled beer",5,645,9,Maged,60,Hurghada,Cash
+"popcorn,candy",2,185,9,Maged,60,Hurghada,Cash
+"UHT-milk,instant coffee",2,1300,15,Sameh,35,Hurghada,Credit
+semi-finished bread,1,1271,9,Maged,60,Hurghada,Cash
+shopping bags,1,875,9,Maged,60,Hurghada,Credit
+"tropical fruit,other vegetables,bottled water,bottled beer,napkins",5,1103,9,Maged,60,Hurghada,Cash
+"other vegetables,yogurt,oil,dental care",4,2469,15,Sameh,35,Hurghada,Cash
+onions,1,1660,9,Maged,60,Hurghada,Cash
+"other vegetables,sugar",2,1327,9,Maged,60,Hurghada,Credit
+soda,1,1017,9,Maged,60,Hurghada,Credit
+chewing gum,1,193,9,Maged,60,Hurghada,Cash
+"pork,tropical fruit,other vegetables,dessert,yogurt,roll products ,flour,rice,coffee,bottled water,soda,fruit/vegetable juice,canned beer,salty snack",14,1829,15,Sameh,35,Hurghada,Credit
+"sausage,citrus fruit,pip fruit,mayonnaise,brown bread,shopping bags",6,524,15,Sameh,35,Hurghada,Cash
+"grapes,pastry,salty snack,light bulbs,shopping bags",5,696,15,Sameh,35,Hurghada,Cash
+"rolls/buns,canned fish,canned beer",3,1684,15,Sameh,35,Hurghada,Cash
+"berries,root vegetables,whipped/sour cream,roll products ,bottled beer",5,1897,9,Maged,60,Hurghada,Credit
+"soda,canned beer",2,522,9,Maged,60,Hurghada,Credit
+"whole milk,brown bread",2,1673,9,Maged,60,Hurghada,Cash
+"tropical fruit,other vegetables,whipped/sour cream,UHT-milk,frozen vegetables,oil,margarine,fruit/vegetable juice,kitchen towels",9,640,9,Maged,60,Hurghada,Credit
+"tropical fruit,whole milk,domestic eggs,pastry,hygiene articles",5,2426,9,Maged,60,Hurghada,Credit
+"chicken,pork,pip fruit,other vegetables,whole milk,tidbits,frozen fish,rolls/buns,margarine,baking powder,soda,bottled beer,white wine,waffles,chocolate,candy",16,100,15,Sameh,35,Hurghada,Credit
+"condensed milk,bottled water,misc. beverages,bottled beer,bathroom cleaner",5,2210,15,Sameh,35,Hurghada,Credit
+cling film/bags,1,520,9,Maged,60,Hurghada,Cash
+whole milk,1,393,15,Sameh,35,Hurghada,Credit
+"frankfurter,beef,tropical fruit,pip fruit,butter,yogurt,dog food,long life bakery product,cookware,newspapers",10,273,9,Maged,60,Hurghada,Cash
+"frankfurter,sausage,packaged fruit/vegetables,soda",4,1894,15,Sameh,35,Hurghada,Credit
+"tropical fruit,pip fruit,other vegetables,whole milk,napkins,dishes,flower (seeds)",7,523,9,Maged,60,Hurghada,Cash
+"chicken,berries,mayonnaise,frozen vegetables,salty snack,newspapers",6,1278,15,Sameh,35,Hurghada,Credit
+pork,1,2204,15,Sameh,35,Hurghada,Cash
+"frozen potato products,bottled water,soda",3,856,9,Maged,60,Hurghada,Cash
+"frankfurter,sausage,tropical fruit,whole milk,yogurt,pastry,sugar,bottled water,soda,fruit/vegetable juice",10,2360,15,Sameh,35,Hurghada,Credit
+"chicken,red/blush wine",2,237,15,Sameh,35,Hurghada,Credit
+"pork,root vegetables,onions,other vegetables,whole milk,napkins,shopping bags",7,2183,15,Sameh,35,Hurghada,Cash
+"pork,citrus fruit,root vegetables,other vegetables,whole milk,butter,soda,dishes,newspapers,flower (seeds)",10,290,15,Sameh,35,Hurghada,Cash
+"pork,tropical fruit,root vegetables,onions,other vegetables,whole milk,butter,whipped/sour cream,soft cheese,sliced cheese,ice cream,semi-finished bread,soda,newspapers",14,376,9,Maged,60,Hurghada,Credit
+"beef,berries,other vegetables,white bread,shopping bags",5,621,15,Sameh,35,Hurghada,Credit
+"frankfurter,meat,tropical fruit,berries,other vegetables,whole milk,whipped/sour cream,domestic eggs,margarine,ketchup,misc. beverages,canned beer,salty snack",13,2080,9,Maged,60,Hurghada,Credit
+"oil,dish cleaner,newspapers",3,535,15,Sameh,35,Hurghada,Cash
+"onions,vinegar,pet care,specialty bar",4,877,9,Maged,60,Hurghada,Credit
+"chewing gum,napkins,dishes",3,441,15,Sameh,35,Hurghada,Credit
+"whole milk,yogurt,frozen meals,sugar,coffee,bottled water,fruit/vegetable juice,bottled beer,salty snack",9,1469,15,Sameh,35,Hurghada,Cash
+"whole milk,beverages,pastry,soda",4,2218,15,Sameh,35,Hurghada,Credit
+"citrus fruit,frozen meals,canned beer,red/blush wine,salty snack",5,631,15,Sameh,35,Hurghada,Cash
+"zwieback,oil,mustard,chocolate",4,2111,15,Sameh,35,Hurghada,Credit
+"whole milk,butter milk,soda,chewing gum,shopping bags",5,1416,9,Maged,60,Hurghada,Credit
+"citrus fruit,whole milk,soft cheese,canned beer",4,498,15,Sameh,35,Hurghada,Credit
+"dessert,misc. beverages",2,2421,15,Sameh,35,Hurghada,Cash
+"frankfurter,pork,specialty fat,specialty bar",4,1955,9,Maged,60,Hurghada,Credit
+"herbs,pot plants",2,1854,9,Maged,60,Hurghada,Credit
+"frozen fruits,detergent",2,255,9,Maged,60,Hurghada,Cash
+"sausage,ham,citrus fruit,grapes,berries,butter milk,frozen meals,domestic eggs,cat food,coffee,bottled water,soda,fruit/vegetable juice,waffles,hygiene articles",15,537,9,Maged,60,Hurghada,Credit
+bottled beer,1,892,15,Sameh,35,Hurghada,Credit
+"whole milk,shopping bags",2,1679,9,Maged,60,Hurghada,Credit
+"grapes,root vegetables,whole milk,butter,whipped/sour cream,condensed milk,roll products ,oil,bottled water,fruit/vegetable juice",10,2378,9,Maged,60,Hurghada,Credit
+"hard cheese,rolls/buns,soda,shopping bags",4,327,15,Sameh,35,Hurghada,Cash
+"whipped/sour cream,salty snack",2,1751,9,Maged,60,Hurghada,Credit
+"beef,other vegetables,margarine,candles",4,1926,9,Maged,60,Hurghada,Credit
+canned beer,1,1688,9,Maged,60,Hurghada,Cash
+"whole milk,beverages,bottled water,newspapers",4,293,15,Sameh,35,Hurghada,Credit
+"domestic eggs,rolls/buns,white wine",3,2005,15,Sameh,35,Hurghada,Cash
+"meat,onions,other vegetables,chewing gum,dishes",5,1318,9,Maged,60,Hurghada,Cash
+"pip fruit,root vegetables,whole milk,ice cream,bottled beer,detergent",6,1131,9,Maged,60,Hurghada,Cash
+"citrus fruit,herbs,butter,domestic eggs,oil,bottled water,bottled beer",7,615,15,Sameh,35,Hurghada,Credit
+"frankfurter,yogurt,beverages,brown bread,specialty chocolate,candy",6,488,9,Maged,60,Hurghada,Cash
+"frankfurter,sausage,berries,whole milk,yogurt,brown bread,pastry,margarine,fruit/vegetable juice,waffles,decalcifier,napkins",12,1118,15,Sameh,35,Hurghada,Cash
+ice cream,1,1692,9,Maged,60,Hurghada,Cash
+"yogurt,shopping bags",2,1225,15,Sameh,35,Hurghada,Cash
+"rolls/buns,canned beer,shopping bags",3,2079,15,Sameh,35,Hurghada,Cash
+"pastry,soda",2,1704,9,Maged,60,Hurghada,Cash
+"yogurt,bottled water,male cosmetics",3,1100,9,Maged,60,Hurghada,Credit
+"turkey,tropical fruit,yogurt,UHT-milk,brown bread,pastry",6,1251,9,Maged,60,Hurghada,Credit
+"sausage,other vegetables,sliced cheese,mustard,fruit/vegetable juice",5,950,9,Maged,60,Hurghada,Credit
+"tropical fruit,pip fruit,soda,bottled beer,popcorn",5,1764,15,Sameh,35,Hurghada,Cash
+"tropical fruit,newspapers",2,1742,15,Sameh,35,Hurghada,Credit
+whole milk,1,729,9,Maged,60,Hurghada,Credit
+"tropical fruit,berries,pickled vegetables,pet care,soda",5,2348,15,Sameh,35,Hurghada,Cash
+"other vegetables,whole milk,curd,spread cheese,curd cheese,rolls/buns,brown bread,Instant food products,coffee",9,192,9,Maged,60,Hurghada,Credit
+"whole milk,curd,mayonnaise,pastry,flour,canned fish,waffles",7,2391,9,Maged,60,Hurghada,Credit
+"tropical fruit,whole milk,sliced cheese,mayonnaise,rolls/buns,mustard",6,257,9,Maged,60,Hurghada,Credit
+canned beer,1,764,9,Maged,60,Hurghada,Credit
+pip fruit,1,667,15,Sameh,35,Hurghada,Credit
+"sausage,whole milk,rolls/buns,canned beer",4,1766,9,Maged,60,Hurghada,Credit
+"citrus fruit,other vegetables,butter,candy",4,487,15,Sameh,35,Hurghada,Credit
+"citrus fruit,UHT-milk,napkins",3,1909,15,Sameh,35,Hurghada,Credit
+"tropical fruit,root vegetables,whole milk,curd,yogurt,frozen vegetables,domestic eggs",7,2091,9,Maged,60,Hurghada,Cash
+"frankfurter,other vegetables,whole milk,yogurt,condensed milk,cream cheese ,rolls/buns,pastry",8,865,15,Sameh,35,Hurghada,Credit
+"sausage,specialty cheese,misc. beverages,bottled beer",4,2342,15,Sameh,35,Hurghada,Cash
+"yogurt,specialty chocolate,seasonal products",3,1217,15,Sameh,35,Hurghada,Cash
+photo/film,1,113,15,Sameh,35,Hurghada,Credit
+hamburger meat,1,1409,9,Maged,60,Hurghada,Credit
+"hamburger meat,citrus fruit,butter,frozen vegetables,pasta,sweet spreads,coffee",7,1845,15,Sameh,35,Hurghada,Credit
+"pip fruit,coffee",2,1468,15,Sameh,35,Hurghada,Cash
+"tropical fruit,grapes,oil,canned vegetables,tea,fruit/vegetable juice,snack products",7,782,15,Sameh,35,Hurghada,Credit
+"canned beer,shopping bags",2,2113,9,Maged,60,Hurghada,Cash
+butter milk,1,260,9,Maged,60,Hurghada,Cash
+"pork,whole milk,margarine",3,1363,9,Maged,60,Hurghada,Cash
+rolls/buns,1,860,9,Maged,60,Hurghada,Credit
+"root vegetables,other vegetables,whipped/sour cream,canned beer,liquor,shopping bags",6,1175,15,Sameh,35,Hurghada,Credit
+"other vegetables,packaged fruit/vegetables,frozen dessert,rolls/buns,soda",5,2458,9,Maged,60,Hurghada,Credit
+"liver loaf,pork,citrus fruit,tropical fruit,root vegetables,other vegetables,whole milk,curd,dessert,yogurt,frozen vegetables,brown bread,semi-finished bread,oil,dog food,fruit/vegetable juice",16,2108,15,Sameh,35,Hurghada,Cash
+"chicken,citrus fruit,yogurt,whipped/sour cream,spread cheese,margarine,softener",7,1300,9,Maged,60,Hurghada,Cash
+"beverages,rolls/buns,long life bakery product,shopping bags",4,2329,15,Sameh,35,Hurghada,Credit
+"chicken,tropical fruit,whole milk,pastry,soda,long life bakery product,waffles,chocolate",8,1182,15,Sameh,35,Hurghada,Cash
+"other vegetables,soda",2,847,9,Maged,60,Hurghada,Cash
+"chicken,napkins",2,1351,15,Sameh,35,Hurghada,Credit
+"whole milk,whipped/sour cream",2,402,15,Sameh,35,Hurghada,Cash
+"citrus fruit,pip fruit,other vegetables,whole milk,butter,cream cheese ,domestic eggs,vinegar,fruit/vegetable juice,softener,napkins",11,1097,9,Maged,60,Hurghada,Cash
+"pastry,soda",2,2459,9,Maged,60,Hurghada,Cash
+"beef,tropical fruit,frozen vegetables,pickled vegetables,bottled water,soda",6,2311,15,Sameh,35,Hurghada,Credit
+"root vegetables,domestic eggs",2,1280,9,Maged,60,Hurghada,Cash
+"root vegetables,canned vegetables,soda,shopping bags",4,492,15,Sameh,35,Hurghada,Credit
+"pastry,salty snack",2,542,15,Sameh,35,Hurghada,Credit
+"other vegetables,brown bread,soda",3,1056,9,Maged,60,Hurghada,Cash
+"citrus fruit,tropical fruit,whole milk,domestic eggs,pastry,bottled water,salty snack",7,2063,9,Maged,60,Hurghada,Credit
+"citrus fruit,berries,onions,other vegetables,condensed milk,soft cheese,oil,pickled vegetables,specialty vegetables,coffee,bottled water,soda,bottled beer,dish cleaner,male cosmetics,cling film/bags",16,1788,9,Maged,60,Hurghada,Credit
+"whole milk,yogurt,cream cheese ,oil,pickled vegetables,cat food,misc. beverages,long life bakery product,chocolate,specialty bar,dishes",11,2279,9,Maged,60,Hurghada,Credit
+soda,1,1054,15,Sameh,35,Hurghada,Credit
+shopping bags,1,1129,15,Sameh,35,Hurghada,Cash
+"pip fruit,sugar",2,1071,15,Sameh,35,Hurghada,Cash
+"pip fruit,domestic eggs",2,1767,15,Sameh,35,Hurghada,Cash
+"frankfurter,whole milk,bottled water,specialty chocolate,candy",5,2374,9,Maged,60,Hurghada,Credit
+"whole milk,cream cheese ,oil,bottled water,fruit/vegetable juice,pot plants",6,465,9,Maged,60,Hurghada,Cash
+"ham,other vegetables,whole milk,frozen vegetables",4,424,15,Sameh,35,Hurghada,Cash
+"domestic eggs,cat food,bottled water",3,460,15,Sameh,35,Hurghada,Cash
+"root vegetables,yogurt,fruit/vegetable juice",3,2419,15,Sameh,35,Hurghada,Cash
+"other vegetables,yogurt",2,421,9,Maged,60,Hurghada,Cash
+"pork,onions,pastry,potato products,bottled water",5,235,9,Maged,60,Hurghada,Credit
+bottled beer,1,1521,15,Sameh,35,Hurghada,Cash
+"soda,chocolate,chocolate marshmallow",3,355,9,Maged,60,Hurghada,Credit
+"UHT-milk,mayonnaise,rolls/buns,pickled vegetables,soda,hygiene articles,shopping bags",7,1034,9,Maged,60,Hurghada,Credit
+"spread cheese,fruit/vegetable juice",2,1944,15,Sameh,35,Hurghada,Credit
+"condensed milk,pastry,coffee,soda,red/blush wine,salty snack,nut snack,long life bakery product,waffles,cookware",10,207,9,Maged,60,Hurghada,Cash
+soda,1,807,15,Sameh,35,Hurghada,Cash
+"frankfurter,beef,other vegetables,rolls/buns",4,2383,9,Maged,60,Hurghada,Credit
+"pip fruit,soda",2,1225,9,Maged,60,Hurghada,Cash
+"soda,bottled beer",2,833,15,Sameh,35,Hurghada,Credit
+"whole milk,domestic eggs,rolls/buns,brown bread,specialty chocolate,shopping bags",6,2242,15,Sameh,35,Hurghada,Cash
+"onions,spread cheese",2,923,15,Sameh,35,Hurghada,Cash
+butter,1,578,15,Sameh,35,Hurghada,Credit
+"rolls/buns,misc. beverages",2,844,15,Sameh,35,Hurghada,Credit
+whole milk,1,1534,9,Maged,60,Hurghada,Credit
+"pip fruit,soda,cake bar,specialty chocolate",4,1733,9,Maged,60,Hurghada,Credit
+"rolls/buns,tea",2,1196,9,Maged,60,Hurghada,Credit
+"beef,whipped/sour cream,napkins",3,962,9,Maged,60,Hurghada,Cash
+"tropical fruit,other vegetables,whole milk,mustard,bottled water",5,1298,9,Maged,60,Hurghada,Cash
+"root vegetables,whole milk,yogurt,jam,bottled water,soda,bottled beer,specialty chocolate,hygiene articles",9,192,15,Sameh,35,Hurghada,Credit
+"citrus fruit,whole milk,butter,pastry,semi-finished bread,coffee,candy,newspapers,shopping bags",9,849,9,Maged,60,Hurghada,Cash
+"whole milk,curd,yogurt,whipped/sour cream,canned vegetables,soda,shopping bags",7,980,9,Maged,60,Hurghada,Credit
+"pastry,soda",2,520,15,Sameh,35,Hurghada,Credit
+"frankfurter,sausage,tropical fruit,whole milk,frozen fish,white wine,chewing gum,newspapers",8,1490,15,Sameh,35,Hurghada,Cash
+"butter,yogurt,whipped/sour cream",3,2226,9,Maged,60,Hurghada,Cash
+whole milk,1,472,9,Maged,60,Hurghada,Credit
+"sauces,specialty chocolate",2,503,15,Sameh,35,Hurghada,Cash
+"chicken,other vegetables,whole milk,cream cheese ,hygiene articles",5,2482,9,Maged,60,Hurghada,Cash
+whole milk,1,446,9,Maged,60,Hurghada,Cash
+other vegetables,1,813,15,Sameh,35,Hurghada,Credit
+canned beer,1,148,9,Maged,60,Hurghada,Credit
+"pork,herbs,other vegetables,processed cheese,cake bar",5,2386,9,Maged,60,Hurghada,Cash
+"specialty fat,sugar,cat food",3,1695,15,Sameh,35,Hurghada,Cash
+"spread cheese,rolls/buns,brown bread,soda",4,2164,9,Maged,60,Hurghada,Credit
+hygiene articles,1,872,9,Maged,60,Hurghada,Cash
+"beef,citrus fruit,root vegetables,whole milk,rolls/buns,pastry,coffee,seasonal products",8,2286,15,Sameh,35,Hurghada,Cash
+"pork,rolls/buns,soda",3,604,15,Sameh,35,Hurghada,Credit
+"tropical fruit,berries,root vegetables,whole milk,yogurt,cream cheese ,rolls/buns,bottled water,soda",9,1536,9,Maged,60,Hurghada,Cash
+"frankfurter,meat,berries,root vegetables,butter,whipped/sour cream,frozen vegetables,domestic eggs,rolls/buns,oil,specialty fat,spices,baking powder,bottled beer,waffles,napkins",16,897,9,Maged,60,Hurghada,Cash
+"frankfurter,sausage,meat,pip fruit,yogurt,rolls/buns,bottled water,soda,newspapers",9,1470,9,Maged,60,Hurghada,Credit
+"domestic eggs,dish cleaner,hygiene articles",3,1670,9,Maged,60,Hurghada,Credit
+"sausage,pork,spread cheese,frozen vegetables,pastry",5,948,15,Sameh,35,Hurghada,Credit
+"citrus fruit,curd",2,1828,15,Sameh,35,Hurghada,Credit
+frozen vegetables,1,1219,9,Maged,60,Hurghada,Cash
+"sausage,rolls/buns,shopping bags",3,2105,15,Sameh,35,Hurghada,Credit
+"rolls/buns,canned beer",2,909,15,Sameh,35,Hurghada,Cash
+"hamburger meat,root vegetables,other vegetables,whole milk,rolls/buns,zwieback,margarine,flower (seeds)",8,1977,15,Sameh,35,Hurghada,Cash
+"hamburger meat,citrus fruit,other vegetables,whole milk,curd,yogurt,misc. beverages",7,1234,9,Maged,60,Hurghada,Cash
+"sliced cheese,rolls/buns,canned beer",3,211,15,Sameh,35,Hurghada,Credit
+sausage,1,1129,15,Sameh,35,Hurghada,Cash
+"domestic eggs,soda",2,656,9,Maged,60,Hurghada,Cash
+pork,1,782,15,Sameh,35,Hurghada,Cash
+"pip fruit,whole milk,curd,whipped/sour cream,salt",5,476,15,Sameh,35,Hurghada,Cash
+rolls/buns,1,1678,15,Sameh,35,Hurghada,Credit
+"hamburger meat,root vegetables,other vegetables,roll products ",4,2156,9,Maged,60,Hurghada,Credit
+"sausage,rolls/buns,soda",3,2384,15,Sameh,35,Hurghada,Cash
+"citrus fruit,tropical fruit,other vegetables,whole milk,yogurt,specialty cheese",6,2228,15,Sameh,35,Hurghada,Cash
+bottled beer,1,1659,15,Sameh,35,Hurghada,Credit
+"soda,hygiene articles,napkins",3,2277,15,Sameh,35,Hurghada,Cash
+sausage,1,646,15,Sameh,35,Hurghada,Cash
+"tropical fruit,cat food,bottled water,soda,bottled beer,white wine,hygiene articles",7,2411,9,Maged,60,Hurghada,Cash
+"herbs,misc. beverages,shopping bags",3,1294,15,Sameh,35,Hurghada,Credit
+"chicken,soda,canned beer,liquor (appetizer),newspapers",5,1681,15,Sameh,35,Hurghada,Cash
+soda,1,1749,9,Maged,60,Hurghada,Cash
+"citrus fruit,tropical fruit,whipped/sour cream,rolls/buns,candy,newspapers",6,1706,9,Maged,60,Hurghada,Credit
+"root vegetables,liquor,shopping bags",3,2031,9,Maged,60,Hurghada,Credit
+"whipped/sour cream,sliced cheese,frozen dessert,hygiene articles,napkins",5,2382,9,Maged,60,Hurghada,Credit
+"yogurt,frozen fish,ice cream",3,993,9,Maged,60,Hurghada,Credit
+"frankfurter,photo/film",2,2310,15,Sameh,35,Hurghada,Cash
+"cat food,coffee",2,103,9,Maged,60,Hurghada,Cash
+"meat,beef,onions,white wine,dishes",5,1499,15,Sameh,35,Hurghada,Credit
+"meat,other vegetables",2,1232,9,Maged,60,Hurghada,Cash
+canned beer,1,1766,9,Maged,60,Hurghada,Cash
+"pip fruit,other vegetables,whole milk,butter,curd,rolls/buns,margarine,baking powder,bottled water,bottled beer,canned beer,cooking chocolate,napkins",13,2444,15,Sameh,35,Hurghada,Cash
+photo/film,1,1691,15,Sameh,35,Hurghada,Cash
+"finished products,misc. beverages",2,1029,9,Maged,60,Hurghada,Cash
+"whole milk,frozen meals,rolls/buns,margarine",4,2215,9,Maged,60,Hurghada,Cash
+bottled beer,1,1012,9,Maged,60,Hurghada,Cash
+"tropical fruit,whole milk",2,1199,15,Sameh,35,Hurghada,Credit
+"chicken,other vegetables,bottled water,chewing gum,softener",5,2448,15,Sameh,35,Hurghada,Cash
+whole milk,1,1570,9,Maged,60,Hurghada,Credit
+"liver loaf,beef,onions,specialty chocolate,napkins,shopping bags",6,589,15,Sameh,35,Hurghada,Cash
+"citrus fruit,pip fruit,whole milk,curd,whipped/sour cream,bottled water,bottled beer,specialty chocolate,shopping bags",9,2020,9,Maged,60,Hurghada,Credit
+"sausage,citrus fruit,berries,other vegetables,hard cheese,rolls/buns,bottled water",7,1834,15,Sameh,35,Hurghada,Credit
+"tropical fruit,candy",2,717,15,Sameh,35,Hurghada,Credit
+"whipped/sour cream,domestic eggs,margarine",3,1328,15,Sameh,35,Hurghada,Cash
+liquor,1,935,15,Sameh,35,Hurghada,Credit
+"ham,pork,other vegetables,whole milk,frozen vegetables,rolls/buns,rum",7,468,9,Maged,60,Hurghada,Cash
+"bottled beer,newspapers",2,1475,15,Sameh,35,Hurghada,Cash
+"chicken,citrus fruit,tropical fruit,other vegetables,whole milk,whipped/sour cream,rolls/buns,pastry,flour,specialty chocolate",10,1761,15,Sameh,35,Hurghada,Cash
+canned beer,1,1990,15,Sameh,35,Hurghada,Cash
+"sausage,liver loaf,misc. beverages,fruit/vegetable juice,canned beer,salty snack,shopping bags",7,194,15,Sameh,35,Hurghada,Cash
+"whole milk,curd,margarine",3,2206,9,Maged,60,Hurghada,Cash
+canned beer,1,960,15,Sameh,35,Hurghada,Cash
+other vegetables,1,1292,15,Sameh,35,Hurghada,Credit
+"whole milk,brown bread,pastry",3,350,15,Sameh,35,Hurghada,Cash
+canned beer,1,1562,9,Maged,60,Hurghada,Cash
+"whole milk,frozen dessert,margarine,snack products",4,143,15,Sameh,35,Hurghada,Cash
+brown bread,1,517,15,Sameh,35,Hurghada,Credit
+"bottled water,long life bakery product",2,1898,15,Sameh,35,Hurghada,Cash
+"other vegetables,white bread,newspapers",3,1159,9,Maged,60,Hurghada,Cash
+"pastry,sugar,mustard,chewing gum,shopping bags",5,222,15,Sameh,35,Hurghada,Credit
+"berries,cookware,flower (seeds)",3,538,9,Maged,60,Hurghada,Cash
+waffles,1,477,9,Maged,60,Hurghada,Cash
+canned beer,1,1795,9,Maged,60,Hurghada,Cash
+"pork,tropical fruit,root vegetables,herbs,whole milk,butter,domestic eggs,rolls/buns,baking powder,bottled water,rum,salty snack,chocolate,hygiene articles",14,1102,9,Maged,60,Hurghada,Cash
+"ham,meat,chicken,tropical fruit,berries,soft cheese,specialty cheese,long life bakery product,flower (seeds)",9,1366,15,Sameh,35,Hurghada,Cash
+"frankfurter,root vegetables",2,2010,15,Sameh,35,Hurghada,Credit
+"frozen meals,soda,shopping bags",3,1126,15,Sameh,35,Hurghada,Cash
+"tropical fruit,onions,spread cheese,coffee,canned beer,liquor (appetizer),red/blush wine,dental care,light bulbs,newspapers",10,1981,15,Sameh,35,Hurghada,Credit
+"bottled water,soda",2,612,15,Sameh,35,Hurghada,Cash
+"pip fruit,whole milk,rolls/buns,pickled vegetables,waffles",5,1950,9,Maged,60,Hurghada,Credit
+"ham,whipped/sour cream,beverages,domestic eggs,fruit/vegetable juice",5,1261,9,Maged,60,Hurghada,Credit
+"dessert,soft cheese,rolls/buns",3,535,9,Maged,60,Hurghada,Credit
+sugar,1,534,15,Sameh,35,Hurghada,Credit
+canned beer,1,927,9,Maged,60,Hurghada,Credit
+"whole milk,newspapers",2,2241,9,Maged,60,Hurghada,Cash
+"pip fruit,whole milk,pastry,waffles,cake bar,specialty bar,shopping bags",7,2136,15,Sameh,35,Hurghada,Cash
+brown bread,1,1473,15,Sameh,35,Hurghada,Cash
+"sausage,root vegetables,whole milk,rolls/buns,brown bread,margarine,soda,long life bakery product,cake bar",9,1150,15,Sameh,35,Hurghada,Cash
+"root vegetables,whole milk,rolls/buns",3,960,15,Sameh,35,Hurghada,Credit
+"chicken,citrus fruit,root vegetables,other vegetables,beverages,ice cream,rice,Instant food products,sweet spreads,canned fish,soda,fruit/vegetable juice,red/blush wine,newspapers,shopping bags",15,918,9,Maged,60,Hurghada,Credit
+"ice cream,canned fruit,canned beer,shopping bags",4,1801,9,Maged,60,Hurghada,Cash
+shopping bags,1,757,9,Maged,60,Hurghada,Credit
+"margarine,coffee,instant coffee,soda,canned beer",5,919,9,Maged,60,Hurghada,Credit
+"root vegetables,onions,other vegetables,curd,whipped/sour cream,pickled vegetables,specialty vegetables",7,195,9,Maged,60,Hurghada,Credit
+"fruit/vegetable juice,salty snack",2,515,15,Sameh,35,Hurghada,Cash
+"sausage,hamburger meat,citrus fruit,other vegetables,dessert,yogurt,frozen meals,frozen potato products,white bread,fruit/vegetable juice,long life bakery product,chocolate,candy,house keeping products",14,999,9,Maged,60,Hurghada,Credit
+"whole milk,beverages",2,1646,9,Maged,60,Hurghada,Cash
+"roll products ,misc. beverages",2,2295,9,Maged,60,Hurghada,Credit
+kitchen towels,1,1570,9,Maged,60,Hurghada,Cash
+"liver loaf,root vegetables,other vegetables,whole milk,frozen vegetables,white wine",6,1368,9,Maged,60,Hurghada,Cash
+"frankfurter,tropical fruit,root vegetables,whole milk,curd,dessert,frozen vegetables,pastry,instant coffee,tea,newspapers",11,1419,15,Sameh,35,Hurghada,Cash
+"other vegetables,hard cheese,processed cheese,cereals,pickled vegetables,long life bakery product,specialty chocolate",7,2056,15,Sameh,35,Hurghada,Credit
+"other vegetables,whole milk,processed cheese,white bread,soda,newspapers",6,2195,15,Sameh,35,Hurghada,Credit
+shopping bags,1,1241,15,Sameh,35,Hurghada,Cash
+"chicken,citrus fruit,curd,yogurt,domestic eggs,rolls/buns,spices,bottled water,waffles,chocolate,shopping bags",11,1056,9,Maged,60,Hurghada,Credit
+"citrus fruit,tropical fruit,other vegetables,whole milk,butter,whipped/sour cream,domestic eggs,sugar,salty snack,long life bakery product,napkins,shopping bags",12,417,9,Maged,60,Hurghada,Credit
+flower soil/fertilizer,1,829,9,Maged,60,Hurghada,Credit
+"other vegetables,curd,yogurt,UHT-milk,brown bread,bottled water,newspapers,shopping bags",8,940,9,Maged,60,Hurghada,Cash
+beef,1,2333,9,Maged,60,Hurghada,Credit
+salty snack,1,1575,15,Sameh,35,Hurghada,Cash
+turkey,1,415,15,Sameh,35,Hurghada,Cash
+"frozen fish,brandy",2,1277,15,Sameh,35,Hurghada,Credit
+"berries,whole milk,frozen meals,frozen dessert,rolls/buns,soda,shopping bags",7,884,9,Maged,60,Hurghada,Cash
+"chicken,pork,other vegetables,whole milk,butter,curd,margarine,pickled vegetables,waffles,specialty chocolate,hygiene articles",11,1160,15,Sameh,35,Hurghada,Credit
+"beef,root vegetables,herbs,packaged fruit/vegetables,whipped/sour cream,cream cheese ,vinegar,oil,margarine,soups,pickled vegetables,meat spreads,canned fish,fruit/vegetable juice,candles",15,802,15,Sameh,35,Hurghada,Credit
+"other vegetables,processed cheese,tea",3,583,15,Sameh,35,Hurghada,Cash
+"UHT-milk,canned beer",2,297,15,Sameh,35,Hurghada,Cash
+whipped/sour cream,1,1175,15,Sameh,35,Hurghada,Credit
+"frankfurter,soda,shopping bags",3,1656,9,Maged,60,Hurghada,Cash
+"meat,chicken,berries,yogurt,whipped/sour cream,cream cheese ,mayonnaise,brown bread,long life bakery product",9,136,9,Maged,60,Hurghada,Credit
+"pork,citrus fruit,pip fruit,root vegetables,other vegetables,dessert,butter milk,sliced cheese,processed cheese,fruit/vegetable juice,chocolate,shopping bags",12,689,15,Sameh,35,Hurghada,Cash
+decalcifier,1,1500,9,Maged,60,Hurghada,Credit
+"whole milk,dessert,soda,bottled beer",4,1141,15,Sameh,35,Hurghada,Cash
+"citrus fruit,tropical fruit,yogurt,UHT-milk,domestic eggs,mustard,canned fish",7,1461,15,Sameh,35,Hurghada,Cash
+"tropical fruit,dessert,yogurt,domestic eggs,oil,fruit/vegetable juice",6,2358,9,Maged,60,Hurghada,Credit
+margarine,1,1186,9,Maged,60,Hurghada,Credit
+meat,1,1399,15,Sameh,35,Hurghada,Cash
+"ham,citrus fruit,tropical fruit,pip fruit,herbs,other vegetables,whole milk,yogurt,spread cheese,brown bread,dog food,fruit/vegetable juice",12,2285,15,Sameh,35,Hurghada,Cash
+"hamburger meat,pip fruit,root vegetables,other vegetables,whole milk,curd,domestic eggs,salt,vinegar,oil,margarine,spices,coffee,bottled beer,newspapers",15,2279,9,Maged,60,Hurghada,Credit
+"pork,root vegetables,sliced cheese,specialty chocolate,specialty bar,napkins,shopping bags",7,2114,9,Maged,60,Hurghada,Credit
+"frankfurter,rolls/buns",2,742,15,Sameh,35,Hurghada,Credit
+"frankfurter,pork,citrus fruit,other vegetables,domestic eggs,pastry,ketchup,pickled vegetables,soda,syrup,skin care,newspapers",12,2248,15,Sameh,35,Hurghada,Credit
+"frankfurter,chicken,hamburger meat,pip fruit,other vegetables,whole milk,butter,curd,whipped/sour cream,salad dressing,frozen dessert,frozen potato products,pastry,rice",14,2076,15,Sameh,35,Hurghada,Cash
+"citrus fruit,tropical fruit,root vegetables,other vegetables,whole milk,whipped/sour cream,curd cheese,frozen vegetables,soups,cat food,chewing gum",11,1800,15,Sameh,35,Hurghada,Cash
+"other vegetables,salty snack,dishes,house keeping products",4,631,9,Maged,60,Hurghada,Cash
+"beef,root vegetables",2,2325,9,Maged,60,Hurghada,Cash
+"hamburger meat,other vegetables,sauces,soda,salty snack,newspapers",6,559,15,Sameh,35,Hurghada,Cash
+"whole milk,curd,semi-finished bread,baking powder,soda",5,1992,9,Maged,60,Hurghada,Credit
+"chicken,hamburger meat,root vegetables,onions,other vegetables,whole milk,butter,curd,butter milk,frozen vegetables,domestic eggs,oil,canned vegetables,popcorn",14,2325,9,Maged,60,Hurghada,Cash
+"sausage,meat,rolls/buns,canned beer,popcorn,nut snack,waffles,shopping bags",8,381,9,Maged,60,Hurghada,Cash
+"frankfurter,sausage,packaged fruit/vegetables,condensed milk",4,1371,15,Sameh,35,Hurghada,Cash
+"meat,frozen meals,roll products ,bottled beer,long life bakery product",5,887,15,Sameh,35,Hurghada,Cash
+"specialty chocolate,specialty bar",2,1959,15,Sameh,35,Hurghada,Cash
+"pip fruit,root vegetables,butter,UHT-milk,rolls/buns,coffee,soda,bottled beer,red/blush wine",9,2207,9,Maged,60,Hurghada,Cash
+"frankfurter,other vegetables,whole milk,spread cheese,sugar,soda,bottled beer,house keeping products",8,2381,9,Maged,60,Hurghada,Credit
+"other vegetables,specialty bar",2,2304,9,Maged,60,Hurghada,Cash
+"pip fruit,berries",2,545,15,Sameh,35,Hurghada,Credit
+male cosmetics,1,673,15,Sameh,35,Hurghada,Cash
+packaged fruit/vegetables,1,1031,9,Maged,60,Hurghada,Credit
+whole milk,1,646,9,Maged,60,Hurghada,Credit
+"whole milk,pastry,vinegar",3,207,9,Maged,60,Hurghada,Cash
+cling film/bags,1,2073,15,Sameh,35,Hurghada,Credit
+"sausage,pork,tropical fruit,other vegetables,yogurt,bottled beer,red/blush wine,dishes",8,2231,15,Sameh,35,Hurghada,Cash
+"dessert,fruit/vegetable juice,nut snack,specialty bar",4,1266,15,Sameh,35,Hurghada,Credit
+"UHT-milk,pastry,waffles",3,1292,9,Maged,60,Hurghada,Credit
+"whole milk,yogurt",2,174,9,Maged,60,Hurghada,Credit
+liquor,1,562,15,Sameh,35,Hurghada,Cash
+"rolls/buns,pickled vegetables,coffee,bottled water,red/blush wine",5,344,9,Maged,60,Hurghada,Cash
+potato products,1,510,9,Maged,60,Hurghada,Credit
+"whole milk,whipped/sour cream,fruit/vegetable juice,canned beer,salty snack,waffles",6,1943,15,Sameh,35,Hurghada,Cash
+"pastry,specialty chocolate",2,477,9,Maged,60,Hurghada,Cash
+"bottled beer,chocolate",2,1342,9,Maged,60,Hurghada,Credit
+soda,1,347,9,Maged,60,Hurghada,Credit
+"newspapers,photo/film",2,788,9,Maged,60,Hurghada,Cash
+root vegetables,1,994,15,Sameh,35,Hurghada,Cash
+"condensed milk,soda",2,804,9,Maged,60,Hurghada,Credit
+dessert,1,1298,15,Sameh,35,Hurghada,Cash
+"pip fruit,yogurt,frozen vegetables,domestic eggs,white bread,long life bakery product",6,1711,9,Maged,60,Hurghada,Cash
+"soda,chocolate",2,667,15,Sameh,35,Hurghada,Cash
+"sausage,hamburger meat,chocolate,detergent",4,1274,15,Sameh,35,Hurghada,Cash
+"white bread,chocolate,shopping bags",3,2272,9,Maged,60,Hurghada,Credit
+"tropical fruit,whole milk",2,1988,9,Maged,60,Hurghada,Cash
+root vegetables,1,1125,9,Maged,60,Hurghada,Cash
+chocolate,1,423,15,Sameh,35,Hurghada,Credit
+"bottled beer,liquor,red/blush wine,shopping bags",4,459,15,Sameh,35,Hurghada,Credit
+"pip fruit,ice cream,bottled beer",3,1307,15,Sameh,35,Hurghada,Credit
+berries,1,519,9,Maged,60,Hurghada,Cash
+waffles,1,994,9,Maged,60,Hurghada,Cash
+"butter,oil,margarine,specialty fat,chocolate,candy",6,1620,15,Sameh,35,Hurghada,Credit
+"frankfurter,rolls/buns,pastry,vinegar,mustard,specialty chocolate",6,2460,9,Maged,60,Hurghada,Cash
+"frankfurter,sausage,butter,flour,sugar,soda,chocolate",7,1030,9,Maged,60,Hurghada,Credit
+"bottled water,soda,salty snack",3,948,9,Maged,60,Hurghada,Credit
+"yogurt,artif. sweetener",2,1576,15,Sameh,35,Hurghada,Cash
+"soda,canned beer",2,2127,9,Maged,60,Hurghada,Credit
+"sausage,root vegetables,other vegetables,brown bread,long life bakery product",5,304,9,Maged,60,Hurghada,Credit
+"tropical fruit,grapes,other vegetables,whole milk,brown bread,pastry,fruit/vegetable juice,long life bakery product,pot plants",9,2198,15,Sameh,35,Hurghada,Cash
+"herbs,other vegetables",2,1149,15,Sameh,35,Hurghada,Cash
+"chicken,tropical fruit,pip fruit,other vegetables,yogurt,pastry,bottled beer,red/blush wine",8,1641,9,Maged,60,Hurghada,Cash
+"citrus fruit,whole milk,butter,curd,yogurt,soft cheese",6,1965,15,Sameh,35,Hurghada,Cash
+"pork,UHT-milk,bottled water,soda",4,1444,15,Sameh,35,Hurghada,Credit
+"misc. beverages,fruit/vegetable juice",2,1164,15,Sameh,35,Hurghada,Credit
+"ice cream,oil,bottled beer",3,2035,15,Sameh,35,Hurghada,Cash
+"chicken,beef,yogurt,rolls/buns,newspapers",5,419,9,Maged,60,Hurghada,Credit
+"sausage,tropical fruit,whole milk,butter milk,yogurt,white bread,meat spreads,soda,fruit/vegetable juice,shopping bags",10,1351,9,Maged,60,Hurghada,Credit
+whole milk,1,1668,15,Sameh,35,Hurghada,Cash
+"pet care,bottled water",2,1299,9,Maged,60,Hurghada,Cash
+soda,1,1716,9,Maged,60,Hurghada,Credit
+"root vegetables,brown bread,baking powder,napkins,photo/film",5,1452,9,Maged,60,Hurghada,Cash
+"tropical fruit,rolls/buns,mustard",3,1779,9,Maged,60,Hurghada,Cash
+bottled beer,1,295,15,Sameh,35,Hurghada,Cash
+"butter,mayonnaise,instant coffee",3,914,9,Maged,60,Hurghada,Cash
+chewing gum,1,2028,9,Maged,60,Hurghada,Credit
+canned beer,1,2436,15,Sameh,35,Hurghada,Cash
+"rolls/buns,pastry,napkins,newspapers",4,1536,9,Maged,60,Hurghada,Credit
+root vegetables,1,1557,15,Sameh,35,Hurghada,Cash
+"other vegetables,white bread,pastry,shopping bags",4,1459,15,Sameh,35,Hurghada,Cash
+"root vegetables,whole milk",2,420,15,Sameh,35,Hurghada,Credit
+yogurt,1,1493,9,Maged,60,Hurghada,Credit
+"citrus fruit,other vegetables,frozen vegetables,sugar",4,1037,15,Sameh,35,Hurghada,Cash
+canned beer,1,645,9,Maged,60,Hurghada,Cash
+"frankfurter,white bread,margarine",3,1294,15,Sameh,35,Hurghada,Cash
+liquor,1,1159,15,Sameh,35,Hurghada,Credit
+"frankfurter,other vegetables,red/blush wine,shopping bags",4,1211,9,Maged,60,Hurghada,Cash
+other vegetables,1,2276,15,Sameh,35,Hurghada,Credit
+"whole milk,soft cheese,rolls/buns,brown bread",4,1772,9,Maged,60,Hurghada,Cash
+"frankfurter,rolls/buns,soda,fruit/vegetable juice,shopping bags",5,1870,9,Maged,60,Hurghada,Credit
+"pork,tropical fruit,whole milk,butter,dessert,yogurt,frozen vegetables,frozen meals,frozen chicken,coffee,fruit/vegetable juice,chocolate,dental care,kitchen towels,newspapers",15,294,15,Sameh,35,Hurghada,Credit
+"pip fruit,other vegetables,whole milk,frozen vegetables,domestic eggs,shopping bags",6,107,15,Sameh,35,Hurghada,Cash
+bottled beer,1,561,15,Sameh,35,Hurghada,Credit
+"pork,beef",2,1691,15,Sameh,35,Hurghada,Cash
+"rolls/buns,red/blush wine,photo/film",3,152,9,Maged,60,Hurghada,Credit
+"pork,citrus fruit,root vegetables,whole milk,bottled water,dish cleaner",6,2278,9,Maged,60,Hurghada,Credit
+"sausage,beef,tropical fruit,pip fruit,berries,root vegetables,other vegetables,whole milk,mustard,candles",10,837,9,Maged,60,Hurghada,Cash
+canned beer,1,1540,15,Sameh,35,Hurghada,Cash
+"frozen vegetables,margarine,pickled vegetables",3,652,9,Maged,60,Hurghada,Cash
+"chicken,tropical fruit,frozen fish,domestic eggs,roll products ,seasonal products,dish cleaner",7,2074,9,Maged,60,Hurghada,Cash
+"turkey,tropical fruit,root vegetables,other vegetables,curd,whipped/sour cream,liquor (appetizer)",7,1512,9,Maged,60,Hurghada,Credit
+bottled water,1,502,9,Maged,60,Hurghada,Cash
+"sausage,UHT-milk,flour,flower (seeds)",4,435,9,Maged,60,Hurghada,Credit
+"whole milk,rolls/buns,coffee",3,1201,9,Maged,60,Hurghada,Credit
+"meat,chicken,other vegetables,butter milk,yogurt,roll products ,flour,cat food,soda,dishes",10,183,15,Sameh,35,Hurghada,Cash
+"beef,root vegetables,frozen vegetables,frozen potato products,white bread,detergent",6,653,15,Sameh,35,Hurghada,Cash
+canned beer,1,2472,9,Maged,60,Hurghada,Credit
+"whole milk,rolls/buns,bottled beer",3,242,15,Sameh,35,Hurghada,Cash
+"tropical fruit,other vegetables,yogurt,domestic eggs,rolls/buns,pastry,semi-finished bread,zwieback,oil,margarine,organic products,coffee,bottled water,soda,snack products,waffles,chocolate marshmallow,candy,seasonal products",19,304,9,Maged,60,Hurghada,Credit
+"finished products,other vegetables,whole milk,yogurt,curd cheese,brown bread,pastry,potato products,baking powder,soda,specialty chocolate,candy,seasonal products",13,615,15,Sameh,35,Hurghada,Cash
+"other vegetables,spices,coffee",3,1873,15,Sameh,35,Hurghada,Cash
+"beef,citrus fruit,tropical fruit,other vegetables,condensed milk,processed cheese,bottled water,soda,cling film/bags",9,377,9,Maged,60,Hurghada,Credit
+"tropical fruit,rolls/buns,seasonal products,bathroom cleaner,newspapers,shopping bags",6,467,15,Sameh,35,Hurghada,Credit
+"citrus fruit,yogurt,UHT-milk,domestic eggs,rolls/buns",5,276,9,Maged,60,Hurghada,Cash
+"beef,pip fruit,onions,whole milk,margarine,specialty fat,soda,fruit/vegetable juice,napkins",9,781,15,Sameh,35,Hurghada,Cash
+"root vegetables,whole milk,whipped/sour cream,frozen meals,flour,oil,waffles,seasonal products,napkins,house keeping products,photo/film,shopping bags",12,168,9,Maged,60,Hurghada,Credit
+"citrus fruit,pip fruit,butter,rolls/buns,oil,soda,bottled beer,brandy,red/blush wine,sparkling wine",10,406,15,Sameh,35,Hurghada,Cash
+"specialty chocolate,light bulbs",2,292,15,Sameh,35,Hurghada,Credit
+"citrus fruit,tropical fruit,root vegetables,other vegetables,yogurt,whipped/sour cream,frozen vegetables,ice cream,rolls/buns,salt,sugar,soda,napkins,newspapers",14,1801,15,Sameh,35,Hurghada,Cash
+"other vegetables,rolls/buns,brown bread",3,811,15,Sameh,35,Hurghada,Cash
+"whole milk,yogurt,bottled water,canned beer",4,2279,9,Maged,60,Hurghada,Credit
+"sausage,citrus fruit,other vegetables,yogurt,whipped/sour cream,frozen meals,pasta,coffee,bottled water,shopping bags",10,279,9,Maged,60,Hurghada,Credit
+"yogurt,popcorn,cleaner,newspapers",4,905,9,Maged,60,Hurghada,Credit
+"berries,margarine,coffee,specialty bar,shopping bags",5,2100,9,Maged,60,Hurghada,Cash
+"butter milk,pastry",2,2015,15,Sameh,35,Hurghada,Credit
+semi-finished bread,1,952,15,Sameh,35,Hurghada,Credit
+"tropical fruit,other vegetables,canned beer",3,637,15,Sameh,35,Hurghada,Cash
+"whole milk,whipped/sour cream,hard cheese,rolls/buns,semi-finished bread,pet care,newspapers",7,1372,15,Sameh,35,Hurghada,Cash
+"meat,pip fruit,root vegetables,whole milk,frozen vegetables",5,251,15,Sameh,35,Hurghada,Cash
+"frankfurter,root vegetables,butter,bottled beer,nut snack",5,2142,9,Maged,60,Hurghada,Cash
+"specialty cheese,frozen meals,soda,shopping bags",4,699,15,Sameh,35,Hurghada,Cash
+"tropical fruit,pip fruit,whole milk,yogurt,ice cream,frozen dessert,domestic eggs,pastry,flour,margarine,coffee,cake bar,napkins,shopping bags",14,935,9,Maged,60,Hurghada,Credit
+"frankfurter,sausage,ham,tropical fruit,rolls/buns,pastry,chocolate,napkins",8,2079,9,Maged,60,Hurghada,Credit
+"citrus fruit,tropical fruit,other vegetables,whole milk,yogurt,beverages,cream cheese ,bottled water,pot plants",9,383,15,Sameh,35,Hurghada,Credit
+"pork,pet care,newspapers",3,1831,9,Maged,60,Hurghada,Cash
+"frankfurter,root vegetables,whipped/sour cream,rolls/buns,roll products ,salt,shopping bags",7,1646,15,Sameh,35,Hurghada,Credit
+"chicken,pip fruit,frozen vegetables",3,1520,9,Maged,60,Hurghada,Cash
+"whipped/sour cream,pet care,soda,canned beer,softener,shopping bags",6,1083,9,Maged,60,Hurghada,Credit
+"butter,UHT-milk,frozen vegetables,ketchup,bottled water,soda,bottled beer",7,2162,15,Sameh,35,Hurghada,Credit
+pet care,1,1270,15,Sameh,35,Hurghada,Credit
+"berries,whipped/sour cream,oil,dog food,liquor,dishes,shopping bags",7,2318,15,Sameh,35,Hurghada,Credit
+soda,1,368,15,Sameh,35,Hurghada,Cash
+"sausage,pip fruit,other vegetables,whole milk,butter,dessert,butter milk,yogurt,whipped/sour cream,hard cheese,mayonnaise,oil,mustard,baking powder,popcorn,long life bakery product,chocolate,candy",18,1543,15,Sameh,35,Hurghada,Cash
+"frankfurter,bottled beer,liquor",3,1665,9,Maged,60,Hurghada,Credit
+coffee,1,2141,15,Sameh,35,Hurghada,Credit
+"root vegetables,onions,other vegetables,whole milk,butter,yogurt,soft cheese,domestic eggs,rice,bottled water,soda",11,216,9,Maged,60,Hurghada,Credit
+"other vegetables,canned fish,soda,shopping bags",4,2029,9,Maged,60,Hurghada,Cash
+"yogurt,bottled water",2,1418,9,Maged,60,Hurghada,Cash
+"chicken,beef,root vegetables,whole milk,curd,whipped/sour cream,flour,oil,sugar,salty snack",10,328,9,Maged,60,Hurghada,Credit
+misc. beverages,1,1556,9,Maged,60,Hurghada,Credit
+"sausage,root vegetables,yogurt,brown bread",4,2360,9,Maged,60,Hurghada,Cash
+"whole milk,dessert,brown bread,specialty bar",4,449,9,Maged,60,Hurghada,Credit
+"whole milk,rolls/buns",2,314,15,Sameh,35,Hurghada,Cash
+"root vegetables,other vegetables,whole milk,butter milk,processed cheese,margarine",6,2209,9,Maged,60,Hurghada,Credit
+"berries,whole milk,butter,domestic eggs,cake bar",5,1241,15,Sameh,35,Hurghada,Cash
+yogurt,1,445,15,Sameh,35,Hurghada,Credit
+canned beer,1,925,9,Maged,60,Hurghada,Cash
+"pork,frozen vegetables,oil",3,1631,15,Sameh,35,Hurghada,Credit
+"newspapers,flower soil/fertilizer",2,605,9,Maged,60,Hurghada,Cash
+"root vegetables,herbs,other vegetables,whole milk,yogurt,rolls/buns,flour,margarine,cereals,fruit/vegetable juice,pot plants",11,1803,9,Maged,60,Hurghada,Cash
+"citrus fruit,whole milk",2,345,9,Maged,60,Hurghada,Credit
+soft cheese,1,1236,15,Sameh,35,Hurghada,Cash
+"pork,beef,hamburger meat,other vegetables,whole milk,rolls/buns",6,1800,9,Maged,60,Hurghada,Cash
+"sausage,chicken,whole milk,butter,beverages,white wine",6,1345,15,Sameh,35,Hurghada,Credit
+canned beer,1,893,15,Sameh,35,Hurghada,Credit
+long life bakery product,1,662,15,Sameh,35,Hurghada,Cash
+"tropical fruit,grapes",2,1200,9,Maged,60,Hurghada,Credit
+rolls/buns,1,998,9,Maged,60,Hurghada,Cash
+"frankfurter,sausage,beef,tropical fruit,berries,root vegetables,other vegetables,whole milk,yogurt,beverages,soft cheese,specialty cheese,frozen fish,rolls/buns",14,1054,15,Sameh,35,Hurghada,Credit
+pastry,1,510,15,Sameh,35,Hurghada,Cash
+"sausage,whole milk,sliced cheese,rolls/buns,brown bread,bottled beer",6,2011,9,Maged,60,Hurghada,Cash
+"sausage,rolls/buns,shopping bags",3,550,15,Sameh,35,Hurghada,Credit
+rolls/buns,1,306,9,Maged,60,Hurghada,Cash
+"pickled vegetables,bottled water,fruit/vegetable juice,newspapers",4,2305,15,Sameh,35,Hurghada,Cash
+"white wine,red/blush wine",2,1697,9,Maged,60,Hurghada,Cash
+"turkey,tropical fruit,pip fruit,root vegetables,herbs,other vegetables,packaged fruit/vegetables,whole milk,butter milk,yogurt,specialty cheese,rolls/buns,oil,cat food,coffee,bottled water,fruit/vegetable juice,candy,dish cleaner",19,784,15,Sameh,35,Hurghada,Credit
+"dessert,cat food,newspapers",3,552,15,Sameh,35,Hurghada,Credit
+"rolls/buns,pastry",2,1721,15,Sameh,35,Hurghada,Credit
+"tropical fruit,whole milk,curd,yogurt,rolls/buns,specialty bar",6,1326,9,Maged,60,Hurghada,Credit
+"frankfurter,sausage,liver loaf,beef,tropical fruit,pip fruit,root vegetables,onions,whole milk,butter,yogurt,whipped/sour cream,sliced cheese,cream cheese ,frozen meals,frozen potato products,domestic eggs,rolls/buns,roll products ,salt,rice,margarine,jam,coffee,long life bakery product,waffles,hygiene articles",27,2177,9,Maged,60,Hurghada,Credit
+"chicken,pork,whole milk,coffee,soda,canned beer,napkins,newspapers",8,2111,9,Maged,60,Hurghada,Cash
+"pork,pip fruit,root vegetables,other vegetables,curd,butter milk,margarine,newspapers",8,183,9,Maged,60,Hurghada,Cash
+root vegetables,1,962,15,Sameh,35,Hurghada,Cash
+"hamburger meat,root vegetables,other vegetables,whole milk,soft cheese,house keeping products,newspapers",7,1395,9,Maged,60,Hurghada,Credit
+"whole milk,domestic eggs,oil",3,1610,9,Maged,60,Hurghada,Credit
+"hamburger meat,pip fruit,root vegetables,other vegetables,whole milk,whipped/sour cream,cream cheese ,brown bread,soups,sauces",10,573,15,Sameh,35,Hurghada,Cash
+"tropical fruit,pip fruit,grapes,whole milk",4,295,9,Maged,60,Hurghada,Cash
+"hamburger meat,grapes,root vegetables,other vegetables,softener,kitchen towels,pot plants",7,963,9,Maged,60,Hurghada,Credit
+"whole milk,frozen vegetables,frozen meals,cereals,bottled beer",5,912,9,Maged,60,Hurghada,Cash
+"other vegetables,yogurt,whipped/sour cream,newspapers",4,2446,15,Sameh,35,Hurghada,Credit
+"pork,onions,other vegetables,whole milk,curd,butter milk,whipped/sour cream,rolls/buns,liquor (appetizer),salty snack,waffles,newspapers",12,726,15,Sameh,35,Hurghada,Credit
+"pip fruit,root vegetables,UHT-milk,condensed milk,margarine,sugar,pudding powder,cocoa drinks,fruit/vegetable juice,chocolate",10,1517,9,Maged,60,Hurghada,Cash
+"meat,root vegetables,other vegetables,fruit/vegetable juice,white wine",5,2361,15,Sameh,35,Hurghada,Cash
+"dessert,cream cheese ,mayonnaise,domestic eggs,pastry,canned fish,chocolate,cleaner,female sanitary products",9,1307,15,Sameh,35,Hurghada,Credit
+"mayonnaise,candy,newspapers",3,1963,15,Sameh,35,Hurghada,Cash
+"frankfurter,ham,other vegetables,processed cheese,rolls/buns,white bread,potato products,coffee,bottled beer,long life bakery product",10,1598,15,Sameh,35,Hurghada,Cash
+canned beer,1,2257,9,Maged,60,Hurghada,Credit
+bottled beer,1,1061,15,Sameh,35,Hurghada,Credit
+rolls/buns,1,413,9,Maged,60,Hurghada,Credit
+"whole milk,dessert,pastry,Instant food products,canned fish,soda,bottled beer,red/blush wine,napkins,candles",10,1066,9,Maged,60,Hurghada,Cash
+"tropical fruit,packaged fruit/vegetables",2,606,15,Sameh,35,Hurghada,Credit
+"brandy,liquor (appetizer)",2,790,9,Maged,60,Hurghada,Cash
+"other vegetables,UHT-milk,cream",3,2417,9,Maged,60,Hurghada,Cash
+canned beer,1,1198,15,Sameh,35,Hurghada,Credit
+"UHT-milk,brown bread,newspapers",3,862,9,Maged,60,Hurghada,Cash
+"onions,other vegetables,whole milk,yogurt,domestic eggs,pastry,dishes,shopping bags",8,1535,9,Maged,60,Hurghada,Cash
+rolls/buns,1,2393,15,Sameh,35,Hurghada,Credit
+"tropical fruit,whole milk,butter milk,UHT-milk,rolls/buns",5,1594,9,Maged,60,Hurghada,Cash
+"tropical fruit,berries,root vegetables,other vegetables,yogurt,cream cheese ,rolls/buns,soda,shopping bags",9,734,15,Sameh,35,Hurghada,Cash
+"yogurt,processed cheese,frozen vegetables,rolls/buns",4,803,9,Maged,60,Hurghada,Credit
+newspapers,1,2426,9,Maged,60,Hurghada,Credit
+coffee,1,2208,15,Sameh,35,Hurghada,Credit
+brown bread,1,2127,15,Sameh,35,Hurghada,Credit
+newspapers,1,1399,15,Sameh,35,Hurghada,Cash
+"sausage,liquor (appetizer)",2,1915,15,Sameh,35,Hurghada,Credit
+"sausage,long life bakery product",2,2082,9,Maged,60,Hurghada,Credit
+"citrus fruit,other vegetables,whole milk,mayonnaise,rolls/buns,waffles",6,1813,15,Sameh,35,Hurghada,Cash
+"pork,root vegetables,pasta",3,1887,9,Maged,60,Hurghada,Credit
+"other vegetables,cake bar",2,800,9,Maged,60,Hurghada,Credit
+"meat,pip fruit,dessert,processed cheese,domestic eggs,rolls/buns,white bread,brown bread,pastry,semi-finished bread,candy,cookware",12,394,15,Sameh,35,Hurghada,Cash
+"meat,pork,tropical fruit,root vegetables,other vegetables",5,658,15,Sameh,35,Hurghada,Cash
+"root vegetables,other vegetables,yogurt,flower (seeds)",4,2378,15,Sameh,35,Hurghada,Cash
+dish cleaner,1,2466,9,Maged,60,Hurghada,Credit
+"ham,whole milk,rolls/buns",3,1374,15,Sameh,35,Hurghada,Cash
+"nuts/prunes,other vegetables,rum",3,943,15,Sameh,35,Hurghada,Credit
+"rolls/buns,Instant food products",2,2063,9,Maged,60,Hurghada,Credit
+red/blush wine,1,1096,15,Sameh,35,Hurghada,Credit
+"sausage,yogurt,pastry,cat food",4,1109,15,Sameh,35,Hurghada,Cash
+"bottled beer,white wine",2,1979,15,Sameh,35,Hurghada,Credit
+"root vegetables,other vegetables,whole milk,soups,bottled beer",5,1650,9,Maged,60,Hurghada,Credit
+"brown bread,canned beer,detergent,softener",4,308,9,Maged,60,Hurghada,Cash
+"frankfurter,rolls/buns",2,1690,9,Maged,60,Hurghada,Cash
+"pip fruit,butter milk,soda",3,1380,15,Sameh,35,Hurghada,Cash
+"frankfurter,whole milk,rolls/buns,salt",4,1578,9,Maged,60,Hurghada,Credit
+bottled water,1,1322,9,Maged,60,Hurghada,Credit
+"meat,frozen meals,fruit/vegetable juice",3,1647,9,Maged,60,Hurghada,Cash
+coffee,1,1801,15,Sameh,35,Hurghada,Credit
+"cream cheese ,ice cream,pastry,specialty chocolate,rubbing alcohol",5,2490,15,Sameh,35,Hurghada,Cash
+bottled water,1,1565,15,Sameh,35,Hurghada,Cash
+"whole milk,rolls/buns,syrup",3,1641,9,Maged,60,Hurghada,Credit
+"butter,napkins",2,375,9,Maged,60,Hurghada,Credit
+"citrus fruit,berries,yogurt,bottled water,soda,fruit/vegetable juice,chocolate,specialty bar,shopping bags",9,1861,9,Maged,60,Hurghada,Cash
+"sausage,pork,sliced cheese,frozen potato products,white bread,soda,waffles",7,529,9,Maged,60,Hurghada,Cash
+candy,1,1551,9,Maged,60,Hurghada,Cash
+"whole milk,coffee,cooking chocolate,newspapers",4,947,15,Sameh,35,Hurghada,Cash
+"root vegetables,brown bread,mustard,cat food,canned beer",5,2319,9,Maged,60,Hurghada,Credit
+whole milk,1,1781,15,Sameh,35,Hurghada,Cash
+"tropical fruit,other vegetables,whole milk,brown bread,margarine,sauces,sweet spreads,waffles",8,2489,9,Maged,60,Hurghada,Cash
+"curd,coffee,bottled beer",3,1479,15,Sameh,35,Hurghada,Cash
+"other vegetables,whole milk,mustard,prosecco,specialty chocolate,female sanitary products",6,184,9,Maged,60,Hurghada,Cash
+bottled water,1,946,9,Maged,60,Hurghada,Credit
+"whole milk,dessert,butter milk,yogurt,pastry,margarine,bottled water,soda",8,666,15,Sameh,35,Hurghada,Credit
+specialty bar,1,450,9,Maged,60,Hurghada,Credit
+"pork,tropical fruit,yogurt,frozen vegetables,rolls/buns,margarine,spices",7,1830,15,Sameh,35,Hurghada,Credit
+"whole milk,white bread",2,229,9,Maged,60,Hurghada,Cash
+"whole milk,bottled water,soda,chewing gum",4,251,15,Sameh,35,Hurghada,Cash
+"ice cream,sparkling wine",2,1058,15,Sameh,35,Hurghada,Credit
+"ham,citrus fruit,tropical fruit,pip fruit,processed cheese,white bread,shopping bags",7,1597,15,Sameh,35,Hurghada,Credit
+"sausage,hamburger meat,pip fruit,root vegetables,whole milk,chocolate",6,2363,15,Sameh,35,Hurghada,Credit
+other vegetables,1,567,9,Maged,60,Hurghada,Cash
+"hygiene articles,photo/film",2,354,9,Maged,60,Hurghada,Credit
+salty snack,1,1805,9,Maged,60,Hurghada,Cash
+"dessert,spread cheese,rolls/buns,brown bread,soda,canned beer,newspapers",7,2406,9,Maged,60,Hurghada,Credit
+white wine,1,2427,15,Sameh,35,Hurghada,Credit
+"liver loaf,tropical fruit,other vegetables",3,1266,15,Sameh,35,Hurghada,Credit
+"finished products,beef,pip fruit,root vegetables,bottled water,shopping bags",6,369,15,Sameh,35,Hurghada,Cash
+soda,1,1307,15,Sameh,35,Hurghada,Credit
+"sausage,whole milk,yogurt,whipped/sour cream,pastry,fruit/vegetable juice,candy",7,2361,15,Sameh,35,Hurghada,Cash
+nut snack,1,426,15,Sameh,35,Hurghada,Cash
+bottled beer,1,1693,9,Maged,60,Hurghada,Credit
+"pork,soda,fruit/vegetable juice,bottled beer,liquor",5,905,9,Maged,60,Hurghada,Cash
+waffles,1,1437,15,Sameh,35,Hurghada,Cash
+"beverages,rolls/buns,soda,seasonal products",4,450,9,Maged,60,Hurghada,Credit
+UHT-milk,1,1918,15,Sameh,35,Hurghada,Cash
+"citrus fruit,other vegetables,whole milk,butter,oil,detergent",6,1236,15,Sameh,35,Hurghada,Cash
+"fish,specialty chocolate",2,1057,9,Maged,60,Hurghada,Cash
+"tropical fruit,whole milk,butter,syrup",4,1416,15,Sameh,35,Hurghada,Cash
+"fish,frozen meals,domestic eggs,bottled beer,liquor (appetizer),dishes,newspapers",7,280,15,Sameh,35,Hurghada,Credit
+"berries,oil,bottled water,cake bar,house keeping products,shopping bags",6,1634,15,Sameh,35,Hurghada,Cash
+"salt,margarine,canned beer",3,1830,15,Sameh,35,Hurghada,Credit
+"yogurt,beverages,soda,shopping bags",4,154,9,Maged,60,Hurghada,Cash
+yogurt,1,1339,15,Sameh,35,Hurghada,Credit
+"citrus fruit,tropical fruit,pip fruit,condensed milk,frozen meals,meat spreads,canned fish,coffee,canned beer,salty snack,cling film/bags,kitchen towels,shopping bags",13,1937,15,Sameh,35,Hurghada,Credit
+"tropical fruit,yogurt,UHT-milk,cream cheese ,processed cheese,white bread,sugar",7,2088,9,Maged,60,Hurghada,Cash
+"bottled beer,prosecco",2,1210,15,Sameh,35,Hurghada,Credit
+"chicken,tropical fruit,domestic eggs,white wine",4,279,9,Maged,60,Hurghada,Cash
+canned beer,1,1499,15,Sameh,35,Hurghada,Cash
+"frankfurter,other vegetables,rolls/buns,white bread,soda,white wine,chocolate,detergent",8,1361,15,Sameh,35,Hurghada,Cash
+"sausage,pip fruit,curd,soda,canned beer,cake bar,shopping bags",7,172,15,Sameh,35,Hurghada,Credit
+chocolate marshmallow,1,569,9,Maged,60,Hurghada,Cash
+"tropical fruit,whole milk,domestic eggs,red/blush wine,house keeping products",5,354,9,Maged,60,Hurghada,Credit
+"butter,dessert,yogurt,rolls/buns,margarine,chewing gum",6,2053,9,Maged,60,Hurghada,Credit
+"chicken,tropical fruit,pip fruit,other vegetables",4,402,9,Maged,60,Hurghada,Credit
+"sausage,rolls/buns,bottled water,soda,newspapers,shopping bags",6,2148,15,Sameh,35,Hurghada,Credit
+soda,1,2444,15,Sameh,35,Hurghada,Cash
+soda,1,2306,15,Sameh,35,Hurghada,Cash
+beverages,1,1678,15,Sameh,35,Hurghada,Credit
+whipped/sour cream,1,100,9,Maged,60,Hurghada,Credit
+"ice cream,soda",2,714,9,Maged,60,Hurghada,Credit
+"frankfurter,ham,tropical fruit,pip fruit,grapes,other vegetables,whole milk,yogurt,sliced cheese,frozen meals,frozen fish,brown bread",12,2017,15,Sameh,35,Hurghada,Credit
+"chicken,pork,margarine,specialty fat,bottled beer",5,2390,9,Maged,60,Hurghada,Cash
+ice cream,1,122,15,Sameh,35,Hurghada,Cash
+"misc. beverages,dishes",2,1912,15,Sameh,35,Hurghada,Credit
+"meat,pork,butter,brown bread,specialty chocolate,kitchen towels",6,1597,15,Sameh,35,Hurghada,Credit
+"frankfurter,tropical fruit,other vegetables,dessert,UHT-milk,cream cheese ,brown bread,pastry,hygiene articles",9,1814,9,Maged,60,Hurghada,Cash
+"whipped/sour cream,frozen vegetables",2,823,9,Maged,60,Hurghada,Credit
+"sausage,newspapers",2,1063,15,Sameh,35,Hurghada,Credit
+"pork,processed cheese,canned beer",3,603,9,Maged,60,Hurghada,Credit
+"whole milk,processed cheese,soda,cake bar,chocolate,specialty bar,shopping bags",7,2166,9,Maged,60,Hurghada,Cash
+"beef,whole milk,curd,white bread,napkins",5,1970,15,Sameh,35,Hurghada,Cash
+bottled beer,1,1364,15,Sameh,35,Hurghada,Cash
+"whole milk,brown bread",2,909,9,Maged,60,Hurghada,Credit
+"butter milk,brown bread",2,1289,15,Sameh,35,Hurghada,Cash
+"herbs,whole milk,curd,cat food,soda",5,1028,15,Sameh,35,Hurghada,Cash
+"curd,cream cheese ,frozen fruits,margarine,cocoa drinks,soda",6,2044,15,Sameh,35,Hurghada,Cash
+"butter,spread cheese,ice cream,rolls/buns,soda,long life bakery product,chocolate,chocolate marshmallow",8,1362,15,Sameh,35,Hurghada,Cash
+"whole milk,rolls/buns,canned beer,chewing gum",4,589,15,Sameh,35,Hurghada,Cash
+"sausage,meat,berries,onions,other vegetables,soft cheese,hard cheese,cream cheese ,mayonnaise,frozen meals,domestic eggs,rolls/buns,mustard,canned fish,shopping bags",15,1559,9,Maged,60,Hurghada,Cash
+"butter,yogurt",2,972,9,Maged,60,Hurghada,Credit
+"pip fruit,misc. beverages,chewing gum,specialty chocolate,shopping bags",5,1012,15,Sameh,35,Hurghada,Credit
+"frankfurter,beef,whole milk",3,1844,9,Maged,60,Hurghada,Credit
+canned beer,1,2057,15,Sameh,35,Hurghada,Credit
+"UHT-milk,soda,detergent",3,1465,9,Maged,60,Hurghada,Cash
+dessert,1,2293,9,Maged,60,Hurghada,Cash
+"pip fruit,rolls/buns,snack products",3,991,9,Maged,60,Hurghada,Credit
+"other vegetables,whole milk,butter milk,margarine",4,496,15,Sameh,35,Hurghada,Cash
+"sausage,pip fruit,root vegetables,whole milk,spread cheese,rolls/buns,margarine,bottled water",8,888,15,Sameh,35,Hurghada,Cash
+"pip fruit,soda",2,1436,15,Sameh,35,Hurghada,Cash
+"meat,pork,soft cheese,oil,margarine,seasonal products",6,2254,9,Maged,60,Hurghada,Credit
+"other vegetables,whole milk,mayonnaise,frozen potato products,pastry,margarine,baking powder",7,115,15,Sameh,35,Hurghada,Credit
+misc. beverages,1,1722,9,Maged,60,Hurghada,Cash
+"fruit/vegetable juice,pot plants",2,1084,15,Sameh,35,Hurghada,Credit
+"rolls/buns,margarine,bottled water,rum,red/blush wine,long life bakery product,waffles,chocolate",8,2000,9,Maged,60,Hurghada,Cash
+canned beer,1,905,15,Sameh,35,Hurghada,Cash
+"sausage,pork,hard cheese,rolls/buns,pickled vegetables,dish cleaner",6,2119,9,Maged,60,Hurghada,Credit
+candy,1,863,15,Sameh,35,Hurghada,Cash
+"other vegetables,whole milk,rolls/buns,skin care,dishes,flower (seeds)",6,862,15,Sameh,35,Hurghada,Cash
+"other vegetables,packaged fruit/vegetables,brown bread,pastry,light bulbs,newspapers",6,1871,15,Sameh,35,Hurghada,Credit
+"sausage,chicken,other vegetables,whole milk,whipped/sour cream,domestic eggs,rolls/buns,house keeping products",8,2388,15,Sameh,35,Hurghada,Credit
+"root vegetables,whole milk,hard cheese,sauces,bottled water,fruit/vegetable juice",6,2310,15,Sameh,35,Hurghada,Credit
+"tropical fruit,butter milk,beverages,bottled water,fruit/vegetable juice,salty snack,chewing gum,napkins,newspapers,shopping bags",10,1008,9,Maged,60,Hurghada,Credit
+"whole milk,yogurt,brown bread,chocolate,newspapers",5,929,15,Sameh,35,Hurghada,Cash
+"other vegetables,white bread,pickled vegetables,soda,shopping bags",5,1319,15,Sameh,35,Hurghada,Credit
+"citrus fruit,pip fruit,other vegetables,whole milk,frozen vegetables,bottled water",6,1179,9,Maged,60,Hurghada,Cash
+"frankfurter,whole milk,yogurt,frozen vegetables,coffee,bottled water,bottled beer",7,1785,15,Sameh,35,Hurghada,Credit
+"ham,beef,tropical fruit,cat food",4,349,15,Sameh,35,Hurghada,Cash
+rolls/buns,1,1631,15,Sameh,35,Hurghada,Credit
+"citrus fruit,other vegetables",2,1291,9,Maged,60,Hurghada,Credit
+"yogurt,beverages,domestic eggs,rolls/buns,pastry,soda,long life bakery product,chocolate,chocolate marshmallow,napkins",10,499,15,Sameh,35,Hurghada,Cash
+"frankfurter,chicken,pork,tropical fruit,pip fruit,yogurt,whipped/sour cream,frozen vegetables,semi-finished bread,zwieback,flour,vinegar,margarine,pickled vegetables,bottled water,soda,waffles,chocolate,chocolate marshmallow,detergent,napkins",21,944,15,Sameh,35,Hurghada,Credit
+beef,1,491,9,Maged,60,Hurghada,Credit
+"rolls/buns,fruit/vegetable juice",2,2362,15,Sameh,35,Hurghada,Credit
+"sausage,sliced cheese,canned beer",3,463,15,Sameh,35,Hurghada,Cash
+whole milk,1,438,15,Sameh,35,Hurghada,Cash
+pork,1,2449,15,Sameh,35,Hurghada,Credit
+"whole milk,butter,coffee,bottled water,seasonal products,candles",6,1971,15,Sameh,35,Hurghada,Credit
+"other vegetables,whole milk,yogurt,rolls/buns,female sanitary products,hygiene articles",6,1647,15,Sameh,35,Hurghada,Cash
+"pork,semi-finished bread,soda",3,812,9,Maged,60,Hurghada,Credit
+"other vegetables,whole milk,curd,whipped/sour cream,frozen vegetables,roll products ,semi-finished bread,salty snack,seasonal products",9,1418,9,Maged,60,Hurghada,Cash
+"sausage,tropical fruit,whole milk,whipped/sour cream,specialty cheese,soda,skin care",7,2346,9,Maged,60,Hurghada,Credit
+"frankfurter,rolls/buns,bottled water",3,731,9,Maged,60,Hurghada,Cash
+"meat,pip fruit,other vegetables,brown bread,roll products ,soda",6,466,15,Sameh,35,Hurghada,Credit
+canned beer,1,1067,9,Maged,60,Hurghada,Credit
+whole milk,1,1137,15,Sameh,35,Hurghada,Credit
+"citrus fruit,root vegetables,other vegetables,whole milk,margarine,specialty fat,hygiene articles",7,1795,15,Sameh,35,Hurghada,Credit
+"pork,beef,other vegetables,whipped/sour cream,waffles,chewing gum",6,674,15,Sameh,35,Hurghada,Credit
+"whole milk,whipped/sour cream,domestic eggs,white bread,photo/film",5,1143,15,Sameh,35,Hurghada,Credit
+"pork,soda",2,1468,15,Sameh,35,Hurghada,Cash
+"frankfurter,sausage,chicken,citrus fruit,root vegetables,other vegetables,frozen vegetables,rice,newspapers",9,2238,15,Sameh,35,Hurghada,Cash
+"citrus fruit,root vegetables,whole milk,yogurt,whipped/sour cream,condensed milk,rolls/buns,flour,long life bakery product",9,1811,9,Maged,60,Hurghada,Cash
+"whole milk,white bread,flour,sugar,pot plants",5,2161,9,Maged,60,Hurghada,Credit
+"processed cheese,rolls/buns,soda,flower (seeds)",4,183,9,Maged,60,Hurghada,Credit
+"turkey,beef,semi-finished bread",3,1576,9,Maged,60,Hurghada,Credit
+"hard cheese,salt,canned vegetables",3,1166,15,Sameh,35,Hurghada,Credit
+"frankfurter,pip fruit,hard cheese,bottled water,chocolate",5,979,9,Maged,60,Hurghada,Cash
+"chicken,turkey,citrus fruit,tropical fruit,berries,onions,whole milk,yogurt,whipped/sour cream,rolls/buns,pastry,margarine,cat food,soda,kitchen utensil,pot plants",16,1233,9,Maged,60,Hurghada,Credit
+"ham,tropical fruit,butter,cream cheese ,domestic eggs,white bread,pastry,tea,fruit/vegetable juice,chocolate,shopping bags",11,636,15,Sameh,35,Hurghada,Credit
+"tropical fruit,rolls/buns,chocolate,chocolate marshmallow,newspapers",5,919,9,Maged,60,Hurghada,Credit
+"pork,onions,other vegetables,butter,dessert,beverages,UHT-milk,specialty cheese,frozen vegetables,rolls/buns,coffee,shopping bags",12,1623,15,Sameh,35,Hurghada,Cash
+"citrus fruit,soda,misc. beverages",3,1090,15,Sameh,35,Hurghada,Credit
+"waffles,newspapers",2,659,9,Maged,60,Hurghada,Credit
+"whole milk,frozen vegetables,pastry,cleaner",4,2439,9,Maged,60,Hurghada,Cash
+"domestic eggs,pastry,hygiene articles",3,126,9,Maged,60,Hurghada,Credit
+"sausage,root vegetables,packaged fruit/vegetables,yogurt,frozen potato products,brown bread,soda,candy",8,699,9,Maged,60,Hurghada,Credit
+"whole milk,pastry",2,2234,15,Sameh,35,Hurghada,Credit
+"citrus fruit,other vegetables,packaged fruit/vegetables,yogurt,margarine,sugar,artif. sweetener,baking powder,candles",9,1882,9,Maged,60,Hurghada,Credit
+"hamburger meat,whole milk,coffee",3,2479,15,Sameh,35,Hurghada,Credit
+"finished products,beef,citrus fruit,yogurt,frozen potato products,pastry,soups,coffee,candy",9,136,9,Maged,60,Hurghada,Credit
+"sausage,pip fruit,processed cheese,frozen meals,pastry,semi-finished bread,dog food,syrup",8,1190,9,Maged,60,Hurghada,Cash
+"other vegetables,chocolate marshmallow",2,703,9,Maged,60,Hurghada,Cash
+"tropical fruit,yogurt,beverages,UHT-milk,fruit/vegetable juice,hygiene articles",6,1782,15,Sameh,35,Hurghada,Cash
+"hamburger meat,citrus fruit,tropical fruit,whole milk,yogurt,brown bread,napkins,shopping bags",8,1970,9,Maged,60,Hurghada,Cash
+"meat,tropical fruit,other vegetables,candy",4,1671,9,Maged,60,Hurghada,Cash
+whipped/sour cream,1,879,9,Maged,60,Hurghada,Cash
+"whole milk,bottled water",2,572,9,Maged,60,Hurghada,Credit
+"ham,UHT-milk",2,1663,15,Sameh,35,Hurghada,Credit
+"whole milk,yogurt",2,1877,9,Maged,60,Hurghada,Cash
+"ice cream,canned beer",2,1743,15,Sameh,35,Hurghada,Credit
+"hamburger meat,citrus fruit,whole milk,butter,yogurt,cat food,hygiene articles,shopping bags",8,851,15,Sameh,35,Hurghada,Credit
+"root vegetables,herbs,other vegetables,candy,seasonal products,shopping bags",6,2280,9,Maged,60,Hurghada,Credit
+"berries,yogurt,misc. beverages,canned beer,liquor,cake bar",6,818,9,Maged,60,Hurghada,Cash
+"frankfurter,other vegetables,whole milk,coffee,hygiene articles",5,1100,9,Maged,60,Hurghada,Cash
+"semi-finished bread,long life bakery product,waffles,detergent,newspapers,shopping bags",6,1469,9,Maged,60,Hurghada,Cash
+"bottled beer,liquor",2,1111,15,Sameh,35,Hurghada,Credit
+"ham,yogurt,cling film/bags",3,219,9,Maged,60,Hurghada,Cash
+"frankfurter,rolls/buns,chocolate",3,1716,15,Sameh,35,Hurghada,Cash
+bottled beer,1,1607,15,Sameh,35,Hurghada,Cash
+sausage,1,2226,15,Sameh,35,Hurghada,Credit
+"other vegetables,whole milk,hard cheese,long life bakery product,cooking chocolate,hygiene articles",6,1570,9,Maged,60,Hurghada,Credit
+"root vegetables,whole milk,curd",3,1952,15,Sameh,35,Hurghada,Cash
+"coffee,soda,canned beer",3,1634,9,Maged,60,Hurghada,Cash
+long life bakery product,1,127,9,Maged,60,Hurghada,Credit
+"root vegetables,whole milk,yogurt,brown bread,pastry,specialty chocolate,candy",7,102,15,Sameh,35,Hurghada,Cash
+"curd,flour,canned beer",3,1276,15,Sameh,35,Hurghada,Cash
+"berries,whipped/sour cream,coffee,bottled water,soda,white wine,salty snack,hygiene articles",8,273,9,Maged,60,Hurghada,Credit
+frozen fish,1,129,15,Sameh,35,Hurghada,Cash
+"sausage,hamburger meat,tropical fruit,pip fruit,other vegetables,sliced cheese,hard cheese,frozen fish,rolls/buns,brown bread,pastry,sauces,organic products,canned fruit,popcorn,dental care,napkins,kitchen towels",18,1488,9,Maged,60,Hurghada,Credit
+"pork,hamburger meat,citrus fruit,butter,yogurt,whipped/sour cream,hard cheese,frozen vegetables,white bread,Instant food products,fruit/vegetable juice,salty snack,candy,shopping bags",14,2336,9,Maged,60,Hurghada,Credit
+"sausage,citrus fruit,tropical fruit,curd,dessert,processed cheese,margarine,soda,canned beer,napkins",10,1714,15,Sameh,35,Hurghada,Cash
+"tropical fruit,onions,other vegetables,whole milk,butter milk,pickled vegetables,kitchen towels",7,256,9,Maged,60,Hurghada,Credit
+"dessert,canned beer",2,1866,15,Sameh,35,Hurghada,Credit
+"pip fruit,yogurt,pastry,baking powder,long life bakery product",5,470,9,Maged,60,Hurghada,Cash
+"dessert,bottled beer,candy",3,1133,15,Sameh,35,Hurghada,Credit
+"beverages,cat food,dish cleaner,napkins,shopping bags",5,1843,9,Maged,60,Hurghada,Cash
+"whole milk,brown bread,soda",3,988,15,Sameh,35,Hurghada,Cash
+"pip fruit,other vegetables,frozen meals",3,339,15,Sameh,35,Hurghada,Cash
+bottled water,1,1909,15,Sameh,35,Hurghada,Credit
+soda,1,2159,15,Sameh,35,Hurghada,Credit
+"soda,specialty bar",2,2301,9,Maged,60,Hurghada,Cash
+rolls/buns,1,1498,15,Sameh,35,Hurghada,Credit
+bottled beer,1,264,15,Sameh,35,Hurghada,Credit
+"citrus fruit,whole milk,yogurt,domestic eggs,chewing gum",5,2198,15,Sameh,35,Hurghada,Credit
+"beef,tropical fruit,whole milk,beverages,frozen vegetables",5,1526,15,Sameh,35,Hurghada,Cash
+whole milk,1,2387,15,Sameh,35,Hurghada,Cash
+"sausage,pork,other vegetables,whole milk,coffee",5,1262,15,Sameh,35,Hurghada,Cash
+"chicken,bottled water",2,2418,9,Maged,60,Hurghada,Credit
+"UHT-milk,hygiene articles,napkins,cling film/bags",4,1995,15,Sameh,35,Hurghada,Credit
+"whole milk,newspapers",2,665,15,Sameh,35,Hurghada,Cash
+"soda,napkins",2,2461,9,Maged,60,Hurghada,Cash
+"pork,berries,sugar,candy,dishes",5,1416,9,Maged,60,Hurghada,Credit
+"beef,other vegetables,whole milk,yogurt",4,114,9,Maged,60,Hurghada,Cash
+"butter milk,whipped/sour cream,dog food,coffee,soda,abrasive cleaner,newspapers",7,1320,15,Sameh,35,Hurghada,Cash
+frankfurter,1,2232,9,Maged,60,Hurghada,Cash
+"sausage,pork,tropical fruit,other vegetables,yogurt,frozen vegetables,rolls/buns,bottled water",8,825,9,Maged,60,Hurghada,Cash
+whole milk,1,2036,9,Maged,60,Hurghada,Credit
+"root vegetables,packaged fruit/vegetables,pastry",3,2332,15,Sameh,35,Hurghada,Cash
+"rolls/buns,soda",2,1543,15,Sameh,35,Hurghada,Cash
+"hamburger meat,tropical fruit,pip fruit,grapes,berries,packaged fruit/vegetables,whipped/sour cream,coffee,cake bar,shopping bags",10,570,15,Sameh,35,Hurghada,Cash
+misc. beverages,1,744,9,Maged,60,Hurghada,Cash
+"sausage,beef,pip fruit,whole milk,cream cheese ,white bread,brown bread,seasonal products,hygiene articles",9,518,15,Sameh,35,Hurghada,Credit
+"citrus fruit,tropical fruit,butter milk,yogurt,rolls/buns",5,1864,15,Sameh,35,Hurghada,Cash
+"citrus fruit,whole milk,domestic eggs,pastry,salt,oil,sugar,cocoa drinks",8,964,9,Maged,60,Hurghada,Cash
+"soda,soap",2,589,9,Maged,60,Hurghada,Credit
+photo/film,1,199,15,Sameh,35,Hurghada,Credit
+seasonal products,1,375,15,Sameh,35,Hurghada,Credit
+shopping bags,1,357,9,Maged,60,Hurghada,Cash
+"salty snack,specialty bar,napkins,newspapers",4,868,9,Maged,60,Hurghada,Credit
+"rolls/buns,canned beer,shopping bags",3,1562,15,Sameh,35,Hurghada,Cash
+"hamburger meat,other vegetables,rolls/buns,instant coffee,hygiene articles",5,909,15,Sameh,35,Hurghada,Credit
+fruit/vegetable juice,1,1457,15,Sameh,35,Hurghada,Cash
+soda,1,200,15,Sameh,35,Hurghada,Credit
+salt,1,2103,9,Maged,60,Hurghada,Credit
+"whole milk,whipped/sour cream,pot plants",3,1844,9,Maged,60,Hurghada,Cash
+bottled beer,1,1087,9,Maged,60,Hurghada,Credit
+cleaner,1,2303,15,Sameh,35,Hurghada,Credit
+"other vegetables,whole milk,pastry,margarine,coffee,shopping bags",6,895,9,Maged,60,Hurghada,Cash
+"pork,butter,soda,hygiene articles",4,1764,15,Sameh,35,Hurghada,Cash
+"rolls/buns,bottled water,bottled beer",3,621,9,Maged,60,Hurghada,Credit
+"tropical fruit,other vegetables,whole milk,dessert,white bread,bottled water,misc. beverages,cake bar",8,985,9,Maged,60,Hurghada,Credit
+"whole milk,beverages",2,2229,9,Maged,60,Hurghada,Credit
+zwieback,1,1450,9,Maged,60,Hurghada,Cash
+"sausage,chicken,tropical fruit,grapes,berries,ice cream,misc. beverages",7,851,15,Sameh,35,Hurghada,Credit
+coffee,1,435,9,Maged,60,Hurghada,Cash
+"beef,berries,yogurt,semi-finished bread,pasta,bottled water,misc. beverages,hygiene articles",8,210,9,Maged,60,Hurghada,Cash
+"canned vegetables,bottled beer",2,156,9,Maged,60,Hurghada,Credit
+"pork,beef,citrus fruit,root vegetables,herbs,other vegetables,roll products ,bottled water,bottled beer,specialty chocolate",10,1722,15,Sameh,35,Hurghada,Cash
+beverages,1,1393,9,Maged,60,Hurghada,Credit
+"soda,cake bar,candy",3,1022,9,Maged,60,Hurghada,Cash
+"whole milk,frozen vegetables",2,291,15,Sameh,35,Hurghada,Cash
+rolls/buns,1,1520,15,Sameh,35,Hurghada,Cash
+"frankfurter,ham,dessert,yogurt,processed cheese,white bread,pastry,soda",8,1987,15,Sameh,35,Hurghada,Cash
+"sausage,yogurt,white wine",3,147,9,Maged,60,Hurghada,Cash
+"beef,root vegetables,hygiene articles",3,1960,15,Sameh,35,Hurghada,Credit
+"tropical fruit,seasonal products",2,1726,9,Maged,60,Hurghada,Cash
+"canned beer,chocolate,pot plants",3,1435,9,Maged,60,Hurghada,Cash
+"sausage,other vegetables,brown bread",3,1988,9,Maged,60,Hurghada,Cash
+"frankfurter,tropical fruit",2,2019,15,Sameh,35,Hurghada,Credit
+"whole milk,dessert,ice cream,misc. beverages,canned beer,cake bar",6,1342,15,Sameh,35,Hurghada,Credit
+"pip fruit,dessert,butter milk,yogurt,whipped/sour cream,frozen vegetables,rolls/buns",7,1926,9,Maged,60,Hurghada,Cash
+newspapers,1,729,9,Maged,60,Hurghada,Cash
+brown bread,1,1002,9,Maged,60,Hurghada,Credit
+"sausage,other vegetables,rolls/buns,brown bread,margarine,sugar,bottled water,canned beer,shopping bags",9,1327,15,Sameh,35,Hurghada,Cash
+"frankfurter,yogurt,margarine,bottled water",4,2432,9,Maged,60,Hurghada,Cash
+"whole milk,beverages,bottled beer",3,1952,9,Maged,60,Hurghada,Credit
+"finished products,pet care,soda",3,554,15,Sameh,35,Hurghada,Credit
+liquor,1,134,9,Maged,60,Hurghada,Credit
+"citrus fruit,whole milk,pot plants",3,1552,9,Maged,60,Hurghada,Cash
+"whole milk,yogurt,rolls/buns,soups,coffee",5,563,9,Maged,60,Hurghada,Cash
+"berries,whole milk,hard cheese,processed cheese,domestic eggs,rolls/buns,white bread,margarine,sugar,waffles",10,1311,15,Sameh,35,Hurghada,Credit
+"sausage,citrus fruit,tropical fruit,root vegetables,other vegetables,whole milk,yogurt,whipped/sour cream,processed cheese,rolls/buns,pastry,coffee,cake bar,newspapers",14,204,15,Sameh,35,Hurghada,Cash
+"beef,citrus fruit,root vegetables,whole milk,domestic eggs,rubbing alcohol",6,1927,15,Sameh,35,Hurghada,Cash
+"beef,rolls/buns,dog food,soda",4,2307,15,Sameh,35,Hurghada,Cash
+"pork,other vegetables,rolls/buns",3,1382,9,Maged,60,Hurghada,Credit
+"butter,frozen vegetables,margarine,cake bar",4,1740,9,Maged,60,Hurghada,Cash
+"other vegetables,butter,sliced cheese,cream cheese ,rolls/buns,margarine,soda,misc. beverages",8,967,9,Maged,60,Hurghada,Cash
+"pork,beef,root vegetables,other vegetables,whole milk,domestic eggs,rice,sugar,fruit/vegetable juice,bottled beer,abrasive cleaner,soap,newspapers",13,2453,9,Maged,60,Hurghada,Credit
+"coffee,bottled water,cling film/bags",3,122,9,Maged,60,Hurghada,Credit
+"pip fruit,UHT-milk,white bread,brown bread,margarine,softener,napkins",7,456,15,Sameh,35,Hurghada,Credit
+canned beer,1,2327,9,Maged,60,Hurghada,Cash
+"ham,beef,citrus fruit,tropical fruit,root vegetables,other vegetables,whole milk,butter milk,domestic eggs,rolls/buns,pastry,mustard,pickled vegetables,soda,long life bakery product,chocolate,specialty chocolate,specialty bar,chocolate marshmallow,candy,napkins,cookware,newspapers",23,691,15,Sameh,35,Hurghada,Cash
+"pork,other vegetables",2,482,9,Maged,60,Hurghada,Credit
+"beef,tropical fruit,root vegetables,other vegetables,curd,rolls/buns,tea,bottled water,hygiene articles,flower (seeds)",10,2475,9,Maged,60,Hurghada,Credit
+"turkey,citrus fruit,tropical fruit,root vegetables,herbs,other vegetables,whole milk,curd,hard cheese,cream cheese ,domestic eggs,brown bread,oil,canned fruit,bottled water,misc. beverages,fruit/vegetable juice",17,1717,9,Maged,60,Hurghada,Credit
+napkins,1,636,9,Maged,60,Hurghada,Credit
+"turkey,packaged fruit/vegetables,butter milk,UHT-milk,rolls/buns,zwieback,bottled water,fruit/vegetable juice",8,574,9,Maged,60,Hurghada,Credit
+liver loaf,1,2048,15,Sameh,35,Hurghada,Cash
+"ice cream,dishes",2,2382,15,Sameh,35,Hurghada,Cash
+"pork,beef,butter,whipped/sour cream,frozen meals,frozen fish,rolls/buns,pastry,canned fish,cat food,waffles,chocolate,shopping bags",13,1967,9,Maged,60,Hurghada,Cash
+liqueur,1,835,9,Maged,60,Hurghada,Credit
+soda,1,909,9,Maged,60,Hurghada,Cash
+shopping bags,1,1868,15,Sameh,35,Hurghada,Credit
+"frozen potato products,seasonal products",2,442,9,Maged,60,Hurghada,Cash
+"curd,beverages,pastry,pot plants",4,896,9,Maged,60,Hurghada,Cash
+"whole milk,misc. beverages,salty snack,long life bakery product,shopping bags",5,2029,9,Maged,60,Hurghada,Credit
+"other vegetables,whole milk,dessert,butter milk,yogurt,cream cheese ,pickled vegetables",7,718,9,Maged,60,Hurghada,Credit
+"onions,whole milk,curd,soda",4,1819,15,Sameh,35,Hurghada,Cash
+"soda,fruit/vegetable juice,bottled beer",3,1849,9,Maged,60,Hurghada,Cash
+"frozen dessert,softener",2,1804,15,Sameh,35,Hurghada,Cash
+whipped/sour cream,1,2169,15,Sameh,35,Hurghada,Cash
+"pip fruit,canned beer",2,1187,9,Maged,60,Hurghada,Credit
+detergent,1,932,15,Sameh,35,Hurghada,Credit
+"tropical fruit,yogurt,spread cheese,brown bread",4,1667,15,Sameh,35,Hurghada,Credit
+"yogurt,soda,fruit/vegetable juice",3,802,15,Sameh,35,Hurghada,Cash
+"packaged fruit/vegetables,fruit/vegetable juice,salty snack",3,1996,15,Sameh,35,Hurghada,Credit
+"frozen meals,frozen fish,frozen dessert,pastry,canned beer,long life bakery product,waffles,napkins,shopping bags",9,375,9,Maged,60,Hurghada,Credit
+"white bread,flour,fruit/vegetable juice,hygiene articles",4,2466,15,Sameh,35,Hurghada,Cash
+"sausage,tropical fruit,whole milk,soft cheese,brown bread,fruit/vegetable juice",6,174,15,Sameh,35,Hurghada,Credit
+"tropical fruit,root vegetables,whole milk,condensed milk,rolls/buns,bottled beer,waffles",7,124,9,Maged,60,Hurghada,Credit
+rolls/buns,1,1334,9,Maged,60,Hurghada,Credit
+"chicken,root vegetables,curd,specialty bar,newspapers",5,1871,9,Maged,60,Hurghada,Cash
+whole milk,1,1900,9,Maged,60,Hurghada,Cash
+"citrus fruit,root vegetables,whole milk,butter milk,yogurt,baking powder,bottled water",7,1870,9,Maged,60,Hurghada,Cash
+"sausage,sliced cheese,rolls/buns,soda",4,1624,15,Sameh,35,Hurghada,Credit
+"tropical fruit,yogurt,coffee,cling film/bags,newspapers",5,1036,15,Sameh,35,Hurghada,Credit
+"meat,root vegetables,pastry",3,121,15,Sameh,35,Hurghada,Cash
+"pork,citrus fruit,whole milk,curd,yogurt,bottled beer,dishes",7,154,15,Sameh,35,Hurghada,Cash
+"pork,beverages",2,1802,15,Sameh,35,Hurghada,Credit
+"root vegetables,frozen vegetables",2,1460,15,Sameh,35,Hurghada,Cash
+"root vegetables,other vegetables,whole milk,yogurt,hard cheese,frozen vegetables,rolls/buns",7,1189,15,Sameh,35,Hurghada,Credit
+bottled beer,1,2128,15,Sameh,35,Hurghada,Cash
+bottled beer,1,1374,15,Sameh,35,Hurghada,Cash
+"frankfurter,rolls/buns",2,1629,9,Maged,60,Hurghada,Credit
+"pork,canned beer,seasonal products",3,1762,9,Maged,60,Hurghada,Credit
+chicken,1,1647,15,Sameh,35,Hurghada,Cash
+"sausage,tropical fruit,rolls/buns,pastry",4,2056,15,Sameh,35,Hurghada,Credit
+"pip fruit,whole milk,rolls/buns,ketchup,spices,chocolate",6,1897,15,Sameh,35,Hurghada,Cash
+"canned beer,red/blush wine",2,437,15,Sameh,35,Hurghada,Credit
+canned beer,1,985,9,Maged,60,Hurghada,Cash
+"bottled water,soda,bottled beer",3,2019,9,Maged,60,Hurghada,Credit
+"citrus fruit,butter,sliced cheese,domestic eggs",4,952,15,Sameh,35,Hurghada,Cash
+"onions,other vegetables,whole milk,yogurt,frozen vegetables,bottled water,fruit/vegetable juice,bottled beer,salty snack,popcorn",10,1116,15,Sameh,35,Hurghada,Credit
+"tropical fruit,whole milk,bottled water,soda",4,521,15,Sameh,35,Hurghada,Credit
+"tropical fruit,rolls/buns,canned fish,specialty chocolate,napkins",5,1609,15,Sameh,35,Hurghada,Cash
+"ham,pork,hard cheese,domestic eggs,rolls/buns,pastry,sugar,salty snack",8,1630,15,Sameh,35,Hurghada,Credit
+"hamburger meat,frozen vegetables",2,487,15,Sameh,35,Hurghada,Cash
+"berries,UHT-milk,semi-finished bread,cat food,cake bar,shopping bags",6,511,9,Maged,60,Hurghada,Cash
+"frankfurter,curd,yogurt,hard cheese,brown bread,canned beer",6,671,15,Sameh,35,Hurghada,Cash
+"dessert,UHT-milk,newspapers,shopping bags",4,2039,15,Sameh,35,Hurghada,Credit
+"whole milk,soda,soap",3,1213,15,Sameh,35,Hurghada,Cash
+"berries,other vegetables,yogurt",3,1546,15,Sameh,35,Hurghada,Cash
+roll products ,1,1820,9,Maged,60,Hurghada,Credit
+"bottled water,soda,bottled beer",3,2009,9,Maged,60,Hurghada,Cash
+"beverages,specialty bar",2,662,9,Maged,60,Hurghada,Cash
+"grapes,root vegetables,onions,whipped/sour cream,rolls/buns,mustard,coffee,bottled water,soda,fruit/vegetable juice,chocolate,shopping bags",12,2143,9,Maged,60,Hurghada,Credit
+whole milk,1,729,15,Sameh,35,Hurghada,Credit
+"hamburger meat,root vegetables,herbs,other vegetables,bottled water,bottled beer,newspapers",7,229,15,Sameh,35,Hurghada,Cash
+"sliced cheese,domestic eggs,coffee,shopping bags",4,2119,15,Sameh,35,Hurghada,Credit
+"frankfurter,whole milk",2,308,9,Maged,60,Hurghada,Cash
+"sausage,beverages,brown bread,pastry",4,1723,15,Sameh,35,Hurghada,Cash
+"pip fruit,other vegetables,whole milk,butter milk,dish cleaner",5,621,15,Sameh,35,Hurghada,Credit
+"tropical fruit,pip fruit,root vegetables,butter,curd,chewing gum,chocolate",7,107,9,Maged,60,Hurghada,Credit
+"soda,syrup",2,1792,15,Sameh,35,Hurghada,Cash
+whipped/sour cream,1,2251,15,Sameh,35,Hurghada,Cash
+"tropical fruit,whole milk,cream cheese ,brown bread",4,2153,15,Sameh,35,Hurghada,Credit
+"grapes,sugar,cling film/bags",3,429,9,Maged,60,Hurghada,Credit
+"curd,yogurt,newspapers",3,965,9,Maged,60,Hurghada,Cash
+tropical fruit,1,1975,15,Sameh,35,Hurghada,Credit
+"tropical fruit,whole milk,rolls/buns",3,542,9,Maged,60,Hurghada,Cash
+"turkey,pip fruit,root vegetables,yogurt,cream cheese ,flour,sugar,napkins,newspapers",9,2361,15,Sameh,35,Hurghada,Credit
+"UHT-milk,soda",2,2135,15,Sameh,35,Hurghada,Credit
+"whole milk,butter,fruit/vegetable juice,candy",4,451,15,Sameh,35,Hurghada,Credit
+"frankfurter,tropical fruit,pip fruit,whole milk,curd,pastry,flour,margarine,sugar,organic products",10,270,15,Sameh,35,Hurghada,Credit
+bottled beer,1,631,15,Sameh,35,Hurghada,Cash
+"frankfurter,sausage,rolls/buns,soda,liquor (appetizer),specialty bar,shopping bags",7,1027,15,Sameh,35,Hurghada,Cash
+"frankfurter,domestic eggs,mustard,seasonal products",4,1241,9,Maged,60,Hurghada,Credit
+"frankfurter,meat,whole milk,butter,yogurt,cream cheese ,rolls/buns,pastry",8,2097,15,Sameh,35,Hurghada,Cash
+"sausage,finished products,pork,berries,root vegetables,packaged fruit/vegetables,whole milk,curd,frozen vegetables,brown bread,sugar,soda,fruit/vegetable juice,chocolate,specialty chocolate,specialty bar,hygiene articles,napkins",18,2094,9,Maged,60,Hurghada,Credit
+newspapers,1,595,15,Sameh,35,Hurghada,Credit
+"ham,hard cheese,pastry,fruit/vegetable juice",4,1729,9,Maged,60,Hurghada,Cash
+soda,1,1880,9,Maged,60,Hurghada,Credit
+"hamburger meat,cream cheese ,sweet spreads,coffee,canned beer,cling film/bags,shopping bags",7,2180,15,Sameh,35,Hurghada,Cash
+"sausage,pork,citrus fruit,root vegetables,other vegetables,curd,soft cheese,hard cheese,cream cheese ,frozen dessert,roll products ,rice,oil,coffee,fruit/vegetable juice,chocolate,abrasive cleaner",17,2495,15,Sameh,35,Hurghada,Credit
+canned beer,1,1913,15,Sameh,35,Hurghada,Cash
+"brown bread,sugar,canned fish,coffee,soda",5,1233,9,Maged,60,Hurghada,Cash
+roll products ,1,1273,9,Maged,60,Hurghada,Credit
+beverages,1,2222,9,Maged,60,Hurghada,Cash
+"other vegetables,butter,bottled water,detergent",4,996,15,Sameh,35,Hurghada,Cash
+bottled beer,1,181,9,Maged,60,Hurghada,Credit
+"citrus fruit,yogurt,soda",3,2257,9,Maged,60,Hurghada,Cash
+"cat food,soda,candy",3,1285,15,Sameh,35,Hurghada,Cash
+"rolls/buns,pastry,candy",3,1050,15,Sameh,35,Hurghada,Credit
+"hamburger meat,frozen meals,red/blush wine",3,153,15,Sameh,35,Hurghada,Cash
+waffles,1,761,15,Sameh,35,Hurghada,Credit
+"chicken,tropical fruit,root vegetables,whole milk,white bread,specialty bar,shopping bags",7,480,9,Maged,60,Hurghada,Credit
+citrus fruit,1,793,9,Maged,60,Hurghada,Credit
+"sausage,whole milk,curd,cat food",4,1011,15,Sameh,35,Hurghada,Credit
+sausage,1,394,9,Maged,60,Hurghada,Cash
+bottled beer,1,645,15,Sameh,35,Hurghada,Cash
+zwieback,1,1067,9,Maged,60,Hurghada,Credit
+"sausage,rolls/buns,fruit/vegetable juice,cake bar",4,525,15,Sameh,35,Hurghada,Cash
+"pip fruit,condensed milk,bottled beer,red/blush wine,chocolate,shopping bags",6,896,15,Sameh,35,Hurghada,Credit
+whole milk,1,2263,15,Sameh,35,Hurghada,Cash
+"tropical fruit,root vegetables,whole milk,hard cheese,curd cheese,sugar,canned fish",7,1269,15,Sameh,35,Hurghada,Credit
+"yogurt,liquor (appetizer),nut snack,long life bakery product,hygiene articles,shopping bags",6,956,15,Sameh,35,Hurghada,Cash
+"onions,other vegetables,soft cheese,hard cheese,salad dressing,specialty chocolate",6,2347,15,Sameh,35,Hurghada,Cash
+"curd,seasonal products,female sanitary products",3,1948,15,Sameh,35,Hurghada,Cash
+"sausage,whole milk,curd,bottled beer",4,2145,15,Sameh,35,Hurghada,Credit
+"sausage,chicken,grapes,whole milk,cream cheese ,ice cream,domestic eggs,pickled vegetables,soda,chocolate,shopping bags",11,741,15,Sameh,35,Hurghada,Credit
+"grapes,brown bread",2,1734,9,Maged,60,Hurghada,Credit
+"other vegetables,butter",2,972,9,Maged,60,Hurghada,Cash
+"other vegetables,canned beer,shopping bags",3,2147,15,Sameh,35,Hurghada,Credit
+"frankfurter,root vegetables,butter milk,canned fish,bottled beer",5,1535,9,Maged,60,Hurghada,Credit
+"canned beer,cookware",2,889,15,Sameh,35,Hurghada,Credit
+"frankfurter,other vegetables",2,130,15,Sameh,35,Hurghada,Credit
+"hamburger meat,root vegetables,other vegetables,dessert,rolls/buns",5,1131,9,Maged,60,Hurghada,Credit
+"sausage,beef,root vegetables,other vegetables,white bread,pastry,soda,shopping bags",8,302,9,Maged,60,Hurghada,Cash
+"rolls/buns,liquor",2,332,9,Maged,60,Hurghada,Cash
+"onions,whole milk,yogurt,rolls/buns,brown bread,fruit/vegetable juice",6,1456,15,Sameh,35,Hurghada,Cash
+"whole milk,yogurt,domestic eggs,baking powder,newspapers",5,2211,15,Sameh,35,Hurghada,Credit
+"beef,herbs,whole milk,pickled vegetables,cat food",5,1081,9,Maged,60,Hurghada,Credit
+"citrus fruit,whole milk,domestic eggs",3,1449,9,Maged,60,Hurghada,Cash
+"beef,hamburger meat,tropical fruit,pip fruit,root vegetables,herbs,other vegetables,whole milk,butter,whipped/sour cream,hard cheese,rolls/buns,brown bread,oil,waffles,cake bar",16,2475,9,Maged,60,Hurghada,Cash
+"pork,other vegetables,whipped/sour cream,rolls/buns,brown bread,pastry,sugar,dishes",8,564,15,Sameh,35,Hurghada,Cash
+"citrus fruit,tropical fruit,whole milk,frozen meals,rolls/buns,brown bread",6,708,9,Maged,60,Hurghada,Cash
+"berries,yogurt,domestic eggs,rolls/buns",4,2280,9,Maged,60,Hurghada,Cash
+"whole milk,rolls/buns,white bread,soap",4,106,15,Sameh,35,Hurghada,Cash
+"sausage,chicken,tropical fruit,onions,other vegetables,dessert,whipped/sour cream,UHT-milk,cream cheese ,pastry,bottled water,soda,waffles,chewing gum,shopping bags",15,447,9,Maged,60,Hurghada,Cash
+shopping bags,1,809,15,Sameh,35,Hurghada,Credit
+"whole milk,specialty bar",2,2306,15,Sameh,35,Hurghada,Cash
+"beef,other vegetables,rolls/buns,pastry,soap",5,1256,9,Maged,60,Hurghada,Cash
+"tropical fruit,whole milk,beverages,processed cheese,pastry,waffles,specialty bar",7,393,9,Maged,60,Hurghada,Credit
+"sausage,packaged fruit/vegetables,UHT-milk,pastry,soups,bottled water",6,2292,15,Sameh,35,Hurghada,Cash
+"citrus fruit,whole milk,soft cheese,sliced cheese,cream cheese ,canned fish",6,1930,9,Maged,60,Hurghada,Cash
+packaged fruit/vegetables,1,401,9,Maged,60,Hurghada,Cash
+"ham,tropical fruit",2,1277,9,Maged,60,Hurghada,Cash
+"bottled beer,brandy,whisky,chocolate,specialty chocolate,shopping bags",6,1743,15,Sameh,35,Hurghada,Credit
+"sliced cheese,rolls/buns,specialty chocolate",3,449,15,Sameh,35,Hurghada,Cash
+canned beer,1,1895,9,Maged,60,Hurghada,Credit
+"butter,domestic eggs,flour,soups,baking powder",5,2164,9,Maged,60,Hurghada,Credit
+"meat,brown bread,soda,misc. beverages,kitchen towels",5,609,15,Sameh,35,Hurghada,Credit
+"whole milk,popcorn,specialty chocolate,specialty bar,candy",5,427,9,Maged,60,Hurghada,Cash
+"root vegetables,other vegetables,packaged fruit/vegetables,rolls/buns,canned beer,red/blush wine",6,2279,9,Maged,60,Hurghada,Credit
+"beef,frozen meals,dog food",3,179,15,Sameh,35,Hurghada,Credit
+"yogurt,rolls/buns,vinegar,margarine,sparkling wine",5,386,9,Maged,60,Hurghada,Credit
+"root vegetables,other vegetables,whole milk,processed cheese,mayonnaise,domestic eggs,brown bread,oil,soda,long life bakery product,shopping bags",11,1457,9,Maged,60,Hurghada,Credit
+"root vegetables,UHT-milk,ice cream,frozen potato products,bottled water,soda,bottled beer,specialty bar,napkins,shopping bags",10,1558,15,Sameh,35,Hurghada,Credit
+soda,1,1301,9,Maged,60,Hurghada,Credit
+"chewing gum,seasonal products",2,1277,9,Maged,60,Hurghada,Cash
+"rolls/buns,margarine",2,1964,9,Maged,60,Hurghada,Credit
+"ham,pork,citrus fruit,pip fruit,root vegetables,other vegetables,butter milk,beverages,sliced cheese,frozen vegetables,frozen fish,oil,margarine,canned vegetables",14,260,9,Maged,60,Hurghada,Cash
+"pastry,chocolate,chocolate marshmallow",3,686,15,Sameh,35,Hurghada,Cash
+canned beer,1,2027,15,Sameh,35,Hurghada,Credit
+"frankfurter,tropical fruit,pip fruit,sliced cheese,mayonnaise,domestic eggs,rolls/buns,fruit/vegetable juice,shopping bags",9,2233,9,Maged,60,Hurghada,Cash
+"chicken,tropical fruit,onions,other vegetables,butter milk,yogurt,beverages,sliced cheese,hard cheese,rolls/buns,pastry,cereals,chocolate,napkins,house keeping products",15,2393,9,Maged,60,Hurghada,Cash
+"frankfurter,sausage,chicken,citrus fruit,root vegetables,herbs,packaged fruit/vegetables,whole milk,salt,sugar,bottled beer,napkins",12,1166,9,Maged,60,Hurghada,Cash
+UHT-milk,1,126,9,Maged,60,Hurghada,Cash
+canned beer,1,1784,9,Maged,60,Hurghada,Cash
+soda,1,2500,9,Maged,60,Hurghada,Cash
+"whole milk,yogurt,roll products ",3,1808,9,Maged,60,Hurghada,Credit
+"yogurt,salt,coffee,specialty bar,softener,hygiene articles",6,1812,15,Sameh,35,Hurghada,Credit
+"canned beer,shopping bags",2,890,15,Sameh,35,Hurghada,Cash
+"whole milk,domestic eggs",2,752,9,Maged,60,Hurghada,Credit
+white wine,1,942,15,Sameh,35,Hurghada,Cash
+waffles,1,781,15,Sameh,35,Hurghada,Credit
+"hamburger meat,soft cheese,hard cheese,baking powder,meat spreads,dish cleaner",6,1560,9,Maged,60,Hurghada,Cash
+"sausage,curd",2,2003,15,Sameh,35,Hurghada,Credit
+"chewing gum,napkins",2,1102,9,Maged,60,Hurghada,Cash
+"whole milk,frozen vegetables",2,436,9,Maged,60,Hurghada,Credit
+"canned beer,red/blush wine",2,1140,9,Maged,60,Hurghada,Credit
+"pork,other vegetables,whipped/sour cream,frozen vegetables,cereals,cat food,fruit/vegetable juice,cake bar,specialty chocolate,specialty bar,napkins,newspapers,shopping bags",13,750,15,Sameh,35,Hurghada,Cash
+"whole milk,frozen meals,white bread,bottled water,soda,candy",6,290,9,Maged,60,Hurghada,Credit
+"beef,root vegetables,other vegetables,bottled water,soda",5,1002,15,Sameh,35,Hurghada,Credit
+"pastry,bottled beer",2,1922,15,Sameh,35,Hurghada,Cash
+napkins,1,1476,9,Maged,60,Hurghada,Cash
+"root vegetables,herbs,whole milk,curd,frozen vegetables,frozen dessert,sweet spreads,fruit/vegetable juice",8,1234,9,Maged,60,Hurghada,Cash
+"rolls/buns,bottled beer",2,240,9,Maged,60,Hurghada,Cash
+"beef,sugar,soda,long life bakery product,hygiene articles",5,1104,15,Sameh,35,Hurghada,Credit
+"other vegetables,whole milk,dessert,cream cheese ,sugar,dishes",6,2483,9,Maged,60,Hurghada,Credit
+"pip fruit,herbs,other vegetables,whipped/sour cream,oil,bottled water",6,2061,9,Maged,60,Hurghada,Credit
+"sausage,soda",2,1428,9,Maged,60,Hurghada,Credit
+"pastry,soda",2,652,15,Sameh,35,Hurghada,Cash
+"beverages,cream cheese ",2,1184,9,Maged,60,Hurghada,Cash
+"citrus fruit,tropical fruit,whole milk,rolls/buns,brown bread,bottled water",6,801,15,Sameh,35,Hurghada,Cash
+"grapes,UHT-milk",2,462,15,Sameh,35,Hurghada,Credit
+"sausage,bottled water,white wine",3,121,9,Maged,60,Hurghada,Cash
+pasta,1,143,15,Sameh,35,Hurghada,Cash
+"frankfurter,hamburger meat,root vegetables,whole milk,yogurt,brown bread,chocolate",7,780,9,Maged,60,Hurghada,Credit
+"sausage,tropical fruit,pip fruit,specialty cheese,ice cream,rolls/buns,soda,specialty chocolate,candy,shopping bags",10,721,9,Maged,60,Hurghada,Cash
+coffee,1,789,15,Sameh,35,Hurghada,Cash
+misc. beverages,1,317,15,Sameh,35,Hurghada,Cash
+"butter,rolls/buns,soda,specialty bar",4,2138,9,Maged,60,Hurghada,Cash
+specialty bar,1,2190,15,Sameh,35,Hurghada,Cash
+"whole milk,curd,rolls/buns,bottled water,fruit/vegetable juice,soap",6,1256,15,Sameh,35,Hurghada,Cash
+"baking powder,misc. beverages,shopping bags",3,310,15,Sameh,35,Hurghada,Credit
+"processed cheese,bottled water,soda",3,1781,15,Sameh,35,Hurghada,Credit
+"beef,other vegetables,waffles,pot plants",4,466,15,Sameh,35,Hurghada,Credit
+"sausage,rolls/buns,soda",3,1192,15,Sameh,35,Hurghada,Cash
+"nuts/prunes,brandy",2,987,9,Maged,60,Hurghada,Credit
+"rolls/buns,soda",2,2124,9,Maged,60,Hurghada,Credit
+"soda,rum",2,2231,15,Sameh,35,Hurghada,Credit
+"frozen vegetables,frozen fish",2,1265,9,Maged,60,Hurghada,Cash
+"hamburger meat,soda,rum,pot plants",4,2153,15,Sameh,35,Hurghada,Cash
+"rolls/buns,soda",2,1634,15,Sameh,35,Hurghada,Cash
+"chicken,long life bakery product,chocolate",3,1976,15,Sameh,35,Hurghada,Credit
+"yogurt,frozen fish,rolls/buns",3,502,9,Maged,60,Hurghada,Credit
+white wine,1,167,15,Sameh,35,Hurghada,Credit
+"frankfurter,whole milk,processed cheese,ice cream,canned fish,hygiene articles,cling film/bags",7,478,15,Sameh,35,Hurghada,Cash
+"whole milk,condensed milk",2,356,15,Sameh,35,Hurghada,Cash
+"whole milk,frozen meals,ice cream",3,356,15,Sameh,35,Hurghada,Cash
+"frankfurter,curd,soda",3,1429,15,Sameh,35,Hurghada,Credit
+chicken,1,200,15,Sameh,35,Hurghada,Credit
+"frozen meals,ice cream,brown bread",3,1862,15,Sameh,35,Hurghada,Credit
+"sausage,citrus fruit,root vegetables,onions,curd,yogurt,whipped/sour cream,bottled beer",8,373,9,Maged,60,Hurghada,Credit
+"pip fruit,UHT-milk,semi-finished bread,margarine,bottled water,cake bar,shopping bags",7,564,15,Sameh,35,Hurghada,Credit
+"citrus fruit,whole milk,yogurt,processed cheese,frozen vegetables,rolls/buns,margarine,chocolate",8,284,9,Maged,60,Hurghada,Cash
+"coffee,bottled water,canned beer,napkins",4,1286,9,Maged,60,Hurghada,Cash
+"rolls/buns,soda",2,1702,15,Sameh,35,Hurghada,Credit
+"pastry,soda,waffles",3,609,15,Sameh,35,Hurghada,Cash
+misc. beverages,1,684,9,Maged,60,Hurghada,Cash
+"tropical fruit,whole milk,cream cheese ,processed cheese,rolls/buns,shopping bags",6,1217,9,Maged,60,Hurghada,Credit
+"rolls/buns,canned beer",2,990,15,Sameh,35,Hurghada,Credit
+"ham,grapes,napkins",3,2459,15,Sameh,35,Hurghada,Cash
+"citrus fruit,root vegetables,butter milk,oil",4,309,9,Maged,60,Hurghada,Credit
+"domestic eggs,white wine",2,648,9,Maged,60,Hurghada,Cash
+newspapers,1,1889,15,Sameh,35,Hurghada,Cash
+yogurt,1,2136,9,Maged,60,Hurghada,Cash
+seasonal products,1,147,9,Maged,60,Hurghada,Cash
+"sausage,onions,rolls/buns,soda,brandy,white wine,chewing gum,napkins,shopping bags",9,1639,9,Maged,60,Hurghada,Credit
+pastry,1,2070,15,Sameh,35,Hurghada,Cash
+"pork,citrus fruit,pip fruit,root vegetables,whole milk,frozen dessert,rolls/buns,oil,coffee,bottled beer",10,171,15,Sameh,35,Hurghada,Cash
+"beef,root vegetables,rolls/buns,brown bread,pastry,oil,napkins,newspapers",8,2410,9,Maged,60,Hurghada,Cash
+"frankfurter,sausage,pork,citrus fruit,other vegetables,whole milk,rolls/buns,oil,bottled water,specialty chocolate,flower (seeds)",11,254,15,Sameh,35,Hurghada,Cash
+"pip fruit,herbs,other vegetables,whole milk,curd,whipped/sour cream,rum,napkins,house keeping products,shopping bags",10,2079,15,Sameh,35,Hurghada,Credit
+"sausage,organic sausage,chicken,berries,whole milk,butter,whipped/sour cream,soda,fruit/vegetable juice,chocolate",10,304,9,Maged,60,Hurghada,Credit
+"frankfurter,root vegetables,whole milk,butter,curd,domestic eggs,brown bread,flour,pickled vegetables,house keeping products",10,1300,9,Maged,60,Hurghada,Cash
+"tropical fruit,hard cheese,domestic eggs,soda,misc. beverages,chewing gum",6,1522,9,Maged,60,Hurghada,Credit
+bottled water,1,2464,15,Sameh,35,Hurghada,Credit
+"finished products,whole milk,rolls/buns,salty snack,cake bar,chocolate,candy,newspapers",8,2129,9,Maged,60,Hurghada,Credit
+"canned fish,fruit/vegetable juice,make up remover",3,1876,9,Maged,60,Hurghada,Credit
+"frankfurter,sausage,processed cheese,rolls/buns,pickled vegetables,bottled water,liquor,shopping bags",8,343,15,Sameh,35,Hurghada,Cash
+rolls/buns,1,1127,9,Maged,60,Hurghada,Cash
+"whole milk,curd,hard cheese,bottled water",4,406,9,Maged,60,Hurghada,Credit
+shopping bags,1,380,9,Maged,60,Hurghada,Credit
+"frankfurter,chicken,citrus fruit,root vegetables",4,2458,15,Sameh,35,Hurghada,Cash
+yogurt,1,2284,9,Maged,60,Hurghada,Cash
+"semi-finished bread,instant coffee",2,2304,15,Sameh,35,Hurghada,Cash
+rolls/buns,1,342,9,Maged,60,Hurghada,Cash
+newspapers,1,878,9,Maged,60,Hurghada,Cash
+"pork,onions,whole milk,butter,curd,bottled water,soda,misc. beverages,popcorn,chocolate,napkins",11,927,15,Sameh,35,Hurghada,Cash
+"frankfurter,chicken,pork,grapes,root vegetables,other vegetables,whole milk,domestic eggs,brown bread,soups,newspapers",11,1897,9,Maged,60,Hurghada,Credit
+"pork,whole milk,soda,canned beer,salty snack,chewing gum,candy",7,872,15,Sameh,35,Hurghada,Credit
+whole milk,1,913,15,Sameh,35,Hurghada,Cash
+"sausage,other vegetables,packaged fruit/vegetables,whole milk,yogurt",5,100,15,Sameh,35,Hurghada,Credit
+"other vegetables,cream cheese ",2,1616,15,Sameh,35,Hurghada,Credit
+"whole milk,newspapers",2,1877,15,Sameh,35,Hurghada,Credit
+"frozen dessert,semi-finished bread",2,1962,9,Maged,60,Hurghada,Credit
+"yogurt,bottled beer",2,955,15,Sameh,35,Hurghada,Credit
+"tropical fruit,berries,root vegetables,other vegetables,butter,yogurt,UHT-milk,domestic eggs,margarine,bottled water,soda,salty snack,newspapers",13,1507,15,Sameh,35,Hurghada,Credit
+tropical fruit,1,1397,15,Sameh,35,Hurghada,Credit
+specialty chocolate,1,758,9,Maged,60,Hurghada,Cash
+"dessert,canned beer",2,840,15,Sameh,35,Hurghada,Credit
+soda,1,860,9,Maged,60,Hurghada,Cash
+"berries,beverages,canned beer,shopping bags",4,1457,15,Sameh,35,Hurghada,Credit
+"whole milk,rolls/buns,white bread,brown bread,margarine",5,1387,15,Sameh,35,Hurghada,Credit
+cat food,1,1944,9,Maged,60,Hurghada,Cash
+"other vegetables,butter,yogurt,domestic eggs,pastry,bottled beer,specialty bar,flower (seeds)",8,361,9,Maged,60,Hurghada,Credit
+"sausage,whole milk,white bread",3,1792,9,Maged,60,Hurghada,Cash
+soda,1,1281,9,Maged,60,Hurghada,Cash
+"cereals,salty snack",2,1466,9,Maged,60,Hurghada,Credit
+"domestic eggs,pastry,bottled beer,canned beer,long life bakery product,chocolate,candles,newspapers",8,2351,15,Sameh,35,Hurghada,Credit
+"frankfurter,pip fruit,soft cheese,semi-finished bread,chewing gum,specialty chocolate",6,1727,15,Sameh,35,Hurghada,Credit
+candles,1,1279,9,Maged,60,Hurghada,Credit
+"ham,pork,berries,root vegetables,oil,soda,bottled beer,salty snack,popcorn,newspapers",10,2222,9,Maged,60,Hurghada,Credit
+"frozen vegetables,pasta,bottled water,soda",4,176,9,Maged,60,Hurghada,Cash
+"pork,yogurt,UHT-milk,salty snack",4,680,9,Maged,60,Hurghada,Cash
+"curd,bottled water,soda",3,1274,15,Sameh,35,Hurghada,Credit
+"tropical fruit,root vegetables,other vegetables,whole milk,processed cheese",5,1158,15,Sameh,35,Hurghada,Credit
+soda,1,2353,15,Sameh,35,Hurghada,Credit
+"meat,pork,tropical fruit,berries,baking powder,canned fish,seasonal products",7,1132,15,Sameh,35,Hurghada,Cash
+"whole milk,whipped/sour cream,rolls/buns,pickled vegetables,bottled water,long life bakery product",6,1156,9,Maged,60,Hurghada,Credit
+"other vegetables,whole milk,condensed milk,white bread,sugar,coffee,soda,fruit/vegetable juice,bottled beer,shopping bags",10,1658,9,Maged,60,Hurghada,Credit
+sausage,1,469,15,Sameh,35,Hurghada,Credit
+"berries,other vegetables,semi-finished bread",3,1669,15,Sameh,35,Hurghada,Cash
+"sauces,red/blush wine,waffles,newspapers",4,1870,9,Maged,60,Hurghada,Cash
+"onions,other vegetables,whole milk,yogurt,roll products ,semi-finished bread",6,1748,9,Maged,60,Hurghada,Credit
+"frankfurter,rolls/buns",2,1158,9,Maged,60,Hurghada,Cash
+"beef,root vegetables,yogurt,whipped/sour cream",4,778,15,Sameh,35,Hurghada,Cash
+"sausage,other vegetables,rolls/buns,baking powder,soda,cling film/bags,house keeping products",7,867,15,Sameh,35,Hurghada,Credit
+canned beer,1,564,15,Sameh,35,Hurghada,Credit
+pastry,1,285,9,Maged,60,Hurghada,Credit
+"butter,yogurt,sliced cheese,tidbits,rolls/buns,pudding powder,soda,waffles,newspapers",9,1038,9,Maged,60,Hurghada,Cash
+"root vegetables,onions,rolls/buns,white bread,sugar",5,769,9,Maged,60,Hurghada,Cash
+"sausage,chicken,citrus fruit,pip fruit,root vegetables,other vegetables,whole milk,yogurt,whipped/sour cream,domestic eggs,white bread,soda,shopping bags",13,837,15,Sameh,35,Hurghada,Cash
+canned beer,1,428,9,Maged,60,Hurghada,Cash
+"pork,root vegetables,other vegetables,whole milk,cream cheese ,coffee,bottled water,bottled beer",8,145,9,Maged,60,Hurghada,Credit
+"citrus fruit,whipped/sour cream,pastry",3,161,9,Maged,60,Hurghada,Credit
+"root vegetables,other vegetables,frozen vegetables,frozen fish,rolls/buns,dog food,popcorn,newspapers",8,2314,15,Sameh,35,Hurghada,Credit
+"frankfurter,yogurt,frozen fish,ice cream,frozen potato products,pastry,margarine,canned fish,soda,bottled beer,salty snack,nut snack,long life bakery product,specialty bar,candy",15,1128,9,Maged,60,Hurghada,Credit
+"whole milk,dessert,yogurt,margarine,newspapers",5,151,15,Sameh,35,Hurghada,Credit
+"other vegetables,whole milk,yogurt,sliced cheese,cereals,bottled water",6,1485,15,Sameh,35,Hurghada,Cash
+"specialty cheese,baking powder,waffles,chocolate",4,355,9,Maged,60,Hurghada,Cash
+"chicken,other vegetables,rolls/buns,margarine,soda,misc. beverages,candy",7,1880,9,Maged,60,Hurghada,Cash
+shopping bags,1,484,9,Maged,60,Hurghada,Credit
+"sausage,ham,pork,beef,hamburger meat,tropical fruit,pip fruit,berries,other vegetables,curd,dessert,yogurt,sliced cheese,spread cheese,semi-finished bread,canned vegetables,bottled water,misc. beverages,syrup,waffles,chocolate,seasonal products",22,2195,9,Maged,60,Hurghada,Cash
+"berries,waffles,specialty chocolate",3,2382,15,Sameh,35,Hurghada,Credit
+"turkey,tropical fruit,grapes,other vegetables,whole milk,curd,yogurt,processed cheese,dog food,pot plants",10,398,9,Maged,60,Hurghada,Cash
+"other vegetables,yogurt",2,1297,15,Sameh,35,Hurghada,Credit
+"butter milk,hard cheese,instant coffee",3,1870,15,Sameh,35,Hurghada,Cash
+"oil,hygiene articles",2,1376,15,Sameh,35,Hurghada,Credit
+"chicken,tropical fruit,pip fruit,other vegetables,packaged fruit/vegetables,domestic eggs,rolls/buns,flour,pasta,dog food,bottled water,newspapers",12,570,15,Sameh,35,Hurghada,Credit
+"coffee,soda,fruit/vegetable juice,waffles,seasonal products",5,1210,9,Maged,60,Hurghada,Cash
+"sausage,coffee,shopping bags",3,338,15,Sameh,35,Hurghada,Cash
+"other vegetables,dessert,sugar",3,1263,9,Maged,60,Hurghada,Cash
+"other vegetables,rolls/buns,fruit/vegetable juice,cooking chocolate",4,747,9,Maged,60,Hurghada,Credit
+"tropical fruit,rolls/buns,bottled water",3,1135,15,Sameh,35,Hurghada,Cash
+"hamburger meat,pastry",2,260,9,Maged,60,Hurghada,Cash
+"beef,other vegetables,pastry",3,454,9,Maged,60,Hurghada,Credit
+"meat,soda",2,625,9,Maged,60,Hurghada,Cash
+"brown bread,oil,dishes",3,759,9,Maged,60,Hurghada,Cash
+"yogurt,UHT-milk,brandy",3,1732,15,Sameh,35,Hurghada,Credit
+"citrus fruit,whole milk,pastry",3,1486,9,Maged,60,Hurghada,Cash
+newspapers,1,1776,15,Sameh,35,Hurghada,Credit
+"sausage,dessert,domestic eggs,rolls/buns,soda,bottled beer,red/blush wine,salty snack,napkins",9,788,15,Sameh,35,Hurghada,Credit
+"tropical fruit,other vegetables,butter,hard cheese,domestic eggs",5,1841,15,Sameh,35,Hurghada,Cash
+"chicken,pip fruit,spices,white wine",4,1797,9,Maged,60,Hurghada,Credit
+"yogurt,UHT-milk,frozen vegetables,pastry,potato products,soda,shopping bags",7,658,15,Sameh,35,Hurghada,Cash
+cream cheese ,1,1752,15,Sameh,35,Hurghada,Credit
+"sausage,ham,other vegetables",3,354,9,Maged,60,Hurghada,Cash
+"curd,yogurt",2,173,9,Maged,60,Hurghada,Credit
+"soda,liquor,shopping bags",3,595,15,Sameh,35,Hurghada,Cash
+"other vegetables,specialty cheese,bottled water,chocolate",4,1593,15,Sameh,35,Hurghada,Cash
+"sausage,other vegetables,brown bread,salt,canned fish,shopping bags",6,2333,9,Maged,60,Hurghada,Credit
+"meat,whole milk,rolls/buns",3,875,9,Maged,60,Hurghada,Cash
+whole milk,1,2457,9,Maged,60,Hurghada,Credit
+brown bread,1,1825,15,Sameh,35,Hurghada,Cash
+"rolls/buns,margarine",2,939,15,Sameh,35,Hurghada,Cash
+"meat,citrus fruit,tropical fruit,berries,curd,whipped/sour cream,white bread,bottled water,long life bakery product,chocolate marshmallow,candy,dish cleaner",12,1939,9,Maged,60,Hurghada,Cash
+"sausage,hamburger meat,canned beer,dishes",4,1953,9,Maged,60,Hurghada,Credit
+"tropical fruit,frozen vegetables,rolls/buns,semi-finished bread,bottled beer,waffles",6,592,15,Sameh,35,Hurghada,Credit
+salty snack,1,1396,15,Sameh,35,Hurghada,Cash
+"oil,ketchup,coffee",3,775,9,Maged,60,Hurghada,Cash
+"root vegetables,other vegetables,butter,chocolate",4,1132,15,Sameh,35,Hurghada,Credit
+chicken,1,1902,15,Sameh,35,Hurghada,Credit
+"root vegetables,whole milk,frozen meals,domestic eggs,white bread,white wine",6,1852,15,Sameh,35,Hurghada,Credit
+"cream cheese ,rolls/buns,fruit/vegetable juice",3,1474,9,Maged,60,Hurghada,Cash
+bottled water,1,1038,9,Maged,60,Hurghada,Credit
+"chicken,root vegetables,whole milk,rice,oil",5,1552,9,Maged,60,Hurghada,Cash
+"citrus fruit,whole milk,yogurt,spread cheese,brown bread,bottled beer,white wine,long life bakery product,flower (seeds)",9,2105,9,Maged,60,Hurghada,Cash
+"sausage,pip fruit,root vegetables,cream cheese ,specialty cheese,white bread,brown bread,salt,margarine,canned fish,bottled water,soda,waffles,shopping bags",14,437,9,Maged,60,Hurghada,Credit
+"root vegetables,whole milk,spread cheese,rolls/buns,coffee,newspapers",6,1321,15,Sameh,35,Hurghada,Credit
+"sausage,margarine,shopping bags",3,2339,15,Sameh,35,Hurghada,Credit
+"whole milk,yogurt",2,1575,9,Maged,60,Hurghada,Credit
+"beef,hamburger meat,citrus fruit,tropical fruit,root vegetables,onions,other vegetables,whole milk,curd,whipped/sour cream,flour,pudding powder",12,711,15,Sameh,35,Hurghada,Cash
+"beef,grapes,herbs,other vegetables,whole milk,curd,whipped/sour cream,frozen vegetables,ice cream,oil,coffee,fruit/vegetable juice,chewing gum,specialty chocolate,cleaner,kitchen towels",16,2351,9,Maged,60,Hurghada,Credit
+"ham,sliced cheese,white bread,canned vegetables,misc. beverages,shopping bags",6,783,15,Sameh,35,Hurghada,Cash
+"oil,soda,newspapers",3,874,15,Sameh,35,Hurghada,Cash
+"root vegetables,whole milk,curd,rolls/buns,pastry,pasta,napkins",7,1765,9,Maged,60,Hurghada,Credit
+"pork,whole milk,yogurt,tidbits,rolls/buns,pickled vegetables,bags",7,1527,15,Sameh,35,Hurghada,Credit
+"butter milk,frozen dessert,soda,shopping bags",4,240,15,Sameh,35,Hurghada,Cash
+"rolls/buns,canned beer,hygiene articles",3,1360,15,Sameh,35,Hurghada,Cash
+"whole milk,pastry",2,179,15,Sameh,35,Hurghada,Credit
+"semi-finished bread,seasonal products",2,849,9,Maged,60,Hurghada,Cash
+"frankfurter,tropical fruit,whole milk,brown bread,mustard,baking powder,meat spreads,fruit/vegetable juice,shopping bags",9,482,9,Maged,60,Hurghada,Credit
+"frankfurter,sausage,meat,hamburger meat,other vegetables,whole milk,butter,rolls/buns,coffee,bottled water",10,1910,9,Maged,60,Hurghada,Credit
+"other vegetables,domestic eggs,brown bread,soda,liquor,shopping bags",6,2349,9,Maged,60,Hurghada,Cash
+"condensed milk,frozen dessert",2,557,15,Sameh,35,Hurghada,Cash
+other vegetables,1,240,9,Maged,60,Hurghada,Credit
+"other vegetables,whole milk,curd,waffles,specialty bar,detergent,napkins",7,200,9,Maged,60,Hurghada,Credit
+"sausage,root vegetables,dessert,pastry,flour,sugar,soda,cake bar",8,129,9,Maged,60,Hurghada,Cash
+"waffles,shopping bags",2,2109,15,Sameh,35,Hurghada,Cash
+"pastry,house keeping products",2,1642,9,Maged,60,Hurghada,Credit
+"waffles,detergent",2,1148,15,Sameh,35,Hurghada,Cash
+"yogurt,domestic eggs,pastry",3,569,9,Maged,60,Hurghada,Cash
+"frankfurter,yogurt,UHT-milk,pastry,potato products,vinegar,artif. sweetener,cat food,coffee,bottled water",10,1690,9,Maged,60,Hurghada,Cash
+instant coffee,1,783,15,Sameh,35,Hurghada,Credit
+"dessert,cream cheese ,waffles",3,1047,15,Sameh,35,Hurghada,Cash
+"brown bread,vinegar",2,922,15,Sameh,35,Hurghada,Cash
+"pork,yogurt,coffee",3,1274,9,Maged,60,Hurghada,Cash
+"ham,whole milk,butter,curd,dessert,butter milk,yogurt,soft cheese,brown bread,pastry,fruit/vegetable juice,chocolate,shopping bags",13,1334,15,Sameh,35,Hurghada,Cash
+"pork,hamburger meat,tropical fruit,whole milk,margarine,canned vegetables,shopping bags",7,1115,15,Sameh,35,Hurghada,Credit
+"frankfurter,soda",2,2179,9,Maged,60,Hurghada,Credit
+"meat,specialty chocolate",2,1083,9,Maged,60,Hurghada,Credit
+"whole milk,brown bread,flower (seeds)",3,238,9,Maged,60,Hurghada,Cash
+"sausage,tropical fruit,butter,yogurt,rolls/buns,pastry,instant coffee,bottled water,soda,newspapers",10,268,9,Maged,60,Hurghada,Credit
+"whole milk,bottled beer",2,2087,9,Maged,60,Hurghada,Cash
+"sausage,ham,whole milk,coffee,soda,red/blush wine",6,1999,15,Sameh,35,Hurghada,Credit
+"UHT-milk,cream cheese ,coffee,bottled water",4,1747,9,Maged,60,Hurghada,Credit
+"tropical fruit,whole milk,curd,yogurt,sliced cheese,mayonnaise,frozen meals,pastry,soda",9,120,15,Sameh,35,Hurghada,Credit
+"whole milk,curd,bottled water",3,885,9,Maged,60,Hurghada,Cash
+frozen meals,1,191,9,Maged,60,Hurghada,Credit
+"sausage,citrus fruit,root vegetables",3,849,9,Maged,60,Hurghada,Cash
+"frankfurter,tropical fruit,other vegetables,whole milk,frozen meals,rolls/buns,detergent,napkins,newspapers",9,1983,9,Maged,60,Hurghada,Cash
+"sausage,butter,rolls/buns,pickled vegetables,soda,fruit/vegetable juice,waffles",7,1662,15,Sameh,35,Hurghada,Cash
+"tropical fruit,other vegetables,domestic eggs,zwieback,ketchup,soda,dishes",7,1023,9,Maged,60,Hurghada,Cash

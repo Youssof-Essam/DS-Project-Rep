@@ -1,0 +1,643 @@
+items,count,total,rnd,customer,age,city,paymentType
+beef,1,784,11,Hanan,22,Fayoum,Cash
+"packaged fruit/vegetables,brown bread,canned beer",3,2236,11,Hanan,22,Fayoum,Cash
+"other vegetables,whole milk,frozen vegetables,canned fish,salty snack,seasonal products,detergent",7,2146,11,Hanan,22,Fayoum,Credit
+curd cheese,1,717,11,Hanan,22,Fayoum,Credit
+newspapers,1,1854,11,Hanan,22,Fayoum,Cash
+"frankfurter,ham,pip fruit,other vegetables,whole milk,soft cheese,frozen vegetables,rolls/buns,sugar,baking powder",10,1379,11,Hanan,22,Fayoum,Credit
+"ham,tropical fruit,other vegetables,whole milk,white bread,brown bread,fruit/vegetable juice,bottled beer",8,1201,11,Hanan,22,Fayoum,Cash
+bottled beer,1,280,11,Hanan,22,Fayoum,Credit
+"other vegetables,ice cream",2,2103,11,Hanan,22,Fayoum,Cash
+"curd,cream cheese ,semi-finished bread,zwieback,cake bar,specialty bar,shopping bags",7,853,11,Hanan,22,Fayoum,Credit
+"curd,salt,liquor (appetizer),detergent,shopping bags",5,1544,11,Hanan,22,Fayoum,Cash
+"sausage,bottled beer,liquor (appetizer)",3,2461,11,Hanan,22,Fayoum,Credit
+"curd,rolls/buns",2,1076,11,Hanan,22,Fayoum,Cash
+canned beer,1,1961,11,Hanan,22,Fayoum,Credit
+"pork,root vegetables,other vegetables,whole milk,dishes",5,1702,11,Hanan,22,Fayoum,Cash
+pot plants,1,876,11,Hanan,22,Fayoum,Cash
+"meat,other vegetables,butter,rolls/buns",4,2413,11,Hanan,22,Fayoum,Cash
+ice cream,1,2186,11,Hanan,22,Fayoum,Credit
+"frankfurter,rolls/buns,bottled water,fruit/vegetable juice,hygiene articles",5,906,11,Hanan,22,Fayoum,Cash
+"chicken,pip fruit,other vegetables,whole milk,dessert,yogurt,whipped/sour cream,rolls/buns,pasta,soda,waffles",11,2371,11,Hanan,22,Fayoum,Credit
+sausage,1,2035,11,Hanan,22,Fayoum,Credit
+"chicken,whole milk,spices,long life bakery product,shopping bags",5,416,11,Hanan,22,Fayoum,Cash
+"meat,hard cheese,bottled beer",3,143,11,Hanan,22,Fayoum,Cash
+"other vegetables,yogurt,brown bread,instant coffee",4,591,11,Hanan,22,Fayoum,Credit
+"hamburger meat,white bread,salty snack",3,923,11,Hanan,22,Fayoum,Cash
+yogurt,1,1761,11,Hanan,22,Fayoum,Cash
+"berries,coffee",2,1274,11,Hanan,22,Fayoum,Credit
+"ham,citrus fruit,whole milk,whipped/sour cream,rolls/buns,pastry,waffles,hygiene articles",8,1893,11,Hanan,22,Fayoum,Cash
+"onions,butter,whipped/sour cream,hard cheese,frozen vegetables,pasta,specialty fat,syrup,candy,napkins,cling film/bags",11,400,11,Hanan,22,Fayoum,Credit
+"hamburger meat,hard cheese,frozen meals,pasta,dog food,salty snack,shopping bags",7,1985,11,Hanan,22,Fayoum,Credit
+hamburger meat,1,1404,11,Hanan,22,Fayoum,Credit
+"meat,other vegetables,whole milk,whipped/sour cream",4,1385,11,Hanan,22,Fayoum,Cash
+bottled water,1,2445,11,Hanan,22,Fayoum,Cash
+"domestic eggs,rolls/buns,specialty bar,napkins",4,1562,11,Hanan,22,Fayoum,Cash
+"pork,onions,whole milk,butter,rolls/buns,pastry,rum,hygiene articles",8,1076,11,Hanan,22,Fayoum,Credit
+"hamburger meat,whole milk,curd,pasta,canned beer",5,2487,11,Hanan,22,Fayoum,Credit
+"white wine,detergent",2,1318,11,Hanan,22,Fayoum,Credit
+"pork,beef,berries,packaged fruit/vegetables,whole milk,mayonnaise,frozen fish,frozen potato products,oil,mustard,cat food,coffee,soda,chocolate,dish cleaner,napkins,newspapers",17,267,11,Hanan,22,Fayoum,Cash
+"yogurt,fruit/vegetable juice,newspapers",3,446,11,Hanan,22,Fayoum,Cash
+"butter,fruit/vegetable juice,newspapers",3,588,11,Hanan,22,Fayoum,Credit
+beverages,1,1819,11,Hanan,22,Fayoum,Credit
+"hamburger meat,UHT-milk,salty snack",3,344,11,Hanan,22,Fayoum,Credit
+"frankfurter,whole milk,rolls/buns,margarine,baking powder,bottled beer",6,2244,11,Hanan,22,Fayoum,Credit
+"whipped/sour cream,pastry,specialty bar",3,556,11,Hanan,22,Fayoum,Credit
+"pip fruit,butter,frozen meals,pasta,bottled water",5,2424,11,Hanan,22,Fayoum,Credit
+"beef,citrus fruit,curd,rolls/buns,oil,margarine,specialty bar,detergent,newspapers",9,2367,11,Hanan,22,Fayoum,Credit
+rolls/buns,1,186,11,Hanan,22,Fayoum,Credit
+"rolls/buns,pastry,newspapers",3,1763,11,Hanan,22,Fayoum,Cash
+"frankfurter,hamburger meat,whole milk,rolls/buns,potato products,mustard,coffee,waffles,chocolate marshmallow,soap,newspapers",11,898,11,Hanan,22,Fayoum,Cash
+"yogurt,pastry,coffee",3,2284,11,Hanan,22,Fayoum,Credit
+detergent,1,1326,11,Hanan,22,Fayoum,Credit
+"frankfurter,beef,butter",3,768,11,Hanan,22,Fayoum,Cash
+"sausage,other vegetables,whole milk,curd,hard cheese,soda,candy,newspapers",8,1216,11,Hanan,22,Fayoum,Cash
+beef,1,797,11,Hanan,22,Fayoum,Credit
+"sausage,rolls/buns,soda,canned beer,shopping bags",5,698,11,Hanan,22,Fayoum,Credit
+"whole milk,dessert",2,105,11,Hanan,22,Fayoum,Credit
+"chicken,UHT-milk,rolls/buns,coffee,long life bakery product,house keeping products",6,794,11,Hanan,22,Fayoum,Cash
+"root vegetables,other vegetables,soda,shopping bags",4,1553,11,Hanan,22,Fayoum,Cash
+"citrus fruit,tropical fruit,grapes,yogurt,rolls/buns,margarine,canned fruit,bottled water,soda,misc. beverages,candy,female sanitary products,shopping bags",13,2141,11,Hanan,22,Fayoum,Credit
+"whole milk,pastry,bottled water,newspapers,photo/film",5,2236,11,Hanan,22,Fayoum,Credit
+canned beer,1,1769,11,Hanan,22,Fayoum,Cash
+"cream cheese ,spread cheese,rolls/buns",3,1950,11,Hanan,22,Fayoum,Credit
+"berries,whole milk,whipped/sour cream,margarine,organic products,fruit/vegetable juice,shopping bags",7,343,11,Hanan,22,Fayoum,Cash
+"beef,root vegetables,bottled beer,chocolate,shopping bags",5,1737,11,Hanan,22,Fayoum,Credit
+"packaged fruit/vegetables,pickled vegetables",2,1178,11,Hanan,22,Fayoum,Credit
+fruit/vegetable juice,1,2356,11,Hanan,22,Fayoum,Cash
+"chicken,hamburger meat,UHT-milk,soda,canned beer,bathroom cleaner,newspapers",7,268,11,Hanan,22,Fayoum,Credit
+"ham,citrus fruit,whole milk,dessert,frozen meals,coffee,popcorn,shopping bags",8,116,11,Hanan,22,Fayoum,Cash
+"frozen fish,newspapers",2,597,11,Hanan,22,Fayoum,Credit
+"frankfurter,chicken,pork,tropical fruit,root vegetables,other vegetables,yogurt,UHT-milk,mayonnaise,brown bread,pastry,flour,mustard,coffee,cocoa drinks,fruit/vegetable juice,salty snack,long life bakery product,chocolate,seasonal products",20,1244,11,Hanan,22,Fayoum,Credit
+"grapes,other vegetables,whole milk,butter,toilet cleaner,newspapers",6,2369,11,Hanan,22,Fayoum,Cash
+"bottled water,soda,fruit/vegetable juice,long life bakery product,chewing gum,candy",6,2268,11,Hanan,22,Fayoum,Credit
+specialty cheese,1,1439,11,Hanan,22,Fayoum,Credit
+"chicken,tropical fruit,whole milk,condensed milk,soft cheese,processed cheese,domestic eggs,white bread,pastry,semi-finished bread,soda,long life bakery product,waffles,specialty chocolate,napkins,dishes,kitchen towels,shopping bags",18,1798,11,Hanan,22,Fayoum,Cash
+"finished products,other vegetables,soda,fruit/vegetable juice",4,2076,11,Hanan,22,Fayoum,Credit
+bathroom cleaner,1,1829,11,Hanan,22,Fayoum,Cash
+"dessert,white bread",2,507,11,Hanan,22,Fayoum,Credit
+"root vegetables,sliced cheese,soda,bottled beer",4,2444,11,Hanan,22,Fayoum,Cash
+"other vegetables,yogurt,processed cheese,ketchup,bottled water,male cosmetics",6,419,11,Hanan,22,Fayoum,Credit
+"rolls/buns,white wine",2,1948,11,Hanan,22,Fayoum,Cash
+"yogurt,UHT-milk,rolls/buns",3,228,11,Hanan,22,Fayoum,Credit
+bottled beer,1,2423,11,Hanan,22,Fayoum,Cash
+"citrus fruit,grapes,rolls/buns,pastry,coffee,soda",6,2191,11,Hanan,22,Fayoum,Cash
+"hamburger meat,pip fruit,whole milk,curd,beverages,brandy,male cosmetics,cookware,shopping bags",9,106,11,Hanan,22,Fayoum,Cash
+rolls/buns,1,111,11,Hanan,22,Fayoum,Cash
+"sausage,root vegetables,other vegetables,whole milk,butter,whipped/sour cream,processed cheese,sugar,baking powder,jam,coffee,bottled water,soda,fruit/vegetable juice,salty snack,long life bakery product,candy,napkins",18,655,11,Hanan,22,Fayoum,Cash
+chocolate,1,636,11,Hanan,22,Fayoum,Cash
+"citrus fruit,other vegetables,whole milk,yogurt,hard cheese,specialty cheese,rolls/buns,flour,cat food",9,2311,11,Hanan,22,Fayoum,Credit
+"onions,other vegetables,rolls/buns,salt,chocolate,specialty bar,shopping bags",7,1530,11,Hanan,22,Fayoum,Cash
+"hamburger meat,baking powder,sweet spreads",3,1318,11,Hanan,22,Fayoum,Credit
+"bottled water,fruit/vegetable juice,bottled beer,prosecco",4,1433,11,Hanan,22,Fayoum,Credit
+"tropical fruit,whole milk,hard cheese,rolls/buns,cat food,bottled water,dish cleaner",7,1929,11,Hanan,22,Fayoum,Credit
+"sausage,hard cheese,rolls/buns,canned vegetables,dog food",5,316,11,Hanan,22,Fayoum,Credit
+pot plants,1,2415,11,Hanan,22,Fayoum,Credit
+"yogurt,sugar,instant coffee",3,1477,11,Hanan,22,Fayoum,Credit
+"sausage,domestic eggs,coffee,soda",4,1727,11,Hanan,22,Fayoum,Cash
+"whole milk,sugar,pudding powder",3,868,11,Hanan,22,Fayoum,Credit
+"oil,female sanitary products,cling film/bags",3,934,11,Hanan,22,Fayoum,Cash
+"beef,root vegetables,other vegetables,soda,bottled beer,hygiene articles",6,652,11,Hanan,22,Fayoum,Cash
+"pastry,sugar,bottled beer,long life bakery product,shopping bags",5,667,11,Hanan,22,Fayoum,Cash
+"tropical fruit,frozen vegetables",2,197,11,Hanan,22,Fayoum,Cash
+"frankfurter,whole milk",2,1038,11,Hanan,22,Fayoum,Cash
+"sausage,pip fruit,whipped/sour cream,detergent,dental care",5,1021,11,Hanan,22,Fayoum,Cash
+"hamburger meat,other vegetables,whipped/sour cream,pastry,napkins",5,750,11,Hanan,22,Fayoum,Cash
+"whole milk,yogurt,whipped/sour cream,soft cheese,candy",5,2250,11,Hanan,22,Fayoum,Credit
+napkins,1,887,11,Hanan,22,Fayoum,Cash
+"other vegetables,rolls/buns,canned fish",3,1807,11,Hanan,22,Fayoum,Credit
+soda,1,1852,11,Hanan,22,Fayoum,Cash
+canned beer,1,360,11,Hanan,22,Fayoum,Cash
+"sliced cheese,rolls/buns,margarine,soda,shopping bags",5,1911,11,Hanan,22,Fayoum,Credit
+candy,1,2076,11,Hanan,22,Fayoum,Cash
+"meat,specialty bar",2,1998,11,Hanan,22,Fayoum,Credit
+canned beer,1,1261,11,Hanan,22,Fayoum,Cash
+coffee,1,2358,11,Hanan,22,Fayoum,Credit
+whole milk,1,1488,11,Hanan,22,Fayoum,Cash
+"pork,white bread,pastry,shopping bags",4,937,11,Hanan,22,Fayoum,Cash
+"pip fruit,whole milk",2,2365,11,Hanan,22,Fayoum,Cash
+misc. beverages,1,573,11,Hanan,22,Fayoum,Credit
+"pip fruit,napkins",2,1738,11,Hanan,22,Fayoum,Credit
+"butter,whipped/sour cream,domestic eggs,rolls/buns",4,658,11,Hanan,22,Fayoum,Credit
+"whole milk,bottled beer",2,2369,11,Hanan,22,Fayoum,Cash
+"other vegetables,curd,pastry,Instant food products,salty snack,cake bar,chewing gum,napkins",8,1033,11,Hanan,22,Fayoum,Credit
+"beef,whole milk,butter,rolls/buns,cat food,bottled beer",6,495,11,Hanan,22,Fayoum,Cash
+sausage,1,2316,11,Hanan,22,Fayoum,Credit
+"ham,tropical fruit,specialty cheese,long life bakery product,hygiene articles,newspapers",6,1179,11,Hanan,22,Fayoum,Credit
+"hard cheese,newspapers",2,2214,11,Hanan,22,Fayoum,Cash
+"berries,other vegetables,yogurt",3,1023,11,Hanan,22,Fayoum,Cash
+"pork,pip fruit,other vegetables,whole milk,yogurt,ketchup,pickled vegetables,soda,detergent",9,2111,11,Hanan,22,Fayoum,Credit
+"other vegetables,frozen vegetables,pastry,specialty bar",4,1591,11,Hanan,22,Fayoum,Cash
+"whole milk,margarine,bottled water",3,666,11,Hanan,22,Fayoum,Credit
+"tropical fruit,bottled beer",2,1179,11,Hanan,22,Fayoum,Credit
+"citrus fruit,whole milk,specialty bar,dish cleaner,cling film/bags",5,475,11,Hanan,22,Fayoum,Cash
+"whole milk,brown bread",2,964,11,Hanan,22,Fayoum,Credit
+"sweet spreads,cat food",2,1748,11,Hanan,22,Fayoum,Cash
+beverages,1,745,11,Hanan,22,Fayoum,Cash
+"sausage,beef,citrus fruit,sweet spreads,coffee",5,709,11,Hanan,22,Fayoum,Credit
+"rolls/buns,rum",2,1665,11,Hanan,22,Fayoum,Credit
+canned beer,1,323,11,Hanan,22,Fayoum,Cash
+"tropical fruit,zwieback,bottled water",3,1833,11,Hanan,22,Fayoum,Cash
+"whole milk,hard cheese,coffee",3,410,11,Hanan,22,Fayoum,Cash
+bottled water,1,584,11,Hanan,22,Fayoum,Credit
+"citrus fruit,whole milk,butter milk,yogurt,baking powder",5,501,11,Hanan,22,Fayoum,Cash
+"frankfurter,rolls/buns,salt,canned beer,newspapers",5,2463,11,Hanan,22,Fayoum,Credit
+"whole milk,bottled water",2,315,11,Hanan,22,Fayoum,Cash
+"rolls/buns,soda",2,2422,11,Hanan,22,Fayoum,Credit
+"onions,whole milk,butter,frozen fish",4,108,11,Hanan,22,Fayoum,Cash
+"citrus fruit,tropical fruit,pip fruit,pastry,coffee,chocolate",6,1602,11,Hanan,22,Fayoum,Credit
+"onions,yogurt,flour,sugar,bottled water,fruit/vegetable juice,red/blush wine,hair spray",8,1921,11,Hanan,22,Fayoum,Credit
+ice cream,1,1059,11,Hanan,22,Fayoum,Cash
+"citrus fruit,whole milk,yogurt,softener,hygiene articles",5,422,11,Hanan,22,Fayoum,Cash
+"root vegetables,onions,other vegetables,whole milk,whipped/sour cream,specialty cheese,frozen meals,rolls/buns,white bread,pastry,canned vegetables,sweet spreads",12,2122,11,Hanan,22,Fayoum,Cash
+"citrus fruit,whole milk,butter,yogurt,zwieback,jam,dishes",7,552,11,Hanan,22,Fayoum,Cash
+"meat,citrus fruit,whole milk,spread cheese",4,370,11,Hanan,22,Fayoum,Credit
+"UHT-milk,domestic eggs,sugar,fruit/vegetable juice,newspapers",5,843,11,Hanan,22,Fayoum,Credit
+"beef,yogurt,rolls/buns,cat food,napkins,dishes,newspapers",7,1957,11,Hanan,22,Fayoum,Credit
+"chicken,beef,tropical fruit,root vegetables,onions,other vegetables,pickled vegetables,canned fish,bottled water,misc. beverages,fruit/vegetable juice,napkins",12,2007,11,Hanan,22,Fayoum,Cash
+"UHT-milk,ice cream,domestic eggs,oil,soda,cling film/bags",6,1082,11,Hanan,22,Fayoum,Cash
+"hamburger meat,tropical fruit",2,1845,11,Hanan,22,Fayoum,Credit
+"sausage,soda,liquor (appetizer),shopping bags",4,794,11,Hanan,22,Fayoum,Cash
+canned beer,1,688,11,Hanan,22,Fayoum,Cash
+"beef,root vegetables,other vegetables,whole milk,domestic eggs,hygiene articles",6,1509,11,Hanan,22,Fayoum,Credit
+chicken,1,430,11,Hanan,22,Fayoum,Credit
+rolls/buns,1,2222,11,Hanan,22,Fayoum,Cash
+rolls/buns,1,1220,11,Hanan,22,Fayoum,Credit
+"sausage,pork,beef,hamburger meat,grapes,root vegetables,other vegetables,dessert,rolls/buns,dog food,napkins",11,1940,11,Hanan,22,Fayoum,Cash
+"rolls/buns,canned beer",2,731,11,Hanan,22,Fayoum,Cash
+"sausage,butter milk,rolls/buns,bottled water,soda,canned beer,shopping bags",7,161,11,Hanan,22,Fayoum,Cash
+"root vegetables,other vegetables,whole milk,butter,mustard,bottled water,flower (seeds)",7,286,11,Hanan,22,Fayoum,Credit
+"meat,whole milk,yogurt,soda,male cosmetics",5,243,11,Hanan,22,Fayoum,Credit
+"root vegetables,other vegetables,photo/film",3,830,11,Hanan,22,Fayoum,Cash
+rolls/buns,1,271,11,Hanan,22,Fayoum,Credit
+"root vegetables,whole milk,oil,mustard,fruit/vegetable juice,waffles,dishes,shopping bags",8,1937,11,Hanan,22,Fayoum,Cash
+soda,1,355,11,Hanan,22,Fayoum,Cash
+"canned beer,newspapers",2,1314,11,Hanan,22,Fayoum,Cash
+pork,1,523,11,Hanan,22,Fayoum,Credit
+"long life bakery product,pot plants",2,362,11,Hanan,22,Fayoum,Cash
+"citrus fruit,tropical fruit,frozen meals,frozen dessert,rolls/buns,misc. beverages",6,416,11,Hanan,22,Fayoum,Cash
+"chocolate,napkins",2,2455,11,Hanan,22,Fayoum,Credit
+specialty chocolate,1,2290,11,Hanan,22,Fayoum,Credit
+"pork,frozen potato products,rolls/buns,margarine,coffee,female sanitary products",6,1670,11,Hanan,22,Fayoum,Cash
+"whole milk,cereals",2,582,11,Hanan,22,Fayoum,Credit
+canned beer,1,460,11,Hanan,22,Fayoum,Cash
+"other vegetables,margarine,coffee,canned beer,flower (seeds)",5,1709,11,Hanan,22,Fayoum,Credit
+"frankfurter,pork,whole milk,pastry,soda",5,1134,11,Hanan,22,Fayoum,Cash
+"sausage,UHT-milk",2,281,11,Hanan,22,Fayoum,Cash
+"frankfurter,pork,pip fruit,root vegetables,other vegetables,whole milk,butter milk,yogurt,cream cheese ,rolls/buns,brown bread,soda",12,1162,11,Hanan,22,Fayoum,Cash
+canned beer,1,126,11,Hanan,22,Fayoum,Credit
+"UHT-milk,bottled water,soda",3,460,11,Hanan,22,Fayoum,Cash
+"whole milk,dessert,butter milk",3,303,11,Hanan,22,Fayoum,Credit
+"frozen vegetables,bottled beer",2,1541,11,Hanan,22,Fayoum,Cash
+"soda,skin care",2,2330,11,Hanan,22,Fayoum,Cash
+canned beer,1,1691,11,Hanan,22,Fayoum,Cash
+"other vegetables,soda,bottled beer",3,1070,11,Hanan,22,Fayoum,Credit
+"tropical fruit,root vegetables,whole milk,rolls/buns,bottled water,napkins,dishes",7,1326,11,Hanan,22,Fayoum,Cash
+"citrus fruit,whole milk,soft cheese,rice,margarine,sugar,soups,bottled water",8,2233,11,Hanan,22,Fayoum,Cash
+"sausage,beef,whole milk,pastry",4,1376,11,Hanan,22,Fayoum,Cash
+"sausage,root vegetables,onions,herbs,other vegetables,UHT-milk,hard cheese,cream cheese ,frozen vegetables,rolls/buns,bottled water,soda,bottled beer,red/blush wine",14,2478,11,Hanan,22,Fayoum,Cash
+"onions,yogurt,ice cream",3,1055,11,Hanan,22,Fayoum,Cash
+"root vegetables,semi-finished bread,specialty bar",3,1406,11,Hanan,22,Fayoum,Credit
+canned beer,1,543,11,Hanan,22,Fayoum,Cash
+"bottled water,bottled beer",2,1573,11,Hanan,22,Fayoum,Cash
+"chicken,butter,UHT-milk,spread cheese,bottled beer,salty snack,waffles,chewing gum",8,546,11,Hanan,22,Fayoum,Credit
+"ham,meat,berries,other vegetables,whole milk,butter,yogurt,processed cheese,specialty cheese,white bread,margarine,specialty bar",12,297,11,Hanan,22,Fayoum,Credit
+"sausage,brown bread,roll products ,coffee,dish cleaner",5,2072,11,Hanan,22,Fayoum,Credit
+"ham,other vegetables,yogurt,domestic eggs,semi-finished bread,newspapers",6,1715,11,Hanan,22,Fayoum,Credit
+"whole milk,domestic eggs,cling film/bags",3,1593,11,Hanan,22,Fayoum,Cash
+"root vegetables,UHT-milk,rolls/buns,brown bread,pastry,bottled water",6,1550,11,Hanan,22,Fayoum,Cash
+dishes,1,1905,11,Hanan,22,Fayoum,Credit
+"sausage,ham,grapes,other vegetables,UHT-milk,frozen meals,frozen potato products,rolls/buns,waffles,chocolate,candy",11,836,11,Hanan,22,Fayoum,Credit
+shopping bags,1,1085,11,Hanan,22,Fayoum,Cash
+"bottled water,bottled beer",2,452,11,Hanan,22,Fayoum,Cash
+"whole milk,pastry",2,1430,11,Hanan,22,Fayoum,Cash
+misc. beverages,1,2228,11,Hanan,22,Fayoum,Cash
+sausage,1,631,11,Hanan,22,Fayoum,Credit
+"root vegetables,other vegetables,whole milk,specialty bar,dishes",5,654,11,Hanan,22,Fayoum,Credit
+"sausage,whole milk,yogurt,sliced cheese,rolls/buns,coffee,soda,canned beer,specialty bar",9,2263,11,Hanan,22,Fayoum,Cash
+"pork,root vegetables,cream cheese ,frozen fish,flour,sugar,decalcifier,shopping bags",8,2234,11,Hanan,22,Fayoum,Credit
+"tropical fruit,other vegetables,rolls/buns,white bread,bottled beer,pot plants",6,224,11,Hanan,22,Fayoum,Cash
+"sausage,finished products,beef,citrus fruit,onions,other vegetables,whole milk,dessert,frozen dessert,brown bread,canned vegetables,canned fruit,soda",13,2275,11,Hanan,22,Fayoum,Cash
+"pip fruit,sweet spreads",2,463,11,Hanan,22,Fayoum,Credit
+"pork,packaged fruit/vegetables,whole milk,white bread,liquor,chocolate marshmallow",6,940,11,Hanan,22,Fayoum,Cash
+"white wine,specialty bar",2,1754,11,Hanan,22,Fayoum,Cash
+"chicken,root vegetables,whole milk,butter milk,rolls/buns,soda,dish cleaner,baby cosmetics,kitchen towels",9,729,11,Hanan,22,Fayoum,Cash
+"berries,rolls/buns,pastry,soda,shopping bags",5,1759,11,Hanan,22,Fayoum,Cash
+"whole milk,cream cheese ,brown bread,misc. beverages,shopping bags",5,587,11,Hanan,22,Fayoum,Credit
+"sausage,tropical fruit,whole milk,rolls/buns,soda",5,760,11,Hanan,22,Fayoum,Credit
+"beef,berries,dessert,bottled water,hygiene articles",5,1653,11,Hanan,22,Fayoum,Cash
+"curd,meat spreads",2,1706,11,Hanan,22,Fayoum,Cash
+"citrus fruit,root vegetables,whole milk,coffee",4,573,11,Hanan,22,Fayoum,Cash
+"chicken,tropical fruit,brown bread,pickled vegetables,soda,canned beer",6,1583,11,Hanan,22,Fayoum,Credit
+semi-finished bread,1,2181,11,Hanan,22,Fayoum,Cash
+"finished products,seasonal products",2,969,11,Hanan,22,Fayoum,Credit
+shopping bags,1,471,11,Hanan,22,Fayoum,Credit
+shopping bags,1,2303,11,Hanan,22,Fayoum,Credit
+"coffee,soda",2,2162,11,Hanan,22,Fayoum,Credit
+"frankfurter,rolls/buns,chewing gum",3,2330,11,Hanan,22,Fayoum,Cash
+whole milk,1,1865,11,Hanan,22,Fayoum,Credit
+"root vegetables,other vegetables,dessert,whipped/sour cream,domestic eggs,pastry,chocolate,softener",8,1914,11,Hanan,22,Fayoum,Credit
+"canned beer,newspapers",2,929,11,Hanan,22,Fayoum,Credit
+"sausage,other vegetables,yogurt,whipped/sour cream,cream cheese ,soda,hygiene articles,cling film/bags",8,468,11,Hanan,22,Fayoum,Credit
+"other vegetables,whole milk,frozen fish,white bread,pickled vegetables,long life bakery product",6,2275,11,Hanan,22,Fayoum,Cash
+"margarine,fruit/vegetable juice",2,1163,11,Hanan,22,Fayoum,Credit
+"whole milk,rolls/buns,coffee,fruit/vegetable juice",4,252,11,Hanan,22,Fayoum,Cash
+liqueur,1,1578,11,Hanan,22,Fayoum,Credit
+canned beer,1,823,11,Hanan,22,Fayoum,Cash
+"tropical fruit,pip fruit",2,1340,11,Hanan,22,Fayoum,Cash
+"whole milk,domestic eggs,soda,canned beer,liquor (appetizer),shopping bags",6,1288,11,Hanan,22,Fayoum,Credit
+canned beer,1,1064,11,Hanan,22,Fayoum,Cash
+"chicken,tropical fruit,pip fruit,other vegetables,yogurt,soft cheese,domestic eggs,roll products ,fruit/vegetable juice,dish cleaner",10,497,11,Hanan,22,Fayoum,Credit
+"butter,yogurt,rolls/buns,soda",4,1952,11,Hanan,22,Fayoum,Cash
+"rolls/buns,long life bakery product,candy,shopping bags",4,1694,11,Hanan,22,Fayoum,Credit
+canned beer,1,733,11,Hanan,22,Fayoum,Cash
+"whole milk,whipped/sour cream,rolls/buns,pot plants",4,1906,11,Hanan,22,Fayoum,Credit
+chocolate,1,2465,11,Hanan,22,Fayoum,Cash
+"whole milk,rolls/buns,semi-finished bread",3,2002,11,Hanan,22,Fayoum,Cash
+canned beer,1,223,11,Hanan,22,Fayoum,Credit
+other vegetables,1,1481,11,Hanan,22,Fayoum,Cash
+canned beer,1,2391,11,Hanan,22,Fayoum,Credit
+"rolls/buns,baking powder,soda",3,958,11,Hanan,22,Fayoum,Credit
+"liver loaf,citrus fruit,other vegetables,curd,salad dressing,semi-finished bread,abrasive cleaner",7,786,11,Hanan,22,Fayoum,Credit
+frankfurter,1,766,11,Hanan,22,Fayoum,Cash
+"white bread,long life bakery product,shopping bags",3,2090,11,Hanan,22,Fayoum,Credit
+"chicken,turkey,whole milk,butter,curd,cream cheese ",6,1063,11,Hanan,22,Fayoum,Credit
+rolls/buns,1,2227,11,Hanan,22,Fayoum,Credit
+"sausage,whole milk,rolls/buns",3,386,11,Hanan,22,Fayoum,Cash
+pot plants,1,381,11,Hanan,22,Fayoum,Credit
+"beef,root vegetables,jam,toilet cleaner",4,2451,11,Hanan,22,Fayoum,Cash
+"frankfurter,root vegetables,onions,other vegetables,butter,domestic eggs,pasta,canned beer",8,2176,11,Hanan,22,Fayoum,Credit
+"curd,yogurt,whipped/sour cream,ice cream",4,1141,11,Hanan,22,Fayoum,Credit
+"chicken,berries,other vegetables,pastry,roll products ,oil,sugar",7,1999,11,Hanan,22,Fayoum,Cash
+"pork,rolls/buns,liquor,salty snack,popcorn",5,132,11,Hanan,22,Fayoum,Credit
+"citrus fruit,tropical fruit,coffee,soda,fruit/vegetable juice,canned beer,candy",7,242,11,Hanan,22,Fayoum,Cash
+"frozen meals,specialty bar",2,375,11,Hanan,22,Fayoum,Cash
+"beef,whole milk,butter,yogurt,frozen vegetables,domestic eggs,rolls/buns,coffee,bottled beer,skin care",10,994,11,Hanan,22,Fayoum,Cash
+"sausage,citrus fruit,root vegetables,other vegetables,rolls/buns,soda,fruit/vegetable juice,bottled beer,dental care",9,929,11,Hanan,22,Fayoum,Credit
+"pork,margarine,dishes",3,1028,11,Hanan,22,Fayoum,Cash
+"frankfurter,rolls/buns,dishes,shopping bags",4,835,11,Hanan,22,Fayoum,Cash
+"chicken,pork,citrus fruit,berries,yogurt",5,225,11,Hanan,22,Fayoum,Credit
+"finished products,cat food,shopping bags",3,605,11,Hanan,22,Fayoum,Cash
+"chicken,pork,other vegetables,UHT-milk,white bread,pastry,pasta,soda,specialty bar",9,417,11,Hanan,22,Fayoum,Credit
+"whole milk,sugar,cling film/bags",3,2140,11,Hanan,22,Fayoum,Credit
+"meat,curd,yogurt,ice cream,oil,canned fish,soda,fruit/vegetable juice,seasonal products",9,2122,11,Hanan,22,Fayoum,Cash
+bottled beer,1,587,11,Hanan,22,Fayoum,Credit
+"tropical fruit,processed cheese,domestic eggs,soda,bottled beer",5,1915,11,Hanan,22,Fayoum,Cash
+"tropical fruit,pip fruit,yogurt,frozen vegetables,artif. sweetener",5,2163,11,Hanan,22,Fayoum,Cash
+"sausage,tropical fruit,other vegetables,butter,butter milk,whipped/sour cream,cream,processed cheese,ice cream,white bread,spices,soda,fruit/vegetable juice,salty snack",14,227,11,Hanan,22,Fayoum,Credit
+"whole milk,whipped/sour cream,pudding powder",3,940,11,Hanan,22,Fayoum,Credit
+"tropical fruit,ice cream,frozen dessert",3,2083,11,Hanan,22,Fayoum,Cash
+"bottled beer,shopping bags",2,2032,11,Hanan,22,Fayoum,Cash
+"bottled beer,liquor (appetizer),dishes",3,246,11,Hanan,22,Fayoum,Credit
+"rolls/buns,soda",2,2255,11,Hanan,22,Fayoum,Cash
+"citrus fruit,pip fruit,whole milk,margarine",4,1420,11,Hanan,22,Fayoum,Credit
+"butter,sliced cheese,frozen meals,rolls/buns,brown bread,canned fruit,fruit/vegetable juice,long life bakery product",8,1319,11,Hanan,22,Fayoum,Credit
+"pork,citrus fruit,pip fruit,other vegetables,whole milk,pudding powder",6,1683,11,Hanan,22,Fayoum,Cash
+"meat,other vegetables,whole milk,rolls/buns,sugar,coffee,bottled water,fruit/vegetable juice",8,554,11,Hanan,22,Fayoum,Cash
+"whole milk,rolls/buns,brown bread,bottled water,bottled beer",5,721,11,Hanan,22,Fayoum,Credit
+"sausage,citrus fruit,other vegetables,whipped/sour cream,frozen vegetables,margarine,bottled beer,hygiene articles",8,698,11,Hanan,22,Fayoum,Credit
+"chicken,pork,tropical fruit,whipped/sour cream,oil,coffee,soda,shopping bags",8,219,11,Hanan,22,Fayoum,Cash
+canned beer,1,1055,11,Hanan,22,Fayoum,Credit
+"hamburger meat,margarine,soda,bathroom cleaner",4,2058,11,Hanan,22,Fayoum,Cash
+"skin care,napkins",2,924,11,Hanan,22,Fayoum,Cash
+"pip fruit,whole milk,ready soups,canned fish,soda",5,2361,11,Hanan,22,Fayoum,Credit
+"rolls/buns,red/blush wine",2,641,11,Hanan,22,Fayoum,Credit
+"soda,bottled beer,liquor,red/blush wine",4,810,11,Hanan,22,Fayoum,Credit
+"pip fruit,soda",2,1038,11,Hanan,22,Fayoum,Cash
+"curd,UHT-milk,bottled water",3,508,11,Hanan,22,Fayoum,Cash
+"citrus fruit,root vegetables,onions,whole milk,brown bread",5,1996,11,Hanan,22,Fayoum,Cash
+"pork,tropical fruit",2,787,11,Hanan,22,Fayoum,Cash
+"sausage,pork,whole milk,pastry",4,2403,11,Hanan,22,Fayoum,Cash
+"meat,finished products,other vegetables,rolls/buns,brown bread,soda,white wine",7,978,11,Hanan,22,Fayoum,Credit
+"citrus fruit,misc. beverages",2,1573,11,Hanan,22,Fayoum,Cash
+"sausage,beverages,rolls/buns",3,621,11,Hanan,22,Fayoum,Credit
+"tropical fruit,pip fruit,grapes,packaged fruit/vegetables,coffee",5,1619,11,Hanan,22,Fayoum,Cash
+bottled beer,1,1041,11,Hanan,22,Fayoum,Cash
+"other vegetables,butter milk,frozen meals,ice cream,pastry",5,1405,11,Hanan,22,Fayoum,Cash
+"misc. beverages,napkins",2,375,11,Hanan,22,Fayoum,Cash
+"meat,citrus fruit,yogurt,brown bread,cat food,bottled water,chocolate,napkins",8,1850,11,Hanan,22,Fayoum,Credit
+"pip fruit,whipped/sour cream",2,1889,11,Hanan,22,Fayoum,Cash
+"frankfurter,sausage,other vegetables,white bread,pickled vegetables,waffles,shopping bags",7,1799,11,Hanan,22,Fayoum,Cash
+chocolate,1,1558,11,Hanan,22,Fayoum,Cash
+"sausage,other vegetables",2,1111,11,Hanan,22,Fayoum,Credit
+"cat food,misc. beverages,female sanitary products",3,371,11,Hanan,22,Fayoum,Credit
+"hamburger meat,whipped/sour cream,cream cheese ,rolls/buns,pasta,canned fish,popcorn",7,1998,11,Hanan,22,Fayoum,Credit
+"tropical fruit,seasonal products",2,1442,11,Hanan,22,Fayoum,Credit
+"instant coffee,canned beer",2,1794,11,Hanan,22,Fayoum,Cash
+"waffles,specialty chocolate",2,1001,11,Hanan,22,Fayoum,Credit
+"whole milk,margarine,soda",3,1446,11,Hanan,22,Fayoum,Cash
+"whole milk,bottled beer",2,421,11,Hanan,22,Fayoum,Credit
+whisky,1,2428,11,Hanan,22,Fayoum,Credit
+soda,1,828,11,Hanan,22,Fayoum,Cash
+"chocolate,specialty chocolate",2,344,11,Hanan,22,Fayoum,Cash
+"tropical fruit,pip fruit,processed cheese,rolls/buns,misc. beverages,fruit/vegetable juice,candy",7,2243,11,Hanan,22,Fayoum,Cash
+"frankfurter,tropical fruit,pip fruit,dessert,beverages,domestic eggs,flour,margarine,Instant food products,canned fruit,jam",11,2303,11,Hanan,22,Fayoum,Cash
+"coffee,instant coffee",2,1909,11,Hanan,22,Fayoum,Credit
+"other vegetables,curd,pastry,pasta,hygiene articles,flower (seeds)",6,479,11,Hanan,22,Fayoum,Credit
+"coffee,tea",2,1927,11,Hanan,22,Fayoum,Cash
+"other vegetables,coffee,soda,dental care",4,2116,11,Hanan,22,Fayoum,Credit
+"pastry,margarine,coffee",3,2241,11,Hanan,22,Fayoum,Cash
+"pip fruit,whole milk",2,1497,11,Hanan,22,Fayoum,Credit
+"tropical fruit,pip fruit,whole milk,cream cheese ,frozen vegetables,ice cream,bottled water,shopping bags",8,1925,11,Hanan,22,Fayoum,Credit
+"bottled water,waffles,chocolate",3,1876,11,Hanan,22,Fayoum,Cash
+"hamburger meat,onions,ice cream,misc. beverages,shopping bags",5,1595,11,Hanan,22,Fayoum,Credit
+"rolls/buns,pastry,semi-finished bread",3,1712,11,Hanan,22,Fayoum,Cash
+"salt,salty snack",2,2424,11,Hanan,22,Fayoum,Credit
+root vegetables,1,802,11,Hanan,22,Fayoum,Credit
+"pork,pip fruit,frozen vegetables,brown bread",4,820,11,Hanan,22,Fayoum,Credit
+"tropical fruit,bottled water,white wine,newspapers",4,901,11,Hanan,22,Fayoum,Cash
+"citrus fruit,curd,yogurt,newspapers",4,2214,11,Hanan,22,Fayoum,Cash
+"beef,citrus fruit,root vegetables,whole milk,bottled water,newspapers",6,650,11,Hanan,22,Fayoum,Cash
+"tropical fruit,bottled water",2,1883,11,Hanan,22,Fayoum,Cash
+"sausage,pork,white wine",3,1710,11,Hanan,22,Fayoum,Credit
+"sausage,berries,rolls/buns,chewing gum,shopping bags",5,1728,11,Hanan,22,Fayoum,Cash
+other vegetables,1,790,11,Hanan,22,Fayoum,Cash
+artif. sweetener,1,271,11,Hanan,22,Fayoum,Cash
+"pork,salad dressing,oil,sauces,coffee,soda,canned beer,liquor (appetizer),candy,newspapers",10,1690,11,Hanan,22,Fayoum,Cash
+"chicken,grapes,root vegetables,whole milk,domestic eggs,detergent,newspapers",7,1322,11,Hanan,22,Fayoum,Cash
+"sausage,pip fruit,root vegetables,onions,whole milk,butter,dessert,soft cheese,cream cheese ,specialty cheese,domestic eggs,salt,pasta,vinegar,oil,mustard,ketchup,canned vegetables,pickled vegetables,canned fish,instant coffee,tea,misc. beverages,bottled beer,white wine,chocolate,abrasive cleaner,hygiene articles",28,1157,11,Hanan,22,Fayoum,Cash
+"citrus fruit,tropical fruit,onions,UHT-milk,specialty fat,instant coffee,bottled water,soda,fruit/vegetable juice,bottled beer,salty snack,newspapers",12,195,11,Hanan,22,Fayoum,Cash
+"whole milk,rolls/buns",2,435,11,Hanan,22,Fayoum,Cash
+"turkey,pip fruit,other vegetables,whole milk,frozen vegetables",5,966,11,Hanan,22,Fayoum,Cash
+"pork,other vegetables,whole milk,butter,whipped/sour cream,hard cheese,cat food,pet care,coffee,liquor,napkins,dishes,kitchen towels",13,2224,11,Hanan,22,Fayoum,Cash
+"root vegetables,whole milk,condensed milk,frozen vegetables,rolls/buns,white bread",6,1164,11,Hanan,22,Fayoum,Cash
+"root vegetables,herbs,other vegetables,whole milk,butter milk,whipped/sour cream,shopping bags",7,1613,11,Hanan,22,Fayoum,Cash
+"root vegetables,herbs,whole milk,butter,curd,rolls/buns,soda,chocolate,candy",9,1797,11,Hanan,22,Fayoum,Cash
+"frankfurter,pip fruit,whole milk,soda",4,1615,11,Hanan,22,Fayoum,Cash
+"tropical fruit,berries,root vegetables,other vegetables,whole milk,cream cheese ,frozen meals,white bread,soda,salty snack,napkins,shopping bags",12,870,11,Hanan,22,Fayoum,Credit
+"pip fruit,whole milk,yogurt,specialty cheese,domestic eggs,salty snack,photo/film",7,520,11,Hanan,22,Fayoum,Cash
+"whole milk,yogurt,bottled beer",3,2333,11,Hanan,22,Fayoum,Credit
+"tropical fruit,root vegetables,domestic eggs",3,947,11,Hanan,22,Fayoum,Cash
+soda,1,1299,11,Hanan,22,Fayoum,Cash
+sugar,1,1659,11,Hanan,22,Fayoum,Credit
+"citrus fruit,pip fruit,berries,frozen fish,white bread,pastry,long life bakery product,waffles,specialty bar,newspapers",10,815,11,Hanan,22,Fayoum,Credit
+"frankfurter,sausage,tropical fruit,whole milk,yogurt,whipped/sour cream,white bread,flour,oil,soda,hygiene articles",11,966,11,Hanan,22,Fayoum,Credit
+"whole milk,bottled beer,rum",3,1263,11,Hanan,22,Fayoum,Cash
+"chicken,soda",2,760,11,Hanan,22,Fayoum,Credit
+"tropical fruit,yogurt,rolls/buns",3,1297,11,Hanan,22,Fayoum,Cash
+"tropical fruit,other vegetables,pickled vegetables",3,1753,11,Hanan,22,Fayoum,Credit
+"cream cheese ,spread cheese",2,1768,11,Hanan,22,Fayoum,Cash
+"rolls/buns,specialty bar",2,908,11,Hanan,22,Fayoum,Credit
+"beverages,brown bread,pastry,soda,newspapers,shopping bags",6,546,11,Hanan,22,Fayoum,Credit
+"beef,root vegetables,white bread,soda",4,316,11,Hanan,22,Fayoum,Cash
+"domestic eggs,salty snack,popcorn,napkins",4,252,11,Hanan,22,Fayoum,Credit
+"pork,other vegetables,curd,whipped/sour cream,brown bread,oil,sugar,ketchup,salty snack",9,1923,11,Hanan,22,Fayoum,Cash
+"frozen fish,sugar,cake bar,chocolate marshmallow,candy",5,170,11,Hanan,22,Fayoum,Credit
+"sausage,packaged fruit/vegetables,whole milk,dessert,beverages,frozen vegetables,domestic eggs,brown bread,pastry,margarine,mustard,coffee,soda,bottled beer",14,2232,11,Hanan,22,Fayoum,Credit
+"curd,dog food,bottled beer",3,2270,11,Hanan,22,Fayoum,Cash
+"pork,other vegetables,whole milk,yogurt,frozen fish,rolls/buns,roll products ,flour,specialty fat,sugar,bottled water,soda",12,708,11,Hanan,22,Fayoum,Credit
+"chicken,beef,tropical fruit,berries,frozen vegetables,zwieback,dishes",7,1599,11,Hanan,22,Fayoum,Cash
+rolls/buns,1,1343,11,Hanan,22,Fayoum,Cash
+"whole milk,soda",2,1986,11,Hanan,22,Fayoum,Credit
+"root vegetables,other vegetables,yogurt,processed cheese,pickled vegetables,newspapers",6,198,11,Hanan,22,Fayoum,Cash
+"pastry,soda",2,165,11,Hanan,22,Fayoum,Cash
+"soda,fruit/vegetable juice",2,776,11,Hanan,22,Fayoum,Credit
+"berries,whipped/sour cream,domestic eggs",3,2494,11,Hanan,22,Fayoum,Credit
+"chicken,other vegetables",2,2063,11,Hanan,22,Fayoum,Cash
+pork,1,635,11,Hanan,22,Fayoum,Credit
+"frankfurter,hamburger meat,beverages,shopping bags",4,1222,11,Hanan,22,Fayoum,Cash
+"citrus fruit,tropical fruit,onions,packaged fruit/vegetables,yogurt,napkins",6,1218,11,Hanan,22,Fayoum,Credit
+"sausage,tropical fruit,root vegetables,other vegetables,cream cheese ,pickled vegetables,candles",7,2033,11,Hanan,22,Fayoum,Cash
+other vegetables,1,158,11,Hanan,22,Fayoum,Cash
+"ham,root vegetables,whole milk,butter,whipped/sour cream,hard cheese,rolls/buns",7,1499,11,Hanan,22,Fayoum,Credit
+"turkey,beef,root vegetables,whole milk",4,197,11,Hanan,22,Fayoum,Cash
+"chicken,other vegetables,whole milk,frozen vegetables,rolls/buns,pastry",6,1051,11,Hanan,22,Fayoum,Cash
+rolls/buns,1,1356,11,Hanan,22,Fayoum,Credit
+"pip fruit,whole milk,yogurt,pastry,seasonal products,male cosmetics",6,2073,11,Hanan,22,Fayoum,Credit
+"chicken,packaged fruit/vegetables,frozen vegetables,frozen meals,misc. beverages,newspapers,flower (seeds)",7,1076,11,Hanan,22,Fayoum,Credit
+soda,1,1915,11,Hanan,22,Fayoum,Cash
+"onions,other vegetables,UHT-milk,condensed milk,cream cheese ,salt,sugar,dog food,soda",9,1932,11,Hanan,22,Fayoum,Credit
+shopping bags,1,492,11,Hanan,22,Fayoum,Cash
+"pastry,soda",2,1372,11,Hanan,22,Fayoum,Credit
+chicken,1,1637,11,Hanan,22,Fayoum,Credit
+"domestic eggs,rolls/buns",2,473,11,Hanan,22,Fayoum,Cash
+"citrus fruit,other vegetables,hard cheese,spices,coffee,canned beer,chocolate,candy,flower (seeds),shopping bags",10,1884,11,Hanan,22,Fayoum,Cash
+ice cream,1,1225,11,Hanan,22,Fayoum,Cash
+"frozen meals,soda",2,2056,11,Hanan,22,Fayoum,Cash
+"tropical fruit,butter milk,domestic eggs,rolls/buns,bottled water,soda,fruit/vegetable juice",7,1711,11,Hanan,22,Fayoum,Credit
+"other vegetables,roll products ,bottled water,bottled beer",4,2044,11,Hanan,22,Fayoum,Credit
+"pork,tropical fruit,waffles,newspapers",4,1579,11,Hanan,22,Fayoum,Cash
+"ham,rolls/buns,bottled beer",3,667,11,Hanan,22,Fayoum,Cash
+dish cleaner,1,1561,11,Hanan,22,Fayoum,Credit
+"whole milk,dessert,pastry,long life bakery product",4,1793,11,Hanan,22,Fayoum,Cash
+pip fruit,1,1075,11,Hanan,22,Fayoum,Cash
+"sausage,root vegetables,other vegetables,dessert,napkins",5,1450,11,Hanan,22,Fayoum,Cash
+"berries,newspapers",2,403,11,Hanan,22,Fayoum,Credit
+"frankfurter,chicken,root vegetables,other vegetables,whole milk,dessert,butter milk,yogurt,whipped/sour cream,sliced cheese,hard cheese,pastry,semi-finished bread,flour,pasta,canned vegetables,specialty chocolate,male cosmetics,newspapers,shopping bags",20,878,11,Hanan,22,Fayoum,Credit
+salty snack,1,786,11,Hanan,22,Fayoum,Cash
+"citrus fruit,tropical fruit,whole milk,yogurt,soft cheese,cat food,bottled water,chocolate,specialty chocolate",9,1420,11,Hanan,22,Fayoum,Credit
+"citrus fruit,tropical fruit,rolls/buns,oil,mustard,soups,sweet spreads,soda,syrup,canned beer,waffles,chocolate,specialty bar,dish cleaner,baby cosmetics,cookware",16,2350,11,Hanan,22,Fayoum,Credit
+"tropical fruit,brown bread,margarine,cat food,detergent,cling film/bags,newspapers",7,1678,11,Hanan,22,Fayoum,Cash
+"whipped/sour cream,candy",2,306,11,Hanan,22,Fayoum,Credit
+"hamburger meat,tropical fruit,root vegetables,other vegetables,yogurt,whipped/sour cream,cream cheese ,rolls/buns,baking powder",9,1029,11,Hanan,22,Fayoum,Cash
+whole milk,1,713,11,Hanan,22,Fayoum,Credit
+"citrus fruit,berries,whole milk,butter milk,whipped/sour cream,frozen vegetables,mustard,baking powder,soda,fruit/vegetable juice,liquor (appetizer),nut snack,cooking chocolate",13,294,11,Hanan,22,Fayoum,Cash
+whole milk,1,747,11,Hanan,22,Fayoum,Credit
+"whole milk,bottled water,pot plants",3,825,11,Hanan,22,Fayoum,Credit
+whipped/sour cream,1,417,11,Hanan,22,Fayoum,Credit
+"rolls/buns,roll products ,cat food,shopping bags",4,1915,11,Hanan,22,Fayoum,Credit
+oil,1,1984,11,Hanan,22,Fayoum,Cash
+"yogurt,soft cheese",2,1131,11,Hanan,22,Fayoum,Cash
+"dessert,misc. beverages,fruit/vegetable juice",3,745,11,Hanan,22,Fayoum,Credit
+"whole milk,canned fish,bottled beer,abrasive cleaner,cleaner",5,120,11,Hanan,22,Fayoum,Credit
+specialty chocolate,1,2024,11,Hanan,22,Fayoum,Cash
+"canned vegetables,female sanitary products,shopping bags",3,1379,11,Hanan,22,Fayoum,Credit
+"bottled water,bottled beer",2,678,11,Hanan,22,Fayoum,Cash
+tropical fruit,1,674,11,Hanan,22,Fayoum,Credit
+"tropical fruit,other vegetables,packaged fruit/vegetables,butter,bottled water",5,309,11,Hanan,22,Fayoum,Credit
+"sausage,pip fruit,root vegetables,whole milk,butter,domestic eggs,brown bread,cereals,baking powder,fruit/vegetable juice,long life bakery product,chocolate",12,1339,11,Hanan,22,Fayoum,Credit
+"coffee,seasonal products,shopping bags",3,103,11,Hanan,22,Fayoum,Credit
+"oil,canned beer",2,497,11,Hanan,22,Fayoum,Credit
+"dessert,flower soil/fertilizer,flower (seeds)",3,2159,11,Hanan,22,Fayoum,Credit
+"pork,bottled water,white wine",3,621,11,Hanan,22,Fayoum,Credit
+"yogurt,frozen meals,soda",3,946,11,Hanan,22,Fayoum,Cash
+frozen vegetables,1,2160,11,Hanan,22,Fayoum,Credit
+canned beer,1,688,11,Hanan,22,Fayoum,Cash
+"frankfurter,pastry,soda",3,1872,11,Hanan,22,Fayoum,Credit
+"sausage,chicken,other vegetables,whole milk,whipped/sour cream,hard cheese,frozen meals,rolls/buns,cereals,coffee,nut snack,cake bar,cleaner,skin care,female sanitary products,house keeping products",16,1835,11,Hanan,22,Fayoum,Cash
+"whole milk,whipped/sour cream",2,1360,11,Hanan,22,Fayoum,Cash
+"pork,citrus fruit,tropical fruit,pip fruit",4,1959,11,Hanan,22,Fayoum,Credit
+canned beer,1,718,11,Hanan,22,Fayoum,Cash
+"whole milk,rolls/buns,bottled water",3,1552,11,Hanan,22,Fayoum,Credit
+"sausage,root vegetables,frozen vegetables,frozen meals,rolls/buns,bottled water",6,1479,11,Hanan,22,Fayoum,Credit
+citrus fruit,1,1210,11,Hanan,22,Fayoum,Credit
+"curd,Instant food products,specialty bar",3,1678,11,Hanan,22,Fayoum,Cash
+"grapes,berries",2,2056,11,Hanan,22,Fayoum,Credit
+"bottled beer,red/blush wine",2,834,11,Hanan,22,Fayoum,Cash
+"nuts/prunes,whole milk,rolls/buns,waffles,chocolate,newspapers",6,694,11,Hanan,22,Fayoum,Credit
+"other vegetables,butter milk,yogurt",3,1735,11,Hanan,22,Fayoum,Credit
+grapes,1,361,11,Hanan,22,Fayoum,Cash
+"bottled beer,prosecco",2,967,11,Hanan,22,Fayoum,Credit
+instant coffee,1,833,11,Hanan,22,Fayoum,Cash
+"citrus fruit,tropical fruit,pip fruit,other vegetables,zwieback,shopping bags",6,2242,11,Hanan,22,Fayoum,Cash
+"whole milk,mustard",2,1312,11,Hanan,22,Fayoum,Cash
+"whole milk,rolls/buns",2,726,11,Hanan,22,Fayoum,Credit
+"whole milk,rolls/buns,nut snack",3,581,11,Hanan,22,Fayoum,Credit
+"whole milk,pickled vegetables",2,1360,11,Hanan,22,Fayoum,Credit
+"other vegetables,yogurt,specialty cheese,bottled water",4,582,11,Hanan,22,Fayoum,Cash
+"beef,citrus fruit,butter,domestic eggs,flour,margarine,baking powder,long life bakery product",8,528,11,Hanan,22,Fayoum,Credit
+"tropical fruit,root vegetables,yogurt,cream cheese ,processed cheese,brown bread,ketchup,salty snack,waffles,candy",10,125,11,Hanan,22,Fayoum,Credit
+"yogurt,bottled beer,white wine",3,408,11,Hanan,22,Fayoum,Credit
+frozen potato products,1,1317,11,Hanan,22,Fayoum,Credit
+"tropical fruit,frozen dessert",2,1131,11,Hanan,22,Fayoum,Credit
+"curd,ice cream,pasta,cat food",4,1943,11,Hanan,22,Fayoum,Cash
+"bottled water,canned beer,candy",3,2459,11,Hanan,22,Fayoum,Credit
+"sausage,rolls/buns,bottled beer",3,2180,11,Hanan,22,Fayoum,Credit
+bottled beer,1,1620,11,Hanan,22,Fayoum,Credit
+"other vegetables,brown bread,spices,white wine",4,919,11,Hanan,22,Fayoum,Credit
+bottled beer,1,1131,11,Hanan,22,Fayoum,Cash
+"pip fruit,root vegetables,curd,hard cheese,specialty cheese",5,628,11,Hanan,22,Fayoum,Credit
+"ham,pip fruit,domestic eggs,pastry,semi-finished bread,cat food,newspapers",7,239,11,Hanan,22,Fayoum,Cash
+"hamburger meat,pip fruit,curd,dessert,cream cheese ,rolls/buns,brown bread",7,383,11,Hanan,22,Fayoum,Cash
+"root vegetables,margarine,pet care",3,2118,11,Hanan,22,Fayoum,Cash
+"tropical fruit,rolls/buns,newspapers",3,2186,11,Hanan,22,Fayoum,Credit
+"sausage,pip fruit,root vegetables,other vegetables,whole milk,yogurt,pastry,soda,napkins,shopping bags",10,1389,11,Hanan,22,Fayoum,Cash
+"berries,other vegetables,yogurt,frozen fish,oil,margarine,salty snack",7,817,11,Hanan,22,Fayoum,Cash
+beverages,1,1612,11,Hanan,22,Fayoum,Cash
+"sausage,finished products,semi-finished bread,soda",4,2142,11,Hanan,22,Fayoum,Credit
+shopping bags,1,818,11,Hanan,22,Fayoum,Cash
+"curd,fruit/vegetable juice,specialty chocolate",3,1262,11,Hanan,22,Fayoum,Credit
+"baking powder,coffee,canned beer",3,188,11,Hanan,22,Fayoum,Cash
+long life bakery product,1,2279,11,Hanan,22,Fayoum,Cash
+cookware,1,1658,11,Hanan,22,Fayoum,Credit
+"pork,packaged fruit/vegetables,ice cream,oil,detergent",5,1252,11,Hanan,22,Fayoum,Cash
+"berries,root vegetables,whole milk,butter,rolls/buns,salty snack",6,2499,11,Hanan,22,Fayoum,Cash
+"frozen potato products,ketchup,chocolate,hygiene articles,shopping bags",5,2371,11,Hanan,22,Fayoum,Credit
+"other vegetables,ice cream",2,831,11,Hanan,22,Fayoum,Credit
+"yogurt,napkins",2,1081,11,Hanan,22,Fayoum,Cash
+"pork,beef,whole milk,frozen vegetables,sugar,canned beer,detergent,skin care,napkins,flower (seeds)",10,288,11,Hanan,22,Fayoum,Cash
+"pork,tropical fruit,processed cheese,specialty vegetables,bottled water,soda,bottled beer",7,1612,11,Hanan,22,Fayoum,Cash
+"sausage,rolls/buns",2,2127,11,Hanan,22,Fayoum,Credit
+rolls/buns,1,965,11,Hanan,22,Fayoum,Credit
+"beef,pip fruit,other vegetables,whole milk,frozen vegetables,rolls/buns",6,1878,11,Hanan,22,Fayoum,Credit
+"sausage,root vegetables,other vegetables,frozen vegetables,rolls/buns,white bread,baking powder,bottled beer,detergent",9,2386,11,Hanan,22,Fayoum,Credit
+"frankfurter,beef,berries,other vegetables,whole milk",5,1955,11,Hanan,22,Fayoum,Cash
+"hamburger meat,packaged fruit/vegetables,whole milk,whipped/sour cream,rolls/buns,bottled water,salty snack,chewing gum",8,1014,11,Hanan,22,Fayoum,Cash
+"beef,sugar,canned beer",3,802,11,Hanan,22,Fayoum,Cash
+"domestic eggs,rolls/buns,coffee,canned beer,brandy,chocolate,shopping bags",7,164,11,Hanan,22,Fayoum,Credit
+"pet care,soda,chocolate,candy",4,996,11,Hanan,22,Fayoum,Cash
+"yogurt,frozen vegetables,shopping bags",3,991,11,Hanan,22,Fayoum,Cash
+newspapers,1,593,11,Hanan,22,Fayoum,Cash
+"other vegetables,whole milk,domestic eggs,margarine,fruit/vegetable juice",5,967,11,Hanan,22,Fayoum,Credit
+beverages,1,1645,11,Hanan,22,Fayoum,Credit
+"pastry,soda,specialty bar",3,1133,11,Hanan,22,Fayoum,Cash
+"rolls/buns,brown bread",2,1122,11,Hanan,22,Fayoum,Cash
+"soda,specialty chocolate",2,345,11,Hanan,22,Fayoum,Credit
+canned beer,1,506,11,Hanan,22,Fayoum,Cash
+"tropical fruit,soda",2,1510,11,Hanan,22,Fayoum,Cash
+"butter,pastry,long life bakery product,shopping bags",4,186,11,Hanan,22,Fayoum,Cash
+"whole milk,cocoa drinks,shopping bags",3,1403,11,Hanan,22,Fayoum,Cash
+"other vegetables,whole milk,yogurt,whipped/sour cream,meat spreads,instant coffee,soda",7,1224,11,Hanan,22,Fayoum,Cash
+"spread cheese,brown bread,canned beer,red/blush wine",4,1842,11,Hanan,22,Fayoum,Credit
+"frankfurter,root vegetables,frozen vegetables,white bread,bathroom cleaner",5,746,11,Hanan,22,Fayoum,Cash
+"grapes,rolls/buns,long life bakery product,candy",4,1049,11,Hanan,22,Fayoum,Cash
+citrus fruit,1,2478,11,Hanan,22,Fayoum,Cash
+white wine,1,1997,11,Hanan,22,Fayoum,Cash
+whole milk,1,144,11,Hanan,22,Fayoum,Cash
+"bottled beer,liquor,red/blush wine,waffles,candy,napkins,shopping bags",7,1625,11,Hanan,22,Fayoum,Credit
+"rolls/buns,dishes",2,717,11,Hanan,22,Fayoum,Cash
+"beverages,cream cheese ",2,2229,11,Hanan,22,Fayoum,Cash
+"other vegetables,condensed milk,soda,misc. beverages",4,870,11,Hanan,22,Fayoum,Cash
+"herbs,butter,chocolate",3,247,11,Hanan,22,Fayoum,Cash
+"beef,frozen vegetables,rolls/buns,soda,chewing gum,photo/film",6,658,11,Hanan,22,Fayoum,Cash
+"chicken,root vegetables,whole milk",3,600,11,Hanan,22,Fayoum,Credit
+"whole milk,rolls/buns,pastry",3,276,11,Hanan,22,Fayoum,Cash
+tropical fruit,1,912,11,Hanan,22,Fayoum,Credit
+"curd cheese,rolls/buns",2,2335,11,Hanan,22,Fayoum,Credit
+soda,1,2477,11,Hanan,22,Fayoum,Cash
+"pork,beef,grapes,berries,root vegetables,other vegetables,packaged fruit/vegetables,yogurt,newspapers",9,888,11,Hanan,22,Fayoum,Credit
+frozen vegetables,1,994,11,Hanan,22,Fayoum,Cash
+"tropical fruit,pasta,candy",3,1297,11,Hanan,22,Fayoum,Credit
+soda,1,2283,11,Hanan,22,Fayoum,Cash
+"sausage,soda",2,424,11,Hanan,22,Fayoum,Credit
+domestic eggs,1,1431,11,Hanan,22,Fayoum,Cash
+"chicken,other vegetables,rolls/buns,shopping bags",4,1690,11,Hanan,22,Fayoum,Cash
+soda,1,1519,11,Hanan,22,Fayoum,Credit
+"pork,frozen vegetables",2,745,11,Hanan,22,Fayoum,Cash
+"yogurt,white wine",2,2101,11,Hanan,22,Fayoum,Cash
+popcorn,1,505,11,Hanan,22,Fayoum,Cash
+"meat,chicken,beef,whole milk,whipped/sour cream,fruit/vegetable juice",6,1144,11,Hanan,22,Fayoum,Cash
+misc. beverages,1,1829,11,Hanan,22,Fayoum,Credit
+canned beer,1,2122,11,Hanan,22,Fayoum,Cash
+"root vegetables,other vegetables,whole milk,flour",4,1859,11,Hanan,22,Fayoum,Credit
+newspapers,1,788,11,Hanan,22,Fayoum,Credit
+"beef,root vegetables,other vegetables,whipped/sour cream,rolls/buns,bottled beer",6,2121,11,Hanan,22,Fayoum,Credit
+"citrus fruit,newspapers",2,2138,11,Hanan,22,Fayoum,Cash
+"sausage,citrus fruit,grapes,curd,rolls/buns,brown bread,bottled beer",7,1367,11,Hanan,22,Fayoum,Credit
+"butter,UHT-milk,domestic eggs,waffles",4,1352,11,Hanan,22,Fayoum,Credit
+"citrus fruit,whole milk,whipped/sour cream,domestic eggs,salt,newspapers",6,302,11,Hanan,22,Fayoum,Cash
+whole milk,1,1436,11,Hanan,22,Fayoum,Credit
+"beef,yogurt,margarine",3,1147,11,Hanan,22,Fayoum,Credit
+"whole milk,pastry,sugar,newspapers",4,2453,11,Hanan,22,Fayoum,Cash
+"beverages,pastry,soda,misc. beverages,chocolate marshmallow",5,1003,11,Hanan,22,Fayoum,Credit
+"pork,other vegetables,whole milk,brown bread,pastry,sugar",6,2113,11,Hanan,22,Fayoum,Credit
+"rolls/buns,house keeping products,light bulbs",3,723,11,Hanan,22,Fayoum,Credit
+"processed cheese,soda,shopping bags",3,1544,11,Hanan,22,Fayoum,Cash
+"frankfurter,pasta,bottled beer",3,1572,11,Hanan,22,Fayoum,Credit
+"curd,yogurt",2,1722,11,Hanan,22,Fayoum,Cash
+canned beer,1,989,11,Hanan,22,Fayoum,Credit
+"hamburger meat,citrus fruit,tropical fruit,pip fruit,whole milk,yogurt,frozen meals,domestic eggs,brown bread,pasta,sugar,Instant food products,canned fish,soda,salty snack,popcorn,chocolate,dish cleaner,shopping bags",19,2411,11,Hanan,22,Fayoum,Credit
+"frankfurter,meat,pork,root vegetables,onions,whole milk,beverages,mayonnaise,soda,chocolate",10,687,11,Hanan,22,Fayoum,Cash
+"yogurt,bottled water,white wine",3,2330,11,Hanan,22,Fayoum,Cash
+dishes,1,178,11,Hanan,22,Fayoum,Credit
+"frankfurter,frozen potato products,pastry,bottled water,bottled beer",5,132,11,Hanan,22,Fayoum,Credit
+"frankfurter,ham,hamburger meat,other vegetables,margarine,specialty chocolate",6,1745,11,Hanan,22,Fayoum,Cash
+"chocolate,candy,shopping bags",3,557,11,Hanan,22,Fayoum,Credit
+spread cheese,1,2434,11,Hanan,22,Fayoum,Cash
+"frankfurter,whole milk,frozen vegetables,fruit/vegetable juice",4,1430,11,Hanan,22,Fayoum,Cash
+"frankfurter,tropical fruit,pip fruit,other vegetables,yogurt,whipped/sour cream,rolls/buns,bottled water,soda,misc. beverages,chocolate,specialty chocolate,candy,shopping bags",14,851,11,Hanan,22,Fayoum,Cash
+"domestic eggs,canned beer,liquor (appetizer),chocolate marshmallow,shopping bags",5,2039,11,Hanan,22,Fayoum,Credit
+"tropical fruit,yogurt,soda",3,1516,11,Hanan,22,Fayoum,Credit
+"dessert,butter milk,brown bread,canned beer,shopping bags",5,2059,11,Hanan,22,Fayoum,Cash
+"chicken,other vegetables,whole milk,yogurt,frozen vegetables,rolls/buns,oil,bottled beer,canned beer,long life bakery product",10,661,11,Hanan,22,Fayoum,Credit
+"baking powder,newspapers,flower (seeds)",3,2316,11,Hanan,22,Fayoum,Cash
+"pork,other vegetables,whole milk,rolls/buns",4,2338,11,Hanan,22,Fayoum,Cash
+"berries,root vegetables,whipped/sour cream,soda",4,209,11,Hanan,22,Fayoum,Credit
+"sausage,rolls/buns,canned beer",3,1576,11,Hanan,22,Fayoum,Cash
+"frankfurter,sausage,chicken,pork,tropical fruit,pip fruit,root vegetables,whole milk,dessert,cream cheese ,frozen vegetables,rolls/buns,white bread,cake bar,napkins,shopping bags",16,836,11,Hanan,22,Fayoum,Credit
+"meat,tropical fruit,other vegetables,frozen vegetables,rolls/buns,soda,napkins,dishes",8,1051,11,Hanan,22,Fayoum,Cash
+"citrus fruit,pickled vegetables,dog food,soda,salty snack,waffles,candy,dish cleaner,newspapers",9,440,11,Hanan,22,Fayoum,Cash
+"bottled water,napkins",2,383,11,Hanan,22,Fayoum,Cash
+"citrus fruit,tropical fruit,grapes,berries,other vegetables,whole milk,UHT-milk,bottled water,fruit/vegetable juice",9,1988,11,Hanan,22,Fayoum,Credit
+"sugar,bottled water,soda,fruit/vegetable juice,salty snack,popcorn",6,985,11,Hanan,22,Fayoum,Credit
+"root vegetables,other vegetables,whole milk,butter,whipped/sour cream,soft cheese,rolls/buns,white bread,margarine,cocoa drinks,flower (seeds)",11,1552,11,Hanan,22,Fayoum,Cash
+rolls/buns,1,2227,11,Hanan,22,Fayoum,Cash
+"bottled water,soda,bottled beer,waffles,chocolate,dishes",6,1907,11,Hanan,22,Fayoum,Credit
+"frankfurter,root vegetables,other vegetables,hard cheese",4,1084,11,Hanan,22,Fayoum,Credit
+"whole milk,curd,cream cheese ,cereals,cat food,coffee,waffles",7,1634,11,Hanan,22,Fayoum,Credit
+waffles,1,346,11,Hanan,22,Fayoum,Cash
+"UHT-milk,soda",2,2019,11,Hanan,22,Fayoum,Credit
+"bottled water,soda,misc. beverages,bottled beer",4,1650,11,Hanan,22,Fayoum,Cash
+"detergent,flower (seeds)",2,706,11,Hanan,22,Fayoum,Cash
+"bottled beer,liquor,chewing gum",3,401,11,Hanan,22,Fayoum,Cash
+frozen vegetables,1,1733,11,Hanan,22,Fayoum,Cash
+"frankfurter,light bulbs",2,226,11,Hanan,22,Fayoum,Credit
+"pip fruit,root vegetables,packaged fruit/vegetables,whole milk,domestic eggs,flour,salt",7,2198,11,Hanan,22,Fayoum,Cash
+"yogurt,ice cream,soda,long life bakery product,specialty chocolate,napkins",6,612,11,Hanan,22,Fayoum,Credit
+pip fruit,1,121,11,Hanan,22,Fayoum,Credit
+"other vegetables,whole milk,soda,specialty bar",4,684,11,Hanan,22,Fayoum,Cash
+"frankfurter,whipped/sour cream,condensed milk,frozen vegetables,salty snack,candy",6,437,11,Hanan,22,Fayoum,Cash
+"other vegetables,butter milk,yogurt,fruit/vegetable juice",4,726,11,Hanan,22,Fayoum,Cash
+"sausage,whole milk,hard cheese,misc. beverages",4,1483,11,Hanan,22,Fayoum,Cash
+"UHT-milk,soda,canned beer",3,1607,11,Hanan,22,Fayoum,Credit
+"hygiene articles,shopping bags",2,2390,11,Hanan,22,Fayoum,Credit
+"other vegetables,whole milk,brown bread,napkins",4,1263,11,Hanan,22,Fayoum,Cash
+"frankfurter,sausage,pip fruit,hard cheese,bottled water,seasonal products",6,2396,11,Hanan,22,Fayoum,Cash
+"pip fruit,beverages,bottled water,soda,fruit/vegetable juice,cling film/bags,shopping bags",7,1181,11,Hanan,22,Fayoum,Credit
+"whole milk,cream cheese ",2,2049,11,Hanan,22,Fayoum,Credit
+"hamburger meat,whole milk,cream cheese ,pastry,misc. beverages,fruit/vegetable juice,white wine",7,2294,11,Hanan,22,Fayoum,Credit
+"citrus fruit,pip fruit,berries,house keeping products",4,1920,11,Hanan,22,Fayoum,Cash
+other vegetables,1,679,11,Hanan,22,Fayoum,Cash
+"finished products,chicken,root vegetables,whole milk,butter milk,brown bread,fruit/vegetable juice",7,1591,11,Hanan,22,Fayoum,Cash
+rolls/buns,1,1827,11,Hanan,22,Fayoum,Credit
+"jam,hygiene articles",2,1702,11,Hanan,22,Fayoum,Credit
+"tropical fruit,pip fruit,yogurt",3,446,11,Hanan,22,Fayoum,Credit
+"bottled beer,liquor,rum",3,1480,11,Hanan,22,Fayoum,Cash
+pastry,1,1375,11,Hanan,22,Fayoum,Cash
+"sausage,ham,hard cheese,sauces",4,1899,11,Hanan,22,Fayoum,Cash
+"root vegetables,rolls/buns,white bread,pastry,oil,Instant food products,napkins",7,1277,11,Hanan,22,Fayoum,Credit
+"frankfurter,rolls/buns,fruit/vegetable juice",3,1765,11,Hanan,22,Fayoum,Credit
+rolls/buns,1,1440,11,Hanan,22,Fayoum,Credit
+"ham,other vegetables,whole milk,whipped/sour cream,brown bread,oil,sugar,hygiene articles",8,108,11,Hanan,22,Fayoum,Credit
+"berries,curd,yogurt,whipped/sour cream,rolls/buns,soda,female sanitary products",7,126,11,Hanan,22,Fayoum,Credit
+"chicken,tropical fruit,other vegetables,vinegar,shopping bags",5,346,11,Hanan,22,Fayoum,Credit

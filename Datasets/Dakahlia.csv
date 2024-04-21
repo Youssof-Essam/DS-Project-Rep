@@ -1,0 +1,686 @@
+items,count,total,rnd,customer,age,city,paymentType
+whole milk,1,2084,8,Rania,37,Dakahlia,Cash
+"pip fruit,yogurt,cream cheese ,meat spreads",4,788,8,Rania,37,Dakahlia,Cash
+"butter,sugar,fruit/vegetable juice,newspapers",4,585,8,Rania,37,Dakahlia,Credit
+"pork,berries,other vegetables,whole milk,whipped/sour cream,artif. sweetener,soda,abrasive cleaner",8,988,8,Rania,37,Dakahlia,Credit
+"pastry,soda",2,1009,8,Rania,37,Dakahlia,Credit
+"butter milk,yogurt,cream cheese ,spread cheese,rolls/buns,bottled water,soda,newspapers",8,1413,8,Rania,37,Dakahlia,Credit
+"rolls/buns,pastry,sugar",3,1743,8,Rania,37,Dakahlia,Cash
+"grapes,photo/film",2,1737,8,Rania,37,Dakahlia,Credit
+"whole milk,cream cheese ,soda",3,2289,8,Rania,37,Dakahlia,Credit
+"whole milk,cream cheese ,cereals,dog food",4,2028,8,Rania,37,Dakahlia,Credit
+"ham,whole milk,rolls/buns",3,2307,8,Rania,37,Dakahlia,Credit
+"rolls/buns,pastry,soda",3,2319,8,Rania,37,Dakahlia,Cash
+"butter,yogurt,bottled water,soda,make up remover,hygiene articles",6,2178,8,Rania,37,Dakahlia,Cash
+"turkey,beef,frozen vegetables,dishes,photo/film",5,577,8,Rania,37,Dakahlia,Cash
+"whole milk,beverages",2,799,8,Rania,37,Dakahlia,Cash
+"whole milk,frozen meals,pastry,fruit/vegetable juice,waffles",5,2383,8,Rania,37,Dakahlia,Credit
+candy,1,1051,8,Rania,37,Dakahlia,Cash
+"tropical fruit,packaged fruit/vegetables,cream cheese ,white bread,candy",5,2247,8,Rania,37,Dakahlia,Cash
+"rolls/buns,canned fish,canned beer",3,468,8,Rania,37,Dakahlia,Credit
+shopping bags,1,1134,8,Rania,37,Dakahlia,Cash
+"whipped/sour cream,canned beer,red/blush wine",3,608,8,Rania,37,Dakahlia,Cash
+newspapers,1,1711,8,Rania,37,Dakahlia,Cash
+sliced cheese,1,2031,8,Rania,37,Dakahlia,Credit
+"sausage,whole milk,coffee",3,2048,8,Rania,37,Dakahlia,Credit
+"domestic eggs,rolls/buns,dish cleaner,hygiene articles",4,279,8,Rania,37,Dakahlia,Cash
+whole milk,1,157,8,Rania,37,Dakahlia,Cash
+"other vegetables,whole milk,rolls/buns,Instant food products",4,1601,8,Rania,37,Dakahlia,Cash
+"soda,chewing gum",2,2235,8,Rania,37,Dakahlia,Credit
+whole milk,1,475,8,Rania,37,Dakahlia,Credit
+"whole milk,oil,canned fruit,fruit/vegetable juice",4,1723,8,Rania,37,Dakahlia,Cash
+"soda,misc. beverages",2,1977,8,Rania,37,Dakahlia,Cash
+"bottled water,canned beer,male cosmetics",3,415,8,Rania,37,Dakahlia,Credit
+"herbs,bottled water",2,2118,8,Rania,37,Dakahlia,Credit
+"other vegetables,salty snack",2,2153,8,Rania,37,Dakahlia,Cash
+"citrus fruit,berries,other vegetables,butter milk,sugar,fruit/vegetable juice,hygiene articles",7,481,8,Rania,37,Dakahlia,Cash
+"frankfurter,rolls/buns",2,285,8,Rania,37,Dakahlia,Credit
+whole milk,1,2070,8,Rania,37,Dakahlia,Credit
+"curd,whipped/sour cream,rolls/buns,zwieback,spices",5,1704,8,Rania,37,Dakahlia,Cash
+"frozen vegetables,bottled beer,liquor (appetizer),chewing gum,napkins,newspapers",6,1117,8,Rania,37,Dakahlia,Credit
+canned beer,1,1497,8,Rania,37,Dakahlia,Credit
+"sausage,meat,other vegetables,whole milk,yogurt,rolls/buns,soda,bottled beer,chocolate,newspapers",10,689,8,Rania,37,Dakahlia,Cash
+soda,1,1785,8,Rania,37,Dakahlia,Cash
+"hamburger meat,whole milk,oil,ketchup,soups,Instant food products,canned fish,coffee,bottled beer,hygiene articles,newspapers",11,2184,8,Rania,37,Dakahlia,Cash
+"whole milk,hard cheese,chocolate marshmallow",3,1570,8,Rania,37,Dakahlia,Credit
+"tropical fruit,pastry,flour,rum",4,1980,8,Rania,37,Dakahlia,Credit
+"dessert,beverages,bottled water",3,1478,8,Rania,37,Dakahlia,Credit
+"pork,tropical fruit,rolls/buns,semi-finished bread,bottled beer,newspapers",6,765,8,Rania,37,Dakahlia,Cash
+"chicken,other vegetables,packaged fruit/vegetables,condensed milk,frozen vegetables,fruit/vegetable juice",6,1181,8,Rania,37,Dakahlia,Credit
+"grapes,other vegetables,zwieback,Instant food products,dishes",5,912,8,Rania,37,Dakahlia,Credit
+"tropical fruit,whole milk,rolls/buns",3,719,8,Rania,37,Dakahlia,Cash
+"root vegetables,onions,other vegetables,packaged fruit/vegetables,whole milk,whipped/sour cream,frozen vegetables,rolls/buns,pasta,soups,baking powder,soda,detergent",13,405,8,Rania,37,Dakahlia,Cash
+"beef,whole milk,frozen vegetables,brown bread,pastry,coffee",6,1026,8,Rania,37,Dakahlia,Cash
+"citrus fruit,root vegetables,whole milk,butter,whipped/sour cream,oil,mustard,bottled water,bottled beer",9,2354,8,Rania,37,Dakahlia,Credit
+"citrus fruit,herbs,whole milk,bottled water,bottled beer,pot plants",6,2260,8,Rania,37,Dakahlia,Credit
+"frankfurter,soda",2,112,8,Rania,37,Dakahlia,Cash
+"citrus fruit,other vegetables,packaged fruit/vegetables,whole milk,butter,whipped/sour cream,flour,sugar,coffee,soda,sparkling wine,dishes",12,731,8,Rania,37,Dakahlia,Cash
+"chicken,pork,other vegetables,whole milk,whipped/sour cream,UHT-milk,domestic eggs,rolls/buns,bottled water,soda,fruit/vegetable juice,bottled beer",12,481,8,Rania,37,Dakahlia,Credit
+"frankfurter,citrus fruit,tropical fruit,rolls/buns",4,1286,8,Rania,37,Dakahlia,Cash
+"other vegetables,misc. beverages",2,1094,8,Rania,37,Dakahlia,Credit
+"whole milk,sliced cheese,domestic eggs,artif. sweetener,bottled water,soda,shopping bags",7,968,8,Rania,37,Dakahlia,Cash
+"frankfurter,rolls/buns",2,706,8,Rania,37,Dakahlia,Cash
+"tropical fruit,newspapers",2,2190,8,Rania,37,Dakahlia,Cash
+hamburger meat,1,1951,8,Rania,37,Dakahlia,Cash
+"whole milk,whipped/sour cream,baking powder",3,1193,8,Rania,37,Dakahlia,Credit
+"tropical fruit,oil,cat food",3,701,8,Rania,37,Dakahlia,Credit
+"pork,whole milk,curd,yogurt,whipped/sour cream,cream cheese ,domestic eggs,white bread,sugar,baking powder,coffee,cocoa drinks,salty snack,waffles,candy,napkins",16,219,8,Rania,37,Dakahlia,Credit
+"beef,tropical fruit,onions,other vegetables,whole milk,butter,curd,butter milk,yogurt,domestic eggs,white bread,pastry,shopping bags",13,2427,8,Rania,37,Dakahlia,Cash
+"root vegetables,other vegetables,cream cheese ,pasta,oil,margarine,salty snack,pot plants",8,460,8,Rania,37,Dakahlia,Cash
+chewing gum,1,2000,8,Rania,37,Dakahlia,Cash
+"chicken,beef,whole milk,curd,brown bread,pastry,sauces,pickled vegetables,bottled water,soda,salty snack,waffles,specialty bar,napkins,light bulbs",15,2081,8,Rania,37,Dakahlia,Credit
+"citrus fruit,whole milk,butter,dessert,UHT-milk,flower (seeds),shopping bags",7,2127,8,Rania,37,Dakahlia,Credit
+"frankfurter,sausage,UHT-milk,frozen meals,frozen dessert,domestic eggs,rolls/buns,pastry,mustard,coffee",10,1521,8,Rania,37,Dakahlia,Cash
+"tropical fruit,other vegetables,whole milk,curd,whipped/sour cream,bottled beer",6,802,8,Rania,37,Dakahlia,Credit
+misc. beverages,1,2173,8,Rania,37,Dakahlia,Cash
+"frankfurter,tropical fruit,cream cheese ,rolls/buns,fruit/vegetable juice,kitchen towels,newspapers",7,1052,8,Rania,37,Dakahlia,Cash
+"citrus fruit,bottled water,red/blush wine,photo/film",4,1955,8,Rania,37,Dakahlia,Credit
+"other vegetables,curd,yogurt,pickled vegetables,bottled water",5,381,8,Rania,37,Dakahlia,Credit
+"beef,hamburger meat,other vegetables,rolls/buns,brown bread,bottled water,soda,bottled beer,canned beer",9,2355,8,Rania,37,Dakahlia,Cash
+"pork,root vegetables,other vegetables,specialty fat,sugar,baking powder,cat food,salty snack,waffles,shopping bags",10,892,8,Rania,37,Dakahlia,Credit
+"finished products,other vegetables,whole milk,whipped/sour cream,margarine,cereals,soda,salty snack",8,2208,8,Rania,37,Dakahlia,Cash
+"pork,beef,citrus fruit,berries,root vegetables,other vegetables,whole milk,yogurt,cream cheese ,vinegar,oil,cat food,specialty chocolate,detergent,dish cleaner,abrasive cleaner,cleaner,hygiene articles,shopping bags",19,2007,8,Rania,37,Dakahlia,Credit
+bottled water,1,501,8,Rania,37,Dakahlia,Cash
+"pork,root vegetables,whole milk,curd,whipped/sour cream,rolls/buns,white bread,canned vegetables,soda,cleaner",10,2182,8,Rania,37,Dakahlia,Cash
+"oil,dental care,newspapers",3,851,8,Rania,37,Dakahlia,Credit
+"chicken,pork,root vegetables,onions,packaged fruit/vegetables,butter,hard cheese,salt,bottled water,bottled beer",10,2121,8,Rania,37,Dakahlia,Credit
+"sausage,organic sausage,citrus fruit,berries,yogurt,whipped/sour cream,domestic eggs,rolls/buns,canned vegetables,salty snack,newspapers",11,713,8,Rania,37,Dakahlia,Credit
+"root vegetables,other vegetables,yogurt",3,119,8,Rania,37,Dakahlia,Cash
+"soda,fruit/vegetable juice",2,2471,8,Rania,37,Dakahlia,Cash
+"whole milk,white bread,pastry",3,633,8,Rania,37,Dakahlia,Cash
+canned beer,1,650,8,Rania,37,Dakahlia,Cash
+"meat,yogurt",2,1888,8,Rania,37,Dakahlia,Cash
+whipped/sour cream,1,1639,8,Rania,37,Dakahlia,Credit
+"whole milk,yogurt",2,2169,8,Rania,37,Dakahlia,Credit
+"liver loaf,tropical fruit,pip fruit,grapes,whole milk,curd,whipped/sour cream,frozen vegetables,baking powder",9,1342,8,Rania,37,Dakahlia,Cash
+"sausage,hamburger meat,citrus fruit,root vegetables,whole milk,yogurt,rolls/buns",7,2002,8,Rania,37,Dakahlia,Cash
+"turkey,citrus fruit,tropical fruit,grapes,root vegetables,onions,other vegetables,rolls/buns,brown bread,pastry,pickled vegetables,jam,cat food,fruit/vegetable juice,napkins",15,2001,8,Rania,37,Dakahlia,Cash
+"whipped/sour cream,flower (seeds)",2,2481,8,Rania,37,Dakahlia,Cash
+waffles,1,1214,8,Rania,37,Dakahlia,Credit
+"whole milk,frozen vegetables,fruit/vegetable juice,long life bakery product",4,178,8,Rania,37,Dakahlia,Cash
+"pip fruit,other vegetables",2,1945,8,Rania,37,Dakahlia,Cash
+"frankfurter,frozen dessert,white wine,chewing gum,shopping bags",5,2361,8,Rania,37,Dakahlia,Cash
+whole milk,1,1443,8,Rania,37,Dakahlia,Credit
+"pork,onions,other vegetables,bottled beer",4,834,8,Rania,37,Dakahlia,Credit
+"rolls/buns,margarine",2,1234,8,Rania,37,Dakahlia,Credit
+"frankfurter,pork,pip fruit",3,1139,8,Rania,37,Dakahlia,Cash
+canned beer,1,1599,8,Rania,37,Dakahlia,Credit
+sausage,1,301,8,Rania,37,Dakahlia,Credit
+"tropical fruit,berries,root vegetables,other vegetables,yogurt,rolls/buns,shopping bags",7,1550,8,Rania,37,Dakahlia,Credit
+"ham,rolls/buns",2,2021,8,Rania,37,Dakahlia,Credit
+"butter,cleaner",2,375,8,Rania,37,Dakahlia,Credit
+"pip fruit,butter,curd,chocolate",4,1629,8,Rania,37,Dakahlia,Cash
+long life bakery product,1,1104,8,Rania,37,Dakahlia,Cash
+"rolls/buns,soda,specialty bar,candy,newspapers",5,2306,8,Rania,37,Dakahlia,Credit
+canned beer,1,2254,8,Rania,37,Dakahlia,Cash
+"chicken,hamburger meat,pip fruit,onions,other vegetables,whole milk,butter,yogurt,whipped/sour cream,white bread,long life bakery product,chocolate",12,757,8,Rania,37,Dakahlia,Credit
+canned beer,1,1281,8,Rania,37,Dakahlia,Credit
+"grapes,whole milk,white wine,dishes,newspapers",5,492,8,Rania,37,Dakahlia,Credit
+"beverages,pastry",2,965,8,Rania,37,Dakahlia,Cash
+"sausage,meat,pip fruit,other vegetables,yogurt,rolls/buns,brown bread,bottled water,soda,fruit/vegetable juice,newspapers",11,952,8,Rania,37,Dakahlia,Credit
+whole milk,1,2151,8,Rania,37,Dakahlia,Cash
+"tropical fruit,whole milk,cream cheese ,frozen vegetables,rolls/buns,chocolate,candy,pot plants",8,1683,8,Rania,37,Dakahlia,Cash
+"chicken,beef,whole milk,bottled water,newspapers",5,1357,8,Rania,37,Dakahlia,Credit
+soda,1,1932,8,Rania,37,Dakahlia,Cash
+"other vegetables,whole milk,frozen potato products,rolls/buns,pasta,instant coffee,soda,fruit/vegetable juice,bottled beer,cake bar,seasonal products",11,1742,8,Rania,37,Dakahlia,Cash
+"ham,bottled water,soda",3,967,8,Rania,37,Dakahlia,Credit
+"sausage,pip fruit,whole milk,rolls/buns,flour,oil,soda",7,1781,8,Rania,37,Dakahlia,Credit
+"root vegetables,whole milk,yogurt",3,614,8,Rania,37,Dakahlia,Credit
+"ice cream,roll products ,Instant food products,coffee,candles",5,2440,8,Rania,37,Dakahlia,Credit
+hygiene articles,1,1417,8,Rania,37,Dakahlia,Credit
+"onions,rolls/buns",2,817,8,Rania,37,Dakahlia,Credit
+"pork,other vegetables,whipped/sour cream",3,249,8,Rania,37,Dakahlia,Cash
+"mustard,soda,fruit/vegetable juice",3,271,8,Rania,37,Dakahlia,Cash
+flour,1,2123,8,Rania,37,Dakahlia,Cash
+salty snack,1,2130,8,Rania,37,Dakahlia,Credit
+canned beer,1,1284,8,Rania,37,Dakahlia,Cash
+"sausage,rolls/buns,soda",3,306,8,Rania,37,Dakahlia,Credit
+"rolls/buns,canned beer",2,391,8,Rania,37,Dakahlia,Credit
+"pork,whole milk,rolls/buns,artif. sweetener,baking powder,specialty chocolate,house keeping products,newspapers",8,2024,8,Rania,37,Dakahlia,Cash
+"citrus fruit,whole milk,whipped/sour cream,rolls/buns,pastry",5,2368,8,Rania,37,Dakahlia,Credit
+"bottled beer,canned beer",2,1560,8,Rania,37,Dakahlia,Credit
+"sausage,whole milk,bottled beer",3,2299,8,Rania,37,Dakahlia,Credit
+"cream cheese ,white bread,sweet spreads,cat food,coffee,syrup,specialty bar",7,2299,8,Rania,37,Dakahlia,Credit
+"pip fruit,nuts/prunes,curd,frozen dessert,sweet spreads,light bulbs",6,1866,8,Rania,37,Dakahlia,Credit
+"sausage,meat,other vegetables,curd,sliced cheese,domestic eggs,rolls/buns,pastry,cat food,bottled water,soda,newspapers,shopping bags",13,460,8,Rania,37,Dakahlia,Cash
+ham,1,129,8,Rania,37,Dakahlia,Credit
+light bulbs,1,1361,8,Rania,37,Dakahlia,Credit
+soda,1,1468,8,Rania,37,Dakahlia,Cash
+"other vegetables,white bread,margarine,canned beer,rum",5,961,8,Rania,37,Dakahlia,Cash
+"root vegetables,bottled water,bottled beer",3,1758,8,Rania,37,Dakahlia,Credit
+"pork,cat food",2,363,8,Rania,37,Dakahlia,Cash
+"sausage,pip fruit,other vegetables,yogurt,mustard,fruit/vegetable juice,shopping bags",7,496,8,Rania,37,Dakahlia,Cash
+"citrus fruit,tropical fruit,whole milk,butter milk,beverages,soda,shopping bags",7,2047,8,Rania,37,Dakahlia,Credit
+"ice cream,frozen dessert,salty snack",3,220,8,Rania,37,Dakahlia,Cash
+"whole milk,yogurt,oil,bottled water,bottled beer,salty snack,specialty chocolate",7,768,8,Rania,37,Dakahlia,Credit
+"citrus fruit,flour,pasta,margarine,sugar,baking powder,soda",7,601,8,Rania,37,Dakahlia,Credit
+"pork,other vegetables,whole milk,canned fish,coffee,specialty bar,candy",7,1267,8,Rania,37,Dakahlia,Cash
+"frankfurter,sausage,other vegetables,brown bread,flour,bottled water,candy",7,441,8,Rania,37,Dakahlia,Credit
+"whole milk,pastry",2,1965,8,Rania,37,Dakahlia,Credit
+"beef,root vegetables,other vegetables,whipped/sour cream",4,2263,8,Rania,37,Dakahlia,Cash
+"pip fruit,yogurt",2,2140,8,Rania,37,Dakahlia,Cash
+"whole milk,yogurt,frozen potato products,brown bread,napkins",5,119,8,Rania,37,Dakahlia,Credit
+"sausage,ham,chicken,turkey,cake bar",5,2211,8,Rania,37,Dakahlia,Credit
+mustard,1,1931,8,Rania,37,Dakahlia,Credit
+"sausage,pork,soda",3,195,8,Rania,37,Dakahlia,Cash
+"sausage,other vegetables",2,397,8,Rania,37,Dakahlia,Cash
+butter,1,744,8,Rania,37,Dakahlia,Cash
+"other vegetables,oil",2,1453,8,Rania,37,Dakahlia,Credit
+other vegetables,1,863,8,Rania,37,Dakahlia,Cash
+"frankfurter,sausage,chicken,other vegetables,frozen meals,salt,sugar,soups,coffee,chewing gum,male cosmetics,hygiene articles,napkins,light bulbs",14,1341,8,Rania,37,Dakahlia,Credit
+"frankfurter,tropical fruit,root vegetables,whole milk,butter,curd,yogurt",7,1589,8,Rania,37,Dakahlia,Credit
+"yogurt,rolls/buns,meat spreads,soda",4,1713,8,Rania,37,Dakahlia,Credit
+long life bakery product,1,2441,8,Rania,37,Dakahlia,Cash
+"pastry,mustard,bottled beer",3,1522,8,Rania,37,Dakahlia,Cash
+"dessert,rolls/buns,sugar,bottled water",4,1999,8,Rania,37,Dakahlia,Credit
+"pip fruit,whole milk,domestic eggs",3,1161,8,Rania,37,Dakahlia,Cash
+"chicken,pip fruit,whole milk,pastry,coffee",5,341,8,Rania,37,Dakahlia,Cash
+"ham,hamburger meat,other vegetables,whole milk,curd,mayonnaise,domestic eggs,rolls/buns,margarine",9,1765,8,Rania,37,Dakahlia,Credit
+"condensed milk,coffee",2,284,8,Rania,37,Dakahlia,Cash
+"dental care,male cosmetics",2,1469,8,Rania,37,Dakahlia,Credit
+"whole milk,pastry,soda",3,1884,8,Rania,37,Dakahlia,Cash
+"citrus fruit,soda,misc. beverages,canned beer,chocolate,specialty chocolate,candy,shopping bags",8,1172,8,Rania,37,Dakahlia,Credit
+"frankfurter,sausage,other vegetables,whole milk,butter,curd,dessert,yogurt,brown bread,pastry,waffles,chocolate,dishes",13,548,8,Rania,37,Dakahlia,Cash
+"chicken,UHT-milk,frozen vegetables,ice cream,pickled vegetables,bottled beer,newspapers,shopping bags",8,1017,8,Rania,37,Dakahlia,Cash
+photo/film,1,1112,8,Rania,37,Dakahlia,Cash
+"hamburger meat,hard cheese,pasta,canned vegetables",4,2466,8,Rania,37,Dakahlia,Cash
+"sausage,meat,pork,root vegetables,other vegetables,sliced cheese,margarine,cat food,coffee,dental care",10,785,8,Rania,37,Dakahlia,Credit
+photo/film,1,2158,8,Rania,37,Dakahlia,Cash
+"sausage,finished products,beverages,domestic eggs,pastry,salty snack",6,1446,8,Rania,37,Dakahlia,Cash
+"tropical fruit,domestic eggs,newspapers",3,770,8,Rania,37,Dakahlia,Cash
+"meat,citrus fruit,root vegetables,whole milk,dessert,yogurt,waffles,detergent",8,2413,8,Rania,37,Dakahlia,Credit
+"frankfurter,curd,semi-finished bread",3,680,8,Rania,37,Dakahlia,Cash
+"white bread,canned beer",2,622,8,Rania,37,Dakahlia,Credit
+"frankfurter,root vegetables,bottled beer,shopping bags",4,2391,8,Rania,37,Dakahlia,Cash
+"cream cheese ,rolls/buns,candy,shopping bags",4,301,8,Rania,37,Dakahlia,Credit
+"butter,yogurt,rolls/buns,detergent,shopping bags",5,1854,8,Rania,37,Dakahlia,Credit
+"sausage,whole milk,domestic eggs,rolls/buns,fruit/vegetable juice,light bulbs",6,2295,8,Rania,37,Dakahlia,Credit
+meat,1,478,8,Rania,37,Dakahlia,Credit
+"citrus fruit,tropical fruit,brown bread,napkins",4,330,8,Rania,37,Dakahlia,Credit
+"pork,root vegetables,onions,bottled water,soda",5,2338,8,Rania,37,Dakahlia,Credit
+"root vegetables,whole milk,roll products ",3,1341,8,Rania,37,Dakahlia,Cash
+"pork,root vegetables,other vegetables,whole milk,butter,whipped/sour cream,processed cheese,domestic eggs,rolls/buns,white bread,pastry,jam,soda,waffles,candy,napkins",16,1819,8,Rania,37,Dakahlia,Credit
+"beef,other vegetables",2,677,8,Rania,37,Dakahlia,Credit
+"frankfurter,rolls/buns,margarine,soda",4,575,8,Rania,37,Dakahlia,Credit
+"chicken,curd,UHT-milk,cream cheese ,margarine,coffee,salty snack,waffles,dishes",9,2345,8,Rania,37,Dakahlia,Credit
+soda,1,431,8,Rania,37,Dakahlia,Credit
+"tropical fruit,pip fruit,other vegetables,butter milk,yogurt,whipped/sour cream,UHT-milk,margarine,sugar,waffles",10,1824,8,Rania,37,Dakahlia,Credit
+canned beer,1,683,8,Rania,37,Dakahlia,Cash
+"white bread,bottled beer",2,1046,8,Rania,37,Dakahlia,Cash
+"brown bread,bottled water,specialty bar",3,1229,8,Rania,37,Dakahlia,Cash
+soda,1,1297,8,Rania,37,Dakahlia,Cash
+"sausage,ham,meat,butter,UHT-milk,mayonnaise,baking powder,bottled water,fruit/vegetable juice",9,2356,8,Rania,37,Dakahlia,Cash
+whole milk,1,2354,8,Rania,37,Dakahlia,Cash
+"frozen vegetables,domestic eggs,pastry",3,782,8,Rania,37,Dakahlia,Credit
+"tropical fruit,other vegetables,whipped/sour cream,beverages,hard cheese,cream cheese ,flour,sweet spreads,soda,long life bakery product",10,639,8,Rania,37,Dakahlia,Credit
+"sausage,other vegetables,dessert,pastry,waffles,dish cleaner",6,979,8,Rania,37,Dakahlia,Credit
+other vegetables,1,795,8,Rania,37,Dakahlia,Cash
+ice cream,1,942,8,Rania,37,Dakahlia,Cash
+"turkey,other vegetables,whipped/sour cream,canned vegetables,instant coffee,bottled water,red/blush wine",7,313,8,Rania,37,Dakahlia,Cash
+"pickled vegetables,canned fish,soda,bottled beer,chewing gum,candles",6,1920,8,Rania,37,Dakahlia,Credit
+"UHT-milk,bottled water,specialty chocolate",3,646,8,Rania,37,Dakahlia,Credit
+"pip fruit,whole milk,domestic eggs,margarine,soda,chocolate,napkins",7,344,8,Rania,37,Dakahlia,Cash
+"tropical fruit,grapes,onions,other vegetables,yogurt,domestic eggs,oil,pudding powder,pickled vegetables,salty snack,waffles,specialty bar",12,2163,8,Rania,37,Dakahlia,Credit
+"meat,whipped/sour cream,coffee,chewing gum,dishes",5,1295,8,Rania,37,Dakahlia,Cash
+bottled water,1,698,8,Rania,37,Dakahlia,Credit
+"organic sausage,pip fruit,root vegetables,other vegetables,pastry,salty snack,dishes",7,2371,8,Rania,37,Dakahlia,Credit
+chocolate marshmallow,1,189,8,Rania,37,Dakahlia,Cash
+"tropical fruit,whole milk,ice cream",3,198,8,Rania,37,Dakahlia,Credit
+"canned beer,white wine",2,2042,8,Rania,37,Dakahlia,Credit
+"pork,bottled water,rum,white wine,flower (seeds)",5,1265,8,Rania,37,Dakahlia,Cash
+"margarine,misc. beverages",2,2184,8,Rania,37,Dakahlia,Cash
+"processed cheese,ketchup,seasonal products",3,682,8,Rania,37,Dakahlia,Credit
+"soda,fruit/vegetable juice,waffles",3,1567,8,Rania,37,Dakahlia,Credit
+"pork,whole milk,dessert,frozen vegetables,bottled water,cleaner",6,844,8,Rania,37,Dakahlia,Credit
+"beverages,long life bakery product",2,344,8,Rania,37,Dakahlia,Credit
+"soda,bottled beer,liquor,red/blush wine",4,427,8,Rania,37,Dakahlia,Credit
+root vegetables,1,1533,8,Rania,37,Dakahlia,Credit
+"frozen meals,soda",2,464,8,Rania,37,Dakahlia,Cash
+"pip fruit,whole milk,whipped/sour cream",3,1164,8,Rania,37,Dakahlia,Credit
+whole milk,1,2217,8,Rania,37,Dakahlia,Credit
+"whipped/sour cream,dog food,soda,fruit/vegetable juice,shopping bags",5,216,8,Rania,37,Dakahlia,Cash
+"hamburger meat,packaged fruit/vegetables,whole milk,curd,yogurt,pastry",6,2148,8,Rania,37,Dakahlia,Cash
+"pip fruit,other vegetables,frozen vegetables,canned vegetables",4,246,8,Rania,37,Dakahlia,Credit
+"soda,specialty chocolate",2,1574,8,Rania,37,Dakahlia,Credit
+yogurt,1,2428,8,Rania,37,Dakahlia,Cash
+"dog food,canned beer",2,2430,8,Rania,37,Dakahlia,Cash
+"sausage,whole milk,pastry,salty snack,kitchen towels",5,1681,8,Rania,37,Dakahlia,Credit
+"root vegetables,whole milk",2,1537,8,Rania,37,Dakahlia,Credit
+"tidbits,rolls/buns,coffee,salty snack",4,2426,8,Rania,37,Dakahlia,Credit
+newspapers,1,1256,8,Rania,37,Dakahlia,Credit
+"other vegetables,whole milk,frozen potato products",3,1222,8,Rania,37,Dakahlia,Cash
+"sausage,yogurt",2,2463,8,Rania,37,Dakahlia,Cash
+rolls/buns,1,1222,8,Rania,37,Dakahlia,Cash
+canned beer,1,312,8,Rania,37,Dakahlia,Credit
+"ham,whole milk,dessert,processed cheese,domestic eggs,white bread,pickled vegetables,specialty vegetables,coffee,specialty chocolate,dental care,hygiene articles",12,1575,8,Rania,37,Dakahlia,Cash
+"frozen vegetables,margarine,cleaner",3,1248,8,Rania,37,Dakahlia,Cash
+"other vegetables,frozen vegetables,frozen fish,rolls/buns,pickled vegetables",5,259,8,Rania,37,Dakahlia,Credit
+"sausage,root vegetables,rolls/buns,soda",4,1420,8,Rania,37,Dakahlia,Cash
+detergent,1,2075,8,Rania,37,Dakahlia,Cash
+"tropical fruit,pip fruit,whole milk,rolls/buns,pastry,fruit/vegetable juice,salty snack,detergent,make up remover",9,1951,8,Rania,37,Dakahlia,Credit
+"tropical fruit,root vegetables,other vegetables,frozen dessert,margarine",5,2345,8,Rania,37,Dakahlia,Credit
+"fish,citrus fruit",2,2288,8,Rania,37,Dakahlia,Cash
+"chicken,butter,white bread",3,941,8,Rania,37,Dakahlia,Cash
+misc. beverages,1,335,8,Rania,37,Dakahlia,Credit
+fruit/vegetable juice,1,125,8,Rania,37,Dakahlia,Cash
+"pet care,soda,bottled beer,snack products,candy",5,169,8,Rania,37,Dakahlia,Cash
+"rolls/buns,coffee",2,2121,8,Rania,37,Dakahlia,Credit
+"whole milk,butter milk,specialty bar",3,423,8,Rania,37,Dakahlia,Credit
+"brandy,specialty bar",2,318,8,Rania,37,Dakahlia,Credit
+"whole milk,dessert,oil",3,915,8,Rania,37,Dakahlia,Credit
+soda,1,1349,8,Rania,37,Dakahlia,Credit
+"sausage,yogurt,rolls/buns,bottled water,soda",5,380,8,Rania,37,Dakahlia,Credit
+"tropical fruit,cream cheese ,mayonnaise,rolls/buns,white bread,ready soups,baking powder,canned fish,long life bakery product",9,1502,8,Rania,37,Dakahlia,Cash
+"dessert,yogurt,UHT-milk,cream cheese ,frozen vegetables,rolls/buns,bottled water,napkins",8,1375,8,Rania,37,Dakahlia,Cash
+"frankfurter,chicken,turkey,beef,whole milk,brown bread,pastry,bottled water",8,2329,8,Rania,37,Dakahlia,Cash
+"coffee,pot plants",2,1367,8,Rania,37,Dakahlia,Cash
+"hamburger meat,tropical fruit,yogurt,frozen vegetables,domestic eggs,rolls/buns,meat spreads,cat food,soda,misc. beverages",10,2358,8,Rania,37,Dakahlia,Cash
+"other vegetables,whole milk,butter,white bread,canned vegetables,soda,snack products,cake bar,chocolate",9,2376,8,Rania,37,Dakahlia,Credit
+"other vegetables,whole milk,rolls/buns,brown bread,soda,hygiene articles,newspapers",7,1790,8,Rania,37,Dakahlia,Credit
+"sausage,curd,yogurt,cream cheese ,brown bread,pastry,coffee,seasonal products,napkins",9,613,8,Rania,37,Dakahlia,Cash
+whole milk,1,1625,8,Rania,37,Dakahlia,Credit
+"sausage,soft cheese,rolls/buns,bottled water,specialty chocolate",5,348,8,Rania,37,Dakahlia,Cash
+"sausage,whole milk,frozen dessert,mustard,jam,bottled water,hygiene articles",7,1465,8,Rania,37,Dakahlia,Credit
+"frankfurter,chicken,pork,other vegetables,yogurt,whipped/sour cream,soft cheese,rolls/buns,instant coffee,bottled water,napkins",11,194,8,Rania,37,Dakahlia,Cash
+"whole milk,curd cheese",2,393,8,Rania,37,Dakahlia,Credit
+frozen meals,1,1576,8,Rania,37,Dakahlia,Cash
+"other vegetables,whole milk,bottled beer,newspapers",4,298,8,Rania,37,Dakahlia,Credit
+"yogurt,whipped/sour cream,UHT-milk,baking powder,bottled water,soda",6,1903,8,Rania,37,Dakahlia,Cash
+"pastry,pot plants",2,2062,8,Rania,37,Dakahlia,Cash
+"whole milk,fruit/vegetable juice,newspapers",3,2278,8,Rania,37,Dakahlia,Credit
+"UHT-milk,newspapers",2,767,8,Rania,37,Dakahlia,Credit
+"chicken,citrus fruit,berries,root vegetables,yogurt,soda",6,562,8,Rania,37,Dakahlia,Credit
+pet care,1,611,8,Rania,37,Dakahlia,Cash
+"hamburger meat,citrus fruit,other vegetables,whole milk,butter,rolls/buns,baking powder,cooking chocolate,specialty chocolate,male cosmetics",10,2012,8,Rania,37,Dakahlia,Cash
+tropical fruit,1,2176,8,Rania,37,Dakahlia,Cash
+"whole milk,whipped/sour cream",2,592,8,Rania,37,Dakahlia,Cash
+"onions,whole milk,butter,yogurt,frozen fish,fruit/vegetable juice",6,1740,8,Rania,37,Dakahlia,Credit
+"pip fruit,other vegetables,curd,yogurt,whipped/sour cream,sugar,canned vegetables,fruit/vegetable juice",8,2108,8,Rania,37,Dakahlia,Credit
+"root vegetables,onions,other vegetables",3,1261,8,Rania,37,Dakahlia,Credit
+"citrus fruit,tropical fruit,pip fruit,root vegetables,other vegetables",5,1374,8,Rania,37,Dakahlia,Cash
+"sausage,chicken,whole milk,processed cheese,frozen vegetables,rolls/buns,rice,margarine,sugar,canned fruit,pickled vegetables,hygiene articles",12,1676,8,Rania,37,Dakahlia,Credit
+specialty chocolate,1,1397,8,Rania,37,Dakahlia,Credit
+"beef,root vegetables,other vegetables,whole milk,curd,cream,domestic eggs,soda,fruit/vegetable juice",9,689,8,Rania,37,Dakahlia,Credit
+"frankfurter,root vegetables,bottled water,canned beer,hygiene articles",5,110,8,Rania,37,Dakahlia,Credit
+"frankfurter,chocolate",2,1405,8,Rania,37,Dakahlia,Credit
+soda,1,2278,8,Rania,37,Dakahlia,Cash
+"beef,root vegetables,other vegetables,whole milk,domestic eggs,rolls/buns,brown bread,soda,fruit/vegetable juice,red/blush wine,snack products,dishes,light bulbs,shopping bags",14,808,8,Rania,37,Dakahlia,Cash
+"salt,candy",2,1360,8,Rania,37,Dakahlia,Credit
+"other vegetables,dessert,cream cheese ,rolls/buns,white bread,margarine,salty snack,waffles,specialty bar,female sanitary products,newspapers",11,741,8,Rania,37,Dakahlia,Credit
+"chicken,root vegetables,whole milk,butter,yogurt,sparkling wine,chocolate,softener,female sanitary products,napkins,kitchen towels,house keeping products,newspapers",13,519,8,Rania,37,Dakahlia,Credit
+bottled water,1,1954,8,Rania,37,Dakahlia,Cash
+"finished products,citrus fruit,tropical fruit,grapes,berries,root vegetables,other vegetables,whole milk,spread cheese,brown bread,pastry,potato products,fruit/vegetable juice,chocolate,pot plants,shopping bags",16,602,8,Rania,37,Dakahlia,Credit
+misc. beverages,1,175,8,Rania,37,Dakahlia,Credit
+"tropical fruit,dessert,bottled water,soda,bottled beer,white wine,napkins",7,2115,8,Rania,37,Dakahlia,Credit
+"whipped/sour cream,rolls/buns",2,1673,8,Rania,37,Dakahlia,Credit
+"soda,long life bakery product",2,503,8,Rania,37,Dakahlia,Credit
+"sausage,yogurt,pastry,canned fish,shopping bags",5,350,8,Rania,37,Dakahlia,Cash
+pip fruit,1,1559,8,Rania,37,Dakahlia,Cash
+canned beer,1,154,8,Rania,37,Dakahlia,Credit
+"rolls/buns,shopping bags",2,1802,8,Rania,37,Dakahlia,Cash
+"long life bakery product,house keeping products",2,1185,8,Rania,37,Dakahlia,Credit
+"meat,other vegetables,whole milk,rolls/buns,shopping bags",5,228,8,Rania,37,Dakahlia,Cash
+"liver loaf,chicken,other vegetables,frozen vegetables,margarine,detergent,softener",7,1500,8,Rania,37,Dakahlia,Cash
+"frozen vegetables,bottled water",2,1359,8,Rania,37,Dakahlia,Cash
+"whole milk,rolls/buns,chewing gum",3,1537,8,Rania,37,Dakahlia,Cash
+"pastry,oil,bottled beer,chocolate,specialty chocolate",5,2042,8,Rania,37,Dakahlia,Cash
+liquor,1,1071,8,Rania,37,Dakahlia,Credit
+yogurt,1,1861,8,Rania,37,Dakahlia,Cash
+"rolls/buns,pastry,sugar",3,600,8,Rania,37,Dakahlia,Cash
+"rolls/buns,coffee",2,134,8,Rania,37,Dakahlia,Credit
+"instant coffee,photo/film",2,2326,8,Rania,37,Dakahlia,Credit
+frankfurter,1,1113,8,Rania,37,Dakahlia,Credit
+"chicken,whole milk,whipped/sour cream,rolls/buns,white bread,fruit/vegetable juice,popcorn,photo/film",8,233,8,Rania,37,Dakahlia,Cash
+"sausage,soft cheese,bottled beer",3,2240,8,Rania,37,Dakahlia,Cash
+"liver loaf,whole milk,yogurt,condensed milk,specialty cheese,white bread",6,1480,8,Rania,37,Dakahlia,Cash
+"frozen meals,white bread,fruit/vegetable juice",3,907,8,Rania,37,Dakahlia,Credit
+"whole milk,bottled water,rum,waffles",4,965,8,Rania,37,Dakahlia,Credit
+"beef,spread cheese,domestic eggs,cat food,white wine,shopping bags",6,1856,8,Rania,37,Dakahlia,Credit
+"frankfurter,pork,other vegetables,whole milk,butter,brown bread,semi-finished bread,pet care,canned beer,waffles,hygiene articles,newspapers",12,200,8,Rania,37,Dakahlia,Credit
+"tropical fruit,whipped/sour cream,jam",3,2012,8,Rania,37,Dakahlia,Credit
+whole milk,1,293,8,Rania,37,Dakahlia,Credit
+"sausage,rolls/buns",2,1303,8,Rania,37,Dakahlia,Cash
+"frankfurter,meat,root vegetables,onions,other vegetables,whole milk,yogurt,UHT-milk,rolls/buns,oil,mustard,canned fish,coffee,newspapers,shopping bags",15,1347,8,Rania,37,Dakahlia,Credit
+"rolls/buns,brown bread",2,2019,8,Rania,37,Dakahlia,Credit
+"dessert,yogurt",2,426,8,Rania,37,Dakahlia,Credit
+white wine,1,1156,8,Rania,37,Dakahlia,Credit
+"root vegetables,dog food,bottled water",3,805,8,Rania,37,Dakahlia,Cash
+"sausage,meat,bottled water",3,709,8,Rania,37,Dakahlia,Credit
+whole milk,1,2404,8,Rania,37,Dakahlia,Cash
+"dish cleaner,shopping bags",2,363,8,Rania,37,Dakahlia,Credit
+"rolls/buns,soda",2,1123,8,Rania,37,Dakahlia,Cash
+"pip fruit,soda,canned beer",3,1224,8,Rania,37,Dakahlia,Credit
+"other vegetables,whipped/sour cream,rolls/buns,waffles,hygiene articles,newspapers",6,1565,8,Rania,37,Dakahlia,Cash
+"berries,brown bread",2,2482,8,Rania,37,Dakahlia,Cash
+cocoa drinks,1,1632,8,Rania,37,Dakahlia,Cash
+"frankfurter,hamburger meat,tropical fruit,other vegetables,whole milk,yogurt,whipped/sour cream,rolls/buns,kitchen towels,newspapers",10,1767,8,Rania,37,Dakahlia,Credit
+"pastry,instant coffee",2,1005,8,Rania,37,Dakahlia,Credit
+ice cream,1,1128,8,Rania,37,Dakahlia,Cash
+"whole milk,hard cheese,rolls/buns,bottled water",4,1179,8,Rania,37,Dakahlia,Cash
+"Instant food products,soda",2,1119,8,Rania,37,Dakahlia,Cash
+"tropical fruit,whipped/sour cream,hygiene articles",3,1791,8,Rania,37,Dakahlia,Cash
+"whole milk,cat food,pet care,coffee,soda,misc. beverages,chocolate",7,1314,8,Rania,37,Dakahlia,Credit
+"root vegetables,onions,dessert,mayonnaise,brown bread,salt,canned fish,bottled water,fruit/vegetable juice,bottled beer,popcorn",11,138,8,Rania,37,Dakahlia,Cash
+"canned beer,specialty bar",2,1922,8,Rania,37,Dakahlia,Credit
+"chicken,pip fruit,whole milk,dessert,margarine,soda,canned beer,liquor,newspapers",9,1410,8,Rania,37,Dakahlia,Cash
+"sausage,berries,sliced cheese,cream cheese ",4,2387,8,Rania,37,Dakahlia,Credit
+cling film/bags,1,1129,8,Rania,37,Dakahlia,Credit
+canned beer,1,1436,8,Rania,37,Dakahlia,Cash
+bottled beer,1,2064,8,Rania,37,Dakahlia,Cash
+"sliced cheese,domestic eggs,rolls/buns,bottled water,soda,pot plants",6,1673,8,Rania,37,Dakahlia,Cash
+canned beer,1,573,8,Rania,37,Dakahlia,Cash
+canned beer,1,795,8,Rania,37,Dakahlia,Credit
+"frankfurter,hamburger meat,grapes,other vegetables,whole milk,butter milk,whipped/sour cream,mayonnaise,white bread,roll products ,sauces,salty snack,waffles,chocolate",14,2207,8,Rania,37,Dakahlia,Cash
+"frankfurter,pork,brown bread,potato products",4,1370,8,Rania,37,Dakahlia,Credit
+canned beer,1,906,8,Rania,37,Dakahlia,Cash
+canned beer,1,2485,8,Rania,37,Dakahlia,Credit
+"beef,pip fruit,root vegetables,whole milk,soft cheese,bottled beer,detergent",7,1005,8,Rania,37,Dakahlia,Credit
+"rolls/buns,margarine,bottled water,bottled beer",4,2046,8,Rania,37,Dakahlia,Cash
+"root vegetables,onions,whole milk,curd,yogurt,whipped/sour cream,soft cheese,cream cheese ,curd cheese,frozen fish,rolls/buns,waffles",12,1750,8,Rania,37,Dakahlia,Cash
+"beef,root vegetables,other vegetables,whole milk,yogurt,whipped/sour cream,cream cheese ,cat food,napkins",9,1025,8,Rania,37,Dakahlia,Cash
+"frankfurter,ham,tropical fruit,yogurt,curd cheese,frozen fish,zwieback,margarine,fruit/vegetable juice",9,1723,8,Rania,37,Dakahlia,Credit
+"sausage,finished products,pork,tropical fruit,other vegetables,whole milk,yogurt,whipped/sour cream,cream cheese ,white bread,baking powder,long life bakery product,house keeping products,pot plants",14,2455,8,Rania,37,Dakahlia,Cash
+house keeping products,1,338,8,Rania,37,Dakahlia,Credit
+"turkey,root vegetables,other vegetables,whole milk,butter milk,UHT-milk,brown bread,bottled water",8,1698,8,Rania,37,Dakahlia,Credit
+coffee,1,1161,8,Rania,37,Dakahlia,Credit
+"sausage,tropical fruit,other vegetables,beverages,processed cheese,rolls/buns,soda,chewing gum",8,2078,8,Rania,37,Dakahlia,Cash
+"whole milk,butter milk,salt,sugar,soda,long life bakery product,waffles",7,1342,8,Rania,37,Dakahlia,Cash
+shopping bags,1,813,8,Rania,37,Dakahlia,Credit
+"dessert,rolls/buns,napkins,newspapers,shopping bags",5,2099,8,Rania,37,Dakahlia,Credit
+"chicken,yogurt,whipped/sour cream,frozen dessert,soda,pot plants",6,1073,8,Rania,37,Dakahlia,Cash
+"pastry,soda,canned beer,white wine,newspapers",5,1669,8,Rania,37,Dakahlia,Cash
+"yogurt,rolls/buns",2,1494,8,Rania,37,Dakahlia,Credit
+"sausage,root vegetables,whole milk,yogurt",4,1172,8,Rania,37,Dakahlia,Cash
+"whole milk,mayonnaise,soda,newspapers",4,1899,8,Rania,37,Dakahlia,Credit
+canned beer,1,1840,8,Rania,37,Dakahlia,Credit
+"sausage,pot plants",2,2257,8,Rania,37,Dakahlia,Cash
+"chicken,flower (seeds)",2,2210,8,Rania,37,Dakahlia,Credit
+"rolls/buns,coffee,salty snack,long life bakery product,waffles",5,2423,8,Rania,37,Dakahlia,Credit
+"condensed milk,tidbits,rolls/buns,coffee,bottled water,soda,misc. beverages,cake bar",8,2230,8,Rania,37,Dakahlia,Cash
+"root vegetables,bottled beer,chocolate",3,1054,8,Rania,37,Dakahlia,Credit
+"pet care,bottled water,soda,liquor (appetizer)",4,2310,8,Rania,37,Dakahlia,Cash
+"soda,misc. beverages",2,1562,8,Rania,37,Dakahlia,Cash
+"sausage,hamburger meat,packaged fruit/vegetables,whole milk,processed cheese,frozen vegetables,rolls/buns,white bread,tea,long life bakery product,cling film/bags,photo/film",12,2192,8,Rania,37,Dakahlia,Credit
+"frankfurter,meat,pip fruit,ice cream,brown bread,pickled vegetables,jam,canned fish,liquor,waffles,newspapers",11,386,8,Rania,37,Dakahlia,Credit
+"soda,seasonal products",2,1380,8,Rania,37,Dakahlia,Cash
+other vegetables,1,2007,8,Rania,37,Dakahlia,Cash
+"pip fruit,berries,yogurt",3,661,8,Rania,37,Dakahlia,Credit
+brown bread,1,1226,8,Rania,37,Dakahlia,Credit
+"other vegetables,frozen vegetables,domestic eggs,soda,canned beer,liquor,shopping bags",7,2283,8,Rania,37,Dakahlia,Cash
+"sausage,tropical fruit",2,2192,8,Rania,37,Dakahlia,Credit
+"pastry,soda",2,262,8,Rania,37,Dakahlia,Cash
+"whole milk,bottled beer",2,734,8,Rania,37,Dakahlia,Cash
+"sausage,misc. beverages,canned beer,waffles,shopping bags",5,2057,8,Rania,37,Dakahlia,Cash
+seasonal products,1,2164,8,Rania,37,Dakahlia,Cash
+"frankfurter,sausage,root vegetables,other vegetables,yogurt,UHT-milk,white bread,long life bakery product,chocolate,specialty bar,candy",11,1261,8,Rania,37,Dakahlia,Credit
+"pork,tropical fruit,pip fruit,processed cheese,spread cheese,curd cheese,bottled beer",7,1073,8,Rania,37,Dakahlia,Cash
+"citrus fruit,grapes,whipped/sour cream,flour,margarine,sugar,soups,baking powder,long life bakery product,waffles,chocolate,specialty bar,dish cleaner,female sanitary products,cling film/bags",15,267,8,Rania,37,Dakahlia,Credit
+"whole milk,yogurt,mustard,bottled water,newspapers",5,335,8,Rania,37,Dakahlia,Cash
+rolls/buns,1,1839,8,Rania,37,Dakahlia,Cash
+"frankfurter,butter milk,rolls/buns,coffee",4,1626,8,Rania,37,Dakahlia,Cash
+"liver loaf,rolls/buns,soda",3,1722,8,Rania,37,Dakahlia,Cash
+"bottled water,soda",2,307,8,Rania,37,Dakahlia,Credit
+"baking powder,soda,shopping bags",3,350,8,Rania,37,Dakahlia,Credit
+"pip fruit,soft cheese",2,1151,8,Rania,37,Dakahlia,Credit
+canned beer,1,1950,8,Rania,37,Dakahlia,Cash
+"sausage,other vegetables,butter,pastry,soda,dishes",6,844,8,Rania,37,Dakahlia,Credit
+"pork,root vegetables,beverages,white bread,sugar",5,991,8,Rania,37,Dakahlia,Cash
+rolls/buns,1,792,8,Rania,37,Dakahlia,Cash
+"frankfurter,whole milk,yogurt,tidbits,frozen vegetables,rolls/buns,detergent",7,993,8,Rania,37,Dakahlia,Cash
+"sausage,rolls/buns",2,970,8,Rania,37,Dakahlia,Cash
+"yogurt,soda",2,1733,8,Rania,37,Dakahlia,Cash
+"whipped/sour cream,frozen vegetables",2,1135,8,Rania,37,Dakahlia,Credit
+newspapers,1,2383,8,Rania,37,Dakahlia,Cash
+frozen meals,1,1508,8,Rania,37,Dakahlia,Credit
+"ice cream,kitchen towels",2,2138,8,Rania,37,Dakahlia,Cash
+"berries,whole milk,whipped/sour cream,beverages,fruit/vegetable juice,newspapers",6,1693,8,Rania,37,Dakahlia,Credit
+"other vegetables,whole milk,curd",3,1996,8,Rania,37,Dakahlia,Cash
+"citrus fruit,tropical fruit,root vegetables,other vegetables,whole milk,specialty cheese,canned vegetables",7,991,8,Rania,37,Dakahlia,Cash
+"tropical fruit,other vegetables,frozen vegetables,white bread,pastry,sugar,soda,shopping bags",8,509,8,Rania,37,Dakahlia,Cash
+sausage,1,1458,8,Rania,37,Dakahlia,Credit
+"canned beer,specialty bar",2,1333,8,Rania,37,Dakahlia,Cash
+"whole milk,cake bar",2,953,8,Rania,37,Dakahlia,Cash
+"frozen fish,chocolate marshmallow,candy,male cosmetics",4,1299,8,Rania,37,Dakahlia,Credit
+pork,1,1192,8,Rania,37,Dakahlia,Cash
+"pork,tropical fruit,soda,canned beer,liquor (appetizer),newspapers",6,2470,8,Rania,37,Dakahlia,Cash
+"sausage,pastry",2,2297,8,Rania,37,Dakahlia,Credit
+"tropical fruit,coffee,soda,misc. beverages,canned beer,waffles,chocolate",7,236,8,Rania,37,Dakahlia,Cash
+"chicken,pork,beef,grapes,other vegetables,whole milk,butter,yogurt,margarine,waffles",10,2201,8,Rania,37,Dakahlia,Cash
+"sausage,spices,newspapers",3,2424,8,Rania,37,Dakahlia,Cash
+"curd,specialty cheese,flour,long life bakery product",4,2362,8,Rania,37,Dakahlia,Cash
+"tropical fruit,yogurt,beverages,rolls/buns,waffles,specialty chocolate,shopping bags",7,1037,8,Rania,37,Dakahlia,Cash
+"brown bread,pastry,bottled water",3,601,8,Rania,37,Dakahlia,Cash
+"frankfurter,margarine,newspapers,shopping bags",4,1320,8,Rania,37,Dakahlia,Credit
+waffles,1,2253,8,Rania,37,Dakahlia,Cash
+"frankfurter,sausage,hamburger meat,pip fruit,other vegetables,whole milk,dessert,frozen meals,domestic eggs,soda",10,167,8,Rania,37,Dakahlia,Cash
+"red/blush wine,specialty bar",2,226,8,Rania,37,Dakahlia,Credit
+"frankfurter,onions,whole milk",3,1637,8,Rania,37,Dakahlia,Cash
+"hamburger meat,other vegetables,rolls/buns",3,1713,8,Rania,37,Dakahlia,Credit
+berries,1,439,8,Rania,37,Dakahlia,Cash
+"chicken,berries,root vegetables,herbs,other vegetables,whole milk,curd,ice cream,domestic eggs,margarine,soups,newspapers",12,1562,8,Rania,37,Dakahlia,Cash
+"tropical fruit,root vegetables,whole milk,curd,dessert,butter milk,yogurt,sauces,bottled water,syrup,specialty chocolate,cleaner",12,1689,8,Rania,37,Dakahlia,Cash
+"root vegetables,margarine,bottled water,soda",4,1255,8,Rania,37,Dakahlia,Cash
+"berries,yogurt,domestic eggs,newspapers",4,631,8,Rania,37,Dakahlia,Credit
+"sausage,rolls/buns,pastry,soda,seasonal products,shopping bags",6,2413,8,Rania,37,Dakahlia,Credit
+"bottled water,flower (seeds)",2,1846,8,Rania,37,Dakahlia,Cash
+bottled water,1,327,8,Rania,37,Dakahlia,Credit
+bottled beer,1,1152,8,Rania,37,Dakahlia,Credit
+shopping bags,1,2364,8,Rania,37,Dakahlia,Credit
+other vegetables,1,564,8,Rania,37,Dakahlia,Credit
+"frozen dessert,pastry,semi-finished bread,vinegar,coffee",5,533,8,Rania,37,Dakahlia,Cash
+soda,1,307,8,Rania,37,Dakahlia,Credit
+"whole milk,UHT-milk,frozen potato products,baking powder,pet care,popcorn,candy",7,720,8,Rania,37,Dakahlia,Cash
+"tropical fruit,pip fruit,whole milk,hard cheese,frozen meals,white bread,zwieback,sparkling wine,softener,hygiene articles,newspapers",11,196,8,Rania,37,Dakahlia,Cash
+chocolate,1,871,8,Rania,37,Dakahlia,Cash
+"beef,tropical fruit,root vegetables,whole milk,rolls/buns,bottled water,salty snack",7,1218,8,Rania,37,Dakahlia,Credit
+shopping bags,1,541,8,Rania,37,Dakahlia,Cash
+soda,1,1567,8,Rania,37,Dakahlia,Credit
+"UHT-milk,bottled water",2,1697,8,Rania,37,Dakahlia,Cash
+"domestic eggs,candy",2,677,8,Rania,37,Dakahlia,Cash
+"whole milk,butter,sugar,coffee",4,2455,8,Rania,37,Dakahlia,Credit
+"citrus fruit,whole milk,butter,yogurt,frozen vegetables,rolls/buns,baking powder,instant coffee,napkins,dishes,newspapers",11,1234,8,Rania,37,Dakahlia,Credit
+"beef,soft cheese,bottled beer",3,1989,8,Rania,37,Dakahlia,Cash
+"yogurt,cream cheese ,spread cheese,rolls/buns,bottled water,soda,fruit/vegetable juice,bottled beer,chocolate,newspapers",10,1085,8,Rania,37,Dakahlia,Cash
+"citrus fruit,other vegetables,curd,brown bread,hygiene articles",5,1036,8,Rania,37,Dakahlia,Cash
+"ham,hamburger meat,whole milk,processed cheese,rolls/buns,pastry,Instant food products,fruit/vegetable juice,salty snack,chocolate marshmallow",10,1149,8,Rania,37,Dakahlia,Cash
+rolls/buns,1,296,8,Rania,37,Dakahlia,Cash
+whole milk,1,2166,8,Rania,37,Dakahlia,Credit
+other vegetables,1,1770,8,Rania,37,Dakahlia,Credit
+"sausage,pastry,soda,salty snack,newspapers,shopping bags",6,827,8,Rania,37,Dakahlia,Cash
+"frankfurter,tropical fruit,root vegetables,butter milk,beverages,brown bread,fruit/vegetable juice",7,1873,8,Rania,37,Dakahlia,Credit
+"pork,newspapers",2,2397,8,Rania,37,Dakahlia,Credit
+fruit/vegetable juice,1,1893,8,Rania,37,Dakahlia,Cash
+"rolls/buns,brown bread",2,2040,8,Rania,37,Dakahlia,Credit
+"berries,yogurt,cat food,chocolate",4,2465,8,Rania,37,Dakahlia,Credit
+"beef,pip fruit,other vegetables,whole milk,curd cheese,rolls/buns,pastry,soda",8,403,8,Rania,37,Dakahlia,Credit
+"citrus fruit,brown bread,pastry,white wine,chocolate,shopping bags",6,2141,8,Rania,37,Dakahlia,Cash
+fruit/vegetable juice,1,796,8,Rania,37,Dakahlia,Credit
+"citrus fruit,tropical fruit,other vegetables,rolls/buns,shopping bags",5,1073,8,Rania,37,Dakahlia,Credit
+"whole milk,pastry,semi-finished bread,sugar,soda,salty snack,specialty bar",7,949,8,Rania,37,Dakahlia,Cash
+"grapes,brown bread",2,1250,8,Rania,37,Dakahlia,Credit
+"tropical fruit,butter milk,brown bread,flour",4,747,8,Rania,37,Dakahlia,Cash
+"finished products,whole milk,softener",3,1378,8,Rania,37,Dakahlia,Cash
+"whole milk,white bread,mustard,bottled water,soda,newspapers",6,1588,8,Rania,37,Dakahlia,Cash
+"pastry,soda",2,1258,8,Rania,37,Dakahlia,Cash
+"other vegetables,soda,shopping bags",3,644,8,Rania,37,Dakahlia,Credit
+"frankfurter,rolls/buns,pastry",3,1492,8,Rania,37,Dakahlia,Credit
+"citrus fruit,berries,pastry,male cosmetics,hygiene articles",5,1305,8,Rania,37,Dakahlia,Credit
+"pip fruit,butter,yogurt",3,1868,8,Rania,37,Dakahlia,Credit
+"chicken,spread cheese,frozen meals,domestic eggs",4,602,8,Rania,37,Dakahlia,Cash
+"citrus fruit,yogurt,rolls/buns,pastry",4,2282,8,Rania,37,Dakahlia,Credit
+"chicken,other vegetables,chewing gum,shopping bags",4,1129,8,Rania,37,Dakahlia,Cash
+"other vegetables,whole milk,chocolate",3,1731,8,Rania,37,Dakahlia,Cash
+"frozen vegetables,flour,bottled beer,liquor (appetizer),salty snack,dishes",6,2463,8,Rania,37,Dakahlia,Cash
+"onions,brown bread",2,1838,8,Rania,37,Dakahlia,Credit
+"chicken,root vegetables",2,490,8,Rania,37,Dakahlia,Cash
+soda,1,166,8,Rania,37,Dakahlia,Cash
+"citrus fruit,tropical fruit,dessert,fruit/vegetable juice",4,1460,8,Rania,37,Dakahlia,Credit
+"cake bar,specialty chocolate",2,341,8,Rania,37,Dakahlia,Cash
+whole milk,1,854,8,Rania,37,Dakahlia,Cash
+"root vegetables,other vegetables,canned fish,shopping bags",4,238,8,Rania,37,Dakahlia,Cash
+baking powder,1,1266,8,Rania,37,Dakahlia,Cash
+root vegetables,1,975,8,Rania,37,Dakahlia,Credit
+"condensed milk,coffee,shopping bags",3,2382,8,Rania,37,Dakahlia,Cash
+"citrus fruit,other vegetables,beverages,snack products",4,345,8,Rania,37,Dakahlia,Cash
+"tropical fruit,pip fruit,grapes",3,1791,8,Rania,37,Dakahlia,Credit
+misc. beverages,1,723,8,Rania,37,Dakahlia,Cash
+"beef,citrus fruit,grapes,berries,butter milk,yogurt,sliced cheese,rolls/buns",8,1415,8,Rania,37,Dakahlia,Credit
+"berries,whole milk,whipped/sour cream,pastry,soda,chewing gum,chocolate,candy",8,2225,8,Rania,37,Dakahlia,Credit
+"sausage,mayonnaise,rolls/buns,shopping bags",4,1968,8,Rania,37,Dakahlia,Cash
+"meat,hamburger meat,onions,other vegetables,condensed milk,brown bread",6,2207,8,Rania,37,Dakahlia,Cash
+"chicken,grapes,whole milk,yogurt,sliced cheese,bottled water,fruit/vegetable juice",7,1449,8,Rania,37,Dakahlia,Credit
+"sausage,citrus fruit,berries,whipped/sour cream,rolls/buns,canned beer,specialty bar,napkins",8,1397,8,Rania,37,Dakahlia,Credit
+"other vegetables,soft cheese,soda,bottled beer",4,395,8,Rania,37,Dakahlia,Cash
+candles,1,2165,8,Rania,37,Dakahlia,Cash
+"pork,whole milk",2,942,8,Rania,37,Dakahlia,Cash
+"beef,margarine",2,795,8,Rania,37,Dakahlia,Credit
+canned beer,1,1942,8,Rania,37,Dakahlia,Credit
+chocolate,1,1447,8,Rania,37,Dakahlia,Credit
+"whole milk,bottled water,bottled beer",3,197,8,Rania,37,Dakahlia,Cash
+"hard cheese,frozen meals",2,1503,8,Rania,37,Dakahlia,Cash
+"pip fruit,other vegetables,canned beer",3,303,8,Rania,37,Dakahlia,Credit
+"pork,frozen fish,domestic eggs,sugar,misc. beverages,dental care,hygiene articles,shopping bags",8,1627,8,Rania,37,Dakahlia,Cash
+"butter milk,sliced cheese",2,1531,8,Rania,37,Dakahlia,Credit
+"pip fruit,butter milk,cream cheese ,rolls/buns",4,1268,8,Rania,37,Dakahlia,Credit
+rolls/buns,1,2181,8,Rania,37,Dakahlia,Credit
+"butter milk,specialty bar,napkins",3,1737,8,Rania,37,Dakahlia,Credit
+"rolls/buns,bottled beer",2,1691,8,Rania,37,Dakahlia,Cash
+"packaged fruit/vegetables,whipped/sour cream",2,2063,8,Rania,37,Dakahlia,Cash
+"pork,pip fruit,other vegetables,yogurt,domestic eggs",5,2403,8,Rania,37,Dakahlia,Cash
+"tropical fruit,pastry,fruit/vegetable juice",3,554,8,Rania,37,Dakahlia,Cash
+"sausage,ham,rolls/buns,soda,white wine",5,540,8,Rania,37,Dakahlia,Credit
+"soda,bottled beer,shopping bags",3,977,8,Rania,37,Dakahlia,Credit
+"sausage,white bread,coffee,soda,shopping bags",5,217,8,Rania,37,Dakahlia,Cash
+frozen meals,1,2353,8,Rania,37,Dakahlia,Credit
+"frankfurter,whole milk,rolls/buns,cling film/bags,shopping bags",5,1597,8,Rania,37,Dakahlia,Cash
+candy,1,724,8,Rania,37,Dakahlia,Credit
+soda,1,1294,8,Rania,37,Dakahlia,Credit
+"whole milk,napkins",2,236,8,Rania,37,Dakahlia,Credit
+"chicken,bottled beer",2,2338,8,Rania,37,Dakahlia,Cash
+"whole milk,butter",2,1496,8,Rania,37,Dakahlia,Cash
+"pip fruit,whole milk,cream cheese ,rolls/buns,chocolate,cooking chocolate",6,1725,8,Rania,37,Dakahlia,Credit
+bottled beer,1,1346,8,Rania,37,Dakahlia,Credit
+canned beer,1,2120,8,Rania,37,Dakahlia,Cash
+"tropical fruit,root vegetables,curd,yogurt,tea,newspapers",6,1291,8,Rania,37,Dakahlia,Credit
+"frankfurter,frozen dessert,rolls/buns",3,407,8,Rania,37,Dakahlia,Credit
+"chicken,whole milk,rolls/buns,pasta",4,892,8,Rania,37,Dakahlia,Credit
+"other vegetables,chocolate",2,482,8,Rania,37,Dakahlia,Cash
+"sausage,tropical fruit,pip fruit,root vegetables,whole milk,yogurt,rolls/buns,pastry,oil,coffee,specialty bar,dish cleaner,cling film/bags,shopping bags",14,547,8,Rania,37,Dakahlia,Credit
+"pork,other vegetables,whole milk,brown bread,pastry,soda,misc. beverages",7,2043,8,Rania,37,Dakahlia,Credit
+"frankfurter,sausage,tropical fruit,pip fruit,grapes,other vegetables,whole milk,butter,yogurt,frozen meals,brown bread,red/blush wine",12,1405,8,Rania,37,Dakahlia,Credit
+"pastry,oil",2,1462,8,Rania,37,Dakahlia,Credit
+"pasta,sauces,cake bar,chocolate marshmallow,napkins",5,221,8,Rania,37,Dakahlia,Credit
+chocolate,1,1721,8,Rania,37,Dakahlia,Credit
+berries,1,1312,8,Rania,37,Dakahlia,Credit
+waffles,1,1812,8,Rania,37,Dakahlia,Cash
+"rolls/buns,soda,cleaner",3,1175,8,Rania,37,Dakahlia,Cash
+"tropical fruit,whole milk,curd,dessert,pastry,soda,misc. beverages,hygiene articles,shopping bags",9,2129,8,Rania,37,Dakahlia,Cash
+"sausage,hamburger meat,onions,other vegetables,rolls/buns,coffee",6,1588,8,Rania,37,Dakahlia,Cash
+"beef,root vegetables,white wine,shopping bags",4,1791,8,Rania,37,Dakahlia,Credit
+"other vegetables,butter,whipped/sour cream,processed cheese,frozen fruits",5,2385,8,Rania,37,Dakahlia,Credit
+"organic sausage,soda",2,2214,8,Rania,37,Dakahlia,Cash
+"pork,citrus fruit,root vegetables,whole milk,dessert,yogurt,frozen fish,margarine,pickled vegetables,chocolate,candy",11,119,8,Rania,37,Dakahlia,Credit
+prosecco,1,2345,8,Rania,37,Dakahlia,Credit
+"tropical fruit,yogurt,beverages,hard cheese,frozen meals,rolls/buns,tea,bottled water,light bulbs,shopping bags",10,2169,8,Rania,37,Dakahlia,Credit
+canned beer,1,1034,8,Rania,37,Dakahlia,Credit
+"pip fruit,whole milk,rolls/buns,sugar,baking powder",5,478,8,Rania,37,Dakahlia,Credit
+"pork,whole milk,whipped/sour cream,bottled beer,dishes",5,1599,8,Rania,37,Dakahlia,Credit
+"soda,fruit/vegetable juice,long life bakery product",3,495,8,Rania,37,Dakahlia,Cash
+"frankfurter,meat,pork,grapes,root vegetables,whipped/sour cream,domestic eggs",7,563,8,Rania,37,Dakahlia,Credit
+"rolls/buns,canned fish,soda,newspapers",4,195,8,Rania,37,Dakahlia,Cash
+"rolls/buns,red/blush wine",2,510,8,Rania,37,Dakahlia,Credit
+"whole milk,pastry",2,1918,8,Rania,37,Dakahlia,Credit
+"grapes,berries,waffles",3,506,8,Rania,37,Dakahlia,Credit
+"pork,other vegetables,sliced cheese,white bread",4,1465,8,Rania,37,Dakahlia,Cash
+"sausage,meat,grapes,root vegetables,other vegetables,rolls/buns,canned beer",7,2134,8,Rania,37,Dakahlia,Cash
+"sausage,frozen vegetables,seasonal products",3,105,8,Rania,37,Dakahlia,Credit
+"turkey,citrus fruit,pip fruit,root vegetables,onions,other vegetables,whole milk,butter,spices,bottled water,bottled beer",11,1655,8,Rania,37,Dakahlia,Cash
+"whole milk,butter,yogurt,brown bread,bottled water,soda,fruit/vegetable juice,long life bakery product,newspapers",9,1997,8,Rania,37,Dakahlia,Cash
+"hamburger meat,herbs,other vegetables,butter,whipped/sour cream,soda,dish cleaner,cleaner",8,1797,8,Rania,37,Dakahlia,Cash
+"butter,bottled beer",2,1729,8,Rania,37,Dakahlia,Credit
+"ham,tropical fruit,ice cream,semi-finished bread,chocolate marshmallow",5,903,8,Rania,37,Dakahlia,Credit
+"chicken,tropical fruit,other vegetables,whole milk,soft cheese,frozen vegetables,chocolate",7,1493,8,Rania,37,Dakahlia,Credit
+"liver loaf,root vegetables,other vegetables",3,1878,8,Rania,37,Dakahlia,Cash
+"canned beer,shopping bags",2,134,8,Rania,37,Dakahlia,Cash
+"chicken,root vegetables,whole milk,pastry,candy",5,1468,8,Rania,37,Dakahlia,Credit
+bottled beer,1,1618,8,Rania,37,Dakahlia,Credit
+"sausage,chicken,hamburger meat,pip fruit,berries,other vegetables,whole milk,dessert,butter milk,UHT-milk,domestic eggs,salty snack",12,1064,8,Rania,37,Dakahlia,Credit
+"grapes,butter,rum",3,1507,8,Rania,37,Dakahlia,Cash
+"curd,yogurt,pastry,bottled water,fruit/vegetable juice,dishes,pot plants",7,793,8,Rania,37,Dakahlia,Cash
+"citrus fruit,tropical fruit,sliced cheese,ice cream,domestic eggs,detergent,newspapers",7,1625,8,Rania,37,Dakahlia,Cash
+"whipped/sour cream,cream cheese ",2,2019,8,Rania,37,Dakahlia,Credit
+"citrus fruit,tropical fruit,root vegetables,other vegetables,butter,yogurt,whipped/sour cream,salty snack,specialty bar",9,1379,8,Rania,37,Dakahlia,Cash
+"whole milk,domestic eggs,brown bread,pastry",4,953,8,Rania,37,Dakahlia,Cash
+"citrus fruit,tropical fruit,onions,other vegetables,butter milk",5,1568,8,Rania,37,Dakahlia,Credit
+"sausage,other vegetables,whole milk,fruit/vegetable juice",4,1218,8,Rania,37,Dakahlia,Cash
+"ham,pork,shopping bags",3,1666,8,Rania,37,Dakahlia,Cash
+"frozen fish,liquor (appetizer)",2,153,8,Rania,37,Dakahlia,Cash
+"sausage,other vegetables,whole milk,butter,fruit/vegetable juice",5,218,8,Rania,37,Dakahlia,Credit
+"grapes,other vegetables,pastry,dish cleaner",4,562,8,Rania,37,Dakahlia,Credit
+"tropical fruit,whole milk,butter,butter milk,brown bread,pastry",6,949,8,Rania,37,Dakahlia,Credit
+"chicken,whole milk,butter,curd,domestic eggs,newspapers",6,413,8,Rania,37,Dakahlia,Cash
+"frankfurter,hamburger meat,other vegetables,pastry,dish cleaner,cling film/bags,kitchen towels",7,1502,8,Rania,37,Dakahlia,Cash
+"meat,citrus fruit,hard cheese,soda",4,366,8,Rania,37,Dakahlia,Credit
+"ham,root vegetables,herbs,whole milk,curd,yogurt,hard cheese,rolls/buns,detergent",9,498,8,Rania,37,Dakahlia,Credit
+"meat,specialty chocolate",2,314,8,Rania,37,Dakahlia,Credit
+"pip fruit,coffee",2,2367,8,Rania,37,Dakahlia,Cash
+"yogurt,long life bakery product,photo/film,pot plants",4,1448,8,Rania,37,Dakahlia,Cash
+"pip fruit,other vegetables,butter,domestic eggs,rolls/buns,margarine,bottled water",7,262,8,Rania,37,Dakahlia,Credit
+"brown bread,white wine",2,2322,8,Rania,37,Dakahlia,Cash
+"sausage,hamburger meat,grapes,whipped/sour cream,frozen potato products,domestic eggs,oil,seasonal products,napkins,newspapers",10,1538,8,Rania,37,Dakahlia,Credit
+"other vegetables,whole milk,soda,shopping bags",4,145,8,Rania,37,Dakahlia,Credit
+"beef,other vegetables,whipped/sour cream,processed cheese,salt,oil,dog food,newspapers",8,1479,8,Rania,37,Dakahlia,Cash
+"beef,citrus fruit,root vegetables,other vegetables,rolls/buns,sugar,fruit/vegetable juice",7,1422,8,Rania,37,Dakahlia,Credit
+"frankfurter,other vegetables,yogurt,rolls/buns,pastry,margarine,sugar,waffles,chocolate,chocolate marshmallow",10,1753,8,Rania,37,Dakahlia,Credit
+"sausage,other vegetables,whipped/sour cream,processed cheese,brown bread",5,363,8,Rania,37,Dakahlia,Credit
+"tropical fruit,pip fruit,root vegetables,other vegetables,whole milk,dessert,yogurt,UHT-milk,baking powder,canned vegetables,waffles",11,462,8,Rania,37,Dakahlia,Cash
+"rolls/buns,newspapers",2,987,8,Rania,37,Dakahlia,Credit
+"sausage,meat,rolls/buns,soda,fruit/vegetable juice,male cosmetics,shopping bags",7,2104,8,Rania,37,Dakahlia,Cash
+"citrus fruit,tropical fruit,pip fruit,root vegetables,rolls/buns",5,162,8,Rania,37,Dakahlia,Cash
+"liver loaf,rolls/buns",2,1327,8,Rania,37,Dakahlia,Cash
+"tropical fruit,curd",2,373,8,Rania,37,Dakahlia,Credit
+"pork,beef,other vegetables,whole milk,pickled vegetables,long life bakery product,specialty chocolate",7,922,8,Rania,37,Dakahlia,Cash
+"citrus fruit,root vegetables,whole milk,butter milk,processed cheese,frozen vegetables,mustard,fruit/vegetable juice,napkins",9,619,8,Rania,37,Dakahlia,Cash
+"hamburger meat,root vegetables,whole milk,pastry,sweet spreads",5,1121,8,Rania,37,Dakahlia,Credit
+"napkins,candles",2,100,8,Rania,37,Dakahlia,Credit
+beverages,1,346,8,Rania,37,Dakahlia,Credit
+frozen meals,1,2043,8,Rania,37,Dakahlia,Cash
+"hamburger meat,pip fruit,root vegetables,other vegetables",4,2298,8,Rania,37,Dakahlia,Credit
+whole milk,1,421,8,Rania,37,Dakahlia,Credit
+pet care,1,1276,8,Rania,37,Dakahlia,Credit
+shopping bags,1,1699,8,Rania,37,Dakahlia,Cash
+"frankfurter,pip fruit,other vegetables,whole milk,butter,pastry,soda,long life bakery product",8,231,8,Rania,37,Dakahlia,Cash
+"frankfurter,yogurt,sliced cheese,mayonnaise,salty snack",5,592,8,Rania,37,Dakahlia,Cash
+"tropical fruit,root vegetables,rolls/buns",3,2114,8,Rania,37,Dakahlia,Credit
+"pip fruit,whole milk,condensed milk,canned fish,misc. beverages,fruit/vegetable juice,candy",7,117,8,Rania,37,Dakahlia,Credit
+"pip fruit,butter,beverages,sliced cheese,ice cream,rolls/buns,bottled water",7,482,8,Rania,37,Dakahlia,Cash
+"ham,whole milk,semi-finished bread",3,157,8,Rania,37,Dakahlia,Cash
+"pork,onions,other vegetables,salty snack,flower (seeds)",5,147,8,Rania,37,Dakahlia,Cash
+"whole milk,brown bread",2,799,8,Rania,37,Dakahlia,Cash
+"sausage,root vegetables,other vegetables,butter,domestic eggs,rolls/buns",6,2003,8,Rania,37,Dakahlia,Credit
+"tropical fruit,berries,yogurt,brown bread,hygiene articles",5,1359,8,Rania,37,Dakahlia,Credit
+"tropical fruit,pip fruit,other vegetables,misc. beverages",4,958,8,Rania,37,Dakahlia,Cash
+"sausage,whole milk,dessert,pastry,soda",5,1176,8,Rania,37,Dakahlia,Cash
+meat,1,1543,8,Rania,37,Dakahlia,Credit
+"pork,curd,dessert,whipped/sour cream,flour,bottled water",6,1890,8,Rania,37,Dakahlia,Credit
+"rolls/buns,brown bread",2,1220,8,Rania,37,Dakahlia,Credit
+"frankfurter,beef,tropical fruit,grapes,onions,other vegetables,whole milk,whipped/sour cream,cream cheese ,semi-finished bread,vinegar",11,750,8,Rania,37,Dakahlia,Cash
+"canned beer,shopping bags",2,1300,8,Rania,37,Dakahlia,Cash
+"finished products,onions,salty snack",3,745,8,Rania,37,Dakahlia,Cash
+"curd,cat food",2,2269,8,Rania,37,Dakahlia,Cash
+beverages,1,1463,8,Rania,37,Dakahlia,Credit
+"frozen meals,shopping bags",2,1061,8,Rania,37,Dakahlia,Credit
+"ham,chicken,pork,root vegetables,whole milk,whipped/sour cream,rolls/buns,sugar,soda,waffles,chocolate,specialty chocolate,chocolate marshmallow,napkins",14,2304,8,Rania,37,Dakahlia,Cash
+"finished products,other vegetables,butter,cream cheese ,processed cheese,domestic eggs,rolls/buns,pastry,long life bakery product,candy",10,1862,8,Rania,37,Dakahlia,Cash
+"UHT-milk,coffee",2,912,8,Rania,37,Dakahlia,Credit
+curd,1,2393,8,Rania,37,Dakahlia,Cash
+"citrus fruit,other vegetables,whole milk,yogurt,UHT-milk,white bread,salt,Instant food products,bottled water,nut snack,newspapers",11,1385,8,Rania,37,Dakahlia,Cash
+whole milk,1,966,8,Rania,37,Dakahlia,Credit
+"ham,tropical fruit,whole milk,dessert,butter milk,brown bread,pastry,oil,cake bar,chocolate",10,712,8,Rania,37,Dakahlia,Cash
+"tropical fruit,dessert,tidbits,pastry,waffles,cleaner",6,265,8,Rania,37,Dakahlia,Credit
+"bottled beer,seasonal products",2,1725,8,Rania,37,Dakahlia,Credit
+"sausage,root vegetables,other vegetables,whole milk,yogurt,beverages,brown bread,fruit/vegetable juice",8,1515,8,Rania,37,Dakahlia,Cash
+"condensed milk,rolls/buns,coffee,newspapers",4,1239,8,Rania,37,Dakahlia,Cash
+"whole milk,beverages,pastry,newspapers",4,1479,8,Rania,37,Dakahlia,Cash
+"pastry,newspapers",2,2229,8,Rania,37,Dakahlia,Credit
+"pip fruit,grapes,berries,other vegetables,whole milk,UHT-milk,rolls/buns,zwieback,bottled water,soda,red/blush wine,specialty bar",12,1459,8,Rania,37,Dakahlia,Credit

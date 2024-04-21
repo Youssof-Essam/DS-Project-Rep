@@ -1,0 +1,1950 @@
+items,count,total,rnd,customer,age,city,paymentType
+"other vegetables,UHT-milk,rolls/buns,bottled beer,liquor (appetizer)",5,1657,6,Walaa,29,Cairo,Cash
+"citrus fruit,tropical fruit,whole milk,butter,curd,yogurt,flour,bottled water,dishes",9,1965,1,Farida,22,Cairo,Credit
+"chicken,tropical fruit",2,1579,13,Sayed,37,Cairo,Credit
+chocolate,1,184,6,Walaa,29,Cairo,Cash
+yogurt,1,599,1,Farida,22,Cairo,Cash
+other vegetables,1,1906,1,Farida,22,Cairo,Credit
+"brown bread,soda,fruit/vegetable juice,canned beer,newspapers,shopping bags",6,391,13,Sayed,37,Cairo,Cash
+"beef,grapes,detergent",3,148,13,Sayed,37,Cairo,Credit
+canned beer,1,1465,6,Walaa,29,Cairo,Credit
+"root vegetables,other vegetables,whole milk,dessert",4,2374,6,Walaa,29,Cairo,Credit
+"tropical fruit,root vegetables,whole milk,yogurt,domestic eggs,brown bread,pastry,sugar,cereals,coffee,soda,waffles,candy",13,1287,13,Sayed,37,Cairo,Cash
+"pastry,bottled water",2,730,1,Farida,22,Cairo,Credit
+whole milk,1,453,1,Farida,22,Cairo,Credit
+"flour,salt,bottled water,fruit/vegetable juice,bottled beer",5,2079,1,Farida,22,Cairo,Credit
+"herbs,condensed milk,frozen vegetables,salt,oil,white wine,candles",7,328,13,Sayed,37,Cairo,Credit
+soda,1,748,6,Walaa,29,Cairo,Cash
+"fruit/vegetable juice,salty snack,candles",3,1133,1,Farida,22,Cairo,Credit
+"sausage,sliced cheese,rolls/buns,brown bread,fruit/vegetable juice,canned beer,red/blush wine,waffles,shopping bags",9,2213,1,Farida,22,Cairo,Credit
+"chicken,hamburger meat,citrus fruit,tropical fruit,root vegetables,other vegetables,butter,pasta,oil,detergent",10,940,6,Walaa,29,Cairo,Credit
+"sausage,pork,grapes,whole milk,rolls/buns,pastry,soda,specialty bar,bathroom cleaner",9,838,6,Walaa,29,Cairo,Credit
+"sausage,whole milk,yogurt,coffee,fruit/vegetable juice,bottled beer,softener,napkins,photo/film,shopping bags",10,1695,1,Farida,22,Cairo,Credit
+processed cheese,1,764,6,Walaa,29,Cairo,Cash
+"tropical fruit,whole milk,yogurt",3,578,13,Sayed,37,Cairo,Credit
+"frankfurter,sausage,long life bakery product,waffles",4,1721,13,Sayed,37,Cairo,Cash
+"packaged fruit/vegetables,dessert,semi-finished bread,canned beer",4,918,6,Walaa,29,Cairo,Cash
+"pastry,soda",2,119,6,Walaa,29,Cairo,Cash
+"sausage,butter milk,rolls/buns",3,2403,6,Walaa,29,Cairo,Cash
+"whole milk,yogurt,beverages,brown bread,shopping bags",5,1316,6,Walaa,29,Cairo,Cash
+canned beer,1,111,1,Farida,22,Cairo,Credit
+"pasta,popcorn",2,1290,6,Walaa,29,Cairo,Credit
+"other vegetables,whole milk,meat spreads,cake bar,chocolate,shopping bags",6,2386,13,Sayed,37,Cairo,Cash
+rolls/buns,1,1894,13,Sayed,37,Cairo,Credit
+"grapes,other vegetables,curd,dessert,yogurt,napkins",6,311,1,Farida,22,Cairo,Cash
+"root vegetables,other vegetables,whole milk,yogurt,beverages,soft cheese,frozen vegetables,fruit/vegetable juice,bottled beer",9,364,6,Walaa,29,Cairo,Cash
+"beef,herbs,flour,cling film/bags,flower soil/fertilizer",5,596,6,Walaa,29,Cairo,Cash
+"whole milk,butter,dessert,rolls/buns",4,1649,6,Walaa,29,Cairo,Credit
+"beverages,soda",2,169,6,Walaa,29,Cairo,Cash
+other vegetables,1,650,6,Walaa,29,Cairo,Credit
+"soda,bottled beer,white wine,prosecco",4,1922,1,Farida,22,Cairo,Credit
+"herbs,candy",2,1646,13,Sayed,37,Cairo,Credit
+"frankfurter,tropical fruit,whole milk,spread cheese,margarine,shopping bags",6,964,6,Walaa,29,Cairo,Cash
+"beef,berries,root vegetables,whole milk,dessert,spread cheese,brown bread",7,113,13,Sayed,37,Cairo,Credit
+specialty chocolate,1,828,13,Sayed,37,Cairo,Cash
+"whole milk,beverages,UHT-milk,soda",4,441,13,Sayed,37,Cairo,Cash
+"sausage,pork,beef,whole milk,rolls/buns,margarine",6,1790,6,Walaa,29,Cairo,Cash
+"bottled water,fruit/vegetable juice",2,543,13,Sayed,37,Cairo,Credit
+"cleaner,female sanitary products",2,1828,6,Walaa,29,Cairo,Credit
+"sausage,soda,newspapers,shopping bags",4,1961,1,Farida,22,Cairo,Credit
+"frankfurter,sausage,root vegetables,butter,curd,sliced cheese,rolls/buns,salty snack,long life bakery product",9,948,6,Walaa,29,Cairo,Credit
+"sausage,oil,hygiene articles,napkins",4,282,13,Sayed,37,Cairo,Cash
+"rolls/buns,soda",2,2494,13,Sayed,37,Cairo,Cash
+liquor,1,1875,13,Sayed,37,Cairo,Cash
+soda,1,959,6,Walaa,29,Cairo,Cash
+"sausage,citrus fruit,tropical fruit,other vegetables,whole milk,yogurt,rolls/buns,bottled water,soda,chocolate,newspapers",11,1361,6,Walaa,29,Cairo,Cash
+"tropical fruit,pip fruit,onions,other vegetables,whole milk,domestic eggs,sugar,soups,tea,soda,hygiene articles,napkins",12,1044,13,Sayed,37,Cairo,Credit
+"packaged fruit/vegetables,whole milk,curd,yogurt,domestic eggs,brown bread,mustard,pickled vegetables,bottled water,misc. beverages",10,1026,13,Sayed,37,Cairo,Cash
+canned beer,1,2370,13,Sayed,37,Cairo,Cash
+"citrus fruit,sugar,sauces",3,2299,13,Sayed,37,Cairo,Cash
+"sausage,chicken,tropical fruit,root vegetables,whole milk,yogurt,candy,abrasive cleaner,cleaner",9,140,1,Farida,22,Cairo,Credit
+"pork,citrus fruit,brown bread,pastry,sugar,cat food",6,1112,1,Farida,22,Cairo,Credit
+"tropical fruit,soda,salty snack",3,539,6,Walaa,29,Cairo,Credit
+"grapes,root vegetables",2,1798,1,Farida,22,Cairo,Credit
+"domestic eggs,brown bread,photo/film",3,398,13,Sayed,37,Cairo,Credit
+chicken,1,631,6,Walaa,29,Cairo,Cash
+"tropical fruit,yogurt,rolls/buns,soda,shopping bags",5,526,13,Sayed,37,Cairo,Cash
+"ham,other vegetables,whipped/sour cream,hard cheese,rolls/buns,soda,misc. beverages,chocolate,candy",9,2268,13,Sayed,37,Cairo,Credit
+bottled water,1,1098,1,Farida,22,Cairo,Credit
+"sausage,citrus fruit,whole milk,canned beer",4,824,13,Sayed,37,Cairo,Cash
+"frankfurter,rolls/buns",2,730,13,Sayed,37,Cairo,Cash
+"root vegetables,whole milk,butter,processed cheese,mayonnaise,salty snack",6,952,13,Sayed,37,Cairo,Cash
+"tropical fruit,whole milk,frozen meals,bottled beer",4,1157,13,Sayed,37,Cairo,Credit
+"whole milk,soda",2,626,6,Walaa,29,Cairo,Cash
+"rolls/buns,bottled beer",2,107,1,Farida,22,Cairo,Credit
+"whole milk,hygiene articles",2,447,13,Sayed,37,Cairo,Cash
+"citrus fruit,whole milk,curd,soft cheese",4,1396,1,Farida,22,Cairo,Credit
+"berries,root vegetables,other vegetables,packaged fruit/vegetables,whole milk,curd,curd cheese,cat food,specialty bar,detergent",10,2052,13,Sayed,37,Cairo,Cash
+"root vegetables,packaged fruit/vegetables,curd,dessert,frozen vegetables,specialty fat,coffee",7,2245,13,Sayed,37,Cairo,Cash
+"bottled beer,liquor",2,559,13,Sayed,37,Cairo,Cash
+"sausage,liver loaf,other vegetables,cream cheese ,pastry,soap,shopping bags",7,674,1,Farida,22,Cairo,Credit
+"hard cheese,pastry,napkins",3,1819,1,Farida,22,Cairo,Credit
+"tropical fruit,other vegetables",2,1593,6,Walaa,29,Cairo,Cash
+"baking powder,bottled water,salty snack,chewing gum",4,1816,13,Sayed,37,Cairo,Cash
+"other vegetables,pet care",2,1189,13,Sayed,37,Cairo,Cash
+"tropical fruit,other vegetables,rolls/buns",3,2455,1,Farida,22,Cairo,Credit
+"beef,other vegetables,whole milk,frozen potato products,rolls/buns,oil,margarine,coffee,dental care,hygiene articles,newspapers",11,1525,13,Sayed,37,Cairo,Credit
+soda,1,1126,1,Farida,22,Cairo,Cash
+"pork,ice cream,hygiene articles,house keeping products",4,1050,13,Sayed,37,Cairo,Cash
+"bottled water,misc. beverages,cling film/bags",3,2095,6,Walaa,29,Cairo,Cash
+"tropical fruit,other vegetables,packaged fruit/vegetables,whole milk,hard cheese,frozen dessert,rice,bottled water",8,1050,1,Farida,22,Cairo,Credit
+bottled water,1,449,6,Walaa,29,Cairo,Credit
+"brown bread,soda,salty snack,shopping bags",4,630,13,Sayed,37,Cairo,Cash
+"soda,misc. beverages",2,373,1,Farida,22,Cairo,Cash
+"white bread,brown bread",2,911,6,Walaa,29,Cairo,Credit
+domestic eggs,1,1143,1,Farida,22,Cairo,Cash
+bottled beer,1,430,1,Farida,22,Cairo,Credit
+"other vegetables,margarine",2,1911,6,Walaa,29,Cairo,Credit
+"pork,pip fruit,whole milk,butter milk",4,680,6,Walaa,29,Cairo,Credit
+frankfurter,1,1627,1,Farida,22,Cairo,Credit
+"frankfurter,tropical fruit,pip fruit,curd,UHT-milk,hard cheese,domestic eggs,rolls/buns,hygiene articles,napkins,shopping bags",11,431,1,Farida,22,Cairo,Cash
+other vegetables,1,335,1,Farida,22,Cairo,Credit
+whole milk,1,2082,6,Walaa,29,Cairo,Cash
+"hamburger meat,domestic eggs",2,1207,13,Sayed,37,Cairo,Cash
+canned beer,1,1536,6,Walaa,29,Cairo,Cash
+"other vegetables,curd,frozen meals,frozen potato products,soda,bottled beer,kitchen towels,candles",8,2256,6,Walaa,29,Cairo,Cash
+"other vegetables,whole milk,yogurt,domestic eggs,bottled water,soda",6,1082,1,Farida,22,Cairo,Cash
+soda,1,654,13,Sayed,37,Cairo,Credit
+"hamburger meat,root vegetables,other vegetables,domestic eggs,roll products ,oil,margarine,hygiene articles",8,2365,1,Farida,22,Cairo,Cash
+rolls/buns,1,674,6,Walaa,29,Cairo,Cash
+"cling film/bags,pot plants",2,591,13,Sayed,37,Cairo,Cash
+"chicken,pastry",2,1185,1,Farida,22,Cairo,Credit
+"rolls/buns,soda",2,503,13,Sayed,37,Cairo,Cash
+"other vegetables,bottled beer,red/blush wine",3,125,13,Sayed,37,Cairo,Credit
+"whole milk,processed cheese,brown bread,pastry,soda",5,171,6,Walaa,29,Cairo,Credit
+"coffee,long life bakery product",2,738,6,Walaa,29,Cairo,Cash
+canned beer,1,545,1,Farida,22,Cairo,Credit
+"tropical fruit,curd,yogurt,rolls/buns,brown bread,bottled water,bottled beer,seasonal products",8,1669,1,Farida,22,Cairo,Credit
+"bottled water,soda,red/blush wine,long life bakery product,newspapers",5,544,13,Sayed,37,Cairo,Credit
+"pastry,canned beer",2,1934,6,Walaa,29,Cairo,Cash
+"beef,citrus fruit,tropical fruit,yogurt,UHT-milk,frozen vegetables,rolls/buns,bottled water,skin care",9,1945,13,Sayed,37,Cairo,Credit
+"meat,beef,herbs,whole milk,frozen dessert,rolls/buns,semi-finished bread,flour,oil,coffee,pot plants",11,2400,1,Farida,22,Cairo,Cash
+"beef,other vegetables,whole milk,brown bread,pastry,salty snack,abrasive cleaner,shopping bags",8,1649,13,Sayed,37,Cairo,Cash
+shopping bags,1,899,13,Sayed,37,Cairo,Credit
+canned beer,1,1964,13,Sayed,37,Cairo,Credit
+"other vegetables,rolls/buns,meat spreads,bottled water,soda,misc. beverages,waffles,chocolate,candy",9,2162,6,Walaa,29,Cairo,Cash
+whole milk,1,1992,6,Walaa,29,Cairo,Credit
+margarine,1,428,6,Walaa,29,Cairo,Credit
+"whole milk,rolls/buns,detergent",3,334,6,Walaa,29,Cairo,Credit
+"frankfurter,citrus fruit,bottled beer,salty snack",4,1808,13,Sayed,37,Cairo,Credit
+domestic eggs,1,1393,6,Walaa,29,Cairo,Credit
+"rolls/buns,bottled beer,newspapers",3,1860,1,Farida,22,Cairo,Cash
+"sausage,root vegetables,other vegetables,rolls/buns,soda",5,639,1,Farida,22,Cairo,Cash
+bottled water,1,2298,6,Walaa,29,Cairo,Cash
+beef,1,1179,6,Walaa,29,Cairo,Credit
+"sausage,meat,tropical fruit,pip fruit,pastry,sugar,coffee,candles,pot plants",9,276,13,Sayed,37,Cairo,Cash
+"pork,whole milk,whipped/sour cream,beverages",4,906,1,Farida,22,Cairo,Credit
+"beef,whole milk,brown bread,specialty chocolate,newspapers",5,341,6,Walaa,29,Cairo,Cash
+"pip fruit,other vegetables,butter milk,cream cheese ,rolls/buns",5,2442,13,Sayed,37,Cairo,Cash
+"chicken,beef,specialty chocolate",3,1009,13,Sayed,37,Cairo,Cash
+"whole milk,frozen meals,rolls/buns",3,620,13,Sayed,37,Cairo,Credit
+"tropical fruit,curd,sliced cheese,rolls/buns,soda",5,2152,6,Walaa,29,Cairo,Credit
+"pork,UHT-milk,bottled water,soda,canned beer",5,207,1,Farida,22,Cairo,Cash
+"frankfurter,pip fruit,whole milk,rolls/buns,roll products ",5,1538,6,Walaa,29,Cairo,Cash
+"bottled water,candy",2,241,13,Sayed,37,Cairo,Cash
+"frankfurter,citrus fruit,pastry,margarine,ready soups,instant coffee,shopping bags",7,1510,6,Walaa,29,Cairo,Credit
+"whipped/sour cream,specialty bar",2,1228,13,Sayed,37,Cairo,Cash
+rolls/buns,1,1159,6,Walaa,29,Cairo,Credit
+"citrus fruit,curd,yogurt,sliced cheese,rolls/buns,oil,bottled water",7,1775,1,Farida,22,Cairo,Credit
+"packaged fruit/vegetables,canned beer,candles",3,2457,6,Walaa,29,Cairo,Cash
+"meat,beef,other vegetables,whole milk,butter,domestic eggs,rolls/buns",7,202,6,Walaa,29,Cairo,Credit
+"onions,whole milk,bottled beer,liquor (appetizer),detergent,dishes",6,593,13,Sayed,37,Cairo,Credit
+"beef,rolls/buns,bottled beer",3,266,13,Sayed,37,Cairo,Cash
+canned beer,1,1414,13,Sayed,37,Cairo,Credit
+"tropical fruit,whole milk,curd,yogurt,whipped/sour cream",5,2408,13,Sayed,37,Cairo,Credit
+"beef,tropical fruit,root vegetables,yogurt",4,664,1,Farida,22,Cairo,Cash
+bottled beer,1,836,1,Farida,22,Cairo,Credit
+"berries,other vegetables,whole milk,whipped/sour cream",4,550,1,Farida,22,Cairo,Cash
+whole milk,1,2076,6,Walaa,29,Cairo,Cash
+"frankfurter,citrus fruit,whipped/sour cream,cream cheese ,rolls/buns,baking powder,seasonal products,napkins",8,1101,6,Walaa,29,Cairo,Credit
+"sausage,beef,other vegetables",3,2464,13,Sayed,37,Cairo,Cash
+"pet care,bottled water",2,1202,1,Farida,22,Cairo,Cash
+"root vegetables,pot plants",2,1049,6,Walaa,29,Cairo,Credit
+"tropical fruit,curd,rolls/buns,organic products,newspapers",5,411,6,Walaa,29,Cairo,Cash
+"citrus fruit,grapes,whole milk,rolls/buns,pastry,oil,margarine,candles,newspapers",9,495,1,Farida,22,Cairo,Credit
+specialty bar,1,768,1,Farida,22,Cairo,Cash
+"meat,other vegetables,whole milk,beverages,rolls/buns,margarine,chocolate,napkins,newspapers",9,543,1,Farida,22,Cairo,Credit
+"whole milk,yogurt",2,1233,1,Farida,22,Cairo,Cash
+yogurt,1,654,6,Walaa,29,Cairo,Cash
+"packaged fruit/vegetables,whole milk,rolls/buns,pastry",4,976,13,Sayed,37,Cairo,Cash
+"beef,citrus fruit,root vegetables,onions,curd,hard cheese,rolls/buns,fruit/vegetable juice",8,1615,6,Walaa,29,Cairo,Credit
+"frozen meals,misc. beverages",2,1023,13,Sayed,37,Cairo,Credit
+"sausage,chicken,citrus fruit,berries,root vegetables,curd,beverages,abrasive cleaner",8,646,6,Walaa,29,Cairo,Credit
+"sausage,ham,citrus fruit,tropical fruit,berries,packaged fruit/vegetables,whole milk,whipped/sour cream,sliced cheese,pastry,sugar,baking powder",12,188,13,Sayed,37,Cairo,Credit
+"berries,whipped/sour cream",2,1725,13,Sayed,37,Cairo,Cash
+canned beer,1,554,6,Walaa,29,Cairo,Credit
+"whole milk,cake bar,newspapers",3,964,1,Farida,22,Cairo,Credit
+"pastry,soda,bottled beer",3,615,6,Walaa,29,Cairo,Cash
+soda,1,1803,1,Farida,22,Cairo,Cash
+"whole milk,curd,cream cheese ,flour,coffee,bottled water,misc. beverages,newspapers",8,176,13,Sayed,37,Cairo,Cash
+"soda,canned beer,shopping bags",3,2405,6,Walaa,29,Cairo,Cash
+"bottled water,soda,fruit/vegetable juice,bottled beer,napkins",5,338,1,Farida,22,Cairo,Credit
+"sausage,citrus fruit,whole milk,yogurt,rolls/buns,bottled water,soda,napkins",8,1533,1,Farida,22,Cairo,Credit
+"berries,whole milk,whipped/sour cream,pickled vegetables,detergent,newspapers",6,1271,6,Walaa,29,Cairo,Cash
+"chicken,pork,citrus fruit,other vegetables,whipped/sour cream,white bread,chewing gum,pot plants",8,2085,6,Walaa,29,Cairo,Credit
+"other vegetables,chewing gum",2,2282,1,Farida,22,Cairo,Cash
+"salt,dog food,long life bakery product",3,1786,13,Sayed,37,Cairo,Credit
+"butter,pasta,canned fish,softener,flower (seeds)",5,967,6,Walaa,29,Cairo,Credit
+"other vegetables,butter milk,frozen fish,salty snack",4,1258,1,Farida,22,Cairo,Cash
+"UHT-milk,salt,soda,specialty chocolate,shopping bags",5,1911,13,Sayed,37,Cairo,Credit
+"pip fruit,root vegetables,dessert,yogurt,domestic eggs,shopping bags",6,1871,1,Farida,22,Cairo,Cash
+"citrus fruit,other vegetables,whole milk,curd,yogurt,whipped/sour cream,cream cheese ,pastry,vinegar,oil,coffee,long life bakery product,detergent,cleaner,napkins,newspapers",16,1391,1,Farida,22,Cairo,Cash
+light bulbs,1,827,1,Farida,22,Cairo,Cash
+"other vegetables,whipped/sour cream,roll products ",3,959,13,Sayed,37,Cairo,Cash
+"pork,tropical fruit,other vegetables,yogurt,semi-finished bread,flour,margarine,artif. sweetener,organic products,chocolate marshmallow",10,1684,1,Farida,22,Cairo,Credit
+"whipped/sour cream,cream cheese ,bottled water,canned beer,shopping bags",5,2478,13,Sayed,37,Cairo,Cash
+"beef,grapes,nuts/prunes,root vegetables,onions,other vegetables,cream,soft cheese,sliced cheese,hard cheese,domestic eggs,rolls/buns,pastry,mustard,specialty chocolate,specialty bar,dental care,shopping bags",18,1872,13,Sayed,37,Cairo,Cash
+"margarine,newspapers",2,2342,13,Sayed,37,Cairo,Cash
+"whole milk,rice",2,751,1,Farida,22,Cairo,Credit
+chocolate,1,1779,6,Walaa,29,Cairo,Credit
+"canned beer,specialty chocolate,candy,shopping bags",4,497,1,Farida,22,Cairo,Cash
+"pip fruit,curd,dessert,yogurt,specialty chocolate,specialty bar,newspapers,shopping bags",8,2357,1,Farida,22,Cairo,Cash
+"coffee,misc. beverages,bottled beer",3,2452,1,Farida,22,Cairo,Cash
+ice cream,1,1005,6,Walaa,29,Cairo,Credit
+canned vegetables,1,1136,1,Farida,22,Cairo,Cash
+"grapes,yogurt,UHT-milk,soft cheese,rolls/buns,fruit/vegetable juice,candy,dental care,newspapers,shopping bags",10,298,1,Farida,22,Cairo,Credit
+"butter,rolls/buns,salt",3,1275,6,Walaa,29,Cairo,Cash
+"frankfurter,ham,chicken,whole milk,butter,processed cheese,frozen vegetables,white bread,pastry,soda,fruit/vegetable juice,red/blush wine,chocolate,pot plants",14,758,6,Walaa,29,Cairo,Credit
+"whole milk,rolls/buns,roll products ,zwieback,bottled beer",5,734,1,Farida,22,Cairo,Credit
+whipped/sour cream,1,556,13,Sayed,37,Cairo,Cash
+"citrus fruit,white bread,liquor,specialty bar,shopping bags",5,2444,6,Walaa,29,Cairo,Credit
+"beef,tropical fruit,pip fruit,grapes,root vegetables,processed cheese,rolls/buns,white bread,pastry,pasta,specialty vegetables,cat food,soda,misc. beverages",14,1289,13,Sayed,37,Cairo,Cash
+"frankfurter,sausage,ham,other vegetables,domestic eggs,rolls/buns,pastry,long life bakery product,specialty bar,chocolate marshmallow",10,610,13,Sayed,37,Cairo,Cash
+"sausage,other vegetables,whole milk,sliced cheese,white bread,baking powder,pickled vegetables,rum",8,1575,1,Farida,22,Cairo,Cash
+"frankfurter,tropical fruit,dessert,pastry,flour,margarine,sugar,artif. sweetener,sauces,rum,skin care",11,1204,1,Farida,22,Cairo,Credit
+"whipped/sour cream,beverages,liquor (appetizer)",3,776,13,Sayed,37,Cairo,Cash
+"ice cream,coffee,waffles",3,498,13,Sayed,37,Cairo,Credit
+cookware,1,2374,1,Farida,22,Cairo,Credit
+"citrus fruit,yogurt,UHT-milk,cream cheese ,dish cleaner,house keeping products,shopping bags",7,2264,1,Farida,22,Cairo,Cash
+"tropical fruit,pip fruit,other vegetables,cream cheese ,soda,bottled beer",6,1727,1,Farida,22,Cairo,Credit
+brown bread,1,803,6,Walaa,29,Cairo,Credit
+"citrus fruit,tropical fruit,pip fruit,grapes,root vegetables,other vegetables,whole milk,curd,dessert,whipped/sour cream,UHT-milk,frozen vegetables,frozen meals,bottled water,fruit/vegetable juice,specialty chocolate,napkins",17,1206,6,Walaa,29,Cairo,Credit
+"ham,tropical fruit,cream cheese ,processed cheese,white bread,candy",6,1935,6,Walaa,29,Cairo,Cash
+"root vegetables,skin care",2,2407,13,Sayed,37,Cairo,Cash
+"ice cream,misc. beverages,canned beer,napkins,shopping bags",5,1182,1,Farida,22,Cairo,Cash
+dessert,1,492,1,Farida,22,Cairo,Cash
+"dessert,yogurt,UHT-milk,soda,canned beer,light bulbs",6,900,13,Sayed,37,Cairo,Credit
+"sausage,citrus fruit,pip fruit,yogurt,beverages,sliced cheese,sugar,bottled water,soda,cake bar",10,124,6,Walaa,29,Cairo,Cash
+"sausage,yogurt,pastry,margarine,soda,bottled beer,flower (seeds)",7,585,6,Walaa,29,Cairo,Cash
+"beef,citrus fruit,onions,herbs,other vegetables,whole milk,yogurt,whipped/sour cream,specialty cheese,brown bread,canned vegetables,bottled water,dish cleaner,abrasive cleaner,hygiene articles",15,1731,1,Farida,22,Cairo,Credit
+"ham,hamburger meat,onions,other vegetables,processed cheese,frozen vegetables,domestic eggs,rolls/buns,white bread,cookware,shopping bags",11,1364,6,Walaa,29,Cairo,Cash
+"yogurt,newspapers",2,1027,6,Walaa,29,Cairo,Cash
+"tropical fruit,other vegetables,soda,candy,shopping bags",5,2184,6,Walaa,29,Cairo,Credit
+"sausage,other vegetables,pasta,oil,margarine,coffee,syrup,canned beer,napkins,light bulbs,shopping bags",11,1247,1,Farida,22,Cairo,Credit
+"bottled water,pot plants",2,582,13,Sayed,37,Cairo,Cash
+"prosecco,hygiene articles,pot plants",3,2267,13,Sayed,37,Cairo,Credit
+"beef,other vegetables,butter milk,yogurt,whipped/sour cream,cream cheese ,white bread,fruit/vegetable juice,bottled beer,chocolate",10,1820,13,Sayed,37,Cairo,Cash
+"chicken,pork,beef,whole milk,curd,whipped/sour cream",6,1104,6,Walaa,29,Cairo,Cash
+shopping bags,1,2162,13,Sayed,37,Cairo,Cash
+canned beer,1,2436,13,Sayed,37,Cairo,Cash
+"rolls/buns,red/blush wine,newspapers",3,2183,1,Farida,22,Cairo,Cash
+"brown bread,chocolate",2,1187,13,Sayed,37,Cairo,Credit
+"ham,rolls/buns,bottled beer,chewing gum",4,1689,6,Walaa,29,Cairo,Credit
+"sausage,whole milk,curd,butter milk,whipped/sour cream",5,1026,1,Farida,22,Cairo,Cash
+"root vegetables,whole milk,yogurt,rolls/buns,pot plants",5,1090,1,Farida,22,Cairo,Credit
+fruit/vegetable juice,1,1533,6,Walaa,29,Cairo,Credit
+"beef,tropical fruit,whole milk,ice cream,cat food",5,1692,1,Farida,22,Cairo,Cash
+"frankfurter,sausage,liver loaf,ham,chicken,beef,citrus fruit,tropical fruit,root vegetables,other vegetables,whole milk,butter,curd,yogurt,whipped/sour cream,beverages,soft cheese,hard cheese,cream cheese ,mayonnaise,domestic eggs,rolls/buns,roll products ,flour,pasta,margarine,specialty fat,sugar,soups,skin care,hygiene articles,candles",32,737,13,Sayed,37,Cairo,Cash
+"frankfurter,pip fruit,other vegetables,yogurt,spread cheese,rolls/buns,white bread,pastry,coffee,soda,waffles,hygiene articles",12,1020,13,Sayed,37,Cairo,Cash
+"bottled beer,pot plants",2,2022,13,Sayed,37,Cairo,Credit
+"root vegetables,whole milk,yogurt,frozen potato products",4,653,13,Sayed,37,Cairo,Credit
+"tropical fruit,sliced cheese,domestic eggs,zwieback",4,205,1,Farida,22,Cairo,Credit
+"chicken,tropical fruit,pip fruit,root vegetables,herbs,other vegetables,dessert,yogurt,whipped/sour cream,beverages,brown bread,cat food,shopping bags",13,1289,13,Sayed,37,Cairo,Cash
+"citrus fruit,tropical fruit,whole milk,coffee",4,2317,13,Sayed,37,Cairo,Cash
+"turkey,pork,beef,hamburger meat,tropical fruit,root vegetables,onions,other vegetables,whole milk,butter,butter milk,yogurt,rolls/buns,oil,fruit/vegetable juice,waffles,candy",17,2112,13,Sayed,37,Cairo,Credit
+"soda,softener",2,1027,1,Farida,22,Cairo,Credit
+"chicken,hamburger meat,other vegetables,rolls/buns,shopping bags",5,1082,1,Farida,22,Cairo,Credit
+"beef,domestic eggs,rolls/buns,flour,candy",5,1601,13,Sayed,37,Cairo,Credit
+"dessert,UHT-milk,bottled water,soda,canned beer,chewing gum,softener,shopping bags",8,293,1,Farida,22,Cairo,Cash
+soda,1,2274,1,Farida,22,Cairo,Cash
+"coffee,shopping bags",2,958,1,Farida,22,Cairo,Credit
+"cream cheese ,rolls/buns",2,320,1,Farida,22,Cairo,Cash
+soda,1,341,1,Farida,22,Cairo,Credit
+"chicken,whipped/sour cream,coffee,shopping bags",4,1515,6,Walaa,29,Cairo,Credit
+"hamburger meat,pastry,soda,canned beer,detergent,softener,hygiene articles,shopping bags",8,1649,1,Farida,22,Cairo,Credit
+"pip fruit,root vegetables,other vegetables,whole milk,chewing gum,kitchen towels",6,1033,13,Sayed,37,Cairo,Credit
+"frankfurter,berries,other vegetables,whole milk,soft cheese,domestic eggs,rolls/buns,brown bread,pastry,shopping bags",10,1871,6,Walaa,29,Cairo,Cash
+"cat food,soda",2,558,6,Walaa,29,Cairo,Cash
+"berries,other vegetables,butter milk,yogurt,soda,newspapers",6,168,13,Sayed,37,Cairo,Cash
+"sausage,pip fruit,root vegetables,bottled beer,abrasive cleaner,light bulbs",6,428,6,Walaa,29,Cairo,Credit
+"beverages,bottled water,misc. beverages",3,2138,1,Farida,22,Cairo,Credit
+"ham,hamburger meat,citrus fruit,root vegetables,onions,other vegetables,whole milk,white bread,brown bread,sugar,soda,red/blush wine,dishes,shopping bags",14,1445,1,Farida,22,Cairo,Credit
+"whole milk,brown bread",2,361,6,Walaa,29,Cairo,Cash
+"citrus fruit,frozen potato products",2,2354,6,Walaa,29,Cairo,Credit
+"sausage,ham,meat,chicken,tropical fruit,other vegetables,whole milk,butter,yogurt,cream cheese ,frozen vegetables,domestic eggs,rolls/buns,brown bread,semi-finished bread,candy,newspapers",17,2079,6,Walaa,29,Cairo,Credit
+"butter,yogurt,dog food",3,1531,13,Sayed,37,Cairo,Credit
+"ham,dessert,frozen meals,frozen dessert,white bread,sweet spreads,soda,long life bakery product,specialty bar,hygiene articles,newspapers,shopping bags",12,1160,1,Farida,22,Cairo,Cash
+"ham,herbs,other vegetables,curd,yogurt,cream cheese ,light bulbs",7,176,1,Farida,22,Cairo,Credit
+"chicken,tropical fruit,candy,shopping bags",4,443,6,Walaa,29,Cairo,Credit
+frozen potato products,1,2263,6,Walaa,29,Cairo,Cash
+"yogurt,chocolate",2,2152,13,Sayed,37,Cairo,Credit
+"yogurt,pastry,semi-finished bread,soda,shopping bags",5,1681,6,Walaa,29,Cairo,Cash
+"root vegetables,other vegetables,white bread,sparkling wine",4,372,6,Walaa,29,Cairo,Cash
+"yogurt,rolls/buns,pastry,soda",4,226,13,Sayed,37,Cairo,Credit
+"curd,jam,shopping bags",3,491,1,Farida,22,Cairo,Cash
+"finished products,beef,tropical fruit,spread cheese,rolls/buns,waffles,chocolate,specialty chocolate,hair spray,shopping bags",10,1516,6,Walaa,29,Cairo,Credit
+"sausage,other vegetables,sliced cheese,rolls/buns,coffee,soda,shopping bags",7,800,1,Farida,22,Cairo,Cash
+"pork,beef,other vegetables,yogurt,shopping bags",5,212,1,Farida,22,Cairo,Cash
+"whole milk,soda",2,1805,13,Sayed,37,Cairo,Cash
+canned beer,1,2282,1,Farida,22,Cairo,Cash
+"pip fruit,root vegetables,whole milk,rolls/buns,pastry,coffee,chocolate",7,2016,13,Sayed,37,Cairo,Cash
+"root vegetables,coffee,detergent",3,650,13,Sayed,37,Cairo,Cash
+"tropical fruit,pip fruit,grapes,ice cream,frozen potato products,rolls/buns,pastry,soda,misc. beverages,salty snack,long life bakery product,chewing gum,specialty bar,napkins,photo/film",15,2489,13,Sayed,37,Cairo,Cash
+"pork,brown bread,bottled water,fruit/vegetable juice",4,1484,6,Walaa,29,Cairo,Credit
+"butter milk,shopping bags",2,187,6,Walaa,29,Cairo,Credit
+"brown bread,specialty chocolate,shopping bags",3,819,13,Sayed,37,Cairo,Cash
+"herbs,curd,roll products ,vinegar,canned beer,newspapers",6,2123,13,Sayed,37,Cairo,Credit
+newspapers,1,390,6,Walaa,29,Cairo,Credit
+"cream cheese ,pasta,jam,sweet spreads,coffee,soda,chocolate",7,116,6,Walaa,29,Cairo,Cash
+"rolls/buns,liquor,red/blush wine",3,480,13,Sayed,37,Cairo,Cash
+"rolls/buns,bottled water",2,2441,6,Walaa,29,Cairo,Cash
+"sausage,whole milk,brown bread,pastry",4,132,1,Farida,22,Cairo,Cash
+"citrus fruit,tropical fruit,berries,yogurt,cream cheese ,brown bread,meat spreads",7,1738,13,Sayed,37,Cairo,Credit
+butter milk,1,2463,6,Walaa,29,Cairo,Cash
+canned beer,1,1287,13,Sayed,37,Cairo,Credit
+"soda,fruit/vegetable juice",2,1708,6,Walaa,29,Cairo,Cash
+"coffee,soda,bottled beer,liquor (appetizer),bathroom cleaner",5,755,6,Walaa,29,Cairo,Credit
+"citrus fruit,tropical fruit,whole milk,rolls/buns,bottled water,long life bakery product,decalcifier,newspapers",8,1970,1,Farida,22,Cairo,Credit
+"whole milk,rolls/buns",2,664,1,Farida,22,Cairo,Credit
+"sausage,rolls/buns",2,242,1,Farida,22,Cairo,Credit
+"citrus fruit,coffee",2,2006,1,Farida,22,Cairo,Cash
+"canned beer,salty snack,shopping bags",3,2339,6,Walaa,29,Cairo,Cash
+"root vegetables,brown bread,pot plants",3,967,13,Sayed,37,Cairo,Credit
+rolls/buns,1,753,13,Sayed,37,Cairo,Cash
+rolls/buns,1,2186,1,Farida,22,Cairo,Cash
+newspapers,1,2267,13,Sayed,37,Cairo,Cash
+"onions,butter,roll products ,oil,napkins,newspapers",6,188,1,Farida,22,Cairo,Cash
+"frozen vegetables,brown bread",2,2343,6,Walaa,29,Cairo,Credit
+canned beer,1,2383,6,Walaa,29,Cairo,Credit
+"chicken,whole milk,rolls/buns,flour,salt,vinegar,sugar",7,1526,6,Walaa,29,Cairo,Cash
+"pork,hamburger meat,other vegetables,whole milk,whipped/sour cream,frozen meals,baking powder,coffee",8,962,6,Walaa,29,Cairo,Cash
+"pastry,long life bakery product,shopping bags",3,1104,13,Sayed,37,Cairo,Credit
+pastry,1,1309,1,Farida,22,Cairo,Credit
+"other vegetables,yogurt,whipped/sour cream,soda,bottled beer,salty snack",6,1309,13,Sayed,37,Cairo,Credit
+sausage,1,1217,6,Walaa,29,Cairo,Credit
+"beef,other vegetables,yogurt,beverages,rolls/buns,flour,margarine,cat food,bottled water,fruit/vegetable juice",10,1771,6,Walaa,29,Cairo,Cash
+"yogurt,margarine,sugar,bottled water,bottled beer,red/blush wine,long life bakery product",7,1376,6,Walaa,29,Cairo,Credit
+"tropical fruit,bottled water,chewing gum",3,675,6,Walaa,29,Cairo,Cash
+soda,1,848,13,Sayed,37,Cairo,Credit
+"sausage,cream,cream cheese ,canned beer",4,1335,13,Sayed,37,Cairo,Cash
+"herbs,oil,dog food",3,1078,6,Walaa,29,Cairo,Cash
+"curd,mustard,canned beer",3,1316,6,Walaa,29,Cairo,Credit
+"pip fruit,sweet spreads,coffee,napkins,dishes",5,1710,6,Walaa,29,Cairo,Credit
+"coffee,chocolate",2,1843,6,Walaa,29,Cairo,Credit
+"napkins,dishes",2,215,1,Farida,22,Cairo,Cash
+"whole milk,rolls/buns",2,1802,13,Sayed,37,Cairo,Cash
+"meat,rolls/buns,specialty chocolate",3,2475,13,Sayed,37,Cairo,Credit
+"pork,onions,other vegetables,butter milk",4,106,13,Sayed,37,Cairo,Cash
+"sausage,beverages,sliced cheese,rolls/buns,specialty bar,shopping bags",6,876,6,Walaa,29,Cairo,Cash
+"rolls/buns,soda,canned beer,waffles,shopping bags",5,1003,6,Walaa,29,Cairo,Credit
+"soda,fruit/vegetable juice",2,2348,13,Sayed,37,Cairo,Cash
+coffee,1,320,1,Farida,22,Cairo,Cash
+"rolls/buns,margarine,newspapers",3,1893,6,Walaa,29,Cairo,Cash
+"whole milk,dessert",2,514,1,Farida,22,Cairo,Cash
+pastry,1,697,6,Walaa,29,Cairo,Credit
+canned beer,1,2294,13,Sayed,37,Cairo,Credit
+"whole milk,frozen vegetables",2,985,1,Farida,22,Cairo,Cash
+"ham,pip fruit,herbs,other vegetables,butter,rolls/buns,white bread,oil,canned fish,soda",10,1173,6,Walaa,29,Cairo,Credit
+"domestic eggs,rolls/buns,soda",3,653,1,Farida,22,Cairo,Credit
+"soda,waffles",2,1410,1,Farida,22,Cairo,Cash
+"pork,onions,shopping bags",3,274,6,Walaa,29,Cairo,Cash
+"citrus fruit,other vegetables,whole milk,margarine,bottled beer,newspapers",6,1527,13,Sayed,37,Cairo,Credit
+"frankfurter,sausage,root vegetables,yogurt,mayonnaise,rolls/buns,brown bread,roll products ,margarine,coffee",10,1836,6,Walaa,29,Cairo,Cash
+"frankfurter,pip fruit,rolls/buns,bottled water",4,2113,6,Walaa,29,Cairo,Cash
+"sausage,tropical fruit,whole milk,processed cheese,frozen vegetables,domestic eggs,rolls/buns,white bread,rice,soda,detergent,softener,decalcifier,napkins,shopping bags",15,2022,6,Walaa,29,Cairo,Credit
+"ham,beef,other vegetables,newspapers",4,1987,1,Farida,22,Cairo,Cash
+"rolls/buns,soda",2,1494,1,Farida,22,Cairo,Credit
+citrus fruit,1,2171,1,Farida,22,Cairo,Credit
+"sausage,tropical fruit,pip fruit,other vegetables,whole milk,curd,dessert,yogurt,whipped/sour cream,cream cheese ,brown bread,detergent",12,619,6,Walaa,29,Cairo,Cash
+"beef,citrus fruit,tropical fruit,pip fruit,dessert,cream cheese ,rolls/buns,chocolate",8,2005,1,Farida,22,Cairo,Cash
+"sausage,pork,whole milk,yogurt,rolls/buns,brown bread,napkins,shopping bags",8,322,13,Sayed,37,Cairo,Credit
+"grapes,whole milk,baking powder,candles,photo/film",5,584,1,Farida,22,Cairo,Cash
+chocolate marshmallow,1,1941,13,Sayed,37,Cairo,Cash
+"soda,white wine",2,569,6,Walaa,29,Cairo,Cash
+"bottled beer,liquor,red/blush wine",3,1252,6,Walaa,29,Cairo,Cash
+"fruit/vegetable juice,nut snack",2,2214,6,Walaa,29,Cairo,Cash
+"other vegetables,whipped/sour cream,pastry,red/blush wine",4,2403,1,Farida,22,Cairo,Cash
+"dessert,frozen dessert",2,1662,13,Sayed,37,Cairo,Credit
+"soda,long life bakery product",2,222,6,Walaa,29,Cairo,Cash
+"pip fruit,whole milk",2,159,13,Sayed,37,Cairo,Cash
+"other vegetables,rolls/buns",2,1945,13,Sayed,37,Cairo,Cash
+frankfurter,1,1236,13,Sayed,37,Cairo,Credit
+"pip fruit,curd,soda,bottled beer,softener,hygiene articles",6,2339,6,Walaa,29,Cairo,Cash
+canned beer,1,1415,13,Sayed,37,Cairo,Credit
+"citrus fruit,tropical fruit,pip fruit,other vegetables",4,1504,1,Farida,22,Cairo,Cash
+"pastry,soda",2,326,1,Farida,22,Cairo,Cash
+"tropical fruit,grapes,whole milk,canned fish,bottled water,fruit/vegetable juice",6,1889,1,Farida,22,Cairo,Credit
+white wine,1,1153,6,Walaa,29,Cairo,Cash
+tropical fruit,1,1576,13,Sayed,37,Cairo,Cash
+"pork,bottled water,bottled beer",3,279,1,Farida,22,Cairo,Credit
+"soda,house keeping products",2,1110,6,Walaa,29,Cairo,Cash
+"frozen vegetables,sugar,coffee",3,2228,6,Walaa,29,Cairo,Cash
+"frankfurter,root vegetables,whole milk,butter milk,whipped/sour cream,rolls/buns,pastry,vinegar,coffee,bottled water,dish cleaner,female sanitary products",12,1429,6,Walaa,29,Cairo,Cash
+"whole milk,dessert,rolls/buns,pastry,newspapers",5,1900,6,Walaa,29,Cairo,Cash
+"frankfurter,sausage,curd,whipped/sour cream,frozen vegetables,jam,long life bakery product,candy",8,2023,6,Walaa,29,Cairo,Cash
+"whipped/sour cream,rice,popcorn",3,1617,13,Sayed,37,Cairo,Cash
+"onions,other vegetables,whole milk,soups,bottled beer,pot plants",6,1608,1,Farida,22,Cairo,Credit
+"root vegetables,other vegetables,whole milk,curd,cream cheese ,domestic eggs,misc. beverages,napkins",8,1048,13,Sayed,37,Cairo,Credit
+"pip fruit,yogurt,ice cream,soda",4,2404,6,Walaa,29,Cairo,Cash
+"canned beer,newspapers",2,2379,6,Walaa,29,Cairo,Cash
+soda,1,1030,6,Walaa,29,Cairo,Cash
+"root vegetables,red/blush wine",2,442,1,Farida,22,Cairo,Cash
+"sauces,red/blush wine,dish cleaner",3,1173,13,Sayed,37,Cairo,Credit
+"rolls/buns,fruit/vegetable juice",2,336,1,Farida,22,Cairo,Cash
+"tropical fruit,sliced cheese,rolls/buns,napkins,pot plants",5,1141,1,Farida,22,Cairo,Cash
+"tropical fruit,pip fruit,root vegetables,other vegetables,dessert,whipped/sour cream,sliced cheese,pastry,shopping bags",9,1941,1,Farida,22,Cairo,Credit
+"UHT-milk,pastry,coffee,red/blush wine,pot plants",5,1488,1,Farida,22,Cairo,Credit
+"other vegetables,frozen meals,pasta,canned fish,coffee",5,2299,13,Sayed,37,Cairo,Credit
+"frankfurter,pork,citrus fruit,pip fruit,other vegetables,whipped/sour cream,UHT-milk,salad dressing,frozen potato products,salty snack,newspapers",11,2423,1,Farida,22,Cairo,Cash
+"whole milk,curd,rolls/buns,pastry,pasta,margarine",6,1401,13,Sayed,37,Cairo,Credit
+pip fruit,1,926,13,Sayed,37,Cairo,Cash
+napkins,1,1514,13,Sayed,37,Cairo,Cash
+ice cream,1,1271,13,Sayed,37,Cairo,Credit
+bottled water,1,2023,1,Farida,22,Cairo,Credit
+"bottled water,liquor (appetizer),specialty bar",3,407,1,Farida,22,Cairo,Cash
+"ham,beef,tropical fruit,pip fruit,other vegetables,whole milk,dessert,yogurt,whipped/sour cream,soft cheese,frozen potato products,rolls/buns,soda,long life bakery product,chocolate",15,2458,6,Walaa,29,Cairo,Cash
+bottled beer,1,1851,13,Sayed,37,Cairo,Credit
+"sausage,ham,meat,pork,tropical fruit,pip fruit,grapes,other vegetables,whole milk,butter,whipped/sour cream,frozen meals,frozen fish,ice cream,domestic eggs,pastry,soda,syrup,detergent",19,1605,1,Farida,22,Cairo,Cash
+"soda,canned beer",2,635,6,Walaa,29,Cairo,Credit
+"tropical fruit,pip fruit,whole milk,curd,yogurt,frozen vegetables,frozen meals,white bread,instant coffee,misc. beverages,bottled beer,hygiene articles",12,2349,6,Walaa,29,Cairo,Credit
+"rolls/buns,brown bread,bottled water",3,1329,13,Sayed,37,Cairo,Credit
+"sweet spreads,coffee,chocolate,seasonal products",4,598,13,Sayed,37,Cairo,Credit
+"bottled water,specialty chocolate",2,1398,6,Walaa,29,Cairo,Credit
+"whole milk,bottled water,fruit/vegetable juice",3,1548,1,Farida,22,Cairo,Credit
+"soups,soda,shopping bags",3,2233,6,Walaa,29,Cairo,Cash
+herbs,1,2216,6,Walaa,29,Cairo,Cash
+"ice cream,soda,bottled beer,salty snack",4,171,1,Farida,22,Cairo,Credit
+canned beer,1,1873,1,Farida,22,Cairo,Cash
+"curd,yogurt,waffles",3,2393,1,Farida,22,Cairo,Cash
+"sausage,dessert,soda",3,229,13,Sayed,37,Cairo,Credit
+"citrus fruit,other vegetables,frozen meals,rice,canned beer,salty snack",6,2223,6,Walaa,29,Cairo,Credit
+"sausage,chicken,beef,pip fruit,root vegetables,onions,yogurt,soft cheese,mayonnaise,margarine,jam,sweet spreads,coffee,bottled water,soda,dish cleaner",16,189,13,Sayed,37,Cairo,Cash
+"root vegetables,frozen meals,white bread,snack products,hygiene articles",5,2061,1,Farida,22,Cairo,Cash
+"sausage,chicken,pip fruit,berries,other vegetables,dessert,yogurt,frozen vegetables,frozen meals,brown bread,semi-finished bread,ketchup,spices,ready soups,soda,canned beer,popcorn",17,1791,1,Farida,22,Cairo,Cash
+"root vegetables,curd,dessert,whipped/sour cream,pastry,sauces,coffee,soda,fruit/vegetable juice,newspapers",10,1125,13,Sayed,37,Cairo,Credit
+UHT-milk,1,268,13,Sayed,37,Cairo,Credit
+"whole milk,pastry,fruit/vegetable juice,canned beer,specialty chocolate",5,1665,13,Sayed,37,Cairo,Credit
+margarine,1,161,6,Walaa,29,Cairo,Credit
+"whole milk,ice cream,pastry,coffee,shopping bags",5,1812,1,Farida,22,Cairo,Cash
+"sausage,citrus fruit,other vegetables,dessert,yogurt,whipped/sour cream,hard cheese,curd cheese,white bread,semi-finished bread,cat food,bottled water,seasonal products,softener,flower soil/fertilizer,flower (seeds)",16,2436,6,Walaa,29,Cairo,Cash
+"other vegetables,dessert,waffles,light bulbs",4,2346,6,Walaa,29,Cairo,Cash
+"pork,frozen potato products,soda",3,1776,6,Walaa,29,Cairo,Cash
+"brown bread,margarine,long life bakery product,flower (seeds)",4,2025,1,Farida,22,Cairo,Cash
+"berries,dessert,whipped/sour cream,bottled water,soda,fruit/vegetable juice,white wine",7,1720,1,Farida,22,Cairo,Cash
+"ham,whole milk,domestic eggs,pastry,oil,baking powder,chewing gum,chocolate marshmallow",8,507,13,Sayed,37,Cairo,Credit
+"sausage,chicken,other vegetables,whole milk,yogurt,cream cheese ,brown bread,soda",8,1190,6,Walaa,29,Cairo,Cash
+"sausage,root vegetables,other vegetables,dessert,yogurt,whipped/sour cream,sliced cheese,domestic eggs,white bread,pastry,bottled water,fruit/vegetable juice,popcorn",13,960,13,Sayed,37,Cairo,Credit
+"sausage,rolls/buns,white wine",3,1852,13,Sayed,37,Cairo,Credit
+"root vegetables,yogurt,beverages,domestic eggs,white bread,cat food",6,1335,6,Walaa,29,Cairo,Credit
+"whole milk,soda",2,1650,1,Farida,22,Cairo,Cash
+"citrus fruit,tropical fruit,pip fruit,other vegetables,rolls/buns,misc. beverages,fruit/vegetable juice",7,2398,13,Sayed,37,Cairo,Cash
+"citrus fruit,pip fruit,whole milk,bottled water",4,374,13,Sayed,37,Cairo,Cash
+"whole milk,butter milk,whipped/sour cream,ice cream,brown bread,specialty chocolate,candy,dish cleaner",8,533,6,Walaa,29,Cairo,Credit
+"frozen fish,bottled beer",2,2279,6,Walaa,29,Cairo,Credit
+"tropical fruit,other vegetables,whole milk,frozen vegetables,pastry,cake bar",6,2397,1,Farida,22,Cairo,Cash
+"rolls/buns,white bread,dish cleaner,shopping bags",4,932,6,Walaa,29,Cairo,Credit
+"sausage,tropical fruit,other vegetables,whole milk,yogurt,coffee,shopping bags",7,123,6,Walaa,29,Cairo,Credit
+coffee,1,140,13,Sayed,37,Cairo,Cash
+"tropical fruit,other vegetables,whole milk,frozen meals",4,2303,6,Walaa,29,Cairo,Cash
+"other vegetables,whole milk,rolls/buns,vinegar,margarine,soda,waffles",7,1899,13,Sayed,37,Cairo,Credit
+"frankfurter,sausage,other vegetables,domestic eggs,ketchup,canned fish,soda,long life bakery product,shopping bags",9,1826,1,Farida,22,Cairo,Credit
+"curd,tidbits,soda",3,295,13,Sayed,37,Cairo,Cash
+soda,1,750,6,Walaa,29,Cairo,Cash
+cream cheese ,1,1112,1,Farida,22,Cairo,Cash
+fruit/vegetable juice,1,1548,6,Walaa,29,Cairo,Credit
+"tropical fruit,other vegetables,yogurt,mayonnaise,mustard,newspapers",6,1524,1,Farida,22,Cairo,Cash
+"tropical fruit,grapes,other vegetables,bottled beer,popcorn",5,123,1,Farida,22,Cairo,Cash
+pastry,1,2081,13,Sayed,37,Cairo,Credit
+"hamburger meat,semi-finished bread,Instant food products",3,105,1,Farida,22,Cairo,Credit
+"sausage,beef,other vegetables,frozen fish,domestic eggs,roll products ,margarine,sugar,baking powder,coffee,kitchen towels,shopping bags",12,1464,6,Walaa,29,Cairo,Cash
+"hamburger meat,rolls/buns",2,2048,13,Sayed,37,Cairo,Credit
+"frankfurter,frozen potato products",2,1417,6,Walaa,29,Cairo,Credit
+"ham,onions,other vegetables,brown bread,margarine",5,1710,13,Sayed,37,Cairo,Credit
+"pork,dessert,soda,shopping bags",4,1052,6,Walaa,29,Cairo,Cash
+"pip fruit,pastry",2,1435,6,Walaa,29,Cairo,Cash
+"meat,tropical fruit,beverages,sweet spreads,shopping bags",5,1597,13,Sayed,37,Cairo,Credit
+"pork,root vegetables,onions,other vegetables,yogurt,domestic eggs",6,693,1,Farida,22,Cairo,Cash
+"sausage,citrus fruit,tropical fruit,pip fruit,flour,baking powder",6,312,1,Farida,22,Cairo,Cash
+"sweet spreads,soda,waffles",3,2425,13,Sayed,37,Cairo,Cash
+"whole milk,whipped/sour cream,specialty cheese,domestic eggs,dog food,soda,chewing gum",7,1361,1,Farida,22,Cairo,Credit
+"pork,root vegetables,sliced cheese,frozen vegetables,frozen potato products,mustard,bottled water,fruit/vegetable juice,napkins,shopping bags",10,528,13,Sayed,37,Cairo,Cash
+"pip fruit,onions,whole milk",3,990,6,Walaa,29,Cairo,Cash
+bottled beer,1,182,13,Sayed,37,Cairo,Cash
+"pork,hamburger meat,herbs,yogurt,hard cheese,brown bread,sweet spreads,soda",8,153,13,Sayed,37,Cairo,Credit
+"soda,chocolate,specialty chocolate",3,2441,13,Sayed,37,Cairo,Cash
+"oil,fruit/vegetable juice",2,1536,6,Walaa,29,Cairo,Credit
+"onions,yogurt,frozen vegetables",3,2433,6,Walaa,29,Cairo,Credit
+"yogurt,pastry",2,1599,6,Walaa,29,Cairo,Cash
+"frankfurter,other vegetables,yogurt,beverages,hard cheese,rolls/buns,canned fish,soda,canned beer,brandy,shopping bags",11,776,13,Sayed,37,Cairo,Cash
+"soda,specialty bar",2,1609,13,Sayed,37,Cairo,Credit
+"pip fruit,other vegetables,whipped/sour cream,oil",4,355,1,Farida,22,Cairo,Cash
+"chicken,pip fruit,UHT-milk,bottled water,bottled beer,shopping bags",6,1390,6,Walaa,29,Cairo,Cash
+"beverages,rolls/buns",2,1242,13,Sayed,37,Cairo,Credit
+detergent,1,2067,13,Sayed,37,Cairo,Credit
+"whole milk,yogurt,rolls/buns,bottled water",4,2486,1,Farida,22,Cairo,Cash
+"frankfurter,citrus fruit,tropical fruit,other vegetables,whole milk,candles",6,1639,13,Sayed,37,Cairo,Credit
+canned beer,1,2127,1,Farida,22,Cairo,Cash
+canned beer,1,2482,6,Walaa,29,Cairo,Credit
+"frankfurter,whole milk,yogurt,processed cheese,ice cream,frozen dessert,rolls/buns,white bread,brown bread,sugar,coffee,bottled water,soda,bottled beer,candy",15,1806,13,Sayed,37,Cairo,Cash
+"sausage,pip fruit,bottled water",3,1101,6,Walaa,29,Cairo,Credit
+"meat,tropical fruit,pip fruit,other vegetables,butter,pastry",6,365,13,Sayed,37,Cairo,Cash
+bottled water,1,2389,6,Walaa,29,Cairo,Credit
+"frankfurter,rolls/buns,napkins",3,362,6,Walaa,29,Cairo,Credit
+"frankfurter,butter,rolls/buns,semi-finished bread,misc. beverages,shopping bags",6,1966,1,Farida,22,Cairo,Credit
+"whole milk,brown bread,bottled beer",3,1726,6,Walaa,29,Cairo,Cash
+"rolls/buns,soda,specialty bar",3,372,13,Sayed,37,Cairo,Cash
+"other vegetables,UHT-milk,rolls/buns,pastry,bottled water,soda",6,213,1,Farida,22,Cairo,Credit
+other vegetables,1,740,1,Farida,22,Cairo,Cash
+chewing gum,1,1474,1,Farida,22,Cairo,Credit
+rolls/buns,1,2254,13,Sayed,37,Cairo,Cash
+"frozen meals,frozen fish,chocolate",3,1889,6,Walaa,29,Cairo,Credit
+"herbs,whole milk",2,1325,6,Walaa,29,Cairo,Credit
+"domestic eggs,margarine,bottled water",3,1237,6,Walaa,29,Cairo,Credit
+"bottled water,chocolate",2,377,1,Farida,22,Cairo,Credit
+"whole milk,tea,bottled beer,napkins,cling film/bags",5,705,13,Sayed,37,Cairo,Credit
+"liver loaf,ham,pip fruit,root vegetables,other vegetables,whole milk,curd,dessert,butter milk,yogurt,mayonnaise,white bread,pastry,rice,sugar,pet care,coffee,soda,fruit/vegetable juice,salty snack,long life bakery product,napkins",22,1198,13,Sayed,37,Cairo,Credit
+soda,1,1933,1,Farida,22,Cairo,Cash
+"yogurt,rolls/buns,misc. beverages",3,1342,1,Farida,22,Cairo,Credit
+"root vegetables,pastry",2,1543,13,Sayed,37,Cairo,Credit
+sausage,1,2098,1,Farida,22,Cairo,Cash
+herbs,1,2255,6,Walaa,29,Cairo,Credit
+"sausage,beef,hamburger meat,yogurt,soft cheese,cream cheese ,domestic eggs,rolls/buns,pastry,instant coffee",10,1384,1,Farida,22,Cairo,Credit
+"ham,root vegetables,butter,bottled water,white wine",5,116,1,Farida,22,Cairo,Credit
+"hard cheese,honey,candy",3,2281,6,Walaa,29,Cairo,Cash
+"yogurt,spread cheese,rolls/buns,soda,canned beer,shopping bags",6,1775,13,Sayed,37,Cairo,Cash
+"whole milk,beverages,bottled water,soda,cake bar,newspapers",6,1743,1,Farida,22,Cairo,Cash
+"sausage,pork,beef,root vegetables,butter,yogurt,spread cheese,rolls/buns,brown bread,pastry,oil,canned fish",12,645,6,Walaa,29,Cairo,Credit
+"sausage,tropical fruit,pip fruit,rolls/buns,pastry,margarine",6,377,6,Walaa,29,Cairo,Cash
+"bottled water,white wine,newspapers",3,1745,13,Sayed,37,Cairo,Cash
+"curd,dessert,soda,fruit/vegetable juice,candy,hygiene articles,shopping bags",7,245,13,Sayed,37,Cairo,Cash
+"citrus fruit,other vegetables,yogurt,spread cheese,rolls/buns,soda,chocolate,newspapers",8,1130,13,Sayed,37,Cairo,Cash
+canned beer,1,2281,6,Walaa,29,Cairo,Credit
+"root vegetables,other vegetables,frozen vegetables",3,2082,13,Sayed,37,Cairo,Credit
+"organic sausage,chicken,citrus fruit,grapes,other vegetables,butter,yogurt,whipped/sour cream,rolls/buns,seasonal products,hygiene articles",11,1911,13,Sayed,37,Cairo,Credit
+"whole milk,whipped/sour cream",2,992,13,Sayed,37,Cairo,Credit
+"meat,root vegetables,whole milk,newspapers",4,954,6,Walaa,29,Cairo,Credit
+"soft cheese,hard cheese,bottled water,soda,liquor (appetizer),waffles,chocolate,candles",8,2487,13,Sayed,37,Cairo,Cash
+"coffee,fruit/vegetable juice",2,847,1,Farida,22,Cairo,Credit
+"whole milk,curd,brown bread",3,941,13,Sayed,37,Cairo,Credit
+oil,1,357,6,Walaa,29,Cairo,Credit
+long life bakery product,1,587,1,Farida,22,Cairo,Cash
+"sausage,citrus fruit,other vegetables,hard cheese,cream cheese ,frozen dessert,artif. sweetener,coffee,cling film/bags,newspapers",10,611,1,Farida,22,Cairo,Credit
+"hard cheese,white bread,brown bread",3,1846,1,Farida,22,Cairo,Cash
+"frankfurter,beef,citrus fruit,whole milk,rolls/buns,semi-finished bread,coffee,bottled beer",8,2397,1,Farida,22,Cairo,Cash
+"hamburger meat,hard cheese,frozen vegetables,soda",4,2461,6,Walaa,29,Cairo,Credit
+"sausage,yogurt,rolls/buns,soda",4,2084,1,Farida,22,Cairo,Credit
+"butter milk,soft cheese,rolls/buns",3,2039,13,Sayed,37,Cairo,Credit
+"frankfurter,hamburger meat,tropical fruit,root vegetables,domestic eggs,Instant food products,detergent",7,291,6,Walaa,29,Cairo,Credit
+"tropical fruit,whole milk,cat food,popcorn,specialty bar",5,1221,1,Farida,22,Cairo,Cash
+"citrus fruit,other vegetables,butter,brown bread,baking powder,bottled water,soda",7,1683,1,Farida,22,Cairo,Cash
+"chicken,onions,other vegetables,whole milk,frozen fish,brown bread,soda,white wine",8,622,13,Sayed,37,Cairo,Credit
+"rolls/buns,brown bread,fruit/vegetable juice,newspapers",4,1436,13,Sayed,37,Cairo,Cash
+"mayonnaise,rolls/buns",2,2035,6,Walaa,29,Cairo,Cash
+beverages,1,843,13,Sayed,37,Cairo,Credit
+"bottled beer,liquor (appetizer),dishes",3,2447,13,Sayed,37,Cairo,Cash
+"frankfurter,pork,root vegetables,whole milk,yogurt,frozen fish,soda",7,1318,1,Farida,22,Cairo,Credit
+"root vegetables,herbs,whole milk,butter milk,cream cheese ,waffles,napkins,newspapers",8,1153,6,Walaa,29,Cairo,Credit
+"sausage,rolls/buns,brandy",3,363,13,Sayed,37,Cairo,Credit
+"frankfurter,white bread,margarine,shopping bags",4,1989,13,Sayed,37,Cairo,Cash
+canned beer,1,538,13,Sayed,37,Cairo,Credit
+cream cheese ,1,382,13,Sayed,37,Cairo,Cash
+"sausage,other vegetables,yogurt,bottled water,soda,canned beer,shopping bags",7,1670,13,Sayed,37,Cairo,Credit
+"pastry,soda",2,2113,6,Walaa,29,Cairo,Credit
+"rolls/buns,coffee,red/blush wine,chewing gum",4,2023,13,Sayed,37,Cairo,Credit
+"specialty cheese,hygiene articles,newspapers,shopping bags",4,2260,13,Sayed,37,Cairo,Cash
+"pork,other vegetables,soda",3,1319,1,Farida,22,Cairo,Cash
+"beef,tropical fruit,root vegetables,whole milk",4,2343,6,Walaa,29,Cairo,Credit
+"finished products,chicken,pork,beef,hamburger meat,berries,butter,domestic eggs,rolls/buns,brown bread,pastry,flour,Instant food products,soda,salty snack,chocolate,specialty chocolate,hygiene articles,flower (seeds)",19,1480,13,Sayed,37,Cairo,Credit
+"organic sausage,rolls/buns",2,846,1,Farida,22,Cairo,Credit
+"frankfurter,sausage,whole milk,margarine,sauces,chocolate",6,1464,6,Walaa,29,Cairo,Credit
+citrus fruit,1,1319,6,Walaa,29,Cairo,Credit
+"frankfurter,pork,herbs,other vegetables,butter,rolls/buns",6,1567,1,Farida,22,Cairo,Credit
+"whipped/sour cream,condensed milk,domestic eggs,flour,oil,sugar",6,539,1,Farida,22,Cairo,Cash
+"chicken,beef,pip fruit,berries,other vegetables,whole milk,whipped/sour cream,frozen fruits,frozen meals,domestic eggs,salty snack",11,667,1,Farida,22,Cairo,Cash
+"pip fruit,other vegetables,whole milk,whipped/sour cream,coffee",5,1773,6,Walaa,29,Cairo,Credit
+"citrus fruit,root vegetables,domestic eggs,margarine,dishes",5,766,1,Farida,22,Cairo,Credit
+"tropical fruit,nuts/prunes,whole milk,whipped/sour cream,waffles,newspapers",6,1778,6,Walaa,29,Cairo,Cash
+"other vegetables,whole milk,whipped/sour cream,condensed milk,rolls/buns,shopping bags",6,679,6,Walaa,29,Cairo,Cash
+"sausage,sliced cheese,cream cheese ,candy,shopping bags",5,382,13,Sayed,37,Cairo,Credit
+canned beer,1,1993,6,Walaa,29,Cairo,Cash
+canned beer,1,1708,13,Sayed,37,Cairo,Cash
+"sausage,onions",2,2094,13,Sayed,37,Cairo,Cash
+rolls/buns,1,2443,13,Sayed,37,Cairo,Cash
+yogurt,1,1464,1,Farida,22,Cairo,Cash
+"butter,napkins",2,1864,13,Sayed,37,Cairo,Cash
+dessert,1,2230,6,Walaa,29,Cairo,Credit
+"whole milk,canned fish,newspapers",3,179,6,Walaa,29,Cairo,Credit
+"frankfurter,bottled beer",2,1270,1,Farida,22,Cairo,Credit
+misc. beverages,1,1533,6,Walaa,29,Cairo,Credit
+"frankfurter,brown bread,bottled beer",3,444,6,Walaa,29,Cairo,Credit
+"rolls/buns,white bread,waffles",3,518,13,Sayed,37,Cairo,Credit
+beverages,1,928,6,Walaa,29,Cairo,Cash
+salty snack,1,1139,1,Farida,22,Cairo,Cash
+"frozen meals,bottled beer",2,1363,1,Farida,22,Cairo,Cash
+"yogurt,frozen vegetables,decalcifier",3,169,13,Sayed,37,Cairo,Credit
+rolls/buns,1,1241,1,Farida,22,Cairo,Cash
+"whole milk,frozen meals,pasta,candy",4,215,1,Farida,22,Cairo,Cash
+frozen meals,1,1343,6,Walaa,29,Cairo,Credit
+"tropical fruit,root vegetables,other vegetables,butter,dessert,sliced cheese,frozen vegetables,ice cream,frozen dessert,rolls/buns,Instant food products,baking powder,canned fish,fruit/vegetable juice,newspapers,shopping bags",16,1505,6,Walaa,29,Cairo,Cash
+"whole milk,napkins",2,2407,6,Walaa,29,Cairo,Credit
+"whole milk,specialty bar",2,717,13,Sayed,37,Cairo,Credit
+white wine,1,668,6,Walaa,29,Cairo,Cash
+"bottled water,misc. beverages,bottled beer",3,772,1,Farida,22,Cairo,Credit
+soda,1,951,1,Farida,22,Cairo,Cash
+"yogurt,misc. beverages",2,330,13,Sayed,37,Cairo,Credit
+canned beer,1,1706,1,Farida,22,Cairo,Credit
+bottled water,1,704,13,Sayed,37,Cairo,Credit
+"yogurt,hard cheese,sugar,bottled beer",4,1599,6,Walaa,29,Cairo,Credit
+"butter milk,pastry",2,1151,1,Farida,22,Cairo,Cash
+"frankfurter,pork,beef,hamburger meat,other vegetables,whole milk,butter,curd,yogurt,whipped/sour cream,cream cheese ,frozen vegetables,domestic eggs,rolls/buns,sugar,mustard,ketchup,meat spreads,canned fish,bottled beer,chewing gum,decalcifier,hygiene articles",23,2086,6,Walaa,29,Cairo,Credit
+white wine,1,2417,6,Walaa,29,Cairo,Credit
+"pork,beef,packaged fruit/vegetables,pastry",4,2365,6,Walaa,29,Cairo,Credit
+bottled water,1,2138,1,Farida,22,Cairo,Cash
+"tropical fruit,other vegetables,whole milk,yogurt,rolls/buns,baking powder,long life bakery product,chocolate,newspapers",9,684,6,Walaa,29,Cairo,Cash
+curd,1,256,6,Walaa,29,Cairo,Cash
+"curd,cake bar",2,424,13,Sayed,37,Cairo,Cash
+oil,1,572,6,Walaa,29,Cairo,Credit
+canned beer,1,830,6,Walaa,29,Cairo,Credit
+"tropical fruit,other vegetables,whole milk,curd,butter milk,yogurt,whipped/sour cream,cream cheese ,rolls/buns,pastry",10,1994,13,Sayed,37,Cairo,Credit
+bottled water,1,1487,1,Farida,22,Cairo,Cash
+whole milk,1,315,13,Sayed,37,Cairo,Cash
+"butter,curd,dessert,cream cheese ,canned beer,candy,shopping bags",7,516,6,Walaa,29,Cairo,Credit
+"whole milk,frozen vegetables,coffee",3,229,6,Walaa,29,Cairo,Credit
+"tropical fruit,frozen meals,rolls/buns,bottled beer,newspapers",5,924,1,Farida,22,Cairo,Cash
+"finished products,tropical fruit,pip fruit,other vegetables,whole milk,frozen fish,pastry,canned fish,seasonal products,dental care,hygiene articles,pot plants",12,344,6,Walaa,29,Cairo,Credit
+"chicken,other vegetables,whole milk,domestic eggs,oil,margarine,sugar,coffee,bottled beer,specialty bar,candy",11,2217,13,Sayed,37,Cairo,Cash
+"beef,other vegetables,margarine,soda",4,2404,1,Farida,22,Cairo,Credit
+"other vegetables,pot plants",2,1362,1,Farida,22,Cairo,Credit
+"frankfurter,sausage,tropical fruit,oil,spices,pickled vegetables,bottled water,misc. beverages",8,1562,6,Walaa,29,Cairo,Credit
+"root vegetables,whole milk,semi-finished bread,cat food,fruit/vegetable juice,canned beer,liquor (appetizer),waffles,hygiene articles,newspapers,shopping bags",11,2238,1,Farida,22,Cairo,Cash
+"whole milk,soft cheese,rum",3,143,6,Walaa,29,Cairo,Cash
+sparkling wine,1,1360,6,Walaa,29,Cairo,Cash
+chocolate,1,1448,1,Farida,22,Cairo,Credit
+coffee,1,1602,1,Farida,22,Cairo,Cash
+"beef,fish,yogurt,pastry,soda,specialty chocolate",6,1685,1,Farida,22,Cairo,Cash
+"soda,specialty bar",2,621,1,Farida,22,Cairo,Cash
+bottled beer,1,1247,1,Farida,22,Cairo,Cash
+"UHT-milk,cream cheese ,spread cheese,rolls/buns",4,1821,13,Sayed,37,Cairo,Cash
+baking powder,1,1889,6,Walaa,29,Cairo,Cash
+"citrus fruit,pip fruit,root vegetables,other vegetables,butter,UHT-milk,frozen vegetables,pastry,margarine,sugar,soups,soda,bottled beer,long life bakery product,softener",15,2266,13,Sayed,37,Cairo,Credit
+canned beer,1,1976,1,Farida,22,Cairo,Credit
+"citrus fruit,herbs,other vegetables,curd",4,268,1,Farida,22,Cairo,Cash
+"sausage,domestic eggs,pastry,bottled water,newspapers",5,399,6,Walaa,29,Cairo,Credit
+"beef,chocolate",2,2486,6,Walaa,29,Cairo,Credit
+"finished products,pip fruit,other vegetables,domestic eggs,margarine,bottled beer,newspapers",7,574,13,Sayed,37,Cairo,Credit
+liquor,1,906,1,Farida,22,Cairo,Cash
+canned beer,1,2249,13,Sayed,37,Cairo,Cash
+"beef,citrus fruit,root vegetables,bottled water,soda,fruit/vegetable juice,pot plants",7,476,6,Walaa,29,Cairo,Cash
+"meat,other vegetables,white bread,newspapers",4,2252,1,Farida,22,Cairo,Credit
+"other vegetables,whole milk,waffles",3,338,13,Sayed,37,Cairo,Credit
+canned beer,1,2413,13,Sayed,37,Cairo,Credit
+"frankfurter,sausage,pork,sliced cheese,pastry,margarine,newspapers",7,474,6,Walaa,29,Cairo,Credit
+"other vegetables,whole milk,yogurt,ice cream,flour,margarine,baking powder,pudding powder",8,681,1,Farida,22,Cairo,Cash
+"beef,citrus fruit,pip fruit,root vegetables,other vegetables,pastry,flour,canned beer,red/blush wine",9,2438,1,Farida,22,Cairo,Cash
+canned beer,1,1774,13,Sayed,37,Cairo,Cash
+"frozen chicken,salty snack",2,1666,13,Sayed,37,Cairo,Credit
+"citrus fruit,soft cheese,rolls/buns,pastry",4,2117,13,Sayed,37,Cairo,Credit
+"pip fruit,berries,other vegetables,whole milk,yogurt,domestic eggs,rolls/buns,pastry,margarine",9,2323,6,Walaa,29,Cairo,Credit
+chewing gum,1,2100,1,Farida,22,Cairo,Credit
+bottled beer,1,490,1,Farida,22,Cairo,Cash
+"yogurt,beverages,fruit/vegetable juice,detergent,cleaner",5,1048,13,Sayed,37,Cairo,Credit
+pet care,1,287,6,Walaa,29,Cairo,Credit
+"pork,whole milk,sliced cheese",3,1408,6,Walaa,29,Cairo,Credit
+"tropical fruit,berries,other vegetables,whole milk,yogurt,whipped/sour cream,frozen vegetables,coffee,bottled water,soda,salty snack,long life bakery product,specialty bar",13,1140,1,Farida,22,Cairo,Cash
+"ham,other vegetables,whole milk,butter,yogurt,flour,oil,spices",8,512,1,Farida,22,Cairo,Cash
+whipped/sour cream,1,2230,1,Farida,22,Cairo,Cash
+specialty chocolate,1,1169,6,Walaa,29,Cairo,Cash
+"whole milk,yogurt,soda,canned beer",4,189,13,Sayed,37,Cairo,Credit
+instant coffee,1,2366,1,Farida,22,Cairo,Cash
+"citrus fruit,soft cheese,domestic eggs,pastry,oil,baking powder,pickled vegetables,dog food,coffee",9,393,6,Walaa,29,Cairo,Credit
+canned beer,1,2458,6,Walaa,29,Cairo,Credit
+"frankfurter,citrus fruit,canned vegetables,coffee",4,796,13,Sayed,37,Cairo,Credit
+whole milk,1,1379,6,Walaa,29,Cairo,Credit
+butter,1,566,6,Walaa,29,Cairo,Credit
+"bottled water,soda,dishes",3,1175,13,Sayed,37,Cairo,Credit
+canned beer,1,199,1,Farida,22,Cairo,Credit
+napkins,1,903,6,Walaa,29,Cairo,Cash
+"frankfurter,root vegetables,packaged fruit/vegetables,soda,hygiene articles",5,1360,13,Sayed,37,Cairo,Credit
+"citrus fruit,tropical fruit,pip fruit,yogurt,pastry,margarine,cat food,pet care,bottled water,chocolate,specialty bar,dental care,napkins",13,1611,13,Sayed,37,Cairo,Cash
+"brown bread,bottled water,soda,canned beer",4,407,6,Walaa,29,Cairo,Credit
+newspapers,1,293,13,Sayed,37,Cairo,Credit
+"chicken,tropical fruit,pip fruit,other vegetables,whole milk,whipped/sour cream,frozen vegetables,coffee",8,1248,13,Sayed,37,Cairo,Credit
+"ham,meat,whole milk,dessert,butter milk,whipped/sour cream,sliced cheese,rolls/buns,soda,fruit/vegetable juice",10,976,13,Sayed,37,Cairo,Credit
+liquor,1,1788,6,Walaa,29,Cairo,Credit
+other vegetables,1,2179,1,Farida,22,Cairo,Credit
+"berries,root vegetables,packaged fruit/vegetables,whipped/sour cream,UHT-milk,instant coffee",6,1731,1,Farida,22,Cairo,Credit
+"pip fruit,white bread,coffee,soda,fruit/vegetable juice,bottled beer,sparkling wine",7,2396,1,Farida,22,Cairo,Cash
+candles,1,966,6,Walaa,29,Cairo,Cash
+"pork,tropical fruit,herbs,whole milk,ice cream,chocolate marshmallow,candy,toilet cleaner,dental care",9,433,1,Farida,22,Cairo,Cash
+"sausage,beef,tropical fruit,onions,frozen vegetables,domestic eggs,white bread,semi-finished bread,sugar,baking powder,canned fish,coffee,seasonal products",13,1767,6,Walaa,29,Cairo,Credit
+"soda,salty snack,specialty bar,candy",4,2385,13,Sayed,37,Cairo,Cash
+"other vegetables,yogurt,soft cheese,domestic eggs,brown bread,roll products ,cat food,coffee,bottled water,canned beer,specialty chocolate,specialty bar,detergent,softener,napkins,shopping bags",16,1158,6,Walaa,29,Cairo,Cash
+"rolls/buns,pot plants",2,1695,13,Sayed,37,Cairo,Cash
+"pip fruit,berries,whole milk,yogurt,hard cheese,frozen vegetables,popcorn",7,738,6,Walaa,29,Cairo,Credit
+"yogurt,ice cream,soda,long life bakery product,candy",5,2389,13,Sayed,37,Cairo,Cash
+onions,1,2015,13,Sayed,37,Cairo,Cash
+"whole milk,bottled water",2,458,13,Sayed,37,Cairo,Credit
+whole milk,1,2062,6,Walaa,29,Cairo,Credit
+"citrus fruit,pastry",2,2290,6,Walaa,29,Cairo,Credit
+"sausage,tropical fruit,berries,whole milk,butter,rolls/buns,roll products ,vinegar,sugar,jam,candles",11,1205,6,Walaa,29,Cairo,Credit
+"chicken,citrus fruit,rolls/buns,bottled water",4,760,13,Sayed,37,Cairo,Credit
+"hamburger meat,canned beer",2,2321,6,Walaa,29,Cairo,Cash
+"citrus fruit,other vegetables,butter,rolls/buns",4,1937,1,Farida,22,Cairo,Cash
+"beef,other vegetables,canned fish",3,2125,1,Farida,22,Cairo,Credit
+pastry,1,878,13,Sayed,37,Cairo,Cash
+"other vegetables,rolls/buns,red/blush wine",3,184,1,Farida,22,Cairo,Credit
+"onions,mayonnaise,rolls/buns,mustard,fruit/vegetable juice",5,2065,1,Farida,22,Cairo,Cash
+photo/film,1,1867,1,Farida,22,Cairo,Cash
+"pork,other vegetables,butter milk,yogurt,pasta,soda,waffles,photo/film",8,1537,1,Farida,22,Cairo,Cash
+"citrus fruit,whole milk,yogurt,sliced cheese,brown bread,margarine,dog food,shopping bags",8,1781,6,Walaa,29,Cairo,Credit
+nuts/prunes,1,454,1,Farida,22,Cairo,Cash
+"yogurt,whipped/sour cream,frozen vegetables,salt,pasta,baking powder,soda,misc. beverages,fruit/vegetable juice",9,1710,1,Farida,22,Cairo,Credit
+"hamburger meat,whole milk,yogurt,soft cheese,frozen potato products,pasta,canned vegetables,fruit/vegetable juice,popcorn",9,781,1,Farida,22,Cairo,Credit
+"hamburger meat,whole milk,mayonnaise,pastry,Instant food products",5,490,13,Sayed,37,Cairo,Credit
+"UHT-milk,brandy,liquor (appetizer),specialty bar,hygiene articles",5,1060,6,Walaa,29,Cairo,Cash
+"mayonnaise,rice,canned beer",3,372,13,Sayed,37,Cairo,Cash
+"pip fruit,fruit/vegetable juice",2,1049,1,Farida,22,Cairo,Cash
+"canned beer,newspapers",2,2041,1,Farida,22,Cairo,Credit
+"pip fruit,berries,root vegetables,yogurt,soft cheese,hard cheese,frozen meals,frozen fish,frozen dessert,white bread,pastry,pasta,cereals,soda,long life bakery product,cake bar,detergent",17,130,6,Walaa,29,Cairo,Credit
+"sausage,pip fruit,whole milk,butter,yogurt,dish cleaner",6,725,6,Walaa,29,Cairo,Cash
+"yogurt,brown bread",2,341,13,Sayed,37,Cairo,Cash
+"sausage,white wine",2,1295,13,Sayed,37,Cairo,Credit
+white wine,1,1887,13,Sayed,37,Cairo,Credit
+"curd,UHT-milk,spread cheese,pasta,Instant food products,soda,shopping bags",7,1662,1,Farida,22,Cairo,Credit
+"brown bread,margarine",2,1956,6,Walaa,29,Cairo,Cash
+"bottled water,fruit/vegetable juice,canned beer",3,2097,1,Farida,22,Cairo,Credit
+"citrus fruit,whole milk,waffles",3,1508,13,Sayed,37,Cairo,Credit
+"root vegetables,whipped/sour cream,frozen vegetables,domestic eggs,rolls/buns",5,2341,6,Walaa,29,Cairo,Credit
+"pork,pip fruit,onions,other vegetables,whole milk,dessert,yogurt,whisky",8,1438,1,Farida,22,Cairo,Cash
+"sausage,chicken,pork,beef,citrus fruit,tropical fruit,whole milk,processed cheese,frozen meals,domestic eggs,brown bread,semi-finished bread,soda,chocolate",14,1194,13,Sayed,37,Cairo,Cash
+"frankfurter,rolls/buns",2,1470,13,Sayed,37,Cairo,Credit
+"whole milk,pastry",2,1831,1,Farida,22,Cairo,Credit
+"whole milk,zwieback,salty snack",3,310,1,Farida,22,Cairo,Cash
+"soda,canned beer",2,1065,1,Farida,22,Cairo,Credit
+"tropical fruit,ice cream,frozen dessert,candy",4,1621,13,Sayed,37,Cairo,Credit
+"pastry,canned beer",2,2452,1,Farida,22,Cairo,Cash
+"frozen meals,ice cream",2,2307,13,Sayed,37,Cairo,Cash
+"other vegetables,butter,curd,frozen vegetables,brown bread,hygiene articles",6,1677,1,Farida,22,Cairo,Cash
+"frankfurter,sausage,processed cheese,rolls/buns,liquor",5,1153,1,Farida,22,Cairo,Cash
+"sausage,white wine,shopping bags",3,1272,6,Walaa,29,Cairo,Credit
+"pork,whole milk,pastry,shopping bags",4,1820,1,Farida,22,Cairo,Cash
+"tropical fruit,yogurt,condensed milk,brown bread,soda,bottled beer",6,1146,6,Walaa,29,Cairo,Credit
+"citrus fruit,whole milk,semi-finished bread",3,2237,6,Walaa,29,Cairo,Cash
+frozen meals,1,2213,6,Walaa,29,Cairo,Cash
+"frankfurter,sausage,citrus fruit,root vegetables,other vegetables,yogurt,soft cheese,spread cheese,rolls/buns,bottled water",10,1532,13,Sayed,37,Cairo,Cash
+"soda,chocolate marshmallow",2,1995,1,Farida,22,Cairo,Credit
+"pastry,canned beer,long life bakery product,candles",4,1267,6,Walaa,29,Cairo,Cash
+"meat,pork,root vegetables,other vegetables,yogurt,cream cheese ,rolls/buns,white bread,vinegar,soda,cake bar,napkins",12,2315,13,Sayed,37,Cairo,Cash
+rolls/buns,1,1246,6,Walaa,29,Cairo,Credit
+"yogurt,UHT-milk,rolls/buns,brown bread",4,1074,13,Sayed,37,Cairo,Cash
+"herbs,other vegetables,whipped/sour cream,red/blush wine,shopping bags",5,1019,1,Farida,22,Cairo,Cash
+"frankfurter,hamburger meat,brown bread,salt,pasta,canned vegetables",6,298,6,Walaa,29,Cairo,Credit
+"frankfurter,rolls/buns",2,2148,1,Farida,22,Cairo,Cash
+"curd,dessert,yogurt,white bread,long life bakery product,shopping bags",6,2055,6,Walaa,29,Cairo,Cash
+"citrus fruit,frozen vegetables,domestic eggs,brown bread,soda,chocolate,house keeping products",7,1357,1,Farida,22,Cairo,Cash
+house keeping products,1,1917,1,Farida,22,Cairo,Credit
+"tropical fruit,whole milk,ice cream,red/blush wine,chocolate,shopping bags",6,2363,13,Sayed,37,Cairo,Cash
+newspapers,1,1899,6,Walaa,29,Cairo,Credit
+"beverages,long life bakery product",2,2341,6,Walaa,29,Cairo,Credit
+"chicken,root vegetables,yogurt",3,1112,13,Sayed,37,Cairo,Cash
+"grapes,berries,other vegetables,curd,sliced cheese,pastry,misc. beverages,salty snack,detergent,hygiene articles,napkins",11,1305,6,Walaa,29,Cairo,Credit
+"yogurt,salty snack,napkins",3,326,13,Sayed,37,Cairo,Credit
+"whole milk,frozen fish,pastry",3,120,13,Sayed,37,Cairo,Cash
+"pip fruit,whole milk,soda",3,600,6,Walaa,29,Cairo,Credit
+"pork,root vegetables,whipped/sour cream,domestic eggs,red/blush wine,salty snack",6,776,13,Sayed,37,Cairo,Cash
+"meat,hamburger meat,whole milk,UHT-milk,hard cheese,pastry,sugar,pickled vegetables,long life bakery product",9,343,1,Farida,22,Cairo,Cash
+"hamburger meat,tropical fruit,pip fruit,root vegetables,Instant food products,soda,waffles,newspapers,shopping bags",9,1625,6,Walaa,29,Cairo,Credit
+"citrus fruit,frozen dessert,domestic eggs,rolls/buns,pastry",5,283,1,Farida,22,Cairo,Credit
+"rolls/buns,white bread",2,2456,6,Walaa,29,Cairo,Credit
+"hamburger meat,tropical fruit,hard cheese,white wine,shopping bags",5,524,13,Sayed,37,Cairo,Cash
+"sausage,meat,citrus fruit,yogurt,ice cream,rolls/buns,brown bread,pickled vegetables,jam,liquor,newspapers",11,996,6,Walaa,29,Cairo,Credit
+"grapes,salty snack,specialty bar,candy",4,1856,1,Farida,22,Cairo,Cash
+"beef,other vegetables,butter milk,soups,sparkling wine",5,1615,6,Walaa,29,Cairo,Credit
+"coffee,flower (seeds)",2,1508,13,Sayed,37,Cairo,Cash
+"pork,whole milk,dessert",3,996,1,Farida,22,Cairo,Cash
+berries,1,521,1,Farida,22,Cairo,Credit
+finished products,1,1066,13,Sayed,37,Cairo,Credit
+canned beer,1,2283,1,Farida,22,Cairo,Cash
+"frankfurter,tropical fruit,onions,dessert,ice cream,dishes,candles",7,770,6,Walaa,29,Cairo,Credit
+"sausage,citrus fruit,tropical fruit,pip fruit,yogurt,pastry,bottled water,long life bakery product",8,774,1,Farida,22,Cairo,Cash
+"bottled water,white wine",2,1775,13,Sayed,37,Cairo,Cash
+"pip fruit,rolls/buns,prosecco,seasonal products,pot plants,shopping bags",6,2006,6,Walaa,29,Cairo,Credit
+"other vegetables,yogurt,chocolate",3,1459,1,Farida,22,Cairo,Cash
+"meat,rolls/buns,pastry",3,764,1,Farida,22,Cairo,Cash
+"rolls/buns,fruit/vegetable juice,bottled beer,canned beer,chocolate",5,2040,6,Walaa,29,Cairo,Cash
+"root vegetables,other vegetables,canned vegetables,shopping bags",4,245,1,Farida,22,Cairo,Cash
+"rolls/buns,coffee,bottled water",3,986,1,Farida,22,Cairo,Credit
+"UHT-milk,baking powder",2,862,1,Farida,22,Cairo,Cash
+"bottled beer,napkins",2,1290,6,Walaa,29,Cairo,Cash
+other vegetables,1,1426,13,Sayed,37,Cairo,Credit
+"pip fruit,canned beer",2,1809,1,Farida,22,Cairo,Credit
+"rolls/buns,canned beer",2,2400,13,Sayed,37,Cairo,Cash
+"pip fruit,onions,whole milk,yogurt,frozen vegetables,frozen fish,rolls/buns,semi-finished bread,margarine,bottled beer",10,2028,6,Walaa,29,Cairo,Credit
+"sausage,soda,bottled beer",3,1359,1,Farida,22,Cairo,Credit
+bottled water,1,2101,13,Sayed,37,Cairo,Cash
+"chicken,root vegetables,whole milk,rolls/buns,brown bread",5,1508,6,Walaa,29,Cairo,Cash
+soda,1,1854,1,Farida,22,Cairo,Credit
+beverages,1,321,6,Walaa,29,Cairo,Cash
+"whole milk,curd,yogurt,margarine",4,806,6,Walaa,29,Cairo,Credit
+canned beer,1,2040,6,Walaa,29,Cairo,Cash
+"beef,other vegetables,rolls/buns,bottled beer",4,1718,13,Sayed,37,Cairo,Credit
+"baking powder,coffee,photo/film",3,1455,1,Farida,22,Cairo,Credit
+"yogurt,fruit/vegetable juice,dishes",3,2098,13,Sayed,37,Cairo,Credit
+"tropical fruit,other vegetables,whole milk,curd,yogurt,frozen vegetables,frozen dessert,rolls/buns,soda,liquor (appetizer),waffles,candy,seasonal products,candles",14,2206,6,Walaa,29,Cairo,Cash
+"other vegetables,yogurt",2,2132,13,Sayed,37,Cairo,Cash
+"onions,cat food,pet care,popcorn,dental care",5,1751,6,Walaa,29,Cairo,Cash
+"chicken,pip fruit,whole milk,whipped/sour cream,margarine,newspapers,flower (seeds)",7,1475,6,Walaa,29,Cairo,Cash
+dishes,1,375,6,Walaa,29,Cairo,Cash
+"pork,pip fruit,curd,roll products ,margarine,soups,coffee,napkins,newspapers",9,469,13,Sayed,37,Cairo,Credit
+"butter milk,UHT-milk,cream cheese ,spread cheese,brown bread,coffee",6,1532,6,Walaa,29,Cairo,Credit
+"pip fruit,root vegetables,other vegetables,whole milk",4,653,1,Farida,22,Cairo,Cash
+"sausage,frozen vegetables,frozen meals,pickled vegetables,coffee",5,2055,1,Farida,22,Cairo,Credit
+"pip fruit,pasta,oil,shopping bags",4,2278,13,Sayed,37,Cairo,Cash
+"chicken,hamburger meat,herbs,UHT-milk,cream cheese ,frozen vegetables,soda,dish cleaner,pot plants",9,2371,13,Sayed,37,Cairo,Credit
+"nuts/prunes,rolls/buns",2,1683,13,Sayed,37,Cairo,Credit
+"chicken,pork,citrus fruit,root vegetables,herbs,other vegetables,whole milk,butter,frozen dessert,domestic eggs,rolls/buns,bottled water,bottled beer",13,2278,13,Sayed,37,Cairo,Credit
+"whole milk,bottled water",2,1302,1,Farida,22,Cairo,Credit
+"beef,root vegetables,other vegetables,frozen dessert,pastry,vinegar,margarine,sugar,cat food,coffee,bottled beer,cling film/bags,candles,pot plants",14,242,13,Sayed,37,Cairo,Credit
+candy,1,532,13,Sayed,37,Cairo,Credit
+"chicken,other vegetables,whole milk,curd,domestic eggs,rolls/buns,softener",7,2305,13,Sayed,37,Cairo,Credit
+shopping bags,1,1381,6,Walaa,29,Cairo,Credit
+pastry,1,326,1,Farida,22,Cairo,Credit
+"frankfurter,rolls/buns",2,1911,13,Sayed,37,Cairo,Credit
+"whole milk,flour,margarine,sugar",4,957,1,Farida,22,Cairo,Credit
+"other vegetables,chewing gum",2,1225,13,Sayed,37,Cairo,Cash
+"finished products,beef,citrus fruit,pip fruit,root vegetables,whole milk,semi-finished bread,potato products,rice,soda,fruit/vegetable juice,candy,pot plants,shopping bags",14,831,6,Walaa,29,Cairo,Cash
+"beverages,frozen vegetables,soda,fruit/vegetable juice,popcorn,newspapers",6,1122,6,Walaa,29,Cairo,Credit
+"whole milk,white wine",2,527,13,Sayed,37,Cairo,Cash
+"margarine,soda",2,229,1,Farida,22,Cairo,Credit
+"whole milk,butter,newspapers",3,1779,13,Sayed,37,Cairo,Credit
+"hamburger meat,mustard,soups,Instant food products,sweet spreads,soda,newspapers",7,239,1,Farida,22,Cairo,Credit
+"ham,tropical fruit,pip fruit,other vegetables,whole milk,yogurt,whipped/sour cream,spread cheese,curd cheese,ice cream,sugar,baking powder,fruit/vegetable juice,salty snack,waffles,decalcifier,hygiene articles,napkins,light bulbs",19,513,1,Farida,22,Cairo,Credit
+"whole milk,yogurt,whipped/sour cream,beverages,brown bread",5,1511,6,Walaa,29,Cairo,Credit
+"pork,root vegetables,other vegetables,pastry,shopping bags",5,311,6,Walaa,29,Cairo,Credit
+"sausage,hamburger meat,pip fruit,other vegetables,butter milk,mayonnaise,frozen vegetables,dental care",8,2185,1,Farida,22,Cairo,Credit
+"ham,beef,whole milk,yogurt,cat food",5,778,13,Sayed,37,Cairo,Cash
+"citrus fruit,tropical fruit,whole milk,butter,curd,yogurt,whipped/sour cream,rolls/buns,pastry",9,624,1,Farida,22,Cairo,Cash
+root vegetables,1,122,13,Sayed,37,Cairo,Credit
+"whole milk,semi-finished bread",2,614,1,Farida,22,Cairo,Cash
+"whole milk,long life bakery product,chocolate",3,564,6,Walaa,29,Cairo,Credit
+"tropical fruit,pip fruit,root vegetables,curd,yogurt,flour,margarine,sugar,bottled water,newspapers",10,1345,1,Farida,22,Cairo,Cash
+"sausage,pip fruit,rolls/buns,pastry,soda,fruit/vegetable juice,canned beer,salty snack,candy,hygiene articles",10,2106,6,Walaa,29,Cairo,Credit
+"whole milk,curd,rolls/buns",3,1419,1,Farida,22,Cairo,Credit
+"beef,dessert,frozen vegetables,rice,long life bakery product,cling film/bags,shopping bags",7,2144,13,Sayed,37,Cairo,Cash
+"sausage,ham,other vegetables,beverages,mayonnaise,rolls/buns,soda,bottled beer,chocolate,chocolate marshmallow,candy",11,1946,6,Walaa,29,Cairo,Cash
+"citrus fruit,tropical fruit,root vegetables,other vegetables,whole milk,yogurt,oil,cat food,soda,misc. beverages,fruit/vegetable juice,newspapers",12,1556,6,Walaa,29,Cairo,Cash
+soda,1,726,1,Farida,22,Cairo,Cash
+"whole milk,cream cheese ,salty snack",3,235,1,Farida,22,Cairo,Cash
+"ham,domestic eggs,pastry,long life bakery product,waffles,specialty chocolate,dishes,shopping bags",8,666,13,Sayed,37,Cairo,Credit
+canned beer,1,1353,1,Farida,22,Cairo,Credit
+"grapes,butter,soft cheese,canned beer",4,312,13,Sayed,37,Cairo,Cash
+bottled beer,1,2195,1,Farida,22,Cairo,Cash
+canned beer,1,450,6,Walaa,29,Cairo,Credit
+"domestic eggs,rolls/buns",2,2285,13,Sayed,37,Cairo,Cash
+"beef,citrus fruit,butter,fruit/vegetable juice",4,2135,6,Walaa,29,Cairo,Credit
+"tropical fruit,pip fruit,yogurt,frozen vegetables,pastry,bottled beer",6,306,1,Farida,22,Cairo,Credit
+"frankfurter,chicken,pork,citrus fruit,tropical fruit,pip fruit,root vegetables,herbs,other vegetables,whole milk,butter milk,beverages,sliced cheese,frozen vegetables,roll products ,pasta",16,871,6,Walaa,29,Cairo,Cash
+"chicken,other vegetables,whipped/sour cream,sliced cheese,frozen vegetables,frozen meals,fruit/vegetable juice,long life bakery product,specialty chocolate",9,2189,1,Farida,22,Cairo,Credit
+"other vegetables,whipped/sour cream,processed cheese,frozen fruits,domestic eggs,rolls/buns,cereals,dog food,specialty chocolate,chocolate marshmallow,napkins,shopping bags",12,2438,6,Walaa,29,Cairo,Credit
+whole milk,1,1487,13,Sayed,37,Cairo,Credit
+"butter milk,ice cream,long life bakery product,chewing gum,detergent",5,2476,6,Walaa,29,Cairo,Credit
+"frankfurter,tropical fruit,dessert,UHT-milk,frozen dessert,pastry,artif. sweetener,mustard,canned fruit,hygiene articles",10,520,13,Sayed,37,Cairo,Cash
+"sausage,whole milk,butter,domestic eggs,white bread,margarine,candy,softener,flower (seeds),shopping bags",10,1156,1,Farida,22,Cairo,Credit
+"root vegetables,other vegetables,whole milk,margarine",4,1105,1,Farida,22,Cairo,Cash
+coffee,1,1627,1,Farida,22,Cairo,Credit
+"canned beer,white wine,specialty chocolate,seasonal products,shopping bags",5,885,6,Walaa,29,Cairo,Credit
+"tropical fruit,other vegetables,whole milk,sliced cheese,frozen dessert,brown bread,pastry,semi-finished bread,canned fish,cat food,soda,napkins,newspapers,shopping bags",14,1236,6,Walaa,29,Cairo,Cash
+"herbs,whole milk,sliced cheese,rolls/buns,pastry,bottled water,waffles",7,1801,13,Sayed,37,Cairo,Cash
+yogurt,1,2446,1,Farida,22,Cairo,Cash
+"tropical fruit,dessert,yogurt,syrup,hygiene articles",5,2204,6,Walaa,29,Cairo,Credit
+canned beer,1,694,6,Walaa,29,Cairo,Credit
+"curd cheese,rolls/buns,cake bar",3,2174,6,Walaa,29,Cairo,Credit
+"onions,whole milk",2,2457,1,Farida,22,Cairo,Cash
+other vegetables,1,348,6,Walaa,29,Cairo,Cash
+soda,1,296,13,Sayed,37,Cairo,Cash
+sausage,1,2117,6,Walaa,29,Cairo,Credit
+"frankfurter,sausage,pork,root vegetables,whole milk,yogurt,frozen meals,bottled beer",8,280,6,Walaa,29,Cairo,Credit
+berries,1,2106,13,Sayed,37,Cairo,Credit
+berries,1,1049,13,Sayed,37,Cairo,Credit
+"rolls/buns,candy",2,1695,1,Farida,22,Cairo,Credit
+syrup,1,1882,13,Sayed,37,Cairo,Credit
+"whole milk,pastry,newspapers",3,1121,1,Farida,22,Cairo,Credit
+"bottled water,canned beer,white wine",3,689,13,Sayed,37,Cairo,Cash
+"pork,beef",2,2320,13,Sayed,37,Cairo,Cash
+"whole milk,curd,pastry,fruit/vegetable juice,newspapers",5,527,6,Walaa,29,Cairo,Cash
+"berries,whipped/sour cream,cake bar",3,1473,1,Farida,22,Cairo,Credit
+shopping bags,1,1487,13,Sayed,37,Cairo,Credit
+"whole milk,yogurt,bottled water",3,1642,13,Sayed,37,Cairo,Cash
+"pip fruit,root vegetables,whole milk,yogurt,white bread,soda,chocolate,hygiene articles",8,780,13,Sayed,37,Cairo,Credit
+newspapers,1,663,6,Walaa,29,Cairo,Cash
+"pork,whole milk,UHT-milk,newspapers",4,2352,6,Walaa,29,Cairo,Cash
+rolls/buns,1,190,6,Walaa,29,Cairo,Credit
+"sausage,ham,whole milk,rolls/buns,fruit/vegetable juice,red/blush wine,chocolate,specialty chocolate,candy,house keeping products,shopping bags",11,1438,1,Farida,22,Cairo,Credit
+"brown bread,soda,fruit/vegetable juice,bottled beer",4,2444,6,Walaa,29,Cairo,Credit
+"pork,whole milk,butter,curd cheese,frozen vegetables,rolls/buns,brown bread,pastry",8,272,1,Farida,22,Cairo,Cash
+canned beer,1,146,6,Walaa,29,Cairo,Cash
+"chicken,beef,hamburger meat,pip fruit,grapes,root vegetables,whole milk,butter,dessert,yogurt,whipped/sour cream,cream cheese ,pastry,bottled water,fruit/vegetable juice",15,171,13,Sayed,37,Cairo,Credit
+"pork,root vegetables,other vegetables,whole milk,domestic eggs,pastry",6,1835,13,Sayed,37,Cairo,Cash
+"beef,other vegetables,soft cheese,pastry,long life bakery product,specialty chocolate",6,1508,1,Farida,22,Cairo,Credit
+"sausage,citrus fruit,other vegetables,specialty cheese,baking powder,bottled water,detergent,newspapers",8,1551,13,Sayed,37,Cairo,Credit
+"frankfurter,beef,grapes,other vegetables,bottled beer,red/blush wine,napkins,newspapers",8,256,13,Sayed,37,Cairo,Cash
+"rolls/buns,white bread,coffee",3,2243,6,Walaa,29,Cairo,Credit
+"other vegetables,whole milk,curd,cream cheese ,frozen vegetables,roll products ,sugar,soda,bottled beer,salty snack,popcorn",11,2418,6,Walaa,29,Cairo,Cash
+"cat food,newspapers,shopping bags",3,2316,1,Farida,22,Cairo,Credit
+"pork,citrus fruit,other vegetables,whole milk,butter,whipped/sour cream,ice cream,margarine,sugar,baking powder,coffee,newspapers",12,434,1,Farida,22,Cairo,Cash
+"other vegetables,salt,sweet spreads",3,1835,1,Farida,22,Cairo,Cash
+"ham,tropical fruit,white bread,pastry,waffles,specialty bar",6,1747,6,Walaa,29,Cairo,Cash
+"sausage,chicken,root vegetables,other vegetables,yogurt,whipped/sour cream,rolls/buns,pastry",8,1819,13,Sayed,37,Cairo,Cash
+"sausage,ham,tropical fruit,whole milk,yogurt,spread cheese,rolls/buns,zwieback,long life bakery product,napkins,newspapers",11,2036,6,Walaa,29,Cairo,Credit
+"beef,citrus fruit,tropical fruit,whole milk,butter milk,frozen vegetables,rolls/buns,brown bread,pickled vegetables",9,1649,13,Sayed,37,Cairo,Cash
+"onions,other vegetables,whole milk,butter,butter milk,whipped/sour cream,ice cream,rolls/buns,bottled beer,long life bakery product,dental care,napkins,newspapers",13,1700,13,Sayed,37,Cairo,Cash
+"sausage,other vegetables,rolls/buns,canned vegetables,coffee,soda,dish cleaner",7,1606,6,Walaa,29,Cairo,Cash
+"beef,hamburger meat,pip fruit,root vegetables,whole milk,butter milk,yogurt,whipped/sour cream,pasta,sugar,cereals",11,2065,13,Sayed,37,Cairo,Cash
+"UHT-milk,rolls/buns",2,1118,6,Walaa,29,Cairo,Credit
+"hamburger meat,citrus fruit,herbs,other vegetables,whole milk,butter,domestic eggs,pasta,Instant food products,canned fruit,pickled vegetables,bottled water,misc. beverages,bottled beer,hygiene articles",15,547,13,Sayed,37,Cairo,Cash
+"pork,beef,root vegetables,other vegetables,frozen vegetables,margarine,white wine",7,853,13,Sayed,37,Cairo,Credit
+"tropical fruit,root vegetables,whole milk,whipped/sour cream,frozen vegetables,domestic eggs,red/blush wine",7,471,1,Farida,22,Cairo,Credit
+"root vegetables,other vegetables,UHT-milk,hard cheese,rolls/buns,sweet spreads,salty snack,popcorn,waffles,cake bar,specialty bar",11,1044,6,Walaa,29,Cairo,Cash
+"soft cheese,rolls/buns,brown bread,syrup,newspapers,shopping bags",6,2243,1,Farida,22,Cairo,Cash
+pot plants,1,174,13,Sayed,37,Cairo,Cash
+"hamburger meat,condensed milk,pastry,fruit/vegetable juice,salty snack,candles",6,1655,6,Walaa,29,Cairo,Credit
+cream,1,926,13,Sayed,37,Cairo,Credit
+"sausage,root vegetables,other vegetables,whole milk,oil,mustard,specialty chocolate,newspapers",8,1266,1,Farida,22,Cairo,Credit
+misc. beverages,1,1436,13,Sayed,37,Cairo,Cash
+"chicken,beef,root vegetables,other vegetables,whole milk,whipped/sour cream,pasta,soda",8,2304,1,Farida,22,Cairo,Cash
+"herbs,whole milk,pastry",3,1966,13,Sayed,37,Cairo,Cash
+"root vegetables,packaged fruit/vegetables,rolls/buns,sugar,liquor",5,710,13,Sayed,37,Cairo,Cash
+syrup,1,1117,13,Sayed,37,Cairo,Credit
+onions,1,2462,13,Sayed,37,Cairo,Cash
+"yogurt,margarine,newspapers",3,2159,13,Sayed,37,Cairo,Cash
+bottled beer,1,1439,1,Farida,22,Cairo,Cash
+"butter,curd",2,2312,6,Walaa,29,Cairo,Cash
+"root vegetables,other vegetables,whole milk,whipped/sour cream,hard cheese,frozen vegetables,cat food,dishes,newspapers",9,1505,13,Sayed,37,Cairo,Credit
+"beef,other vegetables,chocolate,newspapers,shopping bags",5,1209,6,Walaa,29,Cairo,Cash
+candles,1,2356,6,Walaa,29,Cairo,Cash
+"beverages,misc. beverages",2,452,6,Walaa,29,Cairo,Cash
+bottled water,1,2354,1,Farida,22,Cairo,Credit
+"salty snack,candy",2,1694,1,Farida,22,Cairo,Credit
+whole milk,1,772,1,Farida,22,Cairo,Credit
+bottled beer,1,2299,6,Walaa,29,Cairo,Cash
+"bottled water,bottled beer",2,1023,13,Sayed,37,Cairo,Cash
+"hamburger meat,other vegetables,whole milk,spread cheese,soda,canned beer,chocolate,specialty bar",8,1391,13,Sayed,37,Cairo,Cash
+"pip fruit,whole milk,coffee,bottled water,fruit/vegetable juice,bottled beer",6,1300,13,Sayed,37,Cairo,Credit
+"pork,tropical fruit,pip fruit,whole milk,whipped/sour cream,detergent,softener,napkins,shopping bags",9,315,1,Farida,22,Cairo,Credit
+"sausage,root vegetables,whole milk,butter milk,yogurt,rolls/buns,pastry",7,354,13,Sayed,37,Cairo,Credit
+"whole milk,photo/film",2,1850,1,Farida,22,Cairo,Cash
+canned beer,1,2347,1,Farida,22,Cairo,Credit
+"pip fruit,rolls/buns",2,446,1,Farida,22,Cairo,Credit
+"sausage,rolls/buns,mustard,soda",4,214,13,Sayed,37,Cairo,Credit
+"citrus fruit,yogurt,hygiene articles",3,2145,1,Farida,22,Cairo,Cash
+salty snack,1,2319,1,Farida,22,Cairo,Cash
+"whole milk,shopping bags",2,1138,13,Sayed,37,Cairo,Cash
+"beef,whole milk,curd,yogurt,hard cheese,domestic eggs,rolls/buns,white bread,oil,misc. beverages,cling film/bags,house keeping products",12,493,1,Farida,22,Cairo,Cash
+mustard,1,942,13,Sayed,37,Cairo,Credit
+"tropical fruit,root vegetables,other vegetables,whole milk,yogurt,soft cheese,domestic eggs,rolls/buns,margarine,mustard,bottled water",11,2064,13,Sayed,37,Cairo,Credit
+root vegetables,1,1037,13,Sayed,37,Cairo,Credit
+"frankfurter,sausage,rolls/buns,soda,liquor,shopping bags",6,259,1,Farida,22,Cairo,Credit
+"beef,root vegetables,other vegetables,frozen vegetables,ice cream,rolls/buns,sugar",7,1972,1,Farida,22,Cairo,Cash
+"cream cheese ,rolls/buns",2,301,6,Walaa,29,Cairo,Cash
+"sausage,tropical fruit,pip fruit,curd,beverages,bottled beer",6,708,6,Walaa,29,Cairo,Cash
+"whole milk,butter,sugar,bottled beer",4,803,6,Walaa,29,Cairo,Cash
+"whole milk,soft cheese,sliced cheese,domestic eggs,rolls/buns",5,1543,6,Walaa,29,Cairo,Cash
+"pip fruit,other vegetables,whole milk,yogurt,pasta,oil",6,2215,13,Sayed,37,Cairo,Credit
+canned beer,1,1650,6,Walaa,29,Cairo,Credit
+"whole milk,fruit/vegetable juice",2,865,13,Sayed,37,Cairo,Credit
+"frankfurter,other vegetables,whipped/sour cream,specialty cheese,domestic eggs,rolls/buns,hygiene articles,napkins",8,2054,6,Walaa,29,Cairo,Credit
+"white bread,bottled beer,newspapers",3,1831,6,Walaa,29,Cairo,Credit
+"finished products,candy",2,481,1,Farida,22,Cairo,Cash
+"hard cheese,Instant food products",2,2285,13,Sayed,37,Cairo,Cash
+"yogurt,fruit/vegetable juice",2,867,13,Sayed,37,Cairo,Credit
+"dessert,waffles",2,637,6,Walaa,29,Cairo,Cash
+dessert,1,2378,1,Farida,22,Cairo,Credit
+"root vegetables,other vegetables,whole milk,frozen fish,honey,Instant food products,canned fish,dishes",8,999,1,Farida,22,Cairo,Cash
+canned beer,1,803,6,Walaa,29,Cairo,Credit
+"whole milk,pastry",2,614,1,Farida,22,Cairo,Cash
+canned beer,1,531,13,Sayed,37,Cairo,Credit
+"sausage,yogurt,rolls/buns",3,2220,6,Walaa,29,Cairo,Credit
+"whole milk,yogurt,cream cheese ,rolls/buns,roll products ,chocolate",6,1126,1,Farida,22,Cairo,Cash
+"sausage,pickled vegetables,soda,skin care,shopping bags",5,1479,13,Sayed,37,Cairo,Cash
+soda,1,481,6,Walaa,29,Cairo,Credit
+"citrus fruit,specialty fat",2,544,1,Farida,22,Cairo,Cash
+pastry,1,2235,13,Sayed,37,Cairo,Cash
+"whipped/sour cream,frozen vegetables,frozen meals",3,2280,1,Farida,22,Cairo,Credit
+"rolls/buns,brown bread",2,2033,6,Walaa,29,Cairo,Credit
+"frankfurter,butter,brown bread",3,474,6,Walaa,29,Cairo,Credit
+"bottled beer,liquor",2,766,6,Walaa,29,Cairo,Cash
+soda,1,2447,6,Walaa,29,Cairo,Cash
+"other vegetables,whole milk,dessert,sliced cheese,hard cheese,oil,coffee,soda,fruit/vegetable juice,seasonal products",10,2062,6,Walaa,29,Cairo,Cash
+"beef,yogurt,cream cheese ,frozen meals,cat food,newspapers",6,1742,6,Walaa,29,Cairo,Credit
+"pork,root vegetables,brown bread,pastry",4,2461,1,Farida,22,Cairo,Credit
+"hamburger meat,other vegetables,whole milk,cream,oil,sugar,baking powder,canned beer,baby cosmetics",9,1086,6,Walaa,29,Cairo,Credit
+"dessert,brown bread",2,2248,1,Farida,22,Cairo,Credit
+"sausage,other vegetables,whole milk,yogurt,soda",5,2296,6,Walaa,29,Cairo,Cash
+"whole milk,butter milk,yogurt,rolls/buns,white bread,mustard,pickled vegetables,sweet spreads,canned fish,soda,misc. beverages,long life bakery product,specialty chocolate,shopping bags",14,2012,1,Farida,22,Cairo,Credit
+bottled water,1,1190,6,Walaa,29,Cairo,Credit
+"chicken,fruit/vegetable juice,long life bakery product",3,912,1,Farida,22,Cairo,Cash
+"rolls/buns,pastry,coffee",3,593,6,Walaa,29,Cairo,Cash
+whole milk,1,1922,6,Walaa,29,Cairo,Cash
+"sausage,ham,soft cheese,hard cheese,coffee,soda,long life bakery product,chocolate",8,2466,13,Sayed,37,Cairo,Cash
+"ham,dessert,yogurt,processed cheese,soda",5,1872,1,Farida,22,Cairo,Cash
+"yogurt,sugar,shopping bags",3,1371,1,Farida,22,Cairo,Cash
+"meat,whole milk,rolls/buns",3,1758,6,Walaa,29,Cairo,Credit
+"specialty bar,house keeping products",2,2138,6,Walaa,29,Cairo,Cash
+"ham,onions,herbs,sparkling wine",4,717,6,Walaa,29,Cairo,Cash
+"whole milk,brown bread,margarine,soda,bottled beer",5,2498,13,Sayed,37,Cairo,Cash
+domestic eggs,1,994,6,Walaa,29,Cairo,Cash
+"ham,root vegetables,whipped/sour cream,ketchup",4,1438,13,Sayed,37,Cairo,Credit
+"sausage,frozen vegetables,rolls/buns,soda,red/blush wine",5,2138,1,Farida,22,Cairo,Credit
+bottled beer,1,2289,6,Walaa,29,Cairo,Credit
+brown bread,1,1368,1,Farida,22,Cairo,Credit
+"citrus fruit,pip fruit",2,1738,1,Farida,22,Cairo,Cash
+"pip fruit,soda,sparkling wine",3,1339,1,Farida,22,Cairo,Cash
+"other vegetables,whole milk,frozen potato products,white bread,pastry,soda,fruit/vegetable juice,specialty bar",8,949,6,Walaa,29,Cairo,Cash
+domestic eggs,1,2173,1,Farida,22,Cairo,Cash
+"citrus fruit,root vegetables,margarine,cat food,shopping bags",5,633,13,Sayed,37,Cairo,Credit
+"sausage,beverages,sliced cheese,rolls/buns,soda,shopping bags",6,966,13,Sayed,37,Cairo,Cash
+"sausage,meat,dessert,rolls/buns,instant coffee,soda,canned beer",7,933,6,Walaa,29,Cairo,Cash
+"frankfurter,whole milk,rolls/buns,newspapers",4,544,13,Sayed,37,Cairo,Cash
+"frankfurter,sausage,meat,tropical fruit,brown bread,bottled water,nut snack",7,1095,6,Walaa,29,Cairo,Cash
+"soda,bottled beer",2,1793,1,Farida,22,Cairo,Credit
+white wine,1,1581,1,Farida,22,Cairo,Credit
+"yogurt,rolls/buns",2,1551,13,Sayed,37,Cairo,Credit
+"packaged fruit/vegetables,pastry",2,1530,1,Farida,22,Cairo,Credit
+"finished products,turkey,grapes,onions,other vegetables,whole milk,butter milk,yogurt,whipped/sour cream,hard cheese,frozen vegetables,fruit/vegetable juice,napkins",13,786,1,Farida,22,Cairo,Credit
+"pork,whole milk,rolls/buns,detergent,hygiene articles,napkins",6,279,6,Walaa,29,Cairo,Cash
+butter milk,1,883,6,Walaa,29,Cairo,Cash
+"sausage,meat,rolls/buns,brown bread,meat spreads,soda,canned beer,shopping bags",8,2074,1,Farida,22,Cairo,Cash
+"whole milk,butter,sugar",3,942,6,Walaa,29,Cairo,Credit
+waffles,1,460,6,Walaa,29,Cairo,Cash
+white wine,1,696,1,Farida,22,Cairo,Credit
+coffee,1,1759,6,Walaa,29,Cairo,Credit
+"pip fruit,other vegetables,butter milk,hard cheese,rolls/buns,seasonal products,napkins",7,1016,1,Farida,22,Cairo,Cash
+"citrus fruit,tropical fruit,root vegetables,other vegetables,whole milk,butter,yogurt,soft cheese,cream cheese ,domestic eggs,white bread,margarine,coffee,waffles,specialty bar,chocolate marshmallow",16,246,13,Sayed,37,Cairo,Cash
+pip fruit,1,2223,1,Farida,22,Cairo,Credit
+yogurt,1,864,1,Farida,22,Cairo,Cash
+"root vegetables,whole milk,hard cheese,specialty cheese",4,1946,13,Sayed,37,Cairo,Cash
+"sausage,tropical fruit,root vegetables,onions,other vegetables,whole milk,white bread,chewing gum",8,1944,13,Sayed,37,Cairo,Cash
+"pork,citrus fruit,other vegetables,dessert,yogurt",5,2096,1,Farida,22,Cairo,Cash
+"frankfurter,tropical fruit,root vegetables,whole milk,sugar,mustard,popcorn",7,687,1,Farida,22,Cairo,Cash
+chocolate,1,593,1,Farida,22,Cairo,Credit
+"pork,root vegetables",2,724,1,Farida,22,Cairo,Cash
+rolls/buns,1,224,1,Farida,22,Cairo,Cash
+"frankfurter,meat,butter milk,tidbits,domestic eggs,brown bread,sugar,pickled vegetables",8,2073,13,Sayed,37,Cairo,Cash
+"meat,curd,whipped/sour cream,roll products ",4,1365,1,Farida,22,Cairo,Credit
+"chicken,candy",2,360,6,Walaa,29,Cairo,Credit
+"zwieback,bottled beer,hygiene articles",3,1877,13,Sayed,37,Cairo,Cash
+bottled beer,1,2091,6,Walaa,29,Cairo,Cash
+"other vegetables,canned beer",2,275,6,Walaa,29,Cairo,Cash
+"UHT-milk,canned fish",2,2242,13,Sayed,37,Cairo,Cash
+"pip fruit,bottled water",2,1614,13,Sayed,37,Cairo,Cash
+"onions,whole milk",2,1910,1,Farida,22,Cairo,Credit
+"meat,yogurt,cream cheese ,brown bread,meat spreads,canned fish",6,360,6,Walaa,29,Cairo,Credit
+"other vegetables,whole milk,dessert,chewing gum",4,453,6,Walaa,29,Cairo,Credit
+"frankfurter,whole milk,white bread,brown bread",4,778,13,Sayed,37,Cairo,Cash
+chewing gum,1,774,6,Walaa,29,Cairo,Cash
+"root vegetables,herbs",2,899,6,Walaa,29,Cairo,Credit
+"misc. beverages,canned beer",2,564,1,Farida,22,Cairo,Cash
+"whole milk,yogurt,spread cheese,bottled water,soda",5,1171,6,Walaa,29,Cairo,Cash
+"sausage,ham,pip fruit,onions,other vegetables,hard cheese,white bread,bottled water,shopping bags",9,906,13,Sayed,37,Cairo,Cash
+bottled beer,1,1347,13,Sayed,37,Cairo,Cash
+"liver loaf,whole milk,rolls/buns,soda",4,729,13,Sayed,37,Cairo,Cash
+"pip fruit,butter milk,UHT-milk,ice cream,rolls/buns,male cosmetics,newspapers",7,135,1,Farida,22,Cairo,Cash
+sausage,1,266,6,Walaa,29,Cairo,Credit
+bottled water,1,1463,6,Walaa,29,Cairo,Credit
+"meat,pip fruit,whole milk,curd,yogurt,frozen meals,pastry,potato products,fruit/vegetable juice,bottled beer,salty snack,long life bakery product,newspapers",13,350,1,Farida,22,Cairo,Credit
+soda,1,111,13,Sayed,37,Cairo,Cash
+bottled beer,1,1786,6,Walaa,29,Cairo,Credit
+"sausage,whole milk,yogurt",3,707,6,Walaa,29,Cairo,Cash
+"pastry,soda",2,391,6,Walaa,29,Cairo,Cash
+zwieback,1,237,13,Sayed,37,Cairo,Credit
+"beef,specialty chocolate",2,1000,6,Walaa,29,Cairo,Cash
+"UHT-milk,mustard",2,1639,13,Sayed,37,Cairo,Cash
+"chicken,rolls/buns,bottled water",3,577,1,Farida,22,Cairo,Cash
+oil,1,1608,1,Farida,22,Cairo,Cash
+"frankfurter,mayonnaise,margarine,mustard,ketchup,seasonal products",6,1368,13,Sayed,37,Cairo,Credit
+"margarine,misc. beverages",2,105,1,Farida,22,Cairo,Cash
+newspapers,1,665,6,Walaa,29,Cairo,Cash
+"frankfurter,processed cheese,soda",3,2258,6,Walaa,29,Cairo,Cash
+"ham,whole milk,hard cheese,margarine,coffee,fruit/vegetable juice",6,1376,6,Walaa,29,Cairo,Credit
+"whole milk,bottled beer,liquor (appetizer),hygiene articles",4,192,6,Walaa,29,Cairo,Cash
+citrus fruit,1,1645,1,Farida,22,Cairo,Credit
+"meat,rolls/buns,misc. beverages",3,154,1,Farida,22,Cairo,Cash
+"UHT-milk,domestic eggs,rolls/buns,fruit/vegetable juice,newspapers",5,1049,6,Walaa,29,Cairo,Cash
+canned beer,1,1010,6,Walaa,29,Cairo,Credit
+"whole milk,butter milk,cream cheese ,coffee",4,424,13,Sayed,37,Cairo,Cash
+canned beer,1,587,13,Sayed,37,Cairo,Cash
+"root vegetables,UHT-milk,domestic eggs,pasta,margarine,soups,cat food,coffee,bottled water,soda,misc. beverages,sparkling wine,specialty chocolate,specialty bar,seasonal products,female sanitary products,newspapers",17,1326,1,Farida,22,Cairo,Credit
+canned beer,1,427,13,Sayed,37,Cairo,Credit
+"sausage,other vegetables,yogurt,rolls/buns,soda,canned beer",6,550,6,Walaa,29,Cairo,Credit
+canned beer,1,2425,1,Farida,22,Cairo,Cash
+"tropical fruit,whole milk,beverages,soda,salty snack,specialty bar,newspapers",7,635,6,Walaa,29,Cairo,Cash
+shopping bags,1,268,13,Sayed,37,Cairo,Cash
+"beef,whole milk,pastry,flour,pickled vegetables",5,2409,6,Walaa,29,Cairo,Cash
+canned beer,1,1940,13,Sayed,37,Cairo,Cash
+"pork,whole milk,pastry,sugar,newspapers",5,775,6,Walaa,29,Cairo,Credit
+"bottled water,canned beer",2,578,13,Sayed,37,Cairo,Cash
+"fruit/vegetable juice,waffles",2,2189,1,Farida,22,Cairo,Cash
+"zwieback,cat food,dish cleaner",3,428,13,Sayed,37,Cairo,Credit
+"root vegetables,rolls/buns",2,2251,1,Farida,22,Cairo,Credit
+"hamburger meat,root vegetables,whole milk,yogurt,brown bread,pastry,bottled beer,specialty chocolate,flower (seeds)",9,1806,6,Walaa,29,Cairo,Cash
+"root vegetables,white bread,brown bread",3,2192,6,Walaa,29,Cairo,Cash
+"soda,bottled beer,specialty bar",3,1956,6,Walaa,29,Cairo,Cash
+"bottled beer,newspapers",2,260,1,Farida,22,Cairo,Cash
+"tropical fruit,whipped/sour cream,bottled water,soda,bottled beer,pot plants",6,2400,13,Sayed,37,Cairo,Credit
+"frozen potato products,rolls/buns,brown bread",3,2466,1,Farida,22,Cairo,Cash
+"other vegetables,whole milk,margarine",3,911,1,Farida,22,Cairo,Credit
+"chicken,tropical fruit,root vegetables,other vegetables,whole milk,dessert,yogurt,pastry,newspapers",9,1189,6,Walaa,29,Cairo,Credit
+"canned beer,newspapers",2,425,1,Farida,22,Cairo,Credit
+"frankfurter,meat,whole milk,whipped/sour cream,UHT-milk,hard cheese,coffee,waffles,napkins",9,2445,6,Walaa,29,Cairo,Credit
+dessert,1,429,13,Sayed,37,Cairo,Cash
+"pork,whole milk,bottled water,soda,napkins",5,1691,13,Sayed,37,Cairo,Cash
+shopping bags,1,1715,13,Sayed,37,Cairo,Cash
+"sausage,whipped/sour cream,bottled water,pot plants",4,240,1,Farida,22,Cairo,Credit
+"sausage,yogurt",2,176,6,Walaa,29,Cairo,Cash
+"frankfurter,whole milk,cream cheese ,specialty chocolate",4,2215,1,Farida,22,Cairo,Cash
+canned beer,1,441,6,Walaa,29,Cairo,Credit
+"whole milk,rolls/buns,soda,canned beer,liquor,shopping bags",6,205,1,Farida,22,Cairo,Cash
+"beef,other vegetables,whipped/sour cream,newspapers",4,2325,13,Sayed,37,Cairo,Credit
+"whole milk,bottled water",2,481,6,Walaa,29,Cairo,Cash
+"chicken,frozen vegetables,frozen meals,frozen dessert",4,1815,6,Walaa,29,Cairo,Credit
+"citrus fruit,tropical fruit,other vegetables,whole milk,curd,rolls/buns",6,2243,13,Sayed,37,Cairo,Cash
+"pork,root vegetables,whole milk,domestic eggs,pasta,ketchup,hygiene articles,newspapers",8,1795,1,Farida,22,Cairo,Credit
+"root vegetables,onions,whole milk,whipped/sour cream,pickled vegetables",5,2215,6,Walaa,29,Cairo,Credit
+"other vegetables,whole milk,yogurt,rolls/buns",4,648,13,Sayed,37,Cairo,Credit
+soda,1,519,6,Walaa,29,Cairo,Cash
+"other vegetables,curd,margarine",3,1251,6,Walaa,29,Cairo,Cash
+"whole milk,bottled beer",2,823,13,Sayed,37,Cairo,Cash
+soda,1,873,13,Sayed,37,Cairo,Cash
+canned beer,1,643,1,Farida,22,Cairo,Credit
+"frankfurter,finished products,chicken,other vegetables,whole milk,curd,flour,pasta,salty snack",9,315,13,Sayed,37,Cairo,Credit
+"other vegetables,butter,soda,bottled beer,liquor,rum,chocolate marshmallow,hygiene articles,newspapers",9,1505,1,Farida,22,Cairo,Credit
+pork,1,1033,6,Walaa,29,Cairo,Cash
+"meat,whole milk,sliced cheese,brown bread,pastry,fruit/vegetable juice,newspapers",7,2117,1,Farida,22,Cairo,Credit
+"other vegetables,cream cheese ,margarine,canned vegetables,bottled beer",5,1728,13,Sayed,37,Cairo,Credit
+"condensed milk,rolls/buns,brown bread,coffee,bottled water,soda",6,1659,13,Sayed,37,Cairo,Cash
+"chicken,whole milk,frozen meals,domestic eggs,brown bread,ketchup,dog food,misc. beverages,napkins",9,2367,6,Walaa,29,Cairo,Credit
+"frankfurter,chicken,beef,citrus fruit,tropical fruit,root vegetables,other vegetables,curd,dessert,whipped/sour cream,soft cheese,cream cheese ,frozen vegetables,frozen meals,frozen potato products,domestic eggs,white bread,semi-finished bread,oil,instant coffee,soda,fruit/vegetable juice,flower (seeds)",23,1826,1,Farida,22,Cairo,Credit
+hamburger meat,1,172,6,Walaa,29,Cairo,Cash
+"pastry,soda",2,394,6,Walaa,29,Cairo,Cash
+"onions,other vegetables,soda,fruit/vegetable juice",4,787,13,Sayed,37,Cairo,Credit
+"pastry,canned beer,male cosmetics,newspapers",4,1446,13,Sayed,37,Cairo,Credit
+"chicken,citrus fruit,root vegetables,other vegetables,butter,sweet spreads,coffee",7,2209,13,Sayed,37,Cairo,Cash
+"chicken,whole milk,semi-finished bread,jam,coffee,soda,napkins,shopping bags",8,820,13,Sayed,37,Cairo,Cash
+"citrus fruit,root vegetables,herbs,other vegetables,butter,whipped/sour cream,mayonnaise,rum,waffles",9,621,13,Sayed,37,Cairo,Cash
+"pork,root vegetables,whole milk,UHT-milk,frozen meals,softener,shopping bags",7,797,1,Farida,22,Cairo,Cash
+whole milk,1,153,1,Farida,22,Cairo,Cash
+"beef,tropical fruit,pip fruit,root vegetables,other vegetables,whole milk,yogurt,whipped/sour cream,mayonnaise",9,2348,1,Farida,22,Cairo,Credit
+soda,1,740,6,Walaa,29,Cairo,Cash
+"meat,whole milk,dessert,soft cheese,frozen meals,rolls/buns,misc. beverages,long life bakery product,chocolate,specialty bar",10,919,6,Walaa,29,Cairo,Credit
+yogurt,1,692,6,Walaa,29,Cairo,Credit
+"hamburger meat,shopping bags",2,874,6,Walaa,29,Cairo,Credit
+"whole milk,curd,pastry",3,1983,1,Farida,22,Cairo,Cash
+newspapers,1,2496,6,Walaa,29,Cairo,Credit
+"yogurt,bottled water,canned beer,napkins",4,328,6,Walaa,29,Cairo,Credit
+soda,1,531,1,Farida,22,Cairo,Cash
+"other vegetables,napkins",2,2324,13,Sayed,37,Cairo,Cash
+"pork,hamburger meat,other vegetables,whole milk,brown bread,margarine,bottled water,bottled beer,flower (seeds)",9,2324,6,Walaa,29,Cairo,Credit
+"other vegetables,curd cheese",2,2312,1,Farida,22,Cairo,Cash
+"sausage,root vegetables,ice cream,white bread,salt",5,1336,13,Sayed,37,Cairo,Cash
+"ham,beef,other vegetables,yogurt,canned fish",5,2439,6,Walaa,29,Cairo,Cash
+other vegetables,1,1163,6,Walaa,29,Cairo,Cash
+"whole milk,whipped/sour cream,domestic eggs,bottled water,soda,specialty chocolate,pot plants",7,1543,1,Farida,22,Cairo,Credit
+"hamburger meat,berries,other vegetables",3,1376,13,Sayed,37,Cairo,Credit
+"onions,other vegetables",2,1235,6,Walaa,29,Cairo,Cash
+"sausage,chicken,pork,other vegetables,whole milk,butter,yogurt,margarine,fruit/vegetable juice,bottled beer",10,2279,1,Farida,22,Cairo,Cash
+"root vegetables,other vegetables,butter,rolls/buns,flour,bottled water,liquor,candy",8,1712,6,Walaa,29,Cairo,Credit
+"margarine,soda",2,1537,6,Walaa,29,Cairo,Cash
+"frankfurter,beef,pip fruit,root vegetables,other vegetables,curd,yogurt,margarine,sugar",9,911,1,Farida,22,Cairo,Cash
+"condensed milk,pastry,female sanitary products,shopping bags",4,552,1,Farida,22,Cairo,Credit
+"canned beer,shopping bags",2,1985,6,Walaa,29,Cairo,Cash
+whole milk,1,1600,6,Walaa,29,Cairo,Credit
+"beverages,UHT-milk,zwieback,misc. beverages",4,243,1,Farida,22,Cairo,Credit
+rolls/buns,1,2028,6,Walaa,29,Cairo,Credit
+soda,1,986,6,Walaa,29,Cairo,Cash
+light bulbs,1,1930,6,Walaa,29,Cairo,Cash
+"soups,canned vegetables",2,1674,1,Farida,22,Cairo,Cash
+"tropical fruit,oil",2,1747,1,Farida,22,Cairo,Credit
+other vegetables,1,400,1,Farida,22,Cairo,Cash
+rolls/buns,1,660,13,Sayed,37,Cairo,Cash
+"other vegetables,condensed milk,coffee,detergent",4,2358,6,Walaa,29,Cairo,Credit
+"tropical fruit,other vegetables,yogurt,chewing gum",4,1317,6,Walaa,29,Cairo,Credit
+"specialty chocolate,photo/film",2,1024,6,Walaa,29,Cairo,Credit
+"tropical fruit,other vegetables,newspapers",3,396,1,Farida,22,Cairo,Credit
+"tropical fruit,other vegetables,yogurt",3,709,1,Farida,22,Cairo,Cash
+"tropical fruit,grapes,other vegetables,curd,beverages,pastry,nut snack",7,1964,13,Sayed,37,Cairo,Cash
+canned beer,1,1475,13,Sayed,37,Cairo,Credit
+beef,1,305,6,Walaa,29,Cairo,Credit
+"citrus fruit,other vegetables,UHT-milk,rolls/buns,flour",5,1778,6,Walaa,29,Cairo,Cash
+"sausage,other vegetables,rolls/buns,fruit/vegetable juice",4,1024,13,Sayed,37,Cairo,Cash
+pasta,1,763,1,Farida,22,Cairo,Cash
+"whole milk,whipped/sour cream,cream cheese ,soda",4,201,1,Farida,22,Cairo,Credit
+"chicken,other vegetables",2,1374,1,Farida,22,Cairo,Cash
+"dessert,long life bakery product",2,1745,13,Sayed,37,Cairo,Credit
+onions,1,223,1,Farida,22,Cairo,Cash
+"citrus fruit,bottled water,dishes",3,729,6,Walaa,29,Cairo,Credit
+"tropical fruit,other vegetables,curd,dessert,sliced cheese,white bread,soda,fruit/vegetable juice",8,384,1,Farida,22,Cairo,Credit
+zwieback,1,2139,13,Sayed,37,Cairo,Credit
+"UHT-milk,brown bread,coffee,shopping bags",4,1688,13,Sayed,37,Cairo,Cash
+"herbs,other vegetables,sliced cheese,cream cheese ,salt,oil,margarine,fruit/vegetable juice,bottled beer,chewing gum,hygiene articles",11,785,6,Walaa,29,Cairo,Cash
+"other vegetables,baking powder,napkins",3,213,6,Walaa,29,Cairo,Credit
+"pork,tropical fruit,whole milk,rolls/buns,chocolate,newspapers",6,1532,13,Sayed,37,Cairo,Credit
+"other vegetables,whole milk,brown bread,cat food,chewing gum,napkins",6,211,1,Farida,22,Cairo,Credit
+soda,1,496,1,Farida,22,Cairo,Credit
+"pork,specialty vegetables,bottled water,soda,bottled beer",5,1511,6,Walaa,29,Cairo,Credit
+"whole milk,cake bar",2,587,6,Walaa,29,Cairo,Credit
+canned beer,1,903,6,Walaa,29,Cairo,Cash
+newspapers,1,370,1,Farida,22,Cairo,Credit
+"pastry,soda",2,175,1,Farida,22,Cairo,Credit
+"sausage,rolls/buns,fruit/vegetable juice",3,1998,13,Sayed,37,Cairo,Cash
+rolls/buns,1,1332,13,Sayed,37,Cairo,Cash
+"domestic eggs,soda,cake bar",3,1974,6,Walaa,29,Cairo,Credit
+"coffee,soda",2,2328,13,Sayed,37,Cairo,Credit
+"beef,rolls/buns,canned beer,napkins",4,1050,6,Walaa,29,Cairo,Credit
+"frankfurter,whole milk,mustard,chewing gum",4,784,1,Farida,22,Cairo,Cash
+"whole milk,margarine",2,443,1,Farida,22,Cairo,Cash
+coffee,1,998,13,Sayed,37,Cairo,Credit
+"dessert,spread cheese,pastry,soda,seasonal products",5,1710,6,Walaa,29,Cairo,Credit
+"citrus fruit,packaged fruit/vegetables,yogurt,white wine,long life bakery product",5,858,13,Sayed,37,Cairo,Cash
+"onions,whipped/sour cream,coffee,fruit/vegetable juice,flower (seeds)",5,2460,1,Farida,22,Cairo,Credit
+"berries,butter,domestic eggs,soda,red/blush wine",5,2437,1,Farida,22,Cairo,Cash
+"whole milk,margarine",2,2424,1,Farida,22,Cairo,Cash
+UHT-milk,1,531,13,Sayed,37,Cairo,Cash
+"pork,whole milk,white bread,pastry,specialty fat,sweet spreads,female sanitary products",7,1965,13,Sayed,37,Cairo,Cash
+"chicken,root vegetables,herbs,other vegetables,canned beer,liquor (appetizer),shopping bags",7,582,1,Farida,22,Cairo,Credit
+"dessert,frozen meals,soda,seasonal products",4,1137,6,Walaa,29,Cairo,Credit
+"ham,whole milk,rolls/buns,bottled water,white wine",5,615,1,Farida,22,Cairo,Cash
+"yogurt,domestic eggs",2,906,13,Sayed,37,Cairo,Cash
+"whole milk,margarine,soda,napkins,photo/film",5,1298,1,Farida,22,Cairo,Credit
+"butter,curd",2,2344,13,Sayed,37,Cairo,Credit
+"citrus fruit,tropical fruit,pip fruit,UHT-milk,frozen fish,soda,fruit/vegetable juice,hygiene articles,napkins",9,1463,13,Sayed,37,Cairo,Credit
+beef,1,661,6,Walaa,29,Cairo,Credit
+"chicken,packaged fruit/vegetables,butter,condensed milk,rolls/buns",5,875,6,Walaa,29,Cairo,Credit
+"whipped/sour cream,brown bread",2,719,13,Sayed,37,Cairo,Cash
+"tropical fruit,whole milk,candles",3,1834,13,Sayed,37,Cairo,Cash
+"citrus fruit,other vegetables,dessert,whipped/sour cream,soda",5,655,1,Farida,22,Cairo,Credit
+"other vegetables,rolls/buns,white wine",3,599,13,Sayed,37,Cairo,Cash
+"semi-finished bread,bottled beer,liquor,candy",4,1277,6,Walaa,29,Cairo,Credit
+"yogurt,specialty bar",2,142,1,Farida,22,Cairo,Credit
+"frankfurter,onions,pickled vegetables",3,315,6,Walaa,29,Cairo,Credit
+coffee,1,634,1,Farida,22,Cairo,Cash
+"tropical fruit,pip fruit",2,919,1,Farida,22,Cairo,Credit
+brown bread,1,1803,1,Farida,22,Cairo,Cash
+"sausage,whole milk,cream cheese ,brown bread",4,651,13,Sayed,37,Cairo,Cash
+"beef,citrus fruit,pip fruit,yogurt,condensed milk,cream cheese ,white bread,dish cleaner,hygiene articles,dishes,shopping bags",11,159,6,Walaa,29,Cairo,Cash
+"dessert,pastry,canned beer",3,1880,13,Sayed,37,Cairo,Credit
+"yogurt,bottled water,syrup,specialty bar",4,1723,6,Walaa,29,Cairo,Credit
+"sausage,coffee,canned beer,liquor,red/blush wine,sparkling wine,shopping bags",7,194,13,Sayed,37,Cairo,Cash
+"yogurt,sugar,baking powder,fruit/vegetable juice,newspapers",5,340,13,Sayed,37,Cairo,Credit
+"whole milk,domestic eggs,bottled water,soda,shopping bags",5,1663,6,Walaa,29,Cairo,Cash
+"citrus fruit,berries,other vegetables,whole milk,dessert,whipped/sour cream,cream cheese ,bottled water",8,1876,6,Walaa,29,Cairo,Cash
+rolls/buns,1,1242,1,Farida,22,Cairo,Cash
+"sausage,meat,brown bread,bottled water,soda,canned beer,shopping bags",7,751,1,Farida,22,Cairo,Cash
+"whole milk,yogurt,coffee",3,2146,13,Sayed,37,Cairo,Credit
+"beef,tropical fruit,onions,whole milk,butter,yogurt,rolls/buns,brown bread,sauces,canned vegetables,bottled water,fruit/vegetable juice,canned beer,long life bakery product,specialty chocolate",15,1995,13,Sayed,37,Cairo,Cash
+"chicken,other vegetables,oil",3,273,1,Farida,22,Cairo,Credit
+canned beer,1,100,6,Walaa,29,Cairo,Credit
+"beverages,rolls/buns",2,178,1,Farida,22,Cairo,Credit
+"other vegetables,curd,yogurt,shopping bags",4,1458,13,Sayed,37,Cairo,Cash
+"packaged fruit/vegetables,frozen fish,napkins",3,830,1,Farida,22,Cairo,Credit
+"sausage,rolls/buns,newspapers",3,833,13,Sayed,37,Cairo,Cash
+"tropical fruit,whole milk,butter milk,brown bread,shopping bags",5,352,1,Farida,22,Cairo,Credit
+"sausage,hamburger meat,tropical fruit,whole milk,sliced cheese,rolls/buns,oil,Instant food products,soda",9,651,1,Farida,22,Cairo,Credit
+"chicken,whole milk",2,1854,13,Sayed,37,Cairo,Cash
+"chicken,hamburger meat,onions,frozen meals,domestic eggs,vinegar,Instant food products,baking powder,pudding powder,bottled water,skin care,hygiene articles,house keeping products",13,2288,6,Walaa,29,Cairo,Cash
+"rolls/buns,bottled water,canned beer,newspapers",4,193,6,Walaa,29,Cairo,Cash
+rum,1,2451,6,Walaa,29,Cairo,Credit
+"beef,citrus fruit,rice,dog food,soda,fruit/vegetable juice,dishes,shopping bags",8,1882,13,Sayed,37,Cairo,Credit
+"frankfurter,other vegetables,whole milk,curd,frozen fish,domestic eggs,margarine,tea,bottled beer,canned beer",10,2111,13,Sayed,37,Cairo,Cash
+pet care,1,1942,13,Sayed,37,Cairo,Cash
+"rolls/buns,soda",2,263,6,Walaa,29,Cairo,Cash
+"margarine,flower (seeds)",2,1455,6,Walaa,29,Cairo,Credit
+"meat,other vegetables,pickled vegetables,coffee,liquor,long life bakery product,newspapers",7,406,6,Walaa,29,Cairo,Cash
+"citrus fruit,butter",2,1686,13,Sayed,37,Cairo,Credit
+"sausage,rolls/buns,soda",3,1960,1,Farida,22,Cairo,Credit
+"other vegetables,snack products",2,2010,13,Sayed,37,Cairo,Cash
+"beef,root vegetables",2,1864,6,Walaa,29,Cairo,Credit
+"meat,turkey,onions,other vegetables,sliced cheese,ice cream,sauces,waffles,dishes",9,2003,1,Farida,22,Cairo,Credit
+soda,1,1793,1,Farida,22,Cairo,Cash
+"pastry,canned fish,salty snack,waffles",4,384,6,Walaa,29,Cairo,Cash
+"whipped/sour cream,curd cheese,specialty chocolate,abrasive cleaner",4,1938,6,Walaa,29,Cairo,Cash
+"salty snack,newspapers,photo/film",3,1186,6,Walaa,29,Cairo,Credit
+photo/film,1,1743,6,Walaa,29,Cairo,Credit
+"citrus fruit,specialty bar",2,2476,1,Farida,22,Cairo,Credit
+"pastry,soda,specialty bar",3,1927,6,Walaa,29,Cairo,Cash
+"onions,other vegetables,specialty cheese,bottled water,shopping bags",5,1335,1,Farida,22,Cairo,Cash
+"rolls/buns,pasta,bottled beer",3,1404,1,Farida,22,Cairo,Cash
+frozen meals,1,500,13,Sayed,37,Cairo,Cash
+"pot plants,shopping bags",2,756,6,Walaa,29,Cairo,Credit
+shopping bags,1,2021,1,Farida,22,Cairo,Cash
+tropical fruit,1,350,1,Farida,22,Cairo,Cash
+"fruit/vegetable juice,chocolate",2,233,1,Farida,22,Cairo,Credit
+"sausage,soda,bottled beer,liquor,red/blush wine",5,1473,6,Walaa,29,Cairo,Credit
+"tropical fruit,soda",2,1653,1,Farida,22,Cairo,Credit
+potato products,1,1553,6,Walaa,29,Cairo,Cash
+pastry,1,224,1,Farida,22,Cairo,Credit
+"frankfurter,sausage,tropical fruit,pip fruit,grapes,root vegetables,other vegetables,whole milk,yogurt,sliced cheese,frozen meals,frozen fish,brown bread,rice,oil,red/blush wine,hygiene articles",17,1547,13,Sayed,37,Cairo,Cash
+"root vegetables,other vegetables",2,334,1,Farida,22,Cairo,Cash
+"grapes,berries,root vegetables,other vegetables,packaged fruit/vegetables,curd,yogurt,brown bread,pastry",9,165,6,Walaa,29,Cairo,Cash
+"tropical fruit,dessert,UHT-milk,cream cheese ,frozen vegetables,brown bread,misc. beverages",7,2205,6,Walaa,29,Cairo,Credit
+"citrus fruit,coffee",2,1609,1,Farida,22,Cairo,Credit
+"pork,herbs,whole milk,yogurt,whipped/sour cream,frozen vegetables,oil,liquor (appetizer)",8,773,1,Farida,22,Cairo,Credit
+sparkling wine,1,647,1,Farida,22,Cairo,Cash
+"other vegetables,dessert,canned beer,chewing gum,flower (seeds)",5,1698,6,Walaa,29,Cairo,Cash
+"yogurt,long life bakery product",2,678,6,Walaa,29,Cairo,Credit
+"cream cheese ,rolls/buns",2,2356,1,Farida,22,Cairo,Cash
+"cream cheese ,specialty chocolate",2,2350,6,Walaa,29,Cairo,Cash
+sausage,1,167,6,Walaa,29,Cairo,Credit
+waffles,1,2391,13,Sayed,37,Cairo,Credit
+"yogurt,pastry,soups,detergent,flower (seeds)",5,765,1,Farida,22,Cairo,Credit
+"domestic eggs,chocolate marshmallow,newspapers",3,993,6,Walaa,29,Cairo,Credit
+"chicken,frozen vegetables,frozen dessert,bottled water,soda",5,716,13,Sayed,37,Cairo,Credit
+"ham,beef,whole milk,whipped/sour cream,cream cheese ,ice cream,bottled water,specialty chocolate",8,2139,13,Sayed,37,Cairo,Credit
+"beef,citrus fruit,pip fruit",3,1074,1,Farida,22,Cairo,Credit
+beverages,1,850,1,Farida,22,Cairo,Credit
+"whole milk,rolls/buns,pastry",3,2147,1,Farida,22,Cairo,Cash
+"meat,chicken,pork,hamburger meat,citrus fruit,onions,other vegetables,yogurt,UHT-milk,spread cheese,domestic eggs,rolls/buns,margarine,bottled water,canned beer,female sanitary products,shopping bags",17,1264,6,Walaa,29,Cairo,Cash
+"canned beer,white wine",2,1494,13,Sayed,37,Cairo,Credit
+"cat food,white wine,shopping bags",3,1316,13,Sayed,37,Cairo,Credit
+"pip fruit,frozen meals,soda,shopping bags",4,2156,6,Walaa,29,Cairo,Cash
+"citrus fruit,whole milk,yogurt,white bread,sugar,soda,napkins,shopping bags",8,1362,1,Farida,22,Cairo,Credit
+"brown bread,meat spreads,bottled water,fruit/vegetable juice",4,2358,1,Farida,22,Cairo,Cash
+shopping bags,1,1293,13,Sayed,37,Cairo,Cash
+"citrus fruit,hygiene articles,cling film/bags",3,2008,1,Farida,22,Cairo,Cash
+"oil,bottled beer",2,2374,1,Farida,22,Cairo,Cash
+"whole milk,soda,seasonal products",3,779,13,Sayed,37,Cairo,Cash
+bottled water,1,2491,13,Sayed,37,Cairo,Cash
+brown bread,1,2004,1,Farida,22,Cairo,Cash
+"whole milk,spices",2,1037,6,Walaa,29,Cairo,Cash
+"ham,finished products,whipped/sour cream,hard cheese,pasta",5,1234,6,Walaa,29,Cairo,Credit
+"frankfurter,citrus fruit,onions,other vegetables,canned beer,chocolate",6,598,1,Farida,22,Cairo,Credit
+"canned vegetables,bottled water",2,1697,6,Walaa,29,Cairo,Cash
+"domestic eggs,canned beer",2,170,6,Walaa,29,Cairo,Cash
+"butter,ice cream,brown bread,bottled beer,rum",5,1001,1,Farida,22,Cairo,Cash
+"other vegetables,sweet spreads,long life bakery product,detergent",4,160,13,Sayed,37,Cairo,Credit
+"chicken,pork,beef,other vegetables,salt,bottled water",6,2008,1,Farida,22,Cairo,Cash
+"other vegetables,whole milk,yogurt,rolls/buns,ketchup,canned vegetables,napkins,photo/film",8,146,6,Walaa,29,Cairo,Credit
+"yogurt,bottled water,misc. beverages,fruit/vegetable juice,candy,light bulbs,newspapers",7,234,13,Sayed,37,Cairo,Credit
+"pastry,ketchup,chocolate,napkins",4,1629,6,Walaa,29,Cairo,Cash
+"ham,chicken,other vegetables,processed cheese,white bread,detergent",6,2338,13,Sayed,37,Cairo,Cash
+"sausage,dessert,sliced cheese,brown bread,detergent,kitchen towels,pot plants,shopping bags",8,1904,1,Farida,22,Cairo,Credit
+"citrus fruit,root vegetables,packaged fruit/vegetables,whole milk,yogurt,cat food,bottled water,chocolate,napkins",9,2161,6,Walaa,29,Cairo,Credit
+"root vegetables,whole milk,bottled water,abrasive cleaner,cling film/bags",5,166,6,Walaa,29,Cairo,Credit
+"bottled water,fruit/vegetable juice,white wine",3,1928,1,Farida,22,Cairo,Credit
+"detergent,softener,shopping bags",3,2228,6,Walaa,29,Cairo,Cash
+"frankfurter,pip fruit,other vegetables,soda,bottled beer",5,993,6,Walaa,29,Cairo,Credit
+soda,1,1545,6,Walaa,29,Cairo,Cash
+"ham,whole milk,sliced cheese,bottled water,napkins",5,2094,1,Farida,22,Cairo,Credit
+"chicken,whole milk,soft cheese,coffee,salty snack,specialty chocolate",6,1515,1,Farida,22,Cairo,Credit
+"hamburger meat,whole milk,white bread,brown bread,sugar,fruit/vegetable juice",6,199,6,Walaa,29,Cairo,Credit
+"sausage,rolls/buns,chewing gum,specialty bar",4,1856,1,Farida,22,Cairo,Credit
+"bottled water,soda,pot plants",3,1952,13,Sayed,37,Cairo,Credit
+"ham,beef,butter,yogurt,specialty cheese,domestic eggs,bottled water,cake bar,pot plants",9,945,6,Walaa,29,Cairo,Credit
+soda,1,1000,13,Sayed,37,Cairo,Credit
+yogurt,1,984,6,Walaa,29,Cairo,Cash
+"soda,long life bakery product,shopping bags",3,1606,13,Sayed,37,Cairo,Cash
+"sausage,root vegetables,whole milk,pastry,soda,soap",6,602,1,Farida,22,Cairo,Credit
+"soda,bottled beer",2,1907,13,Sayed,37,Cairo,Credit
+"rolls/buns,brown bread,canned beer",3,1245,13,Sayed,37,Cairo,Credit
+rolls/buns,1,1747,1,Farida,22,Cairo,Credit
+"pip fruit,root vegetables,herbs,whole milk,curd,yogurt,canned fish,pot plants",8,2072,13,Sayed,37,Cairo,Cash
+"sausage,whole milk,margarine",3,1703,13,Sayed,37,Cairo,Cash
+"sausage,citrus fruit,onions,other vegetables,whole milk,sliced cheese,cream cheese ,salt,newspapers",9,1310,1,Farida,22,Cairo,Credit
+"bottled water,soda",2,2108,6,Walaa,29,Cairo,Cash
+"ham,root vegetables,onions,whole milk,domestic eggs,rolls/buns,brown bread,pastry,newspapers",9,2314,6,Walaa,29,Cairo,Cash
+"whole milk,rolls/buns,brown bread,margarine",4,1600,6,Walaa,29,Cairo,Credit
+"rolls/buns,canned beer",2,1504,1,Farida,22,Cairo,Cash
+"frankfurter,hamburger meat,root vegetables,other vegetables,whole milk,curd,sliced cheese,processed cheese,frozen meals,ice cream,domestic eggs,bottled water,fruit/vegetable juice,bottled beer",14,1971,13,Sayed,37,Cairo,Credit
+"chicken,rolls/buns",2,2005,1,Farida,22,Cairo,Credit
+dishes,1,2071,1,Farida,22,Cairo,Credit
+"pork,root vegetables,bottled water,soda",4,1519,13,Sayed,37,Cairo,Credit
+"sausage,rolls/buns,soda",3,1602,1,Farida,22,Cairo,Credit
+"long life bakery product,newspapers",2,1489,13,Sayed,37,Cairo,Credit
+"frankfurter,sausage,turkey,tropical fruit,root vegetables,white bread,canned vegetables,soda",8,762,1,Farida,22,Cairo,Credit
+"chicken,hamburger meat,tropical fruit,pip fruit,root vegetables,other vegetables,rolls/buns,salt,canned vegetables,coffee,soda,canned beer",12,896,6,Walaa,29,Cairo,Cash
+"citrus fruit,onions,yogurt,rolls/buns",4,2057,6,Walaa,29,Cairo,Cash
+"pip fruit,onions,other vegetables,vinegar,waffles",5,735,1,Farida,22,Cairo,Cash
+"other vegetables,butter milk,frozen fish,oil",4,2240,6,Walaa,29,Cairo,Credit
+"root vegetables,other vegetables,curd,cream cheese ,pastry",5,1441,6,Walaa,29,Cairo,Credit
+"whole milk,butter,rolls/buns,bottled beer",4,2139,6,Walaa,29,Cairo,Cash
+"herbs,whole milk,butter milk,yogurt,cream cheese ,frozen vegetables,frozen fish,rolls/buns,salt,margarine,newspapers",11,349,6,Walaa,29,Cairo,Credit
+"ice cream,cereals,chewing gum",3,2499,1,Farida,22,Cairo,Credit
+"sausage,citrus fruit,yogurt,pastry,instant coffee,soda,napkins,newspapers",8,1390,6,Walaa,29,Cairo,Cash
+"grapes,berries,butter,frozen vegetables,bottled water,soda,cling film/bags",7,1339,6,Walaa,29,Cairo,Cash
+ice cream,1,1048,13,Sayed,37,Cairo,Cash
+"frankfurter,ham,beef,berries,other vegetables,whole milk,yogurt,domestic eggs,pastry,soda,bottled beer,red/blush wine,flower (seeds)",13,1541,6,Walaa,29,Cairo,Cash
+hard cheese,1,587,6,Walaa,29,Cairo,Cash
+"root vegetables,domestic eggs",2,624,6,Walaa,29,Cairo,Cash
+"other vegetables,bottled beer,red/blush wine,prosecco,specialty chocolate",5,1121,1,Farida,22,Cairo,Cash
+"sliced cheese,hard cheese,coffee,soda,bottled beer,chewing gum,hygiene articles",7,400,6,Walaa,29,Cairo,Credit
+"citrus fruit,pip fruit,other vegetables",3,648,6,Walaa,29,Cairo,Credit
+"other vegetables,whole milk,butter,yogurt,beverages,sliced cheese,cereals,pot plants",8,2105,6,Walaa,29,Cairo,Credit
+"curd,whipped/sour cream,bottled water",3,1415,6,Walaa,29,Cairo,Cash
+frankfurter,1,403,6,Walaa,29,Cairo,Cash
+soda,1,548,1,Farida,22,Cairo,Cash
+"other vegetables,whole milk,frozen vegetables,frozen dessert,soups,soda,napkins,flower (seeds)",8,125,6,Walaa,29,Cairo,Credit
+"misc. beverages,chocolate,shopping bags",3,1693,1,Farida,22,Cairo,Cash
+other vegetables,1,1079,6,Walaa,29,Cairo,Cash
+"chicken,citrus fruit,whole milk,processed cheese,coffee,soda,fruit/vegetable juice,canned beer,white wine,candy,shopping bags",11,1609,1,Farida,22,Cairo,Cash
+packaged fruit/vegetables,1,656,1,Farida,22,Cairo,Cash
+"hamburger meat,pip fruit,tea,bottled beer,white wine",5,1639,13,Sayed,37,Cairo,Cash
+"citrus fruit,pip fruit,other vegetables,rolls/buns",4,265,1,Farida,22,Cairo,Credit
+"citrus fruit,oil,baking powder,candy,dishes",5,132,6,Walaa,29,Cairo,Credit
+"oil,candy",2,1841,13,Sayed,37,Cairo,Credit
+"meat,hamburger meat,brown bread",3,693,6,Walaa,29,Cairo,Credit
+bottled beer,1,1996,6,Walaa,29,Cairo,Cash
+"citrus fruit,tropical fruit,whole milk,butter milk,rice,oil,canned fruit,bottled water,white wine,popcorn,hygiene articles,shopping bags",12,119,6,Walaa,29,Cairo,Credit
+"pip fruit,root vegetables,other vegetables,whole milk,margarine,bottled water",6,975,1,Farida,22,Cairo,Credit
+soda,1,699,13,Sayed,37,Cairo,Credit
+tropical fruit,1,841,1,Farida,22,Cairo,Credit
+soda,1,2426,1,Farida,22,Cairo,Cash
+"other vegetables,packaged fruit/vegetables,dessert,frozen vegetables,domestic eggs,flour,salt,sugar",8,1661,1,Farida,22,Cairo,Credit
+"sausage,other vegetables,frozen dessert,pastry,fruit/vegetable juice,long life bakery product",6,2308,1,Farida,22,Cairo,Cash
+"brown bread,soda",2,1460,6,Walaa,29,Cairo,Cash
+"whole milk,frozen vegetables,bottled water",3,1437,13,Sayed,37,Cairo,Credit
+"whole milk,dessert,yogurt,white bread",4,1151,13,Sayed,37,Cairo,Credit
+"frankfurter,dessert,rolls/buns,artif. sweetener,mustard,canned beer,dish cleaner,male cosmetics",8,2241,13,Sayed,37,Cairo,Cash
+"hard cheese,pastry,popcorn,pot plants",4,1964,6,Walaa,29,Cairo,Credit
+soda,1,2345,13,Sayed,37,Cairo,Credit
+"bottled water,soda,chocolate,shopping bags",4,1280,1,Farida,22,Cairo,Credit
+"yogurt,margarine,bottled water,chewing gum",4,663,1,Farida,22,Cairo,Cash
+"citrus fruit,pip fruit,grapes,other vegetables,brown bread,cat food,bottled water,napkins",8,169,13,Sayed,37,Cairo,Credit
+"whipped/sour cream,napkins",2,502,13,Sayed,37,Cairo,Cash
+"other vegetables,brown bread",2,464,1,Farida,22,Cairo,Credit
+"packaged fruit/vegetables,whole milk,soda",3,335,6,Walaa,29,Cairo,Credit
+"tropical fruit,butter,whipped/sour cream,rolls/buns",4,626,1,Farida,22,Cairo,Credit
+white wine,1,1849,1,Farida,22,Cairo,Cash
+"tropical fruit,pip fruit,other vegetables,curd,beverages,pastry,soda,waffles",8,304,6,Walaa,29,Cairo,Cash
+"citrus fruit,condensed milk,flour",3,2324,6,Walaa,29,Cairo,Credit
+"nuts/prunes,canned fish,soda,shopping bags",4,1087,13,Sayed,37,Cairo,Credit
+"citrus fruit,tropical fruit,whole milk,rolls/buns,honey",5,261,1,Farida,22,Cairo,Cash
+"citrus fruit,rolls/buns,chewing gum,shopping bags",4,944,6,Walaa,29,Cairo,Cash
+"beef,onions,other vegetables,rolls/buns",4,761,1,Farida,22,Cairo,Cash
+"root vegetables,butter,curd,pastry,chocolate,kitchen towels",6,2368,6,Walaa,29,Cairo,Cash
+beef,1,2239,1,Farida,22,Cairo,Credit
+"rolls/buns,bottled water",2,965,13,Sayed,37,Cairo,Credit
+canned beer,1,2214,1,Farida,22,Cairo,Credit
+"UHT-milk,condensed milk,sugar,coffee,cling film/bags",5,1054,13,Sayed,37,Cairo,Credit
+"bottled water,soda,salty snack",3,2465,13,Sayed,37,Cairo,Cash
+"hamburger meat,whole milk,yogurt,salt,canned vegetables,soda,cling film/bags",7,566,6,Walaa,29,Cairo,Credit
+"meat,root vegetables,hard cheese,brown bread",4,600,13,Sayed,37,Cairo,Cash
+"beef,hamburger meat",2,1399,1,Farida,22,Cairo,Cash
+"citrus fruit,onions,soups",3,1715,1,Farida,22,Cairo,Credit
+"frankfurter,beef,whole milk,chocolate marshmallow",4,1694,13,Sayed,37,Cairo,Credit
+"whole milk,rolls/buns,soap,napkins,newspapers",5,1457,1,Farida,22,Cairo,Cash
+"chicken,beef,root vegetables,whole milk,curd,yogurt,hard cheese,cream cheese ,domestic eggs,sweet spreads,dog food,napkins",12,594,6,Walaa,29,Cairo,Credit
+"yogurt,canned fish",2,1204,13,Sayed,37,Cairo,Credit
+frozen vegetables,1,1494,1,Farida,22,Cairo,Cash
+"coffee,female sanitary products,napkins",3,2214,6,Walaa,29,Cairo,Cash
+bottled beer,1,2381,6,Walaa,29,Cairo,Cash
+curd cheese,1,296,1,Farida,22,Cairo,Cash
+tropical fruit,1,232,1,Farida,22,Cairo,Cash
+"whole milk,butter,rolls/buns,pasta,candy",5,820,1,Farida,22,Cairo,Cash
+"bottled water,specialty chocolate",2,2261,1,Farida,22,Cairo,Credit
+chocolate,1,349,1,Farida,22,Cairo,Credit
+hygiene articles,1,465,6,Walaa,29,Cairo,Cash
+bottled beer,1,2369,13,Sayed,37,Cairo,Cash
+"frankfurter,sausage,tropical fruit,other vegetables,whipped/sour cream,hard cheese,rolls/buns,semi-finished bread,chocolate,dish cleaner,shopping bags",11,1959,6,Walaa,29,Cairo,Cash
+"herbs,other vegetables,hygiene articles,napkins",4,621,1,Farida,22,Cairo,Credit
+"yogurt,spread cheese,pastry,shopping bags",4,812,13,Sayed,37,Cairo,Credit
+"grapes,berries,soda",3,1004,6,Walaa,29,Cairo,Cash
+"whole milk,canned beer",2,1855,1,Farida,22,Cairo,Cash
+"rolls/buns,snack products",2,1224,6,Walaa,29,Cairo,Credit
+"cream cheese ,coffee,bottled water",3,1675,13,Sayed,37,Cairo,Credit
+"long life bakery product,waffles,newspapers",3,1977,1,Farida,22,Cairo,Credit
+salty snack,1,846,6,Walaa,29,Cairo,Cash
+"whole milk,rolls/buns,vinegar,baking powder,instant coffee,bottled water,napkins,dishes,flower soil/fertilizer",9,1539,13,Sayed,37,Cairo,Cash
+"sausage,hamburger meat,root vegetables,onions,meat spreads,napkins,newspapers",7,854,6,Walaa,29,Cairo,Cash
+"sausage,other vegetables,whole milk,whipped/sour cream,domestic eggs,pastry,meat spreads,instant coffee,bottled water,soda",10,2283,13,Sayed,37,Cairo,Credit
+"white bread,coffee,seasonal products",3,1901,6,Walaa,29,Cairo,Credit
+"other vegetables,bottled beer",2,1783,1,Farida,22,Cairo,Cash
+"sausage,pip fruit,berries,whole milk,butter,whipped/sour cream",6,386,1,Farida,22,Cairo,Credit
+"pastry,specialty chocolate,female sanitary products",3,2038,6,Walaa,29,Cairo,Credit
+"finished products,rolls/buns",2,270,6,Walaa,29,Cairo,Credit
+"other vegetables,whole milk,butter,yogurt,whipped/sour cream,frozen vegetables,rolls/buns,margarine,napkins",9,1833,6,Walaa,29,Cairo,Cash
+"sausage,yogurt,margarine,salty snack",4,1551,6,Walaa,29,Cairo,Credit
+"ice cream,soda,misc. beverages,liquor (appetizer)",4,1248,1,Farida,22,Cairo,Credit
+beverages,1,1152,6,Walaa,29,Cairo,Credit
+whipped/sour cream,1,1545,1,Farida,22,Cairo,Cash
+"whole milk,brown bread,fruit/vegetable juice",3,1263,6,Walaa,29,Cairo,Credit
+"beef,root vegetables,domestic eggs,vinegar,soda",5,1070,1,Farida,22,Cairo,Cash
+"yogurt,newspapers",2,1829,6,Walaa,29,Cairo,Credit
+"pip fruit,beverages,frozen meals,long life bakery product,chocolate,napkins",6,2252,1,Farida,22,Cairo,Credit
+"fish,whole milk,white bread,detergent",4,154,6,Walaa,29,Cairo,Credit
+"detergent,hygiene articles,napkins",3,122,1,Farida,22,Cairo,Credit
+"whole milk,margarine,baking powder,bottled water,bottled beer,waffles,napkins",7,574,13,Sayed,37,Cairo,Credit
+whole milk,1,998,6,Walaa,29,Cairo,Credit
+"soups,male cosmetics",2,2294,13,Sayed,37,Cairo,Cash
+whipped/sour cream,1,1080,13,Sayed,37,Cairo,Credit
+"soda,canned beer,liquor (appetizer),salty snack,shopping bags",5,1490,1,Farida,22,Cairo,Credit
+"sausage,UHT-milk,pickled vegetables,bottled water,canned beer",5,1093,6,Walaa,29,Cairo,Cash
+"frankfurter,pork,curd,shopping bags",4,1531,1,Farida,22,Cairo,Cash
+"frankfurter,sausage,citrus fruit,frozen vegetables,frozen meals,vinegar,oil,coffee,waffles,cooking chocolate,hygiene articles",11,1309,13,Sayed,37,Cairo,Credit
+"pork,beef,berries,domestic eggs,oil",5,469,1,Farida,22,Cairo,Cash
+"meat,hamburger meat,other vegetables,whole milk,rolls/buns,candy",6,758,6,Walaa,29,Cairo,Cash
+"whipped/sour cream,UHT-milk,pastry,margarine,cat food,chocolate,dishes,newspapers",8,296,6,Walaa,29,Cairo,Cash
+"tropical fruit,yogurt,rolls/buns,skin care,shopping bags",5,391,6,Walaa,29,Cairo,Cash
+"sugar,specialty bar",2,1813,1,Farida,22,Cairo,Credit
+"root vegetables,frozen vegetables,rolls/buns,fruit/vegetable juice,canned beer",5,1429,6,Walaa,29,Cairo,Cash
+"whole milk,whipped/sour cream",2,1285,1,Farida,22,Cairo,Credit
+"UHT-milk,domestic eggs,oil,margarine",4,1788,1,Farida,22,Cairo,Credit
+"beef,grapes,other vegetables,whole milk,dessert,yogurt,frozen vegetables,cake bar,dishes,newspapers",10,1375,1,Farida,22,Cairo,Credit
+"sausage,ham,root vegetables,other vegetables,whole milk,yogurt,rolls/buns,pastry,margarine,bottled water,shopping bags",11,286,13,Sayed,37,Cairo,Credit
+"sausage,citrus fruit,berries,other vegetables,whole milk,butter,whipped/sour cream,brown bread,soups,coffee,bottled water,bottled beer,waffles",13,2109,6,Walaa,29,Cairo,Credit
+"tropical fruit,hard cheese,frozen vegetables,domestic eggs,semi-finished bread",5,1365,1,Farida,22,Cairo,Credit
+"sausage,cream cheese ,domestic eggs,rolls/buns,cereals,canned vegetables,cat food,soda,misc. beverages",9,2182,6,Walaa,29,Cairo,Cash
+"frankfurter,tropical fruit,other vegetables,spices,flower (seeds)",5,1924,13,Sayed,37,Cairo,Credit
+"beef,citrus fruit,domestic eggs,salty snack,long life bakery product,napkins",6,1576,6,Walaa,29,Cairo,Cash
+other vegetables,1,605,1,Farida,22,Cairo,Credit
+soda,1,394,13,Sayed,37,Cairo,Cash
+oil,1,1949,1,Farida,22,Cairo,Credit
+margarine,1,980,6,Walaa,29,Cairo,Cash
+"citrus fruit,tropical fruit,grapes,root vegetables,herbs,other vegetables,whole milk,frozen vegetables,rice,dog food,bottled water,misc. beverages,fruit/vegetable juice,napkins",14,1022,1,Farida,22,Cairo,Credit
+specialty bar,1,2414,13,Sayed,37,Cairo,Credit
+"chicken,pork,frozen vegetables,margarine",4,290,1,Farida,22,Cairo,Cash
+"citrus fruit,other vegetables,whole milk,soda",4,1349,13,Sayed,37,Cairo,Credit
+other vegetables,1,173,13,Sayed,37,Cairo,Cash
+"finished products,butter,curd,soda",4,684,13,Sayed,37,Cairo,Credit
+UHT-milk,1,735,6,Walaa,29,Cairo,Credit
+mayonnaise,1,1943,13,Sayed,37,Cairo,Cash
+"sausage,hard cheese,pastry",3,1408,6,Walaa,29,Cairo,Credit
+soda,1,870,13,Sayed,37,Cairo,Cash
+"sausage,pip fruit,root vegetables,whole milk,rolls/buns,pastry,coffee",7,768,1,Farida,22,Cairo,Cash
+"other vegetables,whole milk,frozen meals,pastry,fruit/vegetable juice,long life bakery product,shopping bags",7,2041,1,Farida,22,Cairo,Cash
+"berries,yogurt,shopping bags",3,200,6,Walaa,29,Cairo,Credit
+flour,1,1532,13,Sayed,37,Cairo,Credit
+"UHT-milk,rolls/buns",2,1596,1,Farida,22,Cairo,Cash
+"whole milk,frozen meals,mustard,canned fish,bottled beer",5,813,6,Walaa,29,Cairo,Cash
+"pip fruit,grapes,yogurt,hard cheese,napkins",5,1751,13,Sayed,37,Cairo,Cash
+"citrus fruit,frozen meals,canned beer,red/blush wine",4,2342,1,Farida,22,Cairo,Credit
+"beef,instant coffee",2,1948,6,Walaa,29,Cairo,Credit
+"ham,berries,onions,whole milk,butter milk,yogurt,whipped/sour cream,cream cheese ,mayonnaise,pastry,semi-finished bread,chocolate,specialty chocolate,hygiene articles,cling film/bags",15,795,6,Walaa,29,Cairo,Cash
+hygiene articles,1,1862,13,Sayed,37,Cairo,Cash
+photo/film,1,443,6,Walaa,29,Cairo,Cash
+"frankfurter,pork,tropical fruit,pip fruit,other vegetables,whole milk,dessert,whipped/sour cream,cream cheese ,frozen meals,cat food,salty snack,cake bar,chewing gum,specialty bar,seasonal products",16,2163,6,Walaa,29,Cairo,Credit
+"chicken,frozen vegetables,soda,canned beer,hygiene articles",5,449,13,Sayed,37,Cairo,Credit
+"frankfurter,whole milk,dessert,white bread,shopping bags",5,1826,6,Walaa,29,Cairo,Cash
+cooking chocolate,1,588,1,Farida,22,Cairo,Cash
+"cream cheese ,brown bread",2,408,6,Walaa,29,Cairo,Cash
+"other vegetables,whole milk,cake bar,detergent",4,1618,1,Farida,22,Cairo,Cash
+"tropical fruit,bottled beer",2,1571,1,Farida,22,Cairo,Credit
+pet care,1,195,6,Walaa,29,Cairo,Credit
+"frankfurter,pork,whole milk,yogurt,UHT-milk,brown bread",6,2102,13,Sayed,37,Cairo,Credit
+"other vegetables,whole milk,soda",3,981,1,Farida,22,Cairo,Cash
+bottled beer,1,2294,6,Walaa,29,Cairo,Cash
+citrus fruit,1,1221,6,Walaa,29,Cairo,Credit
+"finished products,grapes,other vegetables,curd,beverages,rolls/buns,pastry,waffles,specialty bar",9,2083,13,Sayed,37,Cairo,Cash
+"berries,whole milk",2,1630,6,Walaa,29,Cairo,Credit
+"whole milk,ice cream,soda",3,1534,1,Farida,22,Cairo,Credit
+"whole milk,curd,yogurt,whipped/sour cream,margarine",5,2399,1,Farida,22,Cairo,Cash
+"pip fruit,whole milk,brown bread,fruit/vegetable juice,bottled beer,red/blush wine,shopping bags",7,1675,1,Farida,22,Cairo,Cash
+"yogurt,oil,pickled vegetables,fruit/vegetable juice,salty snack,hygiene articles",6,1786,6,Walaa,29,Cairo,Cash
+"whole milk,yogurt,cream cheese ,frozen meals,shopping bags",5,474,1,Farida,22,Cairo,Credit
+"frankfurter,citrus fruit,other vegetables,whole milk,yogurt,zwieback,vinegar,cleaner",8,779,6,Walaa,29,Cairo,Credit
+"citrus fruit,root vegetables,other vegetables,dessert,pastry,chocolate,dishes,candles",8,1584,6,Walaa,29,Cairo,Credit
+red/blush wine,1,432,6,Walaa,29,Cairo,Credit
+"tropical fruit,whole milk,rolls/buns,prosecco,salty snack,specialty bar",6,548,6,Walaa,29,Cairo,Cash
+pork,1,920,1,Farida,22,Cairo,Cash
+"rolls/buns,canned beer",2,1191,13,Sayed,37,Cairo,Cash
+rolls/buns,1,562,13,Sayed,37,Cairo,Credit
+"rolls/buns,bottled beer",2,1808,13,Sayed,37,Cairo,Cash
+"pip fruit,berries,other vegetables,butter,yogurt,soda,chocolate,house keeping products",8,746,13,Sayed,37,Cairo,Credit
+"onions,other vegetables,roll products ,bottled beer,liquor (appetizer),newspapers",6,957,13,Sayed,37,Cairo,Cash
+"tropical fruit,pip fruit,whole milk,rolls/buns,coffee,hygiene articles",6,2110,13,Sayed,37,Cairo,Cash
+"tropical fruit,root vegetables,butter,pasta,soda,napkins",6,2310,13,Sayed,37,Cairo,Credit
+"soda,canned beer",2,2135,6,Walaa,29,Cairo,Cash
+"rolls/buns,soda",2,968,13,Sayed,37,Cairo,Cash
+condensed milk,1,1101,13,Sayed,37,Cairo,Credit
+"whole milk,curd,semi-finished bread",3,2205,6,Walaa,29,Cairo,Cash
+"UHT-milk,sugar,soda",3,1728,13,Sayed,37,Cairo,Cash
+"other vegetables,whole milk,frozen vegetables",3,597,13,Sayed,37,Cairo,Cash
+waffles,1,923,6,Walaa,29,Cairo,Credit
+"whole milk,rolls/buns,oil,detergent,shopping bags",5,1378,6,Walaa,29,Cairo,Cash
+"other vegetables,whole milk,rolls/buns,long life bakery product,flower (seeds)",5,117,1,Farida,22,Cairo,Credit
+"ham,whipped/sour cream,frozen vegetables,rolls/buns,seasonal products",5,1189,13,Sayed,37,Cairo,Credit
+"sausage,red/blush wine,newspapers",3,1542,6,Walaa,29,Cairo,Credit
+"meat,whole milk,curd,sliced cheese,flour,sugar,pudding powder,bottled water,soda,canned beer",10,1498,13,Sayed,37,Cairo,Credit
+"root vegetables,onions,other vegetables,whole milk,frozen dessert,coffee,bottled beer",7,1569,13,Sayed,37,Cairo,Credit
+"root vegetables,whole milk,curd,yogurt",4,1977,6,Walaa,29,Cairo,Credit
+"hamburger meat,root vegetables,whole milk,whipped/sour cream,flour,chocolate marshmallow,newspapers",7,600,13,Sayed,37,Cairo,Cash
+"sausage,hamburger meat,root vegetables,whole milk,domestic eggs,white bread,semi-finished bread,honey",8,2308,1,Farida,22,Cairo,Credit
+"red/blush wine,sparkling wine",2,1048,1,Farida,22,Cairo,Cash
+"bottled water,brandy,whisky",3,1327,13,Sayed,37,Cairo,Cash
+"whole milk,dessert,yogurt,canned fish,soda,fruit/vegetable juice,shopping bags",7,960,13,Sayed,37,Cairo,Cash
+"liquor,salty snack,chocolate,specialty chocolate,specialty bar,seasonal products,shopping bags",7,109,13,Sayed,37,Cairo,Credit
+"other vegetables,ice cream,oil,liqueur,specialty chocolate,shopping bags",6,2335,13,Sayed,37,Cairo,Credit
+"yogurt,UHT-milk,cream cheese ,rolls/buns,brown bread,pastry,pickled vegetables,canned fish,cling film/bags",9,151,13,Sayed,37,Cairo,Cash
+"whole milk,cream cheese ,domestic eggs,margarine,canned beer,long life bakery product,shopping bags",7,942,1,Farida,22,Cairo,Credit
+female sanitary products,1,2167,13,Sayed,37,Cairo,Cash
+"root vegetables,canned beer,candles,shopping bags",4,868,6,Walaa,29,Cairo,Cash
+brown bread,1,1748,6,Walaa,29,Cairo,Credit
+"root vegetables,other vegetables,whole milk,butter,frozen vegetables,sugar,bottled water,fruit/vegetable juice",8,1923,6,Walaa,29,Cairo,Cash
+"hamburger meat,curd,hard cheese,flour,pasta,margarine,sugar,Instant food products,fruit/vegetable juice,chewing gum,hygiene articles,napkins",12,282,1,Farida,22,Cairo,Credit
+"frankfurter,tropical fruit,berries,butter milk,yogurt,whipped/sour cream,specialty cheese,rolls/buns",8,149,6,Walaa,29,Cairo,Cash
+bottled beer,1,1852,6,Walaa,29,Cairo,Cash
+whole milk,1,621,1,Farida,22,Cairo,Credit
+"citrus fruit,pastry",2,148,1,Farida,22,Cairo,Cash
+"whole milk,coffee,chocolate,shopping bags",4,1901,1,Farida,22,Cairo,Cash
+"male cosmetics,napkins",2,1881,13,Sayed,37,Cairo,Cash
+bottled beer,1,505,6,Walaa,29,Cairo,Credit
+whole milk,1,2396,6,Walaa,29,Cairo,Cash
+other vegetables,1,1115,6,Walaa,29,Cairo,Cash
+"citrus fruit,prosecco,specialty bar,shopping bags",4,172,1,Farida,22,Cairo,Cash
+newspapers,1,871,6,Walaa,29,Cairo,Cash
+"hamburger meat,berries,dessert,whipped/sour cream,shopping bags",5,757,6,Walaa,29,Cairo,Credit
+cookware,1,908,6,Walaa,29,Cairo,Cash
+canned beer,1,216,6,Walaa,29,Cairo,Credit
+"berries,yogurt,specialty cheese",3,226,6,Walaa,29,Cairo,Credit
+whole milk,1,837,1,Farida,22,Cairo,Credit
+"grapes,chocolate",2,2438,13,Sayed,37,Cairo,Cash
+canned beer,1,1136,1,Farida,22,Cairo,Cash
+"onions,oil,dog food,bottled water,dish cleaner,shopping bags",6,2449,6,Walaa,29,Cairo,Cash
+"whole milk,butter milk,cream cheese ,fruit/vegetable juice",4,166,6,Walaa,29,Cairo,Credit
+"citrus fruit,hard cheese",2,1261,13,Sayed,37,Cairo,Credit
+"hamburger meat,tropical fruit,onions,canned vegetables,soda,candy,shopping bags",7,2440,13,Sayed,37,Cairo,Credit
+other vegetables,1,1691,13,Sayed,37,Cairo,Cash
+"onions,other vegetables,whole milk,yogurt,whipped/sour cream,tea,cleaner,bathroom cleaner",8,1185,13,Sayed,37,Cairo,Cash
+"beef,citrus fruit,grapes,root vegetables,rolls/buns,dog food,chocolate",7,1231,1,Farida,22,Cairo,Cash
+sparkling wine,1,1357,1,Farida,22,Cairo,Cash
+"rolls/buns,soda",2,1607,1,Farida,22,Cairo,Cash
+"other vegetables,frozen meals,soda",3,1452,13,Sayed,37,Cairo,Credit
+"bottled beer,seasonal products",2,1898,6,Walaa,29,Cairo,Cash
+dog food,1,1600,13,Sayed,37,Cairo,Credit
+frozen fish,1,1196,6,Walaa,29,Cairo,Credit
+"frankfurter,sausage,other vegetables,yogurt,rolls/buns,white bread",6,1694,6,Walaa,29,Cairo,Cash
+"sausage,rolls/buns,coffee",3,1388,13,Sayed,37,Cairo,Credit
+"citrus fruit,grapes,onions,other vegetables,whipped/sour cream,cream cheese ,mayonnaise,frozen vegetables,ice cream,mustard,spices,preservation products,coffee,cocoa drinks,long life bakery product,waffles,chocolate,candy,dish cleaner,abrasive cleaner,hygiene articles",21,1323,1,Farida,22,Cairo,Credit
+salty snack,1,1635,13,Sayed,37,Cairo,Cash
+chocolate,1,1855,13,Sayed,37,Cairo,Credit
+male cosmetics,1,1198,1,Farida,22,Cairo,Cash
+"chicken,frozen vegetables,chocolate,chocolate marshmallow,shopping bags",5,535,13,Sayed,37,Cairo,Cash
+"frankfurter,sausage,yogurt,white bread,bottled water,soda,shopping bags",7,1268,1,Farida,22,Cairo,Credit
+"whole milk,brown bread,salt,sugar",4,2275,13,Sayed,37,Cairo,Credit
+"tropical fruit,grapes,frozen meals,brown bread,bottled water,soda,shopping bags",7,1212,1,Farida,22,Cairo,Cash
+"sausage,root vegetables,specialty bar,seasonal products",4,217,6,Walaa,29,Cairo,Credit
+"curd,yogurt,white bread,brown bread,flour,artif. sweetener,red/blush wine,shopping bags",8,904,1,Farida,22,Cairo,Credit
+"dessert,misc. beverages,fruit/vegetable juice,popcorn,shopping bags",5,370,13,Sayed,37,Cairo,Cash
+"tropical fruit,pip fruit,whole milk,rolls/buns,brown bread,soda,chewing gum",7,126,6,Walaa,29,Cairo,Cash
+pastry,1,1223,6,Walaa,29,Cairo,Cash
+"cream cheese ,brown bread,meat spreads,soda,chocolate",5,919,13,Sayed,37,Cairo,Credit
+"root vegetables,yogurt,soda,popcorn",4,1794,13,Sayed,37,Cairo,Credit
+"whole milk,butter,yogurt,rolls/buns,coffee,fruit/vegetable juice,detergent",7,1786,6,Walaa,29,Cairo,Cash
+"yogurt,whipped/sour cream,UHT-milk,fruit/vegetable juice,newspapers",5,1539,6,Walaa,29,Cairo,Cash
+"pork,whole milk,yogurt,cream cheese ,rolls/buns,pudding powder",6,1995,13,Sayed,37,Cairo,Credit
+"frankfurter,beef,other vegetables,pasta,margarine,canned fish,dishes,cling film/bags",8,1383,6,Walaa,29,Cairo,Cash
+"whole milk,yogurt,bottled water",3,761,1,Farida,22,Cairo,Credit
+canned beer,1,153,6,Walaa,29,Cairo,Cash
+"sausage,citrus fruit,tropical fruit,pip fruit,other vegetables,whole milk,butter,processed cheese,spread cheese,pastry,canned fish,bottled water,red/blush wine,salty snack,long life bakery product,chocolate,female sanitary products,rubbing alcohol,hygiene articles,napkins,house keeping products",21,1861,6,Walaa,29,Cairo,Credit
+"meat,citrus fruit,yogurt,condensed milk,frozen vegetables,spices,meat spreads,canned fish",8,1413,1,Farida,22,Cairo,Cash
+"sausage,hamburger meat,margarine",3,572,1,Farida,22,Cairo,Cash
+"whole milk,butter",2,2459,1,Farida,22,Cairo,Cash
+"sausage,tropical fruit,root vegetables,whole milk,yogurt,frozen potato products,pastry",7,2236,6,Walaa,29,Cairo,Cash
+"organic sausage,pork,root vegetables,curd,bottled water",5,848,6,Walaa,29,Cairo,Credit
+"berries,yogurt,whipped/sour cream,sugar",4,1497,13,Sayed,37,Cairo,Credit
+"meat,butter,yogurt,rolls/buns,bottled water,soda,fruit/vegetable juice",7,1352,1,Farida,22,Cairo,Credit
+rolls/buns,1,569,1,Farida,22,Cairo,Cash
+"pip fruit,other vegetables,margarine,photo/film",4,1760,13,Sayed,37,Cairo,Cash
+"berries,dessert,rolls/buns,soda,white wine",5,356,1,Farida,22,Cairo,Credit
+"rolls/buns,bottled water",2,1715,6,Walaa,29,Cairo,Cash
+"pip fruit,rolls/buns,soda,skin care",4,815,13,Sayed,37,Cairo,Cash
+"sausage,hamburger meat,whole milk,butter,curd,processed cheese,pastry,Instant food products,shopping bags",9,1490,1,Farida,22,Cairo,Credit
+"frankfurter,sausage,other vegetables,rolls/buns,bottled water,bottled beer",6,859,6,Walaa,29,Cairo,Credit
+"rolls/buns,bottled beer",2,2471,6,Walaa,29,Cairo,Cash
+citrus fruit,1,1821,6,Walaa,29,Cairo,Credit
+"beverages,frozen fish,salt,sugar,snack products",5,1678,13,Sayed,37,Cairo,Cash
+"rolls/buns,margarine,bottled water,soda,red/blush wine,chocolate,candy,newspapers",8,1745,6,Walaa,29,Cairo,Cash
+"pork,margarine,candy",3,1657,6,Walaa,29,Cairo,Credit
+"frankfurter,rolls/buns,brown bread,coffee,bottled water,soda,canned beer,chocolate,cling film/bags,shopping bags",10,1376,13,Sayed,37,Cairo,Cash
+"whipped/sour cream,frozen vegetables,flour,flower (seeds)",4,418,1,Farida,22,Cairo,Credit
+beverages,1,2195,6,Walaa,29,Cairo,Cash
+"white bread,misc. beverages,bottled beer,liquor,red/blush wine",5,1296,13,Sayed,37,Cairo,Cash
+"sausage,hard cheese,shopping bags",3,1886,13,Sayed,37,Cairo,Credit
+"soda,chocolate,candy",3,2283,13,Sayed,37,Cairo,Credit
+"whole milk,shopping bags",2,1812,6,Walaa,29,Cairo,Credit
+"soda,chocolate",2,2326,1,Farida,22,Cairo,Cash
+"pork,beef,root vegetables,other vegetables,UHT-milk,spread cheese,mayonnaise,domestic eggs,zwieback,toilet cleaner,newspapers,shopping bags",12,1317,1,Farida,22,Cairo,Cash
+"soft cheese,cream cheese ,rolls/buns,soda,specialty bar",5,341,13,Sayed,37,Cairo,Cash
+"grapes,cream cheese ",2,566,13,Sayed,37,Cairo,Cash
+yogurt,1,312,1,Farida,22,Cairo,Credit
+"frankfurter,tropical fruit",2,1348,13,Sayed,37,Cairo,Cash
+"pork,tropical fruit,pip fruit,bottled water,bottled beer",5,1465,6,Walaa,29,Cairo,Credit
+"pork,hamburger meat,other vegetables,brown bread,Instant food products",5,2034,6,Walaa,29,Cairo,Cash
+"frankfurter,sausage,meat,whole milk,beverages,hard cheese,fruit/vegetable juice,bottled beer,sparkling wine,specialty chocolate,napkins",11,2363,6,Walaa,29,Cairo,Cash
+"whole milk,canned fish,cat food,pet care",4,368,13,Sayed,37,Cairo,Credit
+"frankfurter,bottled water,misc. beverages,bottled beer,sparkling wine",5,145,1,Farida,22,Cairo,Credit
+"yogurt,tea,fruit/vegetable juice,hygiene articles",4,1783,6,Walaa,29,Cairo,Credit
+"whole milk,beverages",2,1773,1,Farida,22,Cairo,Credit
+Instant food products,1,320,13,Sayed,37,Cairo,Cash
+"frozen meals,canned beer,red/blush wine,salty snack",4,969,13,Sayed,37,Cairo,Cash
+"tropical fruit,whole milk,butter milk,cereals,fruit/vegetable juice,long life bakery product,chocolate,cleaner,newspapers",9,2284,13,Sayed,37,Cairo,Credit
+"citrus fruit,pip fruit,butter,spices,bottled beer,long life bakery product,specialty bar,dental care,napkins,light bulbs",10,320,6,Walaa,29,Cairo,Cash
+"tropical fruit,root vegetables,other vegetables,napkins",4,1188,13,Sayed,37,Cairo,Cash
+"pastry,soda,salty snack,popcorn,skin care",5,458,1,Farida,22,Cairo,Cash
+"sausage,other vegetables,yogurt,cat food,chewing gum,female sanitary products,cling film/bags",7,839,13,Sayed,37,Cairo,Cash
+canned beer,1,2103,6,Walaa,29,Cairo,Cash
+citrus fruit,1,1488,13,Sayed,37,Cairo,Cash
+rolls/buns,1,1242,13,Sayed,37,Cairo,Credit
+"beef,root vegetables,curd,dessert,waffles,dish cleaner",6,778,1,Farida,22,Cairo,Cash
+"whole milk,salty snack",2,662,13,Sayed,37,Cairo,Credit
+"whole milk,soda,cleaner",3,2387,13,Sayed,37,Cairo,Cash
+"sausage,root vegetables",2,1122,13,Sayed,37,Cairo,Cash
+"curd,dishes",2,1680,13,Sayed,37,Cairo,Credit
+"yogurt,rolls/buns",2,1619,1,Farida,22,Cairo,Cash
+"whole milk,hard cheese,bottled beer",3,1292,1,Farida,22,Cairo,Cash
+"bottled beer,liquor",2,2343,1,Farida,22,Cairo,Credit
+shopping bags,1,1658,13,Sayed,37,Cairo,Credit
+bottled beer,1,1292,1,Farida,22,Cairo,Credit
+"pip fruit,berries,root vegetables,whole milk,curd,whipped/sour cream,soft cheese,frozen vegetables,pastry",9,305,1,Farida,22,Cairo,Credit
+"chicken,berries,frozen vegetables,coffee,cling film/bags",5,934,6,Walaa,29,Cairo,Credit
+"ice cream,white bread,candles",3,1160,13,Sayed,37,Cairo,Cash
+"soda,misc. beverages,waffles,shopping bags",4,2032,13,Sayed,37,Cairo,Cash
+domestic eggs,1,1283,6,Walaa,29,Cairo,Credit
+"waffles,chocolate",2,819,1,Farida,22,Cairo,Credit
+whole milk,1,289,6,Walaa,29,Cairo,Credit
+"yogurt,frozen meals,long life bakery product,chocolate,shopping bags",5,139,6,Walaa,29,Cairo,Cash
+"cat food,soda,specialty chocolate",3,2238,6,Walaa,29,Cairo,Cash
+flower soil/fertilizer,1,483,6,Walaa,29,Cairo,Credit
+salty snack,1,2089,6,Walaa,29,Cairo,Credit
+packaged fruit/vegetables,1,1320,1,Farida,22,Cairo,Credit
+"pork,root vegetables,soda,salty snack",4,688,13,Sayed,37,Cairo,Cash
+"meat,yogurt,napkins",3,352,6,Walaa,29,Cairo,Cash
+sweet spreads,1,805,1,Farida,22,Cairo,Cash
+pork,1,679,6,Walaa,29,Cairo,Credit
+"citrus fruit,whole milk,yogurt,rolls/buns,bottled water",5,1517,13,Sayed,37,Cairo,Credit
+"whole milk,dessert",2,701,13,Sayed,37,Cairo,Cash
+"citrus fruit,curd,sliced cheese,bottled water,napkins",5,1063,6,Walaa,29,Cairo,Credit
+"tropical fruit,whole milk,white bread,long life bakery product,napkins",5,2395,13,Sayed,37,Cairo,Credit
+"sausage,tropical fruit,condensed milk,soda,specialty chocolate",5,1313,6,Walaa,29,Cairo,Credit
+"berries,other vegetables,whole milk,yogurt,whipped/sour cream,frozen vegetables,margarine,newspapers,flower (seeds)",9,1789,6,Walaa,29,Cairo,Credit
+"meat,root vegetables,other vegetables,whole milk,brown bread,pastry,artif. sweetener,newspapers",8,331,6,Walaa,29,Cairo,Credit
+"pip fruit,sliced cheese,rolls/buns,canned beer,shopping bags",5,1592,13,Sayed,37,Cairo,Cash
+"liver loaf,tropical fruit,yogurt,ice cream,rolls/buns",5,2251,1,Farida,22,Cairo,Credit
+spread cheese,1,1087,13,Sayed,37,Cairo,Cash
+"frankfurter,grapes,yogurt,cream cheese ,frozen potato products,rolls/buns,meat spreads,bottled water,soda,chewing gum",10,2172,13,Sayed,37,Cairo,Cash
+"pork,berries,whole milk,frozen meals,white bread,brown bread,margarine,long life bakery product,napkins",9,1897,6,Walaa,29,Cairo,Cash
+napkins,1,237,13,Sayed,37,Cairo,Cash
+"liver loaf,pork,other vegetables,whole milk,rolls/buns,coffee,soda,napkins,dishes",9,1949,1,Farida,22,Cairo,Cash
+"pork,beef,tropical fruit,root vegetables,other vegetables,whole milk,yogurt,whipped/sour cream,processed cheese,frozen vegetables,frozen dessert,rolls/buns,semi-finished bread,zwieback,margarine,sugar,Instant food products,canned fish,bottled water,bottled beer,snack products,waffles,chocolate marshmallow,hygiene articles",24,2177,6,Walaa,29,Cairo,Credit
+"frozen meals,frozen fish",2,281,1,Farida,22,Cairo,Credit
+newspapers,1,1041,1,Farida,22,Cairo,Cash
+"whole milk,UHT-milk,chocolate,newspapers,shopping bags",5,1150,6,Walaa,29,Cairo,Cash
+"other vegetables,yogurt,whipped/sour cream,white bread",4,1319,1,Farida,22,Cairo,Credit
+"processed cheese,bottled beer,liquor,red/blush wine",4,813,1,Farida,22,Cairo,Credit
+"tropical fruit,pip fruit,root vegetables,other vegetables,whole milk,processed cheese,domestic eggs,brown bread,roll products ,cat food,bottled beer,house keeping products",12,1585,13,Sayed,37,Cairo,Credit
+"hamburger meat,dessert,pickled vegetables,coffee,shopping bags",5,2083,13,Sayed,37,Cairo,Credit
+"canned beer,specialty bar",2,566,6,Walaa,29,Cairo,Cash
+"beef,other vegetables,newspapers",3,361,13,Sayed,37,Cairo,Cash
+beef,1,2063,13,Sayed,37,Cairo,Cash
+"UHT-milk,candy,napkins",3,1040,6,Walaa,29,Cairo,Credit
+"sausage,beef,pip fruit,grapes,root vegetables,other vegetables,whole milk,curd,butter milk,yogurt,sliced cheese,cream cheese ,specialty cheese,frozen meals,white bread,pastry,candy",17,1392,1,Farida,22,Cairo,Cash
+"tropical fruit,whipped/sour cream,frozen vegetables,rolls/buns,salty snack,dish cleaner",6,1490,1,Farida,22,Cairo,Cash
+"chicken,hamburger meat,other vegetables,butter,yogurt,rolls/buns,white bread,rice,fruit/vegetable juice,cake bar,chocolate,candy,shopping bags",13,298,6,Walaa,29,Cairo,Credit
+"whole milk,canned beer",2,590,6,Walaa,29,Cairo,Credit
+beef,1,1160,6,Walaa,29,Cairo,Cash
+"butter,hard cheese,canned beer",3,1249,6,Walaa,29,Cairo,Credit
+"chicken,beef,rolls/buns,instant coffee",4,596,6,Walaa,29,Cairo,Credit
+"beverages,popcorn",2,557,13,Sayed,37,Cairo,Credit
+"frankfurter,citrus fruit,pip fruit,dessert,butter milk,frozen vegetables,frozen meals,domestic eggs,white bread,brown bread,pastry,soda,salty snack,long life bakery product,napkins,shopping bags",16,424,13,Sayed,37,Cairo,Cash
+salty snack,1,1106,1,Farida,22,Cairo,Credit
+"whole milk,brown bread,jam,newspapers,pot plants",5,1730,1,Farida,22,Cairo,Cash
+chocolate,1,1526,6,Walaa,29,Cairo,Cash
+"soda,white wine",2,1655,13,Sayed,37,Cairo,Cash
+soda,1,2381,6,Walaa,29,Cairo,Credit
+"frozen meals,canned beer,salty snack",3,200,1,Farida,22,Cairo,Cash
+"whole milk,bottled water,soda,canned beer",4,963,13,Sayed,37,Cairo,Cash
+newspapers,1,1267,13,Sayed,37,Cairo,Cash
+"beef,tropical fruit,root vegetables,other vegetables,yogurt,condensed milk,sliced cheese,specialty cheese,mayonnaise,cat food,liquor,salty snack,nut snack,napkins,dishes,shopping bags",16,1181,6,Walaa,29,Cairo,Credit
+"pip fruit,whole milk,dessert,margarine,chocolate marshmallow",5,2477,13,Sayed,37,Cairo,Credit
+"frankfurter,meat,hamburger meat,berries,whole milk,butter,pasta,honey,coffee,fruit/vegetable juice,napkins",11,1272,13,Sayed,37,Cairo,Cash
+"frankfurter,processed cheese",2,613,13,Sayed,37,Cairo,Cash
+"beef,citrus fruit,berries,whole milk,yogurt,UHT-milk,specialty cheese,pastry,cake bar,seasonal products,detergent,pot plants",12,1271,13,Sayed,37,Cairo,Cash
+"root vegetables,other vegetables",2,685,6,Walaa,29,Cairo,Cash
+misc. beverages,1,1706,13,Sayed,37,Cairo,Cash
+"beef,whipped/sour cream",2,2354,1,Farida,22,Cairo,Credit
+"frankfurter,ham,chicken,pork,root vegetables,other vegetables,dessert,cream cheese ,rolls/buns,cat food,bottled water,shopping bags",12,2103,6,Walaa,29,Cairo,Cash
+"soda,salty snack,specialty chocolate",3,1997,13,Sayed,37,Cairo,Credit
+"hamburger meat,frozen vegetables,frozen meals,domestic eggs",4,2262,6,Walaa,29,Cairo,Credit
+"ham,meat,tropical fruit,pip fruit,other vegetables,yogurt,UHT-milk,processed cheese,white bread,semi-finished bread,oil,margarine,pickled vegetables,coffee,soda,liquor (appetizer),napkins,light bulbs",18,2425,6,Walaa,29,Cairo,Cash
+"sausage,soda,chocolate marshmallow",3,650,1,Farida,22,Cairo,Cash
+"pork,other vegetables",2,1303,6,Walaa,29,Cairo,Cash
+"salty snack,candy",2,538,6,Walaa,29,Cairo,Credit
+"pip fruit,chocolate marshmallow",2,638,6,Walaa,29,Cairo,Cash
+"sausage,tropical fruit,root vegetables,herbs,whole milk,roll products ,oil",7,1474,13,Sayed,37,Cairo,Credit
+"hamburger meat,other vegetables,canned vegetables",3,958,6,Walaa,29,Cairo,Credit
+red/blush wine,1,680,1,Farida,22,Cairo,Cash
+salty snack,1,1033,6,Walaa,29,Cairo,Cash
+"misc. beverages,fruit/vegetable juice,canned beer,chewing gum,chocolate,shopping bags",6,1254,13,Sayed,37,Cairo,Credit
+"whole milk,whipped/sour cream,pastry,margarine,shopping bags",5,1813,6,Walaa,29,Cairo,Credit
+"rolls/buns,margarine,bottled beer",3,983,6,Walaa,29,Cairo,Credit
+"other vegetables,soft cheese,margarine,bottled water,bottled beer",5,1335,6,Walaa,29,Cairo,Credit
+"beef,root vegetables,herbs,packaged fruit/vegetables,butter,sliced cheese,domestic eggs,jam,bottled water",9,2265,1,Farida,22,Cairo,Credit
+"sausage,meat,herbs,other vegetables,soft cheese,margarine,cat food,shopping bags",8,1803,13,Sayed,37,Cairo,Credit
+"bottled water,bottled beer",2,925,1,Farida,22,Cairo,Cash
+"tropical fruit,salt,canned fish,bottled water,bottled beer",5,1997,1,Farida,22,Cairo,Credit
+"pork,butter milk,pickled vegetables,soda,canned beer,liquor",6,2321,13,Sayed,37,Cairo,Credit
+"frankfurter,pork,pip fruit,berries,root vegetables,other vegetables,whole milk,pastry,semi-finished bread,syrup,shopping bags",11,2010,1,Farida,22,Cairo,Cash
+"citrus fruit,whole milk,yogurt,sliced cheese,domestic eggs,canned vegetables,canned beer",7,173,13,Sayed,37,Cairo,Credit
+"frozen fish,brown bread,canned beer,rum,newspapers",5,337,13,Sayed,37,Cairo,Credit
+"other vegetables,whole milk,pastry,salty snack,candy",5,1553,1,Farida,22,Cairo,Credit
+rolls/buns,1,1040,13,Sayed,37,Cairo,Credit
+"citrus fruit,root vegetables,other vegetables,UHT-milk,domestic eggs,canned fruit,soda,waffles,candy,newspapers",10,2201,1,Farida,22,Cairo,Cash
+"pip fruit,herbs,other vegetables,whole milk,whipped/sour cream",5,355,13,Sayed,37,Cairo,Credit
+specialty bar,1,1790,6,Walaa,29,Cairo,Cash
+"grapes,other vegetables,butter,newspapers",4,1477,1,Farida,22,Cairo,Credit
+"domestic eggs,white bread,pastry,canned beer,newspapers",5,528,1,Farida,22,Cairo,Cash
+dessert,1,727,1,Farida,22,Cairo,Cash
+dishes,1,2288,1,Farida,22,Cairo,Credit
+"hamburger meat,whole milk,butter milk,yogurt,margarine,baking powder",6,2053,6,Walaa,29,Cairo,Cash
+"tropical fruit,other vegetables,whole milk,butter,yogurt",5,504,6,Walaa,29,Cairo,Cash
+"rolls/buns,pickled vegetables,chewing gum,specialty chocolate",4,1665,6,Walaa,29,Cairo,Credit
+"sausage,chicken,pork,citrus fruit,berries,root vegetables,packaged fruit/vegetables,curd,yogurt,whipped/sour cream,frozen vegetables",11,540,13,Sayed,37,Cairo,Credit
+"other vegetables,yogurt,rolls/buns,salt,sparkling wine,napkins",6,756,13,Sayed,37,Cairo,Cash
+"ham,meat,root vegetables,other vegetables,whole milk,curd,yogurt,frozen vegetables,frozen meals,frozen fish,rolls/buns,jam,misc. beverages,candy,seasonal products,detergent",16,789,6,Walaa,29,Cairo,Cash
+"frankfurter,other vegetables,whole milk,whipped/sour cream",4,2228,13,Sayed,37,Cairo,Credit
+"citrus fruit,onions,other vegetables,yogurt,beverages,rolls/buns,brown bread,vinegar,bottled water,long life bakery product",10,2044,1,Farida,22,Cairo,Cash
+"rolls/buns,bottled beer,brandy",3,2099,6,Walaa,29,Cairo,Cash
+"root vegetables,herbs,other vegetables,dessert,ice cream,cake bar,newspapers,shopping bags",8,2165,6,Walaa,29,Cairo,Credit
+"meat,root vegetables,other vegetables,dessert,yogurt,whipped/sour cream,rolls/buns,potato products,soda,misc. beverages,napkins,photo/film",12,1885,6,Walaa,29,Cairo,Cash
+"ham,citrus fruit,tropical fruit,pip fruit,root vegetables,other vegetables,whole milk,brown bread",8,2191,13,Sayed,37,Cairo,Cash
+"berries,herbs,pot plants",3,135,1,Farida,22,Cairo,Cash
+"beef,whole milk,oil,canned beer,salty snack",5,2140,1,Farida,22,Cairo,Credit
+"citrus fruit,other vegetables,yogurt,cream cheese ,bottled water,long life bakery product,specialty chocolate",7,2329,6,Walaa,29,Cairo,Credit
+"citrus fruit,tropical fruit,pip fruit,whole milk,yogurt,rolls/buns,pastry,white wine,red/blush wine,hygiene articles",10,923,13,Sayed,37,Cairo,Credit
+"turkey,nuts/prunes,other vegetables,whole milk,butter,curd,domestic eggs,pastry,tea",9,2446,6,Walaa,29,Cairo,Credit
+"cleaner,female sanitary products",2,1396,1,Farida,22,Cairo,Credit
+"soda,bottled beer",2,138,6,Walaa,29,Cairo,Cash
+"chicken,hamburger meat,whipped/sour cream,rolls/buns,soda,long life bakery product,dish cleaner",7,191,6,Walaa,29,Cairo,Cash
+"frankfurter,meat,tropical fruit,whole milk,ice cream,salty snack,detergent",7,1250,1,Farida,22,Cairo,Credit
+"sausage,grapes,baking powder,specialty vegetables,white wine,long life bakery product",6,1676,6,Walaa,29,Cairo,Credit
+"beef,dessert,sugar,bottled beer",4,106,13,Sayed,37,Cairo,Cash
+"beef,citrus fruit,cream cheese ,vinegar,margarine",5,794,1,Farida,22,Cairo,Credit
+"grapes,ice cream,pastry,soda,canned beer,salty snack,chewing gum,seasonal products,flower (seeds),shopping bags",10,1923,13,Sayed,37,Cairo,Cash
+"frankfurter,meat,beef,citrus fruit,berries,root vegetables,packaged fruit/vegetables,whole milk,whipped/sour cream,frozen vegetables,rolls/buns,canned fruit,house keeping products,flower (seeds),shopping bags",15,726,6,Walaa,29,Cairo,Cash
+"meat,whole milk,cream cheese ,brown bread,chocolate,newspapers",6,1444,13,Sayed,37,Cairo,Cash
+"sausage,root vegetables,onions,other vegetables,whole milk,butter milk,sliced cheese,curd cheese,frozen vegetables,rolls/buns",10,528,6,Walaa,29,Cairo,Cash
+"whole milk,butter,yogurt,whipped/sour cream,domestic eggs,coffee",6,1916,6,Walaa,29,Cairo,Cash
+"other vegetables,bottled beer,canned beer",3,967,6,Walaa,29,Cairo,Credit
+pastry,1,2493,13,Sayed,37,Cairo,Credit
+"ice cream,sugar,coffee,bottled water,soda,fruit/vegetable juice,shopping bags",7,485,6,Walaa,29,Cairo,Credit
+canned beer,1,1609,6,Walaa,29,Cairo,Cash
+"rolls/buns,bottled beer",2,158,6,Walaa,29,Cairo,Credit
+newspapers,1,658,13,Sayed,37,Cairo,Cash
+"root vegetables,sparkling wine",2,1239,1,Farida,22,Cairo,Credit
+"ham,pork,citrus fruit,tropical fruit,root vegetables,other vegetables,yogurt,frozen fish,fruit/vegetable juice,long life bakery product,female sanitary products",11,821,6,Walaa,29,Cairo,Cash
+"yogurt,whipped/sour cream",2,1697,13,Sayed,37,Cairo,Cash
+berries,1,2076,13,Sayed,37,Cairo,Cash
+"rolls/buns,pickled vegetables,specialty bar,dental care",4,390,13,Sayed,37,Cairo,Cash
+rolls/buns,1,475,6,Walaa,29,Cairo,Cash
+root vegetables,1,1826,1,Farida,22,Cairo,Credit
+"root vegetables,butter milk,cream cheese ,spread cheese",4,2326,13,Sayed,37,Cairo,Cash
+"liver loaf,root vegetables,salty snack,cake bar,specialty chocolate",5,1489,1,Farida,22,Cairo,Credit
+sausage,1,811,1,Farida,22,Cairo,Credit
+brown bread,1,2026,13,Sayed,37,Cairo,Cash
+"citrus fruit,whole milk,flour",3,2151,1,Farida,22,Cairo,Cash
+"sausage,fruit/vegetable juice",2,833,1,Farida,22,Cairo,Cash
+"sausage,chicken,citrus fruit,pip fruit,yogurt,condensed milk,frozen vegetables,domestic eggs,rolls/buns,pastry,long life bakery product,waffles,newspapers",13,1456,13,Sayed,37,Cairo,Credit
+"other vegetables,whole milk,white bread,soda",4,658,1,Farida,22,Cairo,Cash
+whole milk,1,1137,6,Walaa,29,Cairo,Credit
+"pork,beef,tropical fruit,other vegetables,yogurt,frozen vegetables",6,564,6,Walaa,29,Cairo,Credit
+"citrus fruit,bottled beer,white wine",3,247,6,Walaa,29,Cairo,Cash
+"beef,other vegetables,pasta,Instant food products",4,555,13,Sayed,37,Cairo,Credit
+beverages,1,1674,13,Sayed,37,Cairo,Cash
+"chicken,whole milk,white bread",3,1389,13,Sayed,37,Cairo,Cash
+"bottled beer,brandy,specialty chocolate,skin care",4,2452,6,Walaa,29,Cairo,Cash
+"root vegetables,other vegetables,butter,hard cheese,margarine,mustard,pickled vegetables",7,247,1,Farida,22,Cairo,Credit
+"ham,whole milk,curd,napkins",4,153,13,Sayed,37,Cairo,Credit
+pet care,1,2430,6,Walaa,29,Cairo,Cash
+"beverages,chocolate",2,603,13,Sayed,37,Cairo,Credit
+"whole milk,newspapers",2,2114,1,Farida,22,Cairo,Credit
+"yogurt,frozen vegetables",2,276,6,Walaa,29,Cairo,Cash
+napkins,1,982,13,Sayed,37,Cairo,Cash
+"root vegetables,herbs,dessert,yogurt,margarine,soda",6,1129,6,Walaa,29,Cairo,Cash
+bottled water,1,1085,1,Farida,22,Cairo,Cash
+"other vegetables,UHT-milk",2,439,1,Farida,22,Cairo,Credit
+bottled water,1,443,6,Walaa,29,Cairo,Credit
+coffee,1,493,1,Farida,22,Cairo,Credit
+semi-finished bread,1,750,1,Farida,22,Cairo,Cash
+"dessert,yogurt,frozen vegetables,soda,misc. beverages,white wine,prosecco,long life bakery product,waffles,cleaner,toilet cleaner,dental care,napkins,newspapers",14,2021,1,Farida,22,Cairo,Cash
+frozen meals,1,803,13,Sayed,37,Cairo,Credit
+"tropical fruit,whole milk,butter,cream cheese ,domestic eggs,fruit/vegetable juice,chocolate marshmallow",7,1040,6,Walaa,29,Cairo,Credit
+"bottled water,soda,fruit/vegetable juice",3,1372,1,Farida,22,Cairo,Cash
+whole milk,1,1364,13,Sayed,37,Cairo,Credit
+"pastry,margarine,specialty bar,candy",4,1684,6,Walaa,29,Cairo,Credit
+"curd,soda",2,1417,6,Walaa,29,Cairo,Credit
+"rolls/buns,bottled water,liquor",3,1923,13,Sayed,37,Cairo,Credit
+"root vegetables,butter milk,specialty cheese,specialty bar",4,525,13,Sayed,37,Cairo,Credit
+"whole milk,cream cheese ,newspapers",3,210,6,Walaa,29,Cairo,Cash
+"citrus fruit,other vegetables,cream cheese ,salty snack,waffles,chocolate,specialty bar,napkins",8,1975,1,Farida,22,Cairo,Cash
+"tropical fruit,misc. beverages",2,749,13,Sayed,37,Cairo,Cash
+"dessert,yogurt,soft cheese,soda",4,1924,6,Walaa,29,Cairo,Cash
+"citrus fruit,tropical fruit,pip fruit,root vegetables,other vegetables,chocolate,candy,shopping bags",8,2109,1,Farida,22,Cairo,Cash
+"butter,soda,fruit/vegetable juice,bottled beer",4,1426,6,Walaa,29,Cairo,Credit
+"tropical fruit,curd,bottled water,napkins",4,649,6,Walaa,29,Cairo,Cash
+beef,1,1548,6,Walaa,29,Cairo,Credit
+"root vegetables,whole milk,white bread,soda,waffles,specialty bar,hygiene articles",7,310,6,Walaa,29,Cairo,Cash
+"coffee,bottled water,chocolate marshmallow",3,1111,6,Walaa,29,Cairo,Credit
+waffles,1,350,1,Farida,22,Cairo,Cash
+"fruit/vegetable juice,bottled beer",2,1592,13,Sayed,37,Cairo,Cash
+"root vegetables,ice cream",2,1461,6,Walaa,29,Cairo,Credit
+"butter,butter milk,domestic eggs",3,2434,13,Sayed,37,Cairo,Cash
+"citrus fruit,other vegetables,brown bread",3,2368,1,Farida,22,Cairo,Credit
+"UHT-milk,frozen meals,brown bread,fruit/vegetable juice,shopping bags",5,725,6,Walaa,29,Cairo,Cash
+"frankfurter,ham,tropical fruit,pip fruit,other vegetables,frozen vegetables,domestic eggs,zwieback,margarine,soda",10,2071,13,Sayed,37,Cairo,Cash
+"hamburger meat,tropical fruit,herbs,other vegetables,whole milk,curd,ice cream,Instant food products,newspapers,shopping bags",10,1194,13,Sayed,37,Cairo,Credit
+"tropical fruit,rolls/buns,salt,fruit/vegetable juice,bottled beer,napkins",6,789,1,Farida,22,Cairo,Cash
+frozen vegetables,1,220,1,Farida,22,Cairo,Cash
+"sausage,frozen vegetables,domestic eggs,bottled water,bottled beer",5,206,1,Farida,22,Cairo,Credit
+"chicken,frozen meals,margarine,soda",4,1908,1,Farida,22,Cairo,Credit
+"sausage,hamburger meat,other vegetables,rolls/buns,pasta,Instant food products,shopping bags",7,121,6,Walaa,29,Cairo,Credit
+pip fruit,1,2488,13,Sayed,37,Cairo,Cash
+"cat food,bottled water,hygiene articles",3,704,13,Sayed,37,Cairo,Cash
+"pork,root vegetables,processed cheese,curd cheese,margarine",5,993,1,Farida,22,Cairo,Cash
+"tropical fruit,onions,white wine",3,986,1,Farida,22,Cairo,Cash
+rolls/buns,1,1005,13,Sayed,37,Cairo,Cash
+finished products,1,2075,13,Sayed,37,Cairo,Credit
+"frozen meals,canned beer,candy",3,1371,1,Farida,22,Cairo,Cash
+"sausage,butter,pastry,vinegar,margarine",5,1137,6,Walaa,29,Cairo,Credit
+"pet care,bottled beer",2,2254,6,Walaa,29,Cairo,Cash
+"other vegetables,packaged fruit/vegetables,yogurt,whipped/sour cream,beverages",5,1782,6,Walaa,29,Cairo,Credit
+whole milk,1,1068,13,Sayed,37,Cairo,Cash
+"white wine,shopping bags",2,349,6,Walaa,29,Cairo,Credit
+"yogurt,frozen meals,coffee,bottled water,shopping bags",5,1972,1,Farida,22,Cairo,Credit
+zwieback,1,623,6,Walaa,29,Cairo,Credit
+"beef,tropical fruit,other vegetables,whole milk,cream cheese ,rolls/buns,mustard,bottled water,red/blush wine,dishes",10,783,1,Farida,22,Cairo,Credit
+"hamburger meat,root vegetables,other vegetables,rolls/buns,roll products ,pet care,newspapers",7,1663,13,Sayed,37,Cairo,Credit
+"butter milk,photo/film",2,1879,1,Farida,22,Cairo,Credit
+bottled beer,1,1870,13,Sayed,37,Cairo,Cash
+"whole milk,butter,curd,processed cheese,rolls/buns,brown bread,misc. beverages,long life bakery product",8,1495,1,Farida,22,Cairo,Cash
+other vegetables,1,1705,13,Sayed,37,Cairo,Cash
+"pip fruit,other vegetables,coffee",3,1047,6,Walaa,29,Cairo,Cash
+"cream,cake bar",2,229,13,Sayed,37,Cairo,Credit
+"whole milk,ice cream,shopping bags",3,1222,1,Farida,22,Cairo,Cash
+"onions,packaged fruit/vegetables,whole milk,sliced cheese,domestic eggs,brown bread,ketchup,meat spreads,newspapers,flower (seeds)",10,145,6,Walaa,29,Cairo,Cash
+hygiene articles,1,1953,6,Walaa,29,Cairo,Credit
+"other vegetables,rolls/buns",2,1010,1,Farida,22,Cairo,Credit
+"tropical fruit,canned vegetables,bottled beer,specialty chocolate",4,329,13,Sayed,37,Cairo,Cash
+"ice cream,pastry,soda,salty snack",4,1748,13,Sayed,37,Cairo,Cash
+"tropical fruit,whole milk,butter,bottled water,hygiene articles,napkins",6,585,6,Walaa,29,Cairo,Credit
+"ham,chicken,other vegetables,whole milk,frozen vegetables,specialty chocolate",6,1966,13,Sayed,37,Cairo,Cash
+chicken,1,1897,6,Walaa,29,Cairo,Credit
+"other vegetables,rolls/buns,soda,chocolate",4,1315,1,Farida,22,Cairo,Credit
+bottled beer,1,2299,13,Sayed,37,Cairo,Cash
+pork,1,1712,1,Farida,22,Cairo,Credit
+"hamburger meat,other vegetables,yogurt,brown bread,pastry,cat food,abrasive cleaner,dishes",8,1316,1,Farida,22,Cairo,Cash
+soda,1,2364,13,Sayed,37,Cairo,Cash
+"UHT-milk,cream cheese ,soda,waffles",4,1186,6,Walaa,29,Cairo,Credit
+"citrus fruit,pip fruit,other vegetables,UHT-milk,salty snack",5,2040,6,Walaa,29,Cairo,Credit
+white bread,1,1361,13,Sayed,37,Cairo,Credit
+"oil,detergent",2,2273,6,Walaa,29,Cairo,Credit
+"sausage,whole milk,whipped/sour cream,sliced cheese,coffee",5,1843,6,Walaa,29,Cairo,Credit
+"curd,frozen meals,pastry,long life bakery product,waffles,napkins",6,371,1,Farida,22,Cairo,Cash
+"sausage,onions,spread cheese,bottled water,canned beer",5,1512,1,Farida,22,Cairo,Cash
+shopping bags,1,1439,1,Farida,22,Cairo,Credit
+"pip fruit,whole milk,pastry,hygiene articles,napkins",5,1634,13,Sayed,37,Cairo,Cash
+"beverages,pastry,newspapers",3,1550,13,Sayed,37,Cairo,Cash
+"margarine,sugar,bottled water,fruit/vegetable juice,newspapers",5,443,6,Walaa,29,Cairo,Cash
+"pork,other vegetables,chewing gum,napkins,dishes",5,1568,6,Walaa,29,Cairo,Cash
+"meat,hamburger meat,Instant food products,soda",4,633,13,Sayed,37,Cairo,Cash
+"tropical fruit,pip fruit,rolls/buns,pastry,bottled water,fruit/vegetable juice,newspapers",7,1996,13,Sayed,37,Cairo,Cash
+"yogurt,long life bakery product",2,711,6,Walaa,29,Cairo,Cash
+"sausage,chicken,beef,hamburger meat,citrus fruit,grapes,root vegetables,whole milk,butter,whipped/sour cream,flour,coffee,red/blush wine,salty snack,chocolate,hygiene articles,napkins",17,2048,1,Farida,22,Cairo,Credit
+"chicken,citrus fruit,other vegetables,butter,yogurt,frozen dessert,domestic eggs,rolls/buns,rum,cling film/bags",10,2482,1,Farida,22,Cairo,Cash

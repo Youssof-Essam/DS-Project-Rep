@@ -1,0 +1,1955 @@
+items,count,total,rnd,customer,age,city,paymentType
+pot plants,1,2373,2,Mohamed,25,Alexandria,Credit
+"tropical fruit,other vegetables,white bread,bottled water,chocolate",5,1381,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,root vegetables,other vegetables,frozen dessert,rolls/buns,flour,sweet spreads,salty snack,waffles,candy,bathroom cleaner",11,1762,4,Adel,50,Alexandria,Credit
+"sausage,rolls/buns,soda,chocolate",4,2360,10,Samy,55,Alexandria,Credit
+"citrus fruit,zwieback,newspapers",3,416,4,Adel,50,Alexandria,Cash
+"sausage,rolls/buns,soda,canned beer,specialty bar,shopping bags",6,2117,10,Samy,55,Alexandria,Credit
+coffee,1,1983,2,Mohamed,25,Alexandria,Cash
+rolls/buns,1,2430,10,Samy,55,Alexandria,Credit
+"ham,grapes,other vegetables,whole milk",4,1597,10,Samy,55,Alexandria,Cash
+"whole milk,curd,yogurt,pastry",4,1026,2,Mohamed,25,Alexandria,Credit
+"ham,beef,whipped/sour cream,ice cream,rolls/buns,cat food",6,384,4,Adel,50,Alexandria,Cash
+"sausage,beef,whole milk",3,222,4,Adel,50,Alexandria,Credit
+"rolls/buns,pastry,soda",3,1645,2,Mohamed,25,Alexandria,Cash
+"curd cheese,coffee",2,2455,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,pip fruit,berries,whole milk,frozen potato products,rolls/buns,pickled vegetables,chocolate",8,1841,2,Mohamed,25,Alexandria,Cash
+red/blush wine,1,1967,4,Adel,50,Alexandria,Cash
+"frankfurter,citrus fruit,whole milk,domestic eggs,oil,sparkling wine,specialty chocolate,newspapers",8,1479,2,Mohamed,25,Alexandria,Credit
+"whole milk,meat spreads,soda",3,2097,10,Samy,55,Alexandria,Credit
+frozen potato products,1,1759,4,Adel,50,Alexandria,Cash
+chocolate,1,702,10,Samy,55,Alexandria,Credit
+"berries,yogurt",2,2353,4,Adel,50,Alexandria,Credit
+"pork,hamburger meat,citrus fruit,berries,onions,whipped/sour cream,rice,coffee,chocolate",9,1364,10,Samy,55,Alexandria,Credit
+"citrus fruit,tropical fruit",2,813,10,Samy,55,Alexandria,Credit
+"frankfurter,rolls/buns,bottled water",3,878,10,Samy,55,Alexandria,Cash
+soda,1,2087,4,Adel,50,Alexandria,Cash
+"fish,other vegetables,pastry,margarine,coffee,long life bakery product,male cosmetics,shopping bags",8,312,2,Mohamed,25,Alexandria,Cash
+sparkling wine,1,320,10,Samy,55,Alexandria,Cash
+"frankfurter,dessert",2,1126,4,Adel,50,Alexandria,Cash
+whole milk,1,2249,10,Samy,55,Alexandria,Credit
+"butter milk,yogurt,honey,soda,detergent",5,2321,2,Mohamed,25,Alexandria,Cash
+"sausage,pork,citrus fruit,dessert,white bread,dishes,candles",7,512,2,Mohamed,25,Alexandria,Credit
+"coffee,shopping bags",2,2060,2,Mohamed,25,Alexandria,Credit
+"frankfurter,soda,chewing gum",3,1352,10,Samy,55,Alexandria,Credit
+"finished products,other vegetables,frozen vegetables,bottled beer",4,775,4,Adel,50,Alexandria,Credit
+"hamburger meat,root vegetables,whole milk",3,2172,10,Samy,55,Alexandria,Credit
+"whole milk,pastry,long life bakery product",3,1163,2,Mohamed,25,Alexandria,Credit
+"frankfurter,ham,tropical fruit,pip fruit,root vegetables,other vegetables,whole milk,butter,curd,yogurt,whipped/sour cream,soft cheese,sliced cheese,cream cheese ,frozen meals,frozen fish,domestic eggs,white bread,sugar,cereals,fruit/vegetable juice,bottled beer,waffles",23,555,4,Adel,50,Alexandria,Cash
+"rolls/buns,canned beer",2,2066,2,Mohamed,25,Alexandria,Credit
+specialty bar,1,841,4,Adel,50,Alexandria,Cash
+canned beer,1,2176,4,Adel,50,Alexandria,Credit
+"whole milk,bottled water,newspapers",3,265,4,Adel,50,Alexandria,Credit
+"rolls/buns,chewing gum",2,1901,10,Samy,55,Alexandria,Cash
+"sausage,other vegetables,yogurt,soda,shopping bags",5,1547,2,Mohamed,25,Alexandria,Credit
+"sausage,beef,citrus fruit,other vegetables,whole milk,butter milk,whipped/sour cream,beverages,hard cheese,rolls/buns,dish cleaner,cookware",12,1455,10,Samy,55,Alexandria,Cash
+"misc. beverages,newspapers",2,1857,10,Samy,55,Alexandria,Credit
+"sausage,sliced cheese,rolls/buns,soda,canned beer,shopping bags",6,1500,2,Mohamed,25,Alexandria,Cash
+"meat,curd,bottled beer,cake bar",4,639,4,Adel,50,Alexandria,Cash
+"frankfurter,meat,tropical fruit,onions,oil,baking powder,tea,cling film/bags",8,1588,10,Samy,55,Alexandria,Cash
+"ice cream,rolls/buns,canned beer",3,1525,10,Samy,55,Alexandria,Credit
+"meat,citrus fruit,other vegetables,curd,dessert,butter milk,beverages,cream cheese ,rolls/buns,brown bread,tea,bottled water",12,743,4,Adel,50,Alexandria,Credit
+"sausage,beef,beverages,sliced cheese,rolls/buns,spices,house keeping products,flower (seeds)",8,2404,4,Adel,50,Alexandria,Cash
+"root vegetables,beverages,Instant food products,pickled vegetables,detergent",5,1349,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,whole milk,rolls/buns",3,1541,2,Mohamed,25,Alexandria,Cash
+"cream cheese ,rolls/buns,soda,chocolate",4,1542,10,Samy,55,Alexandria,Cash
+soda,1,462,2,Mohamed,25,Alexandria,Credit
+pork,1,1567,10,Samy,55,Alexandria,Cash
+bottled water,1,852,2,Mohamed,25,Alexandria,Cash
+"frankfurter,sausage,butter,whipped/sour cream,rolls/buns,margarine,spices",7,882,10,Samy,55,Alexandria,Credit
+"meat,citrus fruit,berries,root vegetables,whole milk,soda",6,1959,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,pip fruit,root vegetables,other vegetables,whole milk,cream cheese ,domestic eggs,brown bread,margarine,baking powder,waffles",11,636,10,Samy,55,Alexandria,Cash
+"hamburger meat,other vegetables,whole milk,curd,yogurt,rolls/buns,pastry,semi-finished bread,margarine,bottled water,fruit/vegetable juice",11,756,10,Samy,55,Alexandria,Cash
+"frankfurter,citrus fruit,onions,other vegetables,whole milk,rolls/buns,sugar,soda",8,572,4,Adel,50,Alexandria,Cash
+"beef,berries,root vegetables,whole milk,whipped/sour cream,abrasive cleaner",6,2474,2,Mohamed,25,Alexandria,Credit
+"beef,citrus fruit,other vegetables,yogurt",4,590,2,Mohamed,25,Alexandria,Credit
+"sausage,rolls/buns",2,1120,2,Mohamed,25,Alexandria,Credit
+canned beer,1,1089,4,Adel,50,Alexandria,Credit
+bottled beer,1,256,2,Mohamed,25,Alexandria,Cash
+"soda,specialty chocolate",2,847,4,Adel,50,Alexandria,Cash
+soda,1,539,10,Samy,55,Alexandria,Credit
+"sausage,meat,hamburger meat,rubbing alcohol",4,1070,2,Mohamed,25,Alexandria,Cash
+"frankfurter,other vegetables,whole milk,curd,frozen potato products,zwieback,specialty bar,dish cleaner",8,1248,10,Samy,55,Alexandria,Cash
+citrus fruit,1,1261,2,Mohamed,25,Alexandria,Cash
+"root vegetables,domestic eggs,margarine,chocolate marshmallow,candy",5,1802,10,Samy,55,Alexandria,Credit
+beef,1,1453,2,Mohamed,25,Alexandria,Cash
+"frankfurter,sausage,pork,pip fruit,butter,processed cheese,white bread,brown bread",8,213,4,Adel,50,Alexandria,Cash
+"tropical fruit,root vegetables,whole milk,whipped/sour cream,domestic eggs",5,696,4,Adel,50,Alexandria,Cash
+"rolls/buns,brown bread,pastry,coffee,bottled beer",5,2129,4,Adel,50,Alexandria,Credit
+"whole milk,frozen dessert,salty snack,napkins",4,1793,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,butter milk,rolls/buns,bottled water",4,699,10,Samy,55,Alexandria,Credit
+bottled water,1,1973,4,Adel,50,Alexandria,Credit
+"butter milk,yogurt",2,509,2,Mohamed,25,Alexandria,Cash
+coffee,1,905,10,Samy,55,Alexandria,Cash
+"yogurt,rolls/buns,pastry,bottled water,soda,shopping bags",6,621,10,Samy,55,Alexandria,Credit
+soda,1,632,10,Samy,55,Alexandria,Cash
+"dish cleaner,bathroom cleaner,hygiene articles,napkins",4,845,10,Samy,55,Alexandria,Cash
+"other vegetables,red/blush wine",2,1044,2,Mohamed,25,Alexandria,Credit
+ice cream,1,1337,10,Samy,55,Alexandria,Credit
+"sausage,ham,hamburger meat,whole milk,soda,softener,newspapers",7,1050,10,Samy,55,Alexandria,Credit
+"chicken,yogurt,sliced cheese,rolls/buns,chewing gum,dishes",6,2148,2,Mohamed,25,Alexandria,Cash
+"root vegetables,pastry,bottled water,male cosmetics",4,1467,10,Samy,55,Alexandria,Cash
+pastry,1,410,4,Adel,50,Alexandria,Cash
+"onions,other vegetables,pastry,bottled water,soda,napkins",6,2180,4,Adel,50,Alexandria,Cash
+"coffee,hygiene articles",2,244,10,Samy,55,Alexandria,Credit
+"soda,canned beer,liquor (appetizer),hygiene articles,napkins,newspapers",6,1070,2,Mohamed,25,Alexandria,Cash
+"beef,root vegetables,other vegetables,rolls/buns,sugar",5,1589,10,Samy,55,Alexandria,Credit
+"beef,root vegetables",2,2404,4,Adel,50,Alexandria,Cash
+"frankfurter,rolls/buns,pastry,snack products,specialty bar",5,1144,10,Samy,55,Alexandria,Cash
+"other vegetables,whole milk,cream cheese ",3,2320,4,Adel,50,Alexandria,Credit
+"whole milk,rolls/buns,newspapers",3,1742,10,Samy,55,Alexandria,Cash
+"other vegetables,whipped/sour cream,specialty cheese,domestic eggs",4,1597,10,Samy,55,Alexandria,Credit
+shopping bags,1,2225,10,Samy,55,Alexandria,Credit
+"ham,pip fruit,whole milk,curd,dessert,butter milk,whipped/sour cream,sliced cheese,cream cheese ,white bread,coffee,long life bakery product,chocolate,baby cosmetics",14,2296,2,Mohamed,25,Alexandria,Credit
+"sausage,turkey,beef,root vegetables,domestic eggs,rolls/buns,flour,rice,organic products,misc. beverages,napkins",11,471,2,Mohamed,25,Alexandria,Cash
+bottled beer,1,1741,4,Adel,50,Alexandria,Cash
+"whole milk,cream cheese ,coffee",3,1057,2,Mohamed,25,Alexandria,Credit
+"other vegetables,shopping bags",2,1999,2,Mohamed,25,Alexandria,Credit
+"whole milk,dessert,bottled water",3,1535,4,Adel,50,Alexandria,Credit
+"sugar,soda,bottled beer",3,157,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,pip fruit,rolls/buns,coffee,fruit/vegetable juice,candy",6,2426,2,Mohamed,25,Alexandria,Cash
+"root vegetables,cream cheese ,spread cheese,frozen dessert,white bread,bottled water,soda,misc. beverages,fruit/vegetable juice,bottled beer",10,812,4,Adel,50,Alexandria,Cash
+"tropical fruit,other vegetables,yogurt,bottled water,male cosmetics",5,1433,10,Samy,55,Alexandria,Credit
+"brown bread,sugar,hygiene articles",3,2022,2,Mohamed,25,Alexandria,Cash
+"coffee,detergent,hygiene articles,photo/film",4,897,4,Adel,50,Alexandria,Credit
+"tropical fruit,whole milk,beverages,white bread,pasta,shopping bags",6,1601,10,Samy,55,Alexandria,Credit
+"coffee,chewing gum,chocolate marshmallow",3,989,2,Mohamed,25,Alexandria,Credit
+"pip fruit,whole milk,curd,pastry,bottled water",5,455,4,Adel,50,Alexandria,Credit
+"beef,tropical fruit,herbs,whole milk,curd,yogurt,whipped/sour cream,sliced cheese",8,2072,2,Mohamed,25,Alexandria,Cash
+"sausage,rolls/buns",2,535,4,Adel,50,Alexandria,Credit
+"rolls/buns,coffee,long life bakery product,detergent,shopping bags",5,249,4,Adel,50,Alexandria,Cash
+"pip fruit,whole milk,bottled water,candy",4,1992,10,Samy,55,Alexandria,Cash
+canned beer,1,1138,10,Samy,55,Alexandria,Cash
+"grapes,root vegetables,frozen vegetables,domestic eggs,white wine",5,2500,10,Samy,55,Alexandria,Cash
+"root vegetables,packaged fruit/vegetables,butter,whipped/sour cream,rolls/buns",5,1320,4,Adel,50,Alexandria,Cash
+"pork,tropical fruit,whole milk,curd,yogurt,hard cheese,frozen meals,frozen dessert,domestic eggs,cereals,baking powder,fruit/vegetable juice,soap",13,601,2,Mohamed,25,Alexandria,Credit
+"root vegetables,brown bread",2,875,2,Mohamed,25,Alexandria,Cash
+"ham,rolls/buns,white wine",3,1482,4,Adel,50,Alexandria,Cash
+canned beer,1,789,2,Mohamed,25,Alexandria,Cash
+"beef,hamburger meat,citrus fruit,whole milk,mustard,soap",6,1875,2,Mohamed,25,Alexandria,Credit
+frozen chicken,1,1690,10,Samy,55,Alexandria,Cash
+other vegetables,1,327,10,Samy,55,Alexandria,Cash
+"meat,hamburger meat,root vegetables,packaged fruit/vegetables,whole milk,butter,newspapers",7,1416,2,Mohamed,25,Alexandria,Credit
+"pip fruit,sliced cheese,pastry,white wine,light bulbs,newspapers",6,2473,2,Mohamed,25,Alexandria,Cash
+"ham,whole milk,white bread,margarine,hair spray",5,1038,2,Mohamed,25,Alexandria,Cash
+"root vegetables,whole milk,detergent",3,1660,10,Samy,55,Alexandria,Credit
+"frankfurter,root vegetables,newspapers",3,779,4,Adel,50,Alexandria,Credit
+"hamburger meat,citrus fruit,root vegetables,rolls/buns,Instant food products,canned fish,bottled water,soda,fruit/vegetable juice,napkins",10,1863,4,Adel,50,Alexandria,Cash
+"frankfurter,sausage,domestic eggs,soda,chewing gum,shopping bags",6,1348,10,Samy,55,Alexandria,Cash
+soda,1,2264,10,Samy,55,Alexandria,Cash
+"tropical fruit,other vegetables",2,1697,2,Mohamed,25,Alexandria,Credit
+"frankfurter,citrus fruit,butter milk,UHT-milk,rolls/buns,female sanitary products,shopping bags",7,193,2,Mohamed,25,Alexandria,Credit
+"ham,other vegetables,butter,whipped/sour cream,sugar,soda",6,259,10,Samy,55,Alexandria,Credit
+"curd,butter milk,yogurt,beverages",4,1593,10,Samy,55,Alexandria,Credit
+"chicken,butter,newspapers",3,531,4,Adel,50,Alexandria,Cash
+house keeping products,1,449,10,Samy,55,Alexandria,Credit
+"whole milk,brown bread,pasta,margarine,bottled water,napkins,newspapers",7,1751,2,Mohamed,25,Alexandria,Credit
+"yogurt,hygiene articles,newspapers,shopping bags",4,2348,10,Samy,55,Alexandria,Credit
+"rolls/buns,soda,snack products,shopping bags",4,596,10,Samy,55,Alexandria,Cash
+"whole milk,pastry,bottled water,hygiene articles",4,1267,10,Samy,55,Alexandria,Credit
+"chicken,onions,other vegetables,whole milk,brown bread,white wine,red/blush wine",7,1263,10,Samy,55,Alexandria,Cash
+"rolls/buns,newspapers",2,1933,10,Samy,55,Alexandria,Cash
+canned beer,1,1176,4,Adel,50,Alexandria,Credit
+"yogurt,specialty bar",2,903,2,Mohamed,25,Alexandria,Cash
+rolls/buns,1,1905,10,Samy,55,Alexandria,Credit
+bottled beer,1,532,2,Mohamed,25,Alexandria,Cash
+"grapes,soda",2,751,4,Adel,50,Alexandria,Cash
+"curd,bottled beer,pot plants",3,1259,10,Samy,55,Alexandria,Credit
+"ice cream,sugar,flower (seeds)",3,2006,2,Mohamed,25,Alexandria,Cash
+"pork,beef,whole milk,domestic eggs,bottled water,bottled beer,hygiene articles",7,1856,2,Mohamed,25,Alexandria,Cash
+"frozen dessert,brandy",2,2429,4,Adel,50,Alexandria,Credit
+"vinegar,oil",2,1151,2,Mohamed,25,Alexandria,Credit
+"rolls/buns,newspapers",2,668,2,Mohamed,25,Alexandria,Credit
+"other vegetables,cream cheese ,tea,chocolate,chocolate marshmallow",5,236,10,Samy,55,Alexandria,Credit
+"ham,turkey,beef,other vegetables,whole milk,pot plants",6,1265,2,Mohamed,25,Alexandria,Cash
+curd,1,2098,2,Mohamed,25,Alexandria,Cash
+"rolls/buns,red/blush wine,newspapers",3,1695,10,Samy,55,Alexandria,Credit
+pastry,1,1324,2,Mohamed,25,Alexandria,Credit
+"frankfurter,hamburger meat,whole milk,domestic eggs,rolls/buns,brown bread,margarine,bottled water,flower (seeds)",9,728,10,Samy,55,Alexandria,Cash
+"root vegetables,whole milk,yogurt,rolls/buns",4,1254,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,whole milk,rolls/buns,semi-finished bread,margarine,fruit/vegetable juice,long life bakery product,newspapers",8,578,2,Mohamed,25,Alexandria,Credit
+"frankfurter,sausage,frozen fish,margarine,specialty bar",5,415,4,Adel,50,Alexandria,Credit
+"pork,grapes,UHT-milk,brown bread,margarine",5,952,2,Mohamed,25,Alexandria,Cash
+"beef,root vegetables,other vegetables,whole milk,butter,soft cheese,hard cheese,domestic eggs,pasta,coffee,candles",11,1379,2,Mohamed,25,Alexandria,Credit
+"chicken,pork,whole milk,butter,white bread",5,824,4,Adel,50,Alexandria,Cash
+"meat,beef,tropical fruit,pip fruit,other vegetables,whipped/sour cream,soft cheese,frozen meals,margarine,coffee,fruit/vegetable juice,pot plants",12,1408,4,Adel,50,Alexandria,Cash
+"citrus fruit,whole milk",2,1661,2,Mohamed,25,Alexandria,Credit
+"sausage,domestic eggs",2,322,2,Mohamed,25,Alexandria,Cash
+newspapers,1,540,4,Adel,50,Alexandria,Credit
+"berries,whole milk,whipped/sour cream,domestic eggs",4,1380,2,Mohamed,25,Alexandria,Cash
+"other vegetables,whipped/sour cream",2,307,2,Mohamed,25,Alexandria,Cash
+"other vegetables,whole milk,curd,frozen vegetables,domestic eggs,sugar,instant coffee,newspapers",8,1510,10,Samy,55,Alexandria,Cash
+coffee,1,1554,10,Samy,55,Alexandria,Credit
+"chicken,tropical fruit,pip fruit,root vegetables,other vegetables,packaged fruit/vegetables,butter,rolls/buns,margarine,sugar,rum,long life bakery product,abrasive cleaner",13,2258,2,Mohamed,25,Alexandria,Credit
+sugar,1,1440,4,Adel,50,Alexandria,Credit
+"whole milk,UHT-milk,domestic eggs,soda,fruit/vegetable juice,dishes,newspapers",7,2103,10,Samy,55,Alexandria,Credit
+"pork,beef",2,1869,10,Samy,55,Alexandria,Credit
+"bottled beer,shopping bags",2,1170,2,Mohamed,25,Alexandria,Cash
+"beef,Instant food products,canned beer",3,1675,10,Samy,55,Alexandria,Credit
+"pork,berries,whipped/sour cream,beverages,flour,oil,soda,chocolate,newspapers",9,1956,4,Adel,50,Alexandria,Credit
+"grapes,whole milk,processed cheese,rolls/buns,white bread,fruit/vegetable juice",6,518,10,Samy,55,Alexandria,Cash
+"sliced cheese,pastry,newspapers",3,184,4,Adel,50,Alexandria,Credit
+"root vegetables,whipped/sour cream",2,922,2,Mohamed,25,Alexandria,Credit
+"sausage,rolls/buns,soda",3,2052,4,Adel,50,Alexandria,Credit
+"root vegetables,whole milk,butter,yogurt,cream cheese ,frozen fish,shopping bags",7,864,10,Samy,55,Alexandria,Credit
+"whole milk,cream cheese ",2,830,10,Samy,55,Alexandria,Credit
+"frankfurter,turkey,root vegetables,other vegetables,yogurt,rolls/buns,pastry,ready soups",8,821,4,Adel,50,Alexandria,Credit
+"soda,bottled beer",2,407,4,Adel,50,Alexandria,Cash
+"frankfurter,popcorn",2,2431,10,Samy,55,Alexandria,Cash
+"pork,tropical fruit,grapes,hard cheese,soda,napkins,shopping bags",7,2134,2,Mohamed,25,Alexandria,Credit
+"tropical fruit,grapes,berries,other vegetables,whole milk,butter,dessert,yogurt,whipped/sour cream,ice cream,pastry,salt,baking powder,bottled water,misc. beverages,fruit/vegetable juice,canned beer,specialty chocolate,pot plants",19,1496,10,Samy,55,Alexandria,Cash
+"onions,whole milk,dessert,domestic eggs,rolls/buns,white bread,coffee,bottled water",8,1605,10,Samy,55,Alexandria,Credit
+"citrus fruit,root vegetables,packaged fruit/vegetables,yogurt,sliced cheese,rolls/buns,white bread,brown bread,zwieback",9,1541,10,Samy,55,Alexandria,Credit
+"citrus fruit,other vegetables,whole milk,dessert,yogurt,frozen vegetables,fruit/vegetable juice,bottled beer,salty snack",9,779,2,Mohamed,25,Alexandria,Credit
+"yogurt,brown bread,bottled beer,white wine",4,169,10,Samy,55,Alexandria,Credit
+"citrus fruit,onions",2,2476,10,Samy,55,Alexandria,Credit
+"pork,beef,ice cream,rolls/buns,newspapers",5,329,2,Mohamed,25,Alexandria,Credit
+"berries,root vegetables,other vegetables,butter,hard cheese,domestic eggs,rolls/buns,fruit/vegetable juice,sparkling wine,hygiene articles",10,1847,4,Adel,50,Alexandria,Cash
+"berries,dessert,whipped/sour cream,white bread,coffee,shopping bags",6,632,10,Samy,55,Alexandria,Cash
+"pork,citrus fruit,grapes,root vegetables,whole milk,ready soups,pot plants",7,2314,2,Mohamed,25,Alexandria,Cash
+"turkey,tropical fruit,pip fruit,root vegetables,other vegetables,curd,butter milk,yogurt,curd cheese,rice,vinegar,margarine",12,1214,10,Samy,55,Alexandria,Cash
+bottled water,1,2160,10,Samy,55,Alexandria,Cash
+"pip fruit,whole milk,domestic eggs,bottled water,long life bakery product",5,248,2,Mohamed,25,Alexandria,Credit
+"frankfurter,chicken,butter milk,margarine,long life bakery product",5,996,4,Adel,50,Alexandria,Credit
+"whole milk,white bread",2,1433,4,Adel,50,Alexandria,Cash
+"grapes,zwieback,soda,waffles",4,985,4,Adel,50,Alexandria,Cash
+brown bread,1,1481,10,Samy,55,Alexandria,Cash
+"root vegetables,other vegetables,spread cheese,margarine,canned beer",5,344,4,Adel,50,Alexandria,Credit
+"dessert,bottled water,soda",3,247,10,Samy,55,Alexandria,Credit
+shopping bags,1,1958,10,Samy,55,Alexandria,Credit
+"whole milk,frozen vegetables",2,1449,10,Samy,55,Alexandria,Cash
+"pork,hamburger meat,pip fruit,grapes,root vegetables,other vegetables,whole milk,yogurt,cream cheese ,frozen dessert,sugar,meat spreads,soda,fruit/vegetable juice",14,2264,4,Adel,50,Alexandria,Cash
+"sausage,grapes,butter,curd,yogurt,whipped/sour cream,beverages,UHT-milk,sliced cheese,processed cheese,rolls/buns,pastry,chocolate",13,827,2,Mohamed,25,Alexandria,Credit
+beef,1,1930,10,Samy,55,Alexandria,Credit
+"bottled water,soda,chewing gum",3,750,10,Samy,55,Alexandria,Credit
+"butter,rolls/buns,pastry,bottled water,canned beer,waffles",6,832,4,Adel,50,Alexandria,Credit
+"beef,citrus fruit,other vegetables,whole milk,domestic eggs,rolls/buns,brown bread,coffee,soda,salty snack,shopping bags",11,1114,4,Adel,50,Alexandria,Credit
+"chicken,other vegetables,white wine,specialty chocolate",4,259,10,Samy,55,Alexandria,Credit
+"frankfurter,herbs,yogurt,UHT-milk,mayonnaise,frozen vegetables,margarine,bottled water,soda,salty snack,seasonal products,detergent,pot plants",13,1880,10,Samy,55,Alexandria,Cash
+"frankfurter,root vegetables,other vegetables,domestic eggs,rolls/buns,pastry,soups,Instant food products,bottled water",9,1931,2,Mohamed,25,Alexandria,Cash
+"bottled water,canned beer",2,1707,4,Adel,50,Alexandria,Cash
+"yogurt,sliced cheese,frozen vegetables,frozen meals,pickled vegetables,coffee,instant coffee",7,2342,2,Mohamed,25,Alexandria,Cash
+"meat,other vegetables,whole milk,yogurt,soft cheese,sliced cheese,domestic eggs,margarine,cat food,pet care,coffee,bottled beer,red/blush wine,dish cleaner,napkins,kitchen towels",16,1490,10,Samy,55,Alexandria,Credit
+"whole milk,soda,misc. beverages,shopping bags",4,865,10,Samy,55,Alexandria,Credit
+"cat food,dish cleaner,shopping bags",3,2257,10,Samy,55,Alexandria,Credit
+"citrus fruit,other vegetables,butter,soda,bottled beer,canned beer,waffles,chocolate,seasonal products",9,559,4,Adel,50,Alexandria,Credit
+rolls/buns,1,2345,2,Mohamed,25,Alexandria,Cash
+"root vegetables,whipped/sour cream,salt,fruit/vegetable juice,salty snack",5,1794,2,Mohamed,25,Alexandria,Cash
+"grapes,brown bread,bottled beer,white wine",4,668,4,Adel,50,Alexandria,Credit
+misc. beverages,1,1276,4,Adel,50,Alexandria,Credit
+"grapes,specialty cheese,pasta,coffee,bottled water,soda,canned beer,brandy,white wine",9,1184,10,Samy,55,Alexandria,Cash
+pastry,1,1972,4,Adel,50,Alexandria,Cash
+pot plants,1,2314,10,Samy,55,Alexandria,Credit
+"UHT-milk,soda,dish cleaner,napkins",4,1859,2,Mohamed,25,Alexandria,Cash
+specialty chocolate,1,824,2,Mohamed,25,Alexandria,Cash
+"beef,root vegetables,other vegetables,butter,yogurt,rolls/buns,flour",7,2078,10,Samy,55,Alexandria,Credit
+"citrus fruit,root vegetables,other vegetables,whole milk,curd,yogurt,whipped/sour cream,hard cheese,cream cheese ,domestic eggs,flour,rice,oil,margarine,sugar",15,2454,4,Adel,50,Alexandria,Credit
+"citrus fruit,tropical fruit,grapes,whole milk,brown bread,pastry",6,2008,10,Samy,55,Alexandria,Cash
+coffee,1,741,10,Samy,55,Alexandria,Credit
+"ham,pork,hamburger meat,pip fruit,other vegetables,whole milk,butter,curd,dessert,butter milk,whipped/sour cream,domestic eggs,brown bread,roll products ,hygiene articles",15,2085,2,Mohamed,25,Alexandria,Credit
+"chicken,bottled beer,red/blush wine,newspapers",4,2178,2,Mohamed,25,Alexandria,Cash
+"bottled water,soda",2,1658,4,Adel,50,Alexandria,Credit
+"sausage,mayonnaise,rolls/buns,canned beer,shopping bags",5,2246,2,Mohamed,25,Alexandria,Cash
+"frozen potato products,pot plants",2,1743,10,Samy,55,Alexandria,Credit
+"tropical fruit,dessert,sweet spreads,fruit/vegetable juice",4,1421,4,Adel,50,Alexandria,Credit
+canned beer,1,1515,10,Samy,55,Alexandria,Credit
+canned beer,1,1960,2,Mohamed,25,Alexandria,Credit
+"frankfurter,root vegetables,rolls/buns,pastry,mustard,bottled beer,shopping bags",7,1111,4,Adel,50,Alexandria,Cash
+"frankfurter,liver loaf,turkey,UHT-milk,pasta,waffles,chocolate,dental care,dishes",9,1794,10,Samy,55,Alexandria,Credit
+"whole milk,frozen vegetables,specialty chocolate",3,402,2,Mohamed,25,Alexandria,Cash
+"pork,beef,whole milk,curd,rolls/buns,pastry",6,1269,4,Adel,50,Alexandria,Cash
+"rolls/buns,waffles",2,816,10,Samy,55,Alexandria,Cash
+frozen fish,1,2194,2,Mohamed,25,Alexandria,Cash
+"ham,whole milk,hard cheese,frozen meals,rolls/buns,rice,soups,baking powder,canned vegetables,bottled beer,female sanitary products",11,2330,2,Mohamed,25,Alexandria,Credit
+"herbs,other vegetables,whole milk,butter,white bread,margarine,misc. beverages,hygiene articles,shopping bags",9,164,4,Adel,50,Alexandria,Cash
+"tropical fruit,pip fruit,whole milk,chewing gum,chocolate",5,1529,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,other vegetables,soft cheese,rolls/buns,pastry,canned beer,newspapers",7,1975,4,Adel,50,Alexandria,Cash
+canned beer,1,589,10,Samy,55,Alexandria,Credit
+newspapers,1,2327,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,pip fruit,grapes,other vegetables,dessert,butter milk,yogurt,domestic eggs,flour,oil,sugar,ketchup,detergent,dish cleaner",14,2452,4,Adel,50,Alexandria,Cash
+"sausage,yogurt,salty snack",3,2322,2,Mohamed,25,Alexandria,Credit
+other vegetables,1,780,10,Samy,55,Alexandria,Credit
+"root vegetables,onions,whole milk,bottled water,dishes",5,1241,2,Mohamed,25,Alexandria,Cash
+"frankfurter,chicken,butter,dessert,butter milk,ice cream,pastry,oil,margarine,soda,salty snack,chocolate,chocolate marshmallow,detergent,hygiene articles,napkins,pot plants",17,1973,2,Mohamed,25,Alexandria,Credit
+"root vegetables,fruit/vegetable juice,long life bakery product,pot plants",4,1007,10,Samy,55,Alexandria,Credit
+"other vegetables,chocolate",2,1599,10,Samy,55,Alexandria,Cash
+"chicken,other vegetables,whole milk,domestic eggs,pastry,canned beer",6,450,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,misc. beverages,liquor,cling film/bags",4,883,2,Mohamed,25,Alexandria,Credit
+bottled beer,1,1922,4,Adel,50,Alexandria,Credit
+"chicken,whole milk",2,1815,4,Adel,50,Alexandria,Cash
+"canned fruit,meat spreads,bottled water",3,317,4,Adel,50,Alexandria,Credit
+"root vegetables,butter,frozen vegetables,salty snack",4,2484,2,Mohamed,25,Alexandria,Credit
+"frankfurter,sausage,whole milk,butter,dessert,pastry,fruit/vegetable juice",7,773,4,Adel,50,Alexandria,Credit
+"tropical fruit,other vegetables,packaged fruit/vegetables,whole milk,frozen meals,white bread,instant coffee,soda,female sanitary products,newspapers,pot plants,shopping bags",12,1520,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,pip fruit,grapes,berries,soft cheese,rolls/buns,oil,shopping bags",8,104,4,Adel,50,Alexandria,Credit
+bottled water,1,292,10,Samy,55,Alexandria,Credit
+"dog food,soda,fruit/vegetable juice,bottled beer",4,1604,10,Samy,55,Alexandria,Credit
+curd,1,664,2,Mohamed,25,Alexandria,Credit
+"sausage,waffles",2,516,2,Mohamed,25,Alexandria,Credit
+soda,1,1587,2,Mohamed,25,Alexandria,Cash
+"root vegetables,whole milk,brown bread,brandy,detergent,dish cleaner,female sanitary products,napkins,shopping bags",9,2012,10,Samy,55,Alexandria,Cash
+sugar,1,2042,4,Adel,50,Alexandria,Credit
+"other vegetables,misc. beverages,long life bakery product,chocolate,candy,shopping bags",6,664,4,Adel,50,Alexandria,Cash
+"grapes,butter,domestic eggs,salt,sugar,baking powder",6,442,2,Mohamed,25,Alexandria,Cash
+"meat,hamburger meat,spices,coffee",4,1268,10,Samy,55,Alexandria,Credit
+"pork,UHT-milk,rolls/buns,margarine",4,1267,10,Samy,55,Alexandria,Credit
+oil,1,1153,2,Mohamed,25,Alexandria,Cash
+"ham,whole milk,curd,dessert",4,2241,2,Mohamed,25,Alexandria,Credit
+"sausage,whole milk,brown bread,soda",4,1187,4,Adel,50,Alexandria,Credit
+"beverages,soda,chocolate",3,1792,2,Mohamed,25,Alexandria,Credit
+rolls/buns,1,2022,4,Adel,50,Alexandria,Credit
+canned beer,1,1366,2,Mohamed,25,Alexandria,Credit
+"yogurt,beverages,rolls/buns,fruit/vegetable juice,pot plants",5,2150,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,other vegetables,whole milk,butter,frozen vegetables,rolls/buns,brown bread,fruit/vegetable juice,cleaner",9,783,4,Adel,50,Alexandria,Credit
+rolls/buns,1,2243,4,Adel,50,Alexandria,Credit
+"tropical fruit,whole milk",2,2378,4,Adel,50,Alexandria,Cash
+"dessert,fruit/vegetable juice,newspapers",3,1932,2,Mohamed,25,Alexandria,Cash
+"meat,other vegetables,rolls/buns,fruit/vegetable juice,cling film/bags",5,2330,10,Samy,55,Alexandria,Cash
+"tropical fruit,root vegetables,whole milk,yogurt,whipped/sour cream,domestic eggs,rolls/buns,margarine,bottled water",9,1726,4,Adel,50,Alexandria,Cash
+yogurt,1,1592,2,Mohamed,25,Alexandria,Credit
+"onions,shopping bags",2,1966,2,Mohamed,25,Alexandria,Cash
+"other vegetables,butter milk,UHT-milk,brown bread,bottled water",5,349,2,Mohamed,25,Alexandria,Cash
+"chicken,other vegetables,whole milk,curd,UHT-milk,rolls/buns,newspapers",7,485,2,Mohamed,25,Alexandria,Credit
+"meat,whole milk,frozen potato products,margarine,soda,detergent",6,132,4,Adel,50,Alexandria,Cash
+"onions,yogurt,oil",3,1730,10,Samy,55,Alexandria,Credit
+"sausage,butter milk,rolls/buns,soda",4,716,2,Mohamed,25,Alexandria,Cash
+"rolls/buns,canned fish,soda",3,246,4,Adel,50,Alexandria,Credit
+bottled beer,1,494,2,Mohamed,25,Alexandria,Cash
+"liver loaf,beef,pip fruit,packaged fruit/vegetables,whole milk,pastry,margarine",7,890,2,Mohamed,25,Alexandria,Credit
+"frankfurter,ham,citrus fruit,other vegetables",4,734,4,Adel,50,Alexandria,Credit
+"pip fruit,yogurt,sliced cheese",3,355,10,Samy,55,Alexandria,Cash
+napkins,1,414,10,Samy,55,Alexandria,Cash
+yogurt,1,1513,10,Samy,55,Alexandria,Cash
+"yogurt,chocolate",2,1709,4,Adel,50,Alexandria,Cash
+"frankfurter,frozen meals,semi-finished bread,shopping bags",4,1953,10,Samy,55,Alexandria,Cash
+"curd,processed cheese,rolls/buns,pastry,pickled vegetables,fruit/vegetable juice",6,725,4,Adel,50,Alexandria,Cash
+specialty bar,1,1183,2,Mohamed,25,Alexandria,Cash
+"frozen vegetables,coffee",2,851,10,Samy,55,Alexandria,Cash
+"pork,beef,citrus fruit,root vegetables,other vegetables,whole milk,rolls/buns,flour,pasta,oil,waffles,seasonal products,female sanitary products",13,1344,10,Samy,55,Alexandria,Cash
+"curd,bottled water,photo/film",3,1782,4,Adel,50,Alexandria,Cash
+detergent,1,2320,4,Adel,50,Alexandria,Cash
+root vegetables,1,1763,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,soft cheese,rolls/buns,chocolate",4,1556,2,Mohamed,25,Alexandria,Credit
+"sausage,hamburger meat,tropical fruit,root vegetables,whole milk,UHT-milk,domestic eggs,rolls/buns,semi-finished bread,margarine,pickled vegetables,soda,fruit/vegetable juice",13,532,2,Mohamed,25,Alexandria,Cash
+"whole milk,coffee,female sanitary products,shopping bags",4,332,2,Mohamed,25,Alexandria,Cash
+"pastry,long life bakery product",2,2453,10,Samy,55,Alexandria,Credit
+whole milk,1,308,4,Adel,50,Alexandria,Cash
+pip fruit,1,1615,4,Adel,50,Alexandria,Credit
+specialty chocolate,1,2296,10,Samy,55,Alexandria,Cash
+"sausage,white bread,bottled beer",3,2274,4,Adel,50,Alexandria,Cash
+"citrus fruit,other vegetables,whole milk",3,1628,2,Mohamed,25,Alexandria,Cash
+"whole milk,rolls/buns",2,1761,10,Samy,55,Alexandria,Cash
+bottled beer,1,1355,4,Adel,50,Alexandria,Credit
+pastry,1,1913,4,Adel,50,Alexandria,Credit
+"grapes,root vegetables,other vegetables,roll products ,pasta,oil,margarine,coffee,bottled water,detergent",10,2397,4,Adel,50,Alexandria,Cash
+"yogurt,rolls/buns",2,2327,10,Samy,55,Alexandria,Credit
+"frankfurter,citrus fruit,tropical fruit,whole milk,butter,whipped/sour cream",6,2029,2,Mohamed,25,Alexandria,Credit
+"whole milk,rolls/buns",2,1612,10,Samy,55,Alexandria,Credit
+"whole milk,canned beer",2,1215,2,Mohamed,25,Alexandria,Credit
+"whole milk,yogurt,white bread,newspapers",4,2054,2,Mohamed,25,Alexandria,Cash
+"whole milk,yogurt,beverages,mustard,bottled water,newspapers",6,597,4,Adel,50,Alexandria,Credit
+"ham,pip fruit,whole milk,rolls/buns,honey,newspapers",6,1995,2,Mohamed,25,Alexandria,Credit
+"curd,yogurt,mayonnaise,brown bread,margarine,sugar,ketchup,dish cleaner,cling film/bags",9,2117,2,Mohamed,25,Alexandria,Cash
+"pork,other vegetables",2,504,4,Adel,50,Alexandria,Cash
+whipped/sour cream,1,1195,10,Samy,55,Alexandria,Credit
+"sausage,citrus fruit,tropical fruit,whole milk,bottled water,specialty bar,detergent,newspapers",8,919,2,Mohamed,25,Alexandria,Credit
+"pip fruit,whole milk,butter milk,cream cheese ,domestic eggs,rolls/buns,brown bread",7,513,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,tropical fruit,grapes,dessert,cream cheese ,rolls/buns,bottled water,fruit/vegetable juice",8,1652,10,Samy,55,Alexandria,Cash
+"nuts/prunes,rolls/buns,soda",3,137,10,Samy,55,Alexandria,Credit
+"butter,bottled beer,liquor",3,2358,4,Adel,50,Alexandria,Cash
+"meat,citrus fruit,other vegetables,canned beer",4,1688,10,Samy,55,Alexandria,Cash
+"sausage,root vegetables,whole milk,butter,misc. beverages",5,1617,10,Samy,55,Alexandria,Cash
+"sausage,whole milk,yogurt,pastry,pudding powder,bottled water,soda,bottled beer,canned beer,male cosmetics,flower (seeds)",11,1632,4,Adel,50,Alexandria,Cash
+"berries,other vegetables,butter milk,yogurt,sliced cheese,rolls/buns,soda",7,1769,10,Samy,55,Alexandria,Credit
+"beef,herbs,whole milk",3,126,2,Mohamed,25,Alexandria,Credit
+"sausage,meat,root vegetables,other vegetables,whole milk,butter milk,yogurt,pastry,waffles",9,1913,4,Adel,50,Alexandria,Credit
+"pip fruit,whole milk,whipped/sour cream,baking powder",4,1785,4,Adel,50,Alexandria,Cash
+"whole milk,white bread,salty snack",3,414,4,Adel,50,Alexandria,Cash
+soda,1,2153,2,Mohamed,25,Alexandria,Cash
+rolls/buns,1,334,10,Samy,55,Alexandria,Cash
+"spread cheese,pastry",2,802,4,Adel,50,Alexandria,Cash
+"citrus fruit,tropical fruit,other vegetables,pot plants",4,1254,4,Adel,50,Alexandria,Credit
+"rolls/buns,soda",2,809,10,Samy,55,Alexandria,Cash
+"pip fruit,roll products ,pot plants",3,141,4,Adel,50,Alexandria,Credit
+"whole milk,baking powder,bottled water,soda,cooking chocolate,candles",6,497,10,Samy,55,Alexandria,Credit
+chocolate,1,401,4,Adel,50,Alexandria,Cash
+"dessert,sliced cheese,hard cheese,white bread,brown bread",5,1280,4,Adel,50,Alexandria,Credit
+canned beer,1,1027,2,Mohamed,25,Alexandria,Credit
+"sausage,mayonnaise,misc. beverages,candy",4,1704,2,Mohamed,25,Alexandria,Cash
+"other vegetables,cream cheese ,rolls/buns",3,404,2,Mohamed,25,Alexandria,Credit
+"yogurt,UHT-milk,soda,red/blush wine,waffles",5,1185,10,Samy,55,Alexandria,Cash
+"sausage,meat,tropical fruit,soda,hygiene articles",5,2083,10,Samy,55,Alexandria,Cash
+"citrus fruit,UHT-milk,zwieback,bottled water,hygiene articles",5,1504,2,Mohamed,25,Alexandria,Cash
+"chicken,dessert,yogurt,frozen vegetables,domestic eggs,salt,pasta,specialty fat,bottled water,newspapers",10,1568,2,Mohamed,25,Alexandria,Cash
+"meat,citrus fruit,pip fruit,curd,yogurt,whipped/sour cream,domestic eggs,pastry,flour,fruit/vegetable juice,bottled beer,salty snack,chocolate,cooking chocolate,hygiene articles,napkins,shopping bags",17,1188,10,Samy,55,Alexandria,Cash
+whole milk,1,253,10,Samy,55,Alexandria,Credit
+"soda,canned beer",2,1216,10,Samy,55,Alexandria,Cash
+"citrus fruit,root vegetables,other vegetables,salt,bottled water,chewing gum",6,1381,4,Adel,50,Alexandria,Cash
+"root vegetables,butter milk,frozen vegetables,pastry,dish cleaner,hygiene articles,napkins",7,1994,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,pip fruit,whole milk,curd,yogurt,frozen meals",6,1737,2,Mohamed,25,Alexandria,Credit
+"pork,pip fruit,other vegetables,whole milk,yogurt,frozen fish,flour,sugar,baking powder,long life bakery product,chewing gum",11,1323,10,Samy,55,Alexandria,Cash
+"meat,organic sausage,whole milk,butter,UHT-milk,frozen vegetables,pickled vegetables,cat food,female sanitary products",9,1562,4,Adel,50,Alexandria,Credit
+root vegetables,1,868,10,Samy,55,Alexandria,Cash
+"whole milk,pastry",2,2116,10,Samy,55,Alexandria,Cash
+whole milk,1,507,4,Adel,50,Alexandria,Cash
+"sausage,chicken,beef,root vegetables,other vegetables,curd,yogurt,cream cheese ,ice cream,newspapers",10,1992,2,Mohamed,25,Alexandria,Cash
+"rolls/buns,bottled water,soda",3,1665,4,Adel,50,Alexandria,Credit
+"whole milk,brown bread,newspapers",3,1536,10,Samy,55,Alexandria,Cash
+"dessert,zwieback",2,303,10,Samy,55,Alexandria,Credit
+"frankfurter,domestic eggs",2,1133,10,Samy,55,Alexandria,Cash
+curd,1,1103,2,Mohamed,25,Alexandria,Cash
+"whole milk,butter,whipped/sour cream,condensed milk,soft cheese,hard cheese,processed cheese,frozen vegetables,detergent",9,2292,4,Adel,50,Alexandria,Cash
+margarine,1,772,2,Mohamed,25,Alexandria,Cash
+"pork,tropical fruit,whole milk,rolls/buns,margarine",5,821,4,Adel,50,Alexandria,Credit
+canned beer,1,1987,10,Samy,55,Alexandria,Cash
+"citrus fruit,tropical fruit,root vegetables,herbs,other vegetables,whole milk,yogurt,bottled water,bottled beer",9,1675,10,Samy,55,Alexandria,Credit
+"citrus fruit,whole milk,sliced cheese,rolls/buns,pastry,roll products ,coffee,bottled water,soda,bottled beer,canned beer,rum,waffles,chocolate",14,934,10,Samy,55,Alexandria,Credit
+"hamburger meat,whole milk,curd,dessert",4,598,4,Adel,50,Alexandria,Credit
+"turkey,hamburger meat,root vegetables,other vegetables,whole milk,yogurt,hard cheese,cereals,long life bakery product,specialty chocolate,candy,hygiene articles",12,830,4,Adel,50,Alexandria,Cash
+"sausage,other vegetables,dessert,domestic eggs,pastry,napkins",6,294,4,Adel,50,Alexandria,Credit
+yogurt,1,1950,4,Adel,50,Alexandria,Credit
+"chicken,hamburger meat,whole milk,rolls/buns,flour,margarine,coffee,canned beer,hygiene articles,shopping bags",10,1833,2,Mohamed,25,Alexandria,Credit
+"onions,bottled water,soda,canned beer,chewing gum,male cosmetics,napkins,cling film/bags",8,1535,4,Adel,50,Alexandria,Credit
+"butter,pastry,semi-finished bread,white wine,detergent",5,1593,4,Adel,50,Alexandria,Cash
+"chicken,other vegetables,whole milk",3,1130,4,Adel,50,Alexandria,Cash
+"pork,root vegetables,brown bread,soda,bottled beer",5,1061,2,Mohamed,25,Alexandria,Credit
+"sausage,berries,whole milk,yogurt,domestic eggs",5,631,4,Adel,50,Alexandria,Credit
+"butter,whipped/sour cream,brown bread,pastry,canned vegetables,fruit/vegetable juice,long life bakery product",7,570,10,Samy,55,Alexandria,Credit
+red/blush wine,1,2401,4,Adel,50,Alexandria,Cash
+"misc. beverages,cake bar",2,539,4,Adel,50,Alexandria,Credit
+"cat food,chocolate,specialty chocolate",3,771,2,Mohamed,25,Alexandria,Credit
+whipped/sour cream,1,509,4,Adel,50,Alexandria,Cash
+shopping bags,1,641,10,Samy,55,Alexandria,Cash
+"rolls/buns,vinegar,bottled beer",3,888,4,Adel,50,Alexandria,Credit
+"other vegetables,whole milk,butter,yogurt,cream cheese ,vinegar,pet care,fruit/vegetable juice,cling film/bags",9,1607,2,Mohamed,25,Alexandria,Cash
+white bread,1,2342,2,Mohamed,25,Alexandria,Credit
+"pip fruit,vinegar,bottled water,shopping bags",4,1804,4,Adel,50,Alexandria,Cash
+"tropical fruit,berries,yogurt,domestic eggs,brown bread,soda,candy",7,241,4,Adel,50,Alexandria,Cash
+"beef,grapes,fruit/vegetable juice",3,2304,10,Samy,55,Alexandria,Cash
+bottled water,1,1613,2,Mohamed,25,Alexandria,Credit
+"sausage,pip fruit,onions,spices,cat food,bottled beer,newspapers",7,1035,4,Adel,50,Alexandria,Credit
+"pip fruit,margarine",2,2377,4,Adel,50,Alexandria,Credit
+"pastry,canned beer,shopping bags",3,1910,2,Mohamed,25,Alexandria,Credit
+"sausage,pastry",2,532,10,Samy,55,Alexandria,Credit
+"whole milk,yogurt,spread cheese,semi-finished bread,baking powder,soda,cake bar,chocolate,specialty bar",9,246,4,Adel,50,Alexandria,Credit
+"sausage,root vegetables,white bread,roll products ,semi-finished bread,soda,napkins",7,2385,4,Adel,50,Alexandria,Cash
+"other vegetables,whole milk,baking powder,coffee,flower (seeds)",5,2126,2,Mohamed,25,Alexandria,Cash
+"sausage,butter milk,soft cheese,rolls/buns,instant coffee,shopping bags",6,870,10,Samy,55,Alexandria,Credit
+"rolls/buns,sweet spreads,canned fish,chewing gum,newspapers",5,1454,2,Mohamed,25,Alexandria,Credit
+"rolls/buns,bottled beer",2,2168,2,Mohamed,25,Alexandria,Cash
+"other vegetables,whole milk,soda,chocolate",4,1286,10,Samy,55,Alexandria,Cash
+"flour,bottled water,chocolate,specialty chocolate",4,1840,4,Adel,50,Alexandria,Cash
+root vegetables,1,2494,10,Samy,55,Alexandria,Cash
+"frozen vegetables,rolls/buns,pastry",3,694,2,Mohamed,25,Alexandria,Cash
+"liver loaf,whole milk,yogurt",3,2419,2,Mohamed,25,Alexandria,Cash
+"onions,whole milk,curd,yogurt,hard cheese,domestic eggs,bottled water,cleaner",8,619,4,Adel,50,Alexandria,Cash
+"tropical fruit,other vegetables",2,1247,10,Samy,55,Alexandria,Cash
+"other vegetables,bottled beer",2,962,2,Mohamed,25,Alexandria,Credit
+"pasta,vinegar,soda,fruit/vegetable juice,sparkling wine,napkins",6,2044,4,Adel,50,Alexandria,Credit
+"tropical fruit,cream cheese ,chocolate",3,2288,4,Adel,50,Alexandria,Cash
+"whole milk,yogurt",2,261,2,Mohamed,25,Alexandria,Credit
+"tropical fruit,pip fruit,whole milk,cream cheese ,frozen dessert,rolls/buns,bottled water,waffles,napkins,dishes",10,2004,10,Samy,55,Alexandria,Credit
+"root vegetables,herbs,frozen vegetables,bottled water,shopping bags",5,1836,10,Samy,55,Alexandria,Credit
+"hamburger meat,whole milk,ice cream,domestic eggs,white bread,pastry,margarine,sweet spreads,soda,fruit/vegetable juice,syrup,red/blush wine,salty snack,popcorn,shopping bags",15,601,10,Samy,55,Alexandria,Credit
+"other vegetables,beverages,domestic eggs,brown bread,pastry,soda,newspapers",7,779,10,Samy,55,Alexandria,Credit
+"brown bread,fruit/vegetable juice,newspapers,shopping bags",4,1328,10,Samy,55,Alexandria,Credit
+"sausage,hamburger meat,whole milk,pastry,shopping bags",5,2306,10,Samy,55,Alexandria,Cash
+"pastry,instant coffee",2,2390,2,Mohamed,25,Alexandria,Cash
+"other vegetables,whole milk,pastry,flour,margarine,canned fish,long life bakery product,chocolate",8,1142,4,Adel,50,Alexandria,Credit
+other vegetables,1,738,2,Mohamed,25,Alexandria,Credit
+"sausage,liver loaf,specialty cheese,soda",4,1528,10,Samy,55,Alexandria,Cash
+"frankfurter,chicken,brown bread,oil",4,1892,10,Samy,55,Alexandria,Cash
+soda,1,2294,2,Mohamed,25,Alexandria,Cash
+"cat food,bottled water,white wine,shopping bags",4,2475,2,Mohamed,25,Alexandria,Cash
+"yogurt,rolls/buns",2,2198,4,Adel,50,Alexandria,Cash
+"sausage,ham,citrus fruit,other vegetables,butter,hard cheese,curd cheese,domestic eggs,rolls/buns,brown bread,margarine,soda,candy",13,1404,4,Adel,50,Alexandria,Cash
+"brown bread,pastry,pasta",3,629,4,Adel,50,Alexandria,Credit
+"cream cheese ,ice cream,white bread,specialty chocolate",4,269,10,Samy,55,Alexandria,Cash
+"beverages,soft cheese,rolls/buns,sugar,misc. beverages,candy",6,2120,2,Mohamed,25,Alexandria,Cash
+"curd,whipped/sour cream,pudding powder,candy,flower (seeds),shopping bags",6,1409,2,Mohamed,25,Alexandria,Cash
+"ice cream,chocolate marshmallow",2,1952,4,Adel,50,Alexandria,Cash
+"detergent,decalcifier,hygiene articles",3,1975,4,Adel,50,Alexandria,Cash
+"whole milk,butter milk,yogurt",3,1807,2,Mohamed,25,Alexandria,Credit
+"sausage,other vegetables,dessert,canned vegetables",4,881,10,Samy,55,Alexandria,Credit
+"beverages,waffles",2,2256,10,Samy,55,Alexandria,Credit
+"frankfurter,tropical fruit,dessert,rolls/buns,brown bread,seasonal products,flower (seeds)",7,1274,10,Samy,55,Alexandria,Cash
+"sausage,citrus fruit,pip fruit,whole milk,curd,domestic eggs,margarine,newspapers",8,1617,4,Adel,50,Alexandria,Cash
+beverages,1,798,4,Adel,50,Alexandria,Credit
+"other vegetables,yogurt,whipped/sour cream,newspapers",4,1685,10,Samy,55,Alexandria,Credit
+"whole milk,beverages,bottled water,cake bar,newspapers",5,627,4,Adel,50,Alexandria,Cash
+"whole milk,pastry",2,2263,10,Samy,55,Alexandria,Credit
+"rolls/buns,specialty chocolate",2,938,10,Samy,55,Alexandria,Credit
+canned beer,1,679,2,Mohamed,25,Alexandria,Cash
+"pork,beverages,flour,margarine,bottled beer",5,1505,2,Mohamed,25,Alexandria,Credit
+"whole milk,cat food,bottled water,napkins",4,621,10,Samy,55,Alexandria,Credit
+"beverages,processed cheese",2,225,2,Mohamed,25,Alexandria,Credit
+long life bakery product,1,1394,4,Adel,50,Alexandria,Credit
+"pork,hamburger meat",2,1177,2,Mohamed,25,Alexandria,Credit
+"whole milk,yogurt,whipped/sour cream,sugar",4,1539,2,Mohamed,25,Alexandria,Credit
+"packaged fruit/vegetables,processed cheese,frozen vegetables,bottled water,fruit/vegetable juice,snack products,candy",7,1165,2,Mohamed,25,Alexandria,Credit
+packaged fruit/vegetables,1,1690,4,Adel,50,Alexandria,Cash
+"whole milk,butter milk,domestic eggs",3,1986,4,Adel,50,Alexandria,Credit
+"sausage,pork,berries,other vegetables,whole milk,rolls/buns,brown bread,roll products ,margarine,sweet spreads,softener",11,1740,4,Adel,50,Alexandria,Cash
+"white bread,flour,oil,sugar,coffee,bottled water,salty snack",7,1119,10,Samy,55,Alexandria,Cash
+"other vegetables,soda,bottled beer,shopping bags",4,802,4,Adel,50,Alexandria,Credit
+"sausage,coffee,bottled water",3,1624,4,Adel,50,Alexandria,Credit
+"brown bread,bottled water,bottled beer",3,2175,4,Adel,50,Alexandria,Cash
+"rolls/buns,fruit/vegetable juice,long life bakery product,newspapers",4,1989,4,Adel,50,Alexandria,Cash
+specialty chocolate,1,984,10,Samy,55,Alexandria,Cash
+"sausage,hamburger meat,tropical fruit,cream cheese ,fruit/vegetable juice",5,1496,10,Samy,55,Alexandria,Cash
+"citrus fruit,shopping bags",2,2207,4,Adel,50,Alexandria,Credit
+"snack products,chocolate",2,1805,2,Mohamed,25,Alexandria,Cash
+"pip fruit,root vegetables,butter milk,frozen vegetables,rolls/buns,misc. beverages,fruit/vegetable juice,newspapers,pot plants",9,1242,10,Samy,55,Alexandria,Credit
+shopping bags,1,2270,4,Adel,50,Alexandria,Cash
+"whole milk,frozen vegetables",2,2398,4,Adel,50,Alexandria,Credit
+"yogurt,pastry,canned beer,red/blush wine",4,2327,4,Adel,50,Alexandria,Credit
+"frankfurter,pip fruit,other vegetables,whole milk,butter,yogurt,fruit/vegetable juice,shopping bags",8,2429,2,Mohamed,25,Alexandria,Cash
+"beef,yogurt,spread cheese,margarine,salty snack",5,297,4,Adel,50,Alexandria,Credit
+"pip fruit,yogurt,bottled water,canned beer,chewing gum,napkins",6,997,4,Adel,50,Alexandria,Credit
+white bread,1,2240,10,Samy,55,Alexandria,Credit
+pork,1,356,4,Adel,50,Alexandria,Credit
+"yogurt,whipped/sour cream,hard cheese,ketchup",4,454,2,Mohamed,25,Alexandria,Cash
+"condensed milk,coffee",2,385,10,Samy,55,Alexandria,Cash
+"root vegetables,yogurt,beverages,flour",4,2483,4,Adel,50,Alexandria,Credit
+soda,1,1472,2,Mohamed,25,Alexandria,Credit
+"sugar,canned beer",2,1292,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,yogurt,pastry,salt,margarine,specialty fat,cat food,specialty bar,dish cleaner",9,1802,10,Samy,55,Alexandria,Credit
+"citrus fruit,tropical fruit,whole milk,yogurt,rolls/buns,pastry,semi-finished bread,bottled beer,napkins",9,1393,4,Adel,50,Alexandria,Cash
+"frankfurter,other vegetables,whole milk,yogurt,cream cheese ,rolls/buns,pastry,coffee",8,1057,10,Samy,55,Alexandria,Cash
+"beverages,white bread,pastry,newspapers,shopping bags",5,884,10,Samy,55,Alexandria,Credit
+"pork,tropical fruit,root vegetables,onions,other vegetables,shopping bags",6,2063,2,Mohamed,25,Alexandria,Cash
+"whole milk,domestic eggs,brown bread,photo/film",4,695,4,Adel,50,Alexandria,Credit
+"tropical fruit,pip fruit,UHT-milk,rolls/buns,pastry,salt",6,2020,4,Adel,50,Alexandria,Cash
+"yogurt,white wine,red/blush wine",3,2025,2,Mohamed,25,Alexandria,Cash
+coffee,1,2285,10,Samy,55,Alexandria,Cash
+"sausage,citrus fruit,pip fruit,whole milk,cream cheese ,tidbits,domestic eggs,pastry,sugar,fruit/vegetable juice,chocolate,chocolate marshmallow",12,2223,4,Adel,50,Alexandria,Cash
+"curd,yogurt",2,840,2,Mohamed,25,Alexandria,Credit
+"tropical fruit,herbs,whole milk,yogurt,whipped/sour cream,soda",6,631,2,Mohamed,25,Alexandria,Credit
+"pork,citrus fruit",2,1509,2,Mohamed,25,Alexandria,Cash
+"frankfurter,pip fruit,root vegetables,other vegetables,whole milk,soft cheese,cream cheese ,frozen vegetables,salt,specialty fat,sugar,jam,canned fish,coffee,fruit/vegetable juice,long life bakery product,waffles,chocolate,shopping bags",19,707,2,Mohamed,25,Alexandria,Credit
+canned beer,1,1469,10,Samy,55,Alexandria,Cash
+pastry,1,1005,2,Mohamed,25,Alexandria,Cash
+"sausage,citrus fruit,whole milk,yogurt,beverages,pasta,waffles,specialty chocolate",8,977,2,Mohamed,25,Alexandria,Credit
+"finished products,soda,specialty chocolate",3,228,10,Samy,55,Alexandria,Cash
+"pork,other vegetables,rolls/buns",3,1043,4,Adel,50,Alexandria,Cash
+bottled beer,1,112,10,Samy,55,Alexandria,Credit
+"chicken,sugar,photo/film",3,1848,10,Samy,55,Alexandria,Cash
+"tropical fruit,rolls/buns,pastry",3,2218,10,Samy,55,Alexandria,Cash
+"frozen meals,rolls/buns,bottled beer",3,1858,10,Samy,55,Alexandria,Cash
+"hamburger meat,pip fruit,whole milk,hard cheese,chocolate",5,2466,2,Mohamed,25,Alexandria,Credit
+"pastry,soda",2,1828,10,Samy,55,Alexandria,Credit
+frozen vegetables,1,1525,10,Samy,55,Alexandria,Credit
+coffee,1,2144,4,Adel,50,Alexandria,Cash
+"whole milk,curd,dessert,shopping bags",4,909,10,Samy,55,Alexandria,Cash
+whole milk,1,1613,10,Samy,55,Alexandria,Cash
+canned beer,1,2091,10,Samy,55,Alexandria,Credit
+canned beer,1,1569,10,Samy,55,Alexandria,Cash
+canned beer,1,1506,2,Mohamed,25,Alexandria,Cash
+"whole milk,frozen vegetables,rolls/buns,pastry,kitchen towels,newspapers",6,2048,4,Adel,50,Alexandria,Credit
+"pork,frozen vegetables,pastry,misc. beverages",4,775,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,other vegetables,whole milk,flour",4,1065,2,Mohamed,25,Alexandria,Cash
+napkins,1,1931,4,Adel,50,Alexandria,Credit
+canned beer,1,948,4,Adel,50,Alexandria,Cash
+"sausage,bottled beer,dish cleaner",3,372,10,Samy,55,Alexandria,Cash
+"whole milk,rolls/buns",2,1251,4,Adel,50,Alexandria,Credit
+"hamburger meat,fruit/vegetable juice,canned beer,white wine",4,1914,4,Adel,50,Alexandria,Credit
+other vegetables,1,1171,10,Samy,55,Alexandria,Credit
+"pastry,newspapers",2,1276,4,Adel,50,Alexandria,Cash
+"ham,citrus fruit,tropical fruit,whole milk,yogurt,whipped/sour cream,soda",7,2308,10,Samy,55,Alexandria,Credit
+"pork,root vegetables,onions,other vegetables,margarine,sugar,spices",7,1977,2,Mohamed,25,Alexandria,Cash
+"soda,fruit/vegetable juice,specialty bar",3,1762,4,Adel,50,Alexandria,Cash
+chocolate,1,1344,10,Samy,55,Alexandria,Credit
+"pip fruit,bottled beer",2,2422,2,Mohamed,25,Alexandria,Credit
+"rolls/buns,soda",2,1177,10,Samy,55,Alexandria,Cash
+"dessert,beverages,ice cream,soda",4,2250,10,Samy,55,Alexandria,Cash
+"rolls/buns,bottled water,bottled beer",3,2245,4,Adel,50,Alexandria,Cash
+"sausage,yogurt,cream",3,1179,4,Adel,50,Alexandria,Cash
+"pork,tropical fruit,other vegetables,coffee,shopping bags",5,1644,10,Samy,55,Alexandria,Cash
+"dessert,yogurt,rolls/buns,meat spreads,bottled water,soda,chocolate,shopping bags",8,1748,10,Samy,55,Alexandria,Credit
+"citrus fruit,root vegetables,other vegetables,whipped/sour cream,processed cheese,rolls/buns,newspapers",7,831,10,Samy,55,Alexandria,Cash
+canned beer,1,193,4,Adel,50,Alexandria,Credit
+"ham,other vegetables,condensed milk,domestic eggs,salty snack",5,565,2,Mohamed,25,Alexandria,Cash
+"beverages,waffles",2,1492,2,Mohamed,25,Alexandria,Credit
+"frankfurter,rolls/buns",2,177,2,Mohamed,25,Alexandria,Credit
+"sausage,rolls/buns",2,717,2,Mohamed,25,Alexandria,Credit
+"sausage,tropical fruit,other vegetables,butter,sliced cheese,domestic eggs,rolls/buns,brown bread,napkins",9,1709,4,Adel,50,Alexandria,Cash
+"pork,yogurt,beverages,frozen vegetables,frozen meals,rolls/buns,potato products,bottled beer,chocolate marshmallow,kitchen towels",10,601,2,Mohamed,25,Alexandria,Credit
+"ham,rolls/buns,soda,shopping bags",4,771,2,Mohamed,25,Alexandria,Cash
+"pork,tropical fruit,root vegetables,whipped/sour cream,UHT-milk,frozen vegetables,roll products ,oil,bottled water,candy",10,932,2,Mohamed,25,Alexandria,Credit
+"other vegetables,specialty cheese",2,1871,2,Mohamed,25,Alexandria,Cash
+"chicken,whole milk,frozen vegetables,brown bread,sugar,dog food",6,1733,4,Adel,50,Alexandria,Credit
+"ice cream,chewing gum",2,1183,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,pip fruit,other vegetables,whole milk,butter,yogurt,salt",7,1849,10,Samy,55,Alexandria,Cash
+misc. beverages,1,211,2,Mohamed,25,Alexandria,Cash
+"sausage,ham,dessert",3,2115,10,Samy,55,Alexandria,Cash
+canned beer,1,2419,10,Samy,55,Alexandria,Cash
+"soda,chocolate",2,274,4,Adel,50,Alexandria,Cash
+frozen meals,1,2060,2,Mohamed,25,Alexandria,Cash
+"pastry,soda",2,1239,4,Adel,50,Alexandria,Cash
+"brown bread,bottled water",2,1677,10,Samy,55,Alexandria,Cash
+"hamburger meat,other vegetables,frozen vegetables,frozen meals,cat food,fruit/vegetable juice",6,1153,2,Mohamed,25,Alexandria,Credit
+"whole milk,seasonal products,shopping bags",3,2061,4,Adel,50,Alexandria,Cash
+"beef,root vegetables,other vegetables,margarine,salty snack,waffles,specialty chocolate,kitchen towels,newspapers",9,1692,10,Samy,55,Alexandria,Credit
+misc. beverages,1,1613,2,Mohamed,25,Alexandria,Credit
+"frankfurter,beef,brown bread,margarine,soda,candy",6,2266,2,Mohamed,25,Alexandria,Credit
+"pip fruit,zwieback,salty snack,cake bar,specialty bar",5,124,10,Samy,55,Alexandria,Cash
+pastry,1,448,2,Mohamed,25,Alexandria,Cash
+cat food,1,965,2,Mohamed,25,Alexandria,Credit
+"bottled beer,liquor,red/blush wine",3,439,2,Mohamed,25,Alexandria,Cash
+"hamburger meat,photo/film",2,2340,4,Adel,50,Alexandria,Cash
+"bottled water,soda",2,149,4,Adel,50,Alexandria,Cash
+"sausage,whole milk,rolls/buns",3,471,2,Mohamed,25,Alexandria,Cash
+waffles,1,2277,2,Mohamed,25,Alexandria,Cash
+"root vegetables,whole milk,hard cheese,candy",4,406,10,Samy,55,Alexandria,Cash
+"finished products,pip fruit,frozen potato products,soda",4,2159,10,Samy,55,Alexandria,Credit
+"hamburger meat,whole milk,canned vegetables,soda",4,1997,10,Samy,55,Alexandria,Credit
+canned beer,1,1550,4,Adel,50,Alexandria,Credit
+pip fruit,1,2341,2,Mohamed,25,Alexandria,Credit
+pot plants,1,2140,2,Mohamed,25,Alexandria,Cash
+"pork,whole milk",2,1594,4,Adel,50,Alexandria,Cash
+newspapers,1,1831,10,Samy,55,Alexandria,Credit
+frozen meals,1,1923,2,Mohamed,25,Alexandria,Credit
+soda,1,509,2,Mohamed,25,Alexandria,Cash
+"butter,ice cream,margarine,soda",4,2327,2,Mohamed,25,Alexandria,Credit
+"whole milk,rolls/buns,salty snack,chocolate,newspapers",5,1618,2,Mohamed,25,Alexandria,Cash
+"sausage,meat,whole milk,rolls/buns,bottled beer",5,1805,10,Samy,55,Alexandria,Credit
+bottled beer,1,1840,2,Mohamed,25,Alexandria,Credit
+bottled beer,1,1527,2,Mohamed,25,Alexandria,Cash
+"frankfurter,other vegetables,mustard,soda,napkins,light bulbs",6,841,10,Samy,55,Alexandria,Credit
+"citrus fruit,tropical fruit,ice cream",3,2073,10,Samy,55,Alexandria,Cash
+"berries,root vegetables,herbs,other vegetables,whole milk,curd,cream cheese ,cereals,long life bakery product,waffles,shopping bags",11,1591,10,Samy,55,Alexandria,Credit
+"pork,beef,frozen vegetables,frozen meals,potato products,margarine,napkins,cookware",8,2068,4,Adel,50,Alexandria,Cash
+"citrus fruit,tropical fruit,root vegetables,other vegetables,whole milk,yogurt,sliced cheese,hard cheese,specialty cheese,dog food,bottled water,newspapers",12,734,2,Mohamed,25,Alexandria,Credit
+"frankfurter,beef,pip fruit,whole milk,yogurt,whipped/sour cream,cream cheese ,frozen vegetables,flour,margarine,canned vegetables,pickled vegetables,coffee,bottled water,soda,misc. beverages,fruit/vegetable juice,salty snack,waffles,pot plants",20,1837,2,Mohamed,25,Alexandria,Credit
+pip fruit,1,1158,2,Mohamed,25,Alexandria,Cash
+canned beer,1,1861,2,Mohamed,25,Alexandria,Credit
+"other vegetables,dessert,candy,abrasive cleaner,dishes,cling film/bags,candles",7,783,2,Mohamed,25,Alexandria,Credit
+root vegetables,1,2402,10,Samy,55,Alexandria,Cash
+specialty bar,1,1681,10,Samy,55,Alexandria,Credit
+"sausage,ham,grapes,other vegetables,bottled water,misc. beverages,brandy,shopping bags",8,1671,4,Adel,50,Alexandria,Credit
+"pip fruit,grapes,whole milk,yogurt,spread cheese,brown bread,semi-finished bread,rice,pickled vegetables,bottled beer,newspapers,pot plants",12,1771,2,Mohamed,25,Alexandria,Credit
+"chicken,pork,frozen vegetables,soda",4,195,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,tropical fruit,other vegetables,whole milk,butter,yogurt,whipped/sour cream,soft cheese,sliced cheese,hard cheese,roll products ,margarine,soda,misc. beverages,fruit/vegetable juice,chocolate,newspapers",17,1806,10,Samy,55,Alexandria,Credit
+"sausage,other vegetables",2,833,10,Samy,55,Alexandria,Cash
+"frankfurter,curd cheese",2,669,10,Samy,55,Alexandria,Cash
+soda,1,1661,4,Adel,50,Alexandria,Cash
+"sausage,citrus fruit,whole milk,UHT-milk,specialty cheese,frozen vegetables,tea,bottled water,fruit/vegetable juice",9,1175,4,Adel,50,Alexandria,Credit
+"cereals,specialty chocolate,pot plants",3,428,2,Mohamed,25,Alexandria,Cash
+"misc. beverages,specialty chocolate",2,1594,2,Mohamed,25,Alexandria,Credit
+"pork,pip fruit",2,1196,10,Samy,55,Alexandria,Credit
+"tropical fruit,pip fruit,soda,white wine",4,2474,4,Adel,50,Alexandria,Credit
+"frankfurter,UHT-milk,oil,bottled water,canned beer",5,1020,10,Samy,55,Alexandria,Credit
+"chicken,other vegetables,bottled beer,canned beer,sparkling wine,chocolate,newspapers,pot plants",8,1812,10,Samy,55,Alexandria,Credit
+photo/film,1,665,10,Samy,55,Alexandria,Cash
+"sausage,rolls/buns,misc. beverages,fruit/vegetable juice",4,1883,4,Adel,50,Alexandria,Cash
+"whole milk,rolls/buns,specialty chocolate,candy",4,1426,4,Adel,50,Alexandria,Cash
+"canned beer,specialty bar",2,2449,2,Mohamed,25,Alexandria,Credit
+"beef,hamburger meat,tropical fruit,pip fruit,other vegetables,whole milk,butter milk,yogurt,ice cream,rolls/buns,pastry,fruit/vegetable juice",12,1886,2,Mohamed,25,Alexandria,Cash
+"chicken,root vegetables,rolls/buns,margarine,bottled water",5,2366,10,Samy,55,Alexandria,Credit
+flower soil/fertilizer,1,929,4,Adel,50,Alexandria,Cash
+"meat,newspapers",2,1805,4,Adel,50,Alexandria,Cash
+"other vegetables,bottled water,bottled beer,waffles",4,578,10,Samy,55,Alexandria,Cash
+"ham,tropical fruit,beverages,hard cheese,waffles,chocolate,specialty chocolate,specialty bar",8,851,4,Adel,50,Alexandria,Cash
+bottled water,1,2079,2,Mohamed,25,Alexandria,Credit
+"whole milk,pastry",2,1945,4,Adel,50,Alexandria,Cash
+specialty chocolate,1,2419,4,Adel,50,Alexandria,Cash
+"butter milk,rolls/buns,long life bakery product",3,1131,4,Adel,50,Alexandria,Credit
+"pork,root vegetables,shopping bags",3,2211,10,Samy,55,Alexandria,Cash
+"rolls/buns,rice,canned fish,cocoa drinks,bottled beer,red/blush wine,waffles,chocolate",8,718,2,Mohamed,25,Alexandria,Credit
+"sausage,ham,other vegetables,whole milk,curd,cream cheese ,processed cheese,frozen potato products,pastry",9,974,2,Mohamed,25,Alexandria,Credit
+"frankfurter,whipped/sour cream,condensed milk,rolls/buns,bottled water,soda,bottled beer,specialty bar",8,1024,10,Samy,55,Alexandria,Credit
+"other vegetables,frozen potato products,coffee,salty snack,specialty chocolate,shopping bags",6,2146,4,Adel,50,Alexandria,Credit
+soda,1,717,10,Samy,55,Alexandria,Credit
+pastry,1,1282,2,Mohamed,25,Alexandria,Cash
+"misc. beverages,canned beer,shopping bags",3,1604,2,Mohamed,25,Alexandria,Credit
+"meat,turkey,citrus fruit,tropical fruit,herbs,other vegetables,frozen meals,shopping bags",8,1354,10,Samy,55,Alexandria,Cash
+"pastry,syrup",2,1104,10,Samy,55,Alexandria,Cash
+"pork,pip fruit,other vegetables,butter,rice,margarine,soda,waffles,shopping bags",9,161,4,Adel,50,Alexandria,Cash
+misc. beverages,1,1818,10,Samy,55,Alexandria,Cash
+photo/film,1,1283,4,Adel,50,Alexandria,Cash
+"domestic eggs,misc. beverages",2,2106,2,Mohamed,25,Alexandria,Cash
+coffee,1,263,2,Mohamed,25,Alexandria,Credit
+butter milk,1,821,4,Adel,50,Alexandria,Cash
+"tropical fruit,pip fruit,other vegetables,whole milk,ice cream,pastry,red/blush wine",7,2304,10,Samy,55,Alexandria,Cash
+"whole milk,pickled vegetables,bottled water,fruit/vegetable juice,candy",5,1117,2,Mohamed,25,Alexandria,Cash
+bottled beer,1,579,2,Mohamed,25,Alexandria,Credit
+"pip fruit,rolls/buns,bottled water,soda,specialty chocolate",5,718,4,Adel,50,Alexandria,Credit
+"sausage,other vegetables,spread cheese,rolls/buns,soda,salty snack,long life bakery product",7,1465,4,Adel,50,Alexandria,Cash
+"tropical fruit,other vegetables,whipped/sour cream,white bread",4,1992,10,Samy,55,Alexandria,Credit
+"bottled beer,liquor",2,2053,2,Mohamed,25,Alexandria,Cash
+"whisky,chewing gum",2,2480,2,Mohamed,25,Alexandria,Cash
+"pastry,chocolate,candles",3,649,4,Adel,50,Alexandria,Cash
+"berries,soda,long life bakery product,specialty chocolate",4,1494,4,Adel,50,Alexandria,Credit
+"bottled water,fruit/vegetable juice",2,1400,2,Mohamed,25,Alexandria,Cash
+"canned beer,shopping bags",2,586,2,Mohamed,25,Alexandria,Cash
+"whole milk,dessert,yogurt,whipped/sour cream,specialty cheese,kitchen towels",6,436,4,Adel,50,Alexandria,Credit
+"rolls/buns,oil",2,1365,2,Mohamed,25,Alexandria,Cash
+bottled beer,1,1044,10,Samy,55,Alexandria,Cash
+"meat,whole milk,specialty cheese,domestic eggs",4,1993,2,Mohamed,25,Alexandria,Credit
+"dessert,frozen meals,frozen dessert,white bread,brown bread,soda,chocolate",7,416,4,Adel,50,Alexandria,Credit
+ice cream,1,169,2,Mohamed,25,Alexandria,Cash
+"sugar,waffles,cleaner,kitchen towels,shopping bags",5,1483,2,Mohamed,25,Alexandria,Credit
+"fruit/vegetable juice,cake bar",2,627,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,tropical fruit,herbs,other vegetables,whole milk,whipped/sour cream,bottled water",7,909,4,Adel,50,Alexandria,Cash
+"pip fruit,brown bread,misc. beverages,chewing gum",4,2499,2,Mohamed,25,Alexandria,Cash
+soda,1,1589,4,Adel,50,Alexandria,Cash
+"sausage,butter milk,pet care,coffee",4,1119,4,Adel,50,Alexandria,Cash
+"whole milk,sugar",2,2458,2,Mohamed,25,Alexandria,Credit
+"tropical fruit,frozen meals,frozen fish,salty snack,long life bakery product,chocolate,specialty chocolate",7,1939,2,Mohamed,25,Alexandria,Cash
+"cereals,detergent",2,737,10,Samy,55,Alexandria,Cash
+"tropical fruit,nuts/prunes,root vegetables,whole milk,yogurt,rolls/buns,waffles,napkins,newspapers",9,1836,10,Samy,55,Alexandria,Credit
+"meat,beef,citrus fruit,pip fruit,canned beer,chewing gum,shopping bags",7,125,4,Adel,50,Alexandria,Credit
+soda,1,580,10,Samy,55,Alexandria,Credit
+"sausage,soft cheese,mayonnaise,ice cream",4,118,2,Mohamed,25,Alexandria,Credit
+"tropical fruit,berries,rolls/buns,pastry,margarine,coffee,shopping bags",7,1052,2,Mohamed,25,Alexandria,Credit
+"hamburger meat,dessert,sliced cheese,pickled vegetables,toilet cleaner",5,312,2,Mohamed,25,Alexandria,Credit
+bottled water,1,1865,10,Samy,55,Alexandria,Credit
+"whole milk,frozen vegetables,coffee",3,1690,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,grapes,whole milk,pastry,dog food,soda,waffles,specialty bar,cleaner,shopping bags",10,1806,4,Adel,50,Alexandria,Credit
+"other vegetables,whole milk,whipped/sour cream,jam,soda,shopping bags",6,1162,4,Adel,50,Alexandria,Credit
+seasonal products,1,1257,4,Adel,50,Alexandria,Cash
+"other vegetables,UHT-milk,sauces,fruit/vegetable juice,shopping bags",5,670,10,Samy,55,Alexandria,Credit
+"bottled water,canned beer,hygiene articles",3,147,4,Adel,50,Alexandria,Credit
+soda,1,1096,4,Adel,50,Alexandria,Cash
+"sausage,grapes,sliced cheese,cream cheese ,ice cream,salty snack,waffles,chewing gum,napkins",9,695,10,Samy,55,Alexandria,Credit
+"sausage,tropical fruit,pip fruit,root vegetables,whipped/sour cream,pastry,cat food,pet care,bottled beer",9,214,10,Samy,55,Alexandria,Cash
+"frankfurter,dessert",2,1803,10,Samy,55,Alexandria,Cash
+bottled beer,1,1346,10,Samy,55,Alexandria,Credit
+"berries,other vegetables,yogurt,pastry,shopping bags",5,786,4,Adel,50,Alexandria,Credit
+white bread,1,1831,10,Samy,55,Alexandria,Cash
+beef,1,851,2,Mohamed,25,Alexandria,Cash
+"sausage,cream cheese ,mayonnaise,rolls/buns,margarine,soda",6,1846,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,yogurt,fruit/vegetable juice,napkins",4,1056,4,Adel,50,Alexandria,Credit
+other vegetables,1,1035,4,Adel,50,Alexandria,Cash
+"other vegetables,whole milk,butter milk,specialty cheese",4,2067,2,Mohamed,25,Alexandria,Cash
+whole milk,1,1437,10,Samy,55,Alexandria,Cash
+"sausage,tropical fruit,whole milk,bottled beer",4,2084,10,Samy,55,Alexandria,Credit
+"fish,liquor",2,693,10,Samy,55,Alexandria,Cash
+bottled beer,1,1995,4,Adel,50,Alexandria,Credit
+frozen dessert,1,2306,4,Adel,50,Alexandria,Credit
+"frozen fish,rolls/buns,pastry",3,120,10,Samy,55,Alexandria,Cash
+"grapes,root vegetables,other vegetables,whipped/sour cream,cat food,chewing gum,decalcifier,bathroom cleaner,napkins,dishes,kitchen towels",11,1209,10,Samy,55,Alexandria,Credit
+chocolate,1,624,4,Adel,50,Alexandria,Cash
+sausage,1,1590,10,Samy,55,Alexandria,Cash
+"tropical fruit,whole milk,yogurt,beverages,brown bread,newspapers",6,584,10,Samy,55,Alexandria,Cash
+"bottled beer,liquor,red/blush wine",3,165,10,Samy,55,Alexandria,Credit
+"bottled water,misc. beverages",2,1437,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,tropical fruit,other vegetables,salt,misc. beverages,fruit/vegetable juice,napkins",7,2414,4,Adel,50,Alexandria,Credit
+"root vegetables,rolls/buns,pastry",3,487,10,Samy,55,Alexandria,Credit
+soda,1,1809,10,Samy,55,Alexandria,Credit
+"other vegetables,whole milk,curd,dessert,yogurt,cream cheese ,cat food",7,842,2,Mohamed,25,Alexandria,Credit
+photo/film,1,708,2,Mohamed,25,Alexandria,Credit
+specialty chocolate,1,1986,4,Adel,50,Alexandria,Credit
+specialty bar,1,625,10,Samy,55,Alexandria,Cash
+pasta,1,860,2,Mohamed,25,Alexandria,Cash
+"root vegetables,curd,mayonnaise,domestic eggs,margarine,mustard,shopping bags",7,446,10,Samy,55,Alexandria,Credit
+"bottled beer,liquor,red/blush wine",3,2212,4,Adel,50,Alexandria,Cash
+"other vegetables,sweet spreads",2,1874,4,Adel,50,Alexandria,Cash
+butter,1,110,10,Samy,55,Alexandria,Cash
+"pip fruit,root vegetables,UHT-milk,frozen dessert,domestic eggs,margarine,pickled vegetables",7,395,10,Samy,55,Alexandria,Credit
+canned beer,1,1618,10,Samy,55,Alexandria,Cash
+"UHT-milk,brown bread",2,615,2,Mohamed,25,Alexandria,Cash
+"cat food,canned beer",2,1148,2,Mohamed,25,Alexandria,Cash
+"sausage,chicken,citrus fruit",3,1816,2,Mohamed,25,Alexandria,Cash
+"beef,other vegetables",2,1874,4,Adel,50,Alexandria,Cash
+"dessert,nut snack,specialty chocolate",3,1807,10,Samy,55,Alexandria,Cash
+"root vegetables,other vegetables",2,1269,10,Samy,55,Alexandria,Credit
+butter,1,1459,4,Adel,50,Alexandria,Credit
+"bottled beer,liquor",2,569,2,Mohamed,25,Alexandria,Cash
+"ham,whole milk,yogurt,soda,red/blush wine",5,1021,4,Adel,50,Alexandria,Cash
+"citrus fruit,root vegetables,onions,other vegetables",4,1476,10,Samy,55,Alexandria,Cash
+other vegetables,1,2074,2,Mohamed,25,Alexandria,Credit
+"popcorn,specialty bar,candy",3,2390,4,Adel,50,Alexandria,Credit
+"other vegetables,whole milk,butter,specialty cheese,frozen vegetables,semi-finished bread,pot plants",7,994,4,Adel,50,Alexandria,Cash
+"other vegetables,whipped/sour cream,cream cheese ,rolls/buns,coffee",5,1654,10,Samy,55,Alexandria,Cash
+"frankfurter,pork,yogurt,soft cheese,sugar,bottled water,soda,fruit/vegetable juice,shopping bags",9,2038,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,dessert,newspapers",3,364,4,Adel,50,Alexandria,Credit
+"sausage,brown bread,margarine,bottled beer",4,1785,2,Mohamed,25,Alexandria,Credit
+"sausage,hamburger meat,tropical fruit,pip fruit,whole milk,beverages,frozen vegetables,frozen meals,white bread,pasta,pickled vegetables,sweet spreads,bottled water,fruit/vegetable juice,long life bakery product,specialty bar,detergent,newspapers",18,558,10,Samy,55,Alexandria,Credit
+"frankfurter,beef,other vegetables,whole milk,butter,yogurt,soft cheese,pastry,oil,coffee,bottled water,soda,cake bar,specialty bar,detergent,hygiene articles,dishes",17,1745,4,Adel,50,Alexandria,Cash
+"sausage,soda,canned beer,chewing gum",4,1694,10,Samy,55,Alexandria,Credit
+"citrus fruit,tropical fruit,pip fruit,whole milk,butter milk",5,140,10,Samy,55,Alexandria,Cash
+"chicken,hamburger meat,citrus fruit,other vegetables,coffee",5,718,4,Adel,50,Alexandria,Credit
+"other vegetables,whipped/sour cream",2,1800,4,Adel,50,Alexandria,Cash
+"chicken,hamburger meat,pip fruit,other vegetables,UHT-milk,sliced cheese,specialty cheese,dog food,coffee,brandy,softener,pot plants",12,106,2,Mohamed,25,Alexandria,Credit
+"ham,chicken,turkey,beef,onions,whole milk,butter,frozen potato products,domestic eggs,pastry,salt,sugar,jam,coffee",14,1688,10,Samy,55,Alexandria,Credit
+yogurt,1,366,2,Mohamed,25,Alexandria,Credit
+soda,1,2242,10,Samy,55,Alexandria,Credit
+"pastry,soda",2,189,2,Mohamed,25,Alexandria,Cash
+"pip fruit,other vegetables,whole milk",3,1410,2,Mohamed,25,Alexandria,Cash
+"hamburger meat,root vegetables,whole milk,rolls/buns,long life bakery product,waffles",6,927,4,Adel,50,Alexandria,Cash
+"other vegetables,whole milk,yogurt,bottled water",4,1516,2,Mohamed,25,Alexandria,Cash
+"sausage,root vegetables,curd,yogurt,whipped/sour cream,sliced cheese,processed cheese,domestic eggs,oil,Instant food products,soda,red/blush wine,candy,newspapers",14,562,10,Samy,55,Alexandria,Cash
+"pork,root vegetables,other vegetables,mayonnaise,domestic eggs,rolls/buns,mustard,fruit/vegetable juice,chewing gum,dishes",10,1163,10,Samy,55,Alexandria,Credit
+"citrus fruit,root vegetables,onions,other vegetables,domestic eggs,white bread,cake bar",7,2411,10,Samy,55,Alexandria,Credit
+"sausage,hamburger meat,cream,spread cheese,canned fish,napkins",6,718,2,Mohamed,25,Alexandria,Cash
+"coffee,soda",2,1181,2,Mohamed,25,Alexandria,Cash
+"abrasive cleaner,napkins",2,347,10,Samy,55,Alexandria,Credit
+bottled water,1,294,2,Mohamed,25,Alexandria,Credit
+"butter milk,domestic eggs,rolls/buns,soda,specialty chocolate",5,1647,4,Adel,50,Alexandria,Cash
+"sausage,citrus fruit,other vegetables,whole milk,whipped/sour cream,sliced cheese,cream cheese ,domestic eggs,rolls/buns,pastry,sugar,baking powder",12,799,10,Samy,55,Alexandria,Cash
+photo/film,1,1285,2,Mohamed,25,Alexandria,Cash
+bottled beer,1,2231,2,Mohamed,25,Alexandria,Cash
+bottled beer,1,1413,2,Mohamed,25,Alexandria,Cash
+"frankfurter,pip fruit,onions,whole milk,curd,yogurt,pastry,Instant food products,kitchen utensil",9,2475,10,Samy,55,Alexandria,Credit
+"yogurt,rolls/buns,instant coffee,soda,canned beer,waffles",6,2027,2,Mohamed,25,Alexandria,Cash
+"pip fruit,whole milk,butter,whipped/sour cream,beverages,newspapers,flower (seeds)",7,841,2,Mohamed,25,Alexandria,Cash
+"chicken,citrus fruit,root vegetables,other vegetables,brown bread,pastry,salty snack,napkins",8,2187,10,Samy,55,Alexandria,Credit
+"sausage,canned beer,shopping bags",3,1690,4,Adel,50,Alexandria,Credit
+"chicken,packaged fruit/vegetables,whole milk,curd,whipped/sour cream,frozen vegetables,frozen dessert,rolls/buns,white bread,brown bread,margarine,soda,long life bakery product,specialty chocolate,candy",15,1125,10,Samy,55,Alexandria,Cash
+"sliced cheese,hard cheese",2,2188,4,Adel,50,Alexandria,Credit
+"frankfurter,citrus fruit,onions,other vegetables,curd,whipped/sour cream,frozen dessert,domestic eggs,white bread,vinegar,baking powder",11,2450,10,Samy,55,Alexandria,Credit
+rolls/buns,1,410,4,Adel,50,Alexandria,Credit
+soda,1,1176,4,Adel,50,Alexandria,Credit
+"pip fruit,nuts/prunes,whole milk,yogurt,whipped/sour cream,cream cheese ,rolls/buns,waffles,chocolate,newspapers",10,782,2,Mohamed,25,Alexandria,Credit
+"curd,white bread,pastry,soda,salty snack,popcorn,waffles,chewing gum,chocolate,specialty chocolate",10,1667,10,Samy,55,Alexandria,Cash
+soda,1,1012,2,Mohamed,25,Alexandria,Cash
+whole milk,1,598,4,Adel,50,Alexandria,Credit
+"sausage,tropical fruit,whole milk",3,385,4,Adel,50,Alexandria,Credit
+"frankfurter,chicken,beef,hamburger meat,tropical fruit,other vegetables,butter,curd,butter milk,yogurt,whipped/sour cream,UHT-milk,frozen vegetables,pastry,flour,margarine,canned fish,coffee,fruit/vegetable juice,salty snack,specialty chocolate",21,459,10,Samy,55,Alexandria,Credit
+"other vegetables,yogurt,pastry,vinegar,bottled water,dishes",6,1306,10,Samy,55,Alexandria,Cash
+"frankfurter,pork,UHT-milk,rolls/buns,canned fish,bottled water,soda",7,1447,4,Adel,50,Alexandria,Credit
+"chicken,white wine,shopping bags",3,997,10,Samy,55,Alexandria,Credit
+"frozen dessert,bottled water",2,983,10,Samy,55,Alexandria,Credit
+"pork,whole milk,butter,yogurt,soft cheese,cream cheese ,coffee,pot plants",8,1407,10,Samy,55,Alexandria,Credit
+"other vegetables,whole milk,specialty chocolate,candy,newspapers",5,2472,2,Mohamed,25,Alexandria,Credit
+"tropical fruit,other vegetables",2,2399,4,Adel,50,Alexandria,Credit
+"whole milk,pickled vegetables,bottled water,bottled beer,chocolate",5,1839,2,Mohamed,25,Alexandria,Cash
+curd,1,2148,2,Mohamed,25,Alexandria,Cash
+soda,1,2370,4,Adel,50,Alexandria,Cash
+"pork,root vegetables,onions,other vegetables,whole milk,butter,frozen vegetables,domestic eggs,rolls/buns,bottled beer,canned beer,napkins",12,705,2,Mohamed,25,Alexandria,Credit
+"bottled water,misc. beverages",2,1100,10,Samy,55,Alexandria,Cash
+"seasonal products,shopping bags",2,1588,10,Samy,55,Alexandria,Cash
+"baking powder,rum",2,1840,2,Mohamed,25,Alexandria,Credit
+sausage,1,1341,4,Adel,50,Alexandria,Credit
+bottled beer,1,763,2,Mohamed,25,Alexandria,Credit
+white wine,1,129,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,root vegetables,other vegetables,whipped/sour cream,specialty cheese,rolls/buns,nut snack",7,538,4,Adel,50,Alexandria,Cash
+"domestic eggs,white bread,specialty fat,mustard,specialty vegetables",5,2237,4,Adel,50,Alexandria,Credit
+"sausage,finished products,hamburger meat,citrus fruit,tropical fruit,pip fruit,other vegetables,butter,UHT-milk,specialty cheese,pastry,roll products ,pasta,organic products,baking powder,canned vegetables,cat food,chewing gum,chocolate,pot plants,flower (seeds)",21,1814,10,Samy,55,Alexandria,Credit
+"pork,citrus fruit,other vegetables,dessert,white bread,kitchen towels,candles,newspapers",8,1691,2,Mohamed,25,Alexandria,Cash
+"pork,whole milk,yogurt,UHT-milk,sliced cheese,ice cream,soda,fruit/vegetable juice,napkins",9,1675,2,Mohamed,25,Alexandria,Cash
+"sausage,citrus fruit,root vegetables,whole milk,waffles,chocolate marshmallow",6,1888,2,Mohamed,25,Alexandria,Credit
+bottled beer,1,1768,2,Mohamed,25,Alexandria,Credit
+"whole milk,white bread,fruit/vegetable juice,long life bakery product,cake bar",5,1962,10,Samy,55,Alexandria,Credit
+"whole milk,dessert,pastry,bottled water,soda,long life bakery product,chocolate,napkins,cling film/bags",9,230,10,Samy,55,Alexandria,Cash
+"other vegetables,whole milk,fruit/vegetable juice,chocolate",4,955,10,Samy,55,Alexandria,Cash
+"frankfurter,root vegetables,onions,canned beer",4,186,2,Mohamed,25,Alexandria,Cash
+"whole milk,whipped/sour cream,rolls/buns,shopping bags",4,2442,4,Adel,50,Alexandria,Cash
+chocolate marshmallow,1,1790,10,Samy,55,Alexandria,Credit
+"bottled water,soda",2,2015,4,Adel,50,Alexandria,Credit
+frankfurter,1,2007,2,Mohamed,25,Alexandria,Cash
+"pork,candy",2,2342,2,Mohamed,25,Alexandria,Credit
+"other vegetables,bottled beer,canned beer,white wine,detergent,softener,newspapers",7,1800,4,Adel,50,Alexandria,Cash
+"berries,fruit/vegetable juice,waffles,specialty bar",4,1192,10,Samy,55,Alexandria,Cash
+"turkey,pip fruit,other vegetables,dessert,brown bread,soda",6,1215,10,Samy,55,Alexandria,Cash
+"other vegetables,whole milk,brown bread",3,1803,10,Samy,55,Alexandria,Cash
+"pork,root vegetables,other vegetables,whole milk,whipped/sour cream,domestic eggs,pastry,baking powder",8,2341,4,Adel,50,Alexandria,Credit
+"beef,onions,whole milk,napkins",4,245,4,Adel,50,Alexandria,Cash
+"other vegetables,butter milk",2,1012,2,Mohamed,25,Alexandria,Cash
+"whole milk,cocoa drinks",2,1357,4,Adel,50,Alexandria,Credit
+"root vegetables,other vegetables,rolls/buns,light bulbs",4,1322,4,Adel,50,Alexandria,Credit
+"beef,other vegetables,UHT-milk,margarine,fruit/vegetable juice,newspapers",6,1369,4,Adel,50,Alexandria,Cash
+"tropical fruit,whole milk,curd,yogurt,whipped/sour cream,soft cheese,domestic eggs,napkins",8,712,4,Adel,50,Alexandria,Cash
+"pork,tropical fruit,pip fruit,other vegetables,whipped/sour cream,beverages,white bread,bottled beer,kitchen towels",9,214,2,Mohamed,25,Alexandria,Credit
+brown bread,1,815,10,Samy,55,Alexandria,Credit
+"other vegetables,curd",2,1919,10,Samy,55,Alexandria,Credit
+"onions,whole milk,domestic eggs,rolls/buns,margarine,bottled water,newspapers",7,2023,10,Samy,55,Alexandria,Credit
+"pip fruit,root vegetables,onions,other vegetables,frozen vegetables,pastry",6,269,4,Adel,50,Alexandria,Credit
+"ham,whole milk,white bread,newspapers",4,1801,10,Samy,55,Alexandria,Cash
+"citrus fruit,whole milk,yogurt,whipped/sour cream,rolls/buns",5,777,4,Adel,50,Alexandria,Cash
+canned beer,1,2386,4,Adel,50,Alexandria,Credit
+"yogurt,rolls/buns,brown bread,salty snack,pot plants",5,1647,2,Mohamed,25,Alexandria,Credit
+"tropical fruit,berries,herbs,rice,shopping bags",5,1356,4,Adel,50,Alexandria,Cash
+"citrus fruit,root vegetables,other vegetables,whole milk,butter,curd,oil,canned vegetables,hygiene articles,newspapers",10,2338,10,Samy,55,Alexandria,Credit
+"potato products,bottled water,soda,bottled beer",4,2447,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,whole milk,butter,domestic eggs,bottled water,misc. beverages,canned beer,liqueur",8,2250,10,Samy,55,Alexandria,Credit
+"frankfurter,bottled beer",2,959,4,Adel,50,Alexandria,Cash
+"citrus fruit,baking powder,sweet spreads,nut snack",4,325,2,Mohamed,25,Alexandria,Cash
+"root vegetables,yogurt,brown bread,pastry,flour,bottled water,pot plants",7,1290,2,Mohamed,25,Alexandria,Cash
+"beef,citrus fruit,root vegetables,specialty chocolate",4,1730,4,Adel,50,Alexandria,Cash
+"citrus fruit,tropical fruit,pip fruit,other vegetables,yogurt,UHT-milk,cream cheese ,fruit/vegetable juice,hygiene articles,pot plants",10,1975,10,Samy,55,Alexandria,Cash
+"tropical fruit,UHT-milk,brown bread,Instant food products,napkins",5,462,4,Adel,50,Alexandria,Credit
+"pip fruit,root vegetables,ice cream,rolls/buns,syrup,canned beer",6,2174,4,Adel,50,Alexandria,Credit
+"curd,yogurt,domestic eggs,white bread,instant coffee,long life bakery product",6,519,4,Adel,50,Alexandria,Cash
+pip fruit,1,1892,4,Adel,50,Alexandria,Cash
+"hamburger meat,pastry,misc. beverages",3,1239,2,Mohamed,25,Alexandria,Cash
+"long life bakery product,candy",2,368,10,Samy,55,Alexandria,Cash
+"hard cheese,pastry",2,108,2,Mohamed,25,Alexandria,Credit
+newspapers,1,465,10,Samy,55,Alexandria,Cash
+"pip fruit,coffee",2,1371,2,Mohamed,25,Alexandria,Cash
+bottled beer,1,1552,4,Adel,50,Alexandria,Cash
+"whole milk,curd,whipped/sour cream",3,2125,10,Samy,55,Alexandria,Credit
+"frankfurter,other vegetables,cream cheese ,sweet spreads,long life bakery product,napkins",6,1253,4,Adel,50,Alexandria,Credit
+chicken,1,724,2,Mohamed,25,Alexandria,Credit
+"white bread,bottled water,soda,bottled beer",4,964,10,Samy,55,Alexandria,Credit
+"fish,tropical fruit,pip fruit,berries,whole milk,curd,yogurt,whipped/sour cream,condensed milk,instant coffee,long life bakery product,cake bar,napkins",13,184,4,Adel,50,Alexandria,Credit
+"pip fruit,beverages,frozen vegetables,frozen meals,bottled water,soda,salty snack",7,1583,4,Adel,50,Alexandria,Cash
+bottled water,1,1718,4,Adel,50,Alexandria,Credit
+"liver loaf,pip fruit,root vegetables,frozen vegetables,salty snack",5,589,4,Adel,50,Alexandria,Credit
+"root vegetables,soda,red/blush wine,prosecco,waffles",5,1677,4,Adel,50,Alexandria,Cash
+"citrus fruit,tropical fruit,root vegetables,other vegetables,whole milk",5,530,4,Adel,50,Alexandria,Cash
+bottled beer,1,521,4,Adel,50,Alexandria,Cash
+"roll products ,dog food,soda,fruit/vegetable juice,bottled beer,napkins",6,640,10,Samy,55,Alexandria,Credit
+"butter milk,cream cheese ,rolls/buns,misc. beverages,newspapers",5,1368,4,Adel,50,Alexandria,Cash
+"chicken,other vegetables,frozen vegetables,canned beer,shopping bags",5,1073,10,Samy,55,Alexandria,Cash
+"yogurt,bottled water",2,1820,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,other vegetables",2,2336,4,Adel,50,Alexandria,Credit
+"tropical fruit,fruit/vegetable juice,candy",3,1998,4,Adel,50,Alexandria,Cash
+"soda,canned beer",2,1565,2,Mohamed,25,Alexandria,Credit
+"ham,hamburger meat,whole milk,processed cheese,white bread,potato products,artif. sweetener,instant coffee,bottled water,soda,fruit/vegetable juice,salty snack,specialty bar,detergent,shopping bags",15,305,2,Mohamed,25,Alexandria,Credit
+bottled water,1,1026,10,Samy,55,Alexandria,Cash
+"frankfurter,curd,frozen potato products,soda,dish cleaner",5,1387,2,Mohamed,25,Alexandria,Credit
+newspapers,1,1728,10,Samy,55,Alexandria,Credit
+"pastry,soda",2,2283,2,Mohamed,25,Alexandria,Cash
+soda,1,1106,2,Mohamed,25,Alexandria,Credit
+canned beer,1,327,4,Adel,50,Alexandria,Credit
+"whole milk,beverages,bottled water,newspapers",4,1590,4,Adel,50,Alexandria,Cash
+canned beer,1,1316,2,Mohamed,25,Alexandria,Cash
+canned beer,1,1151,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,brown bread",2,680,2,Mohamed,25,Alexandria,Cash
+"seasonal products,photo/film",2,1844,4,Adel,50,Alexandria,Credit
+"rolls/buns,bottled water,soda",3,1643,2,Mohamed,25,Alexandria,Credit
+"pip fruit,cream cheese ,cookware",3,395,4,Adel,50,Alexandria,Cash
+rolls/buns,1,1290,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,berries,whipped/sour cream,rolls/buns,pickled vegetables,coffee,soda,long life bakery product",8,960,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,onions,beverages,margarine,bottled beer,napkins",6,2247,4,Adel,50,Alexandria,Credit
+"tropical fruit,brown bread,pastry",3,1914,4,Adel,50,Alexandria,Cash
+"whole milk,coffee",2,723,4,Adel,50,Alexandria,Credit
+soups,1,2320,10,Samy,55,Alexandria,Credit
+"sausage,UHT-milk,bottled beer,kitchen towels",4,1104,10,Samy,55,Alexandria,Credit
+bottled water,1,110,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,pip fruit,whole milk,cream cheese ,sweet spreads,long life bakery product,cake bar,napkins",8,1017,10,Samy,55,Alexandria,Cash
+"pork,other vegetables,whole milk,frozen potato products,flour,oil",6,1889,4,Adel,50,Alexandria,Cash
+"sausage,soda,specialty chocolate",3,1593,4,Adel,50,Alexandria,Credit
+"pip fruit,whole milk,white bread,brown bread,margarine,sweet spreads,fruit/vegetable juice,newspapers",8,1236,4,Adel,50,Alexandria,Credit
+citrus fruit,1,303,4,Adel,50,Alexandria,Credit
+"frankfurter,sausage,berries,butter,yogurt,whipped/sour cream,cream cheese ,domestic eggs,margarine,shopping bags",10,2163,2,Mohamed,25,Alexandria,Credit
+"beverages,chocolate",2,2338,4,Adel,50,Alexandria,Credit
+soda,1,1148,4,Adel,50,Alexandria,Cash
+"tropical fruit,pip fruit,root vegetables,liquor,detergent,dishes,newspapers",7,1780,4,Adel,50,Alexandria,Credit
+"condensed milk,rolls/buns",2,903,2,Mohamed,25,Alexandria,Cash
+"sausage,whole milk,frozen vegetables,frozen meals,domestic eggs,rolls/buns,fruit/vegetable juice,cake bar",8,1967,10,Samy,55,Alexandria,Credit
+soda,1,2356,2,Mohamed,25,Alexandria,Credit
+"soda,bottled beer,liquor,red/blush wine,napkins",5,1065,4,Adel,50,Alexandria,Credit
+"whole milk,butter,cat food",3,391,10,Samy,55,Alexandria,Cash
+"liver loaf,root vegetables,onions,UHT-milk,cream cheese ,soda,flower (seeds)",7,218,10,Samy,55,Alexandria,Credit
+"root vegetables,other vegetables,yogurt,baking powder,brandy,shopping bags",6,1724,4,Adel,50,Alexandria,Credit
+"tropical fruit,butter,rolls/buns,canned fish,dog food,shopping bags",6,1064,10,Samy,55,Alexandria,Cash
+"rolls/buns,dishes",2,355,2,Mohamed,25,Alexandria,Credit
+"soups,canned vegetables,chocolate",3,1829,4,Adel,50,Alexandria,Credit
+"pork,pip fruit,packaged fruit/vegetables,dessert,frozen vegetables,pasta,margarine,chocolate marshmallow,detergent,softener",10,1640,10,Samy,55,Alexandria,Credit
+"curd,soda,cake bar",3,2214,2,Mohamed,25,Alexandria,Cash
+canned beer,1,142,4,Adel,50,Alexandria,Cash
+"whole milk,curd,dessert,misc. beverages,chocolate marshmallow,cling film/bags,house keeping products,newspapers",8,397,2,Mohamed,25,Alexandria,Cash
+"hamburger meat,whole milk,curd,dessert,rolls/buns,oil,spices,sauces,soda,cake bar,napkins,shopping bags",12,642,2,Mohamed,25,Alexandria,Credit
+beverages,1,1000,4,Adel,50,Alexandria,Credit
+"root vegetables,other vegetables,yogurt,rolls/buns,bottled water,chocolate,napkins",7,1374,10,Samy,55,Alexandria,Cash
+"pip fruit,condensed milk,sugar,coffee,bottled water,long life bakery product",6,1258,4,Adel,50,Alexandria,Credit
+"sausage,other vegetables,salt,male cosmetics,newspapers",5,1674,2,Mohamed,25,Alexandria,Cash
+"pet care,bottled beer",2,429,2,Mohamed,25,Alexandria,Cash
+bottled beer,1,216,2,Mohamed,25,Alexandria,Cash
+"dessert,yogurt,cat food,napkins",4,248,10,Samy,55,Alexandria,Cash
+"rolls/buns,sugar,coffee,soda",4,1013,4,Adel,50,Alexandria,Credit
+"sausage,meat,pip fruit,other vegetables,salty snack,napkins",6,1630,2,Mohamed,25,Alexandria,Cash
+"semi-finished bread,bottled beer,liquor",3,1619,2,Mohamed,25,Alexandria,Cash
+bottled water,1,1641,2,Mohamed,25,Alexandria,Cash
+"whole milk,white bread,pet care,bottled water,softener",5,767,2,Mohamed,25,Alexandria,Cash
+"pip fruit,whole milk,beverages,domestic eggs,white bread",5,964,10,Samy,55,Alexandria,Credit
+"whole milk,frozen vegetables",2,998,2,Mohamed,25,Alexandria,Cash
+"berries,yogurt,whipped/sour cream",3,292,10,Samy,55,Alexandria,Cash
+"cat food,white wine",2,2032,2,Mohamed,25,Alexandria,Cash
+"margarine,fruit/vegetable juice,red/blush wine",3,1818,2,Mohamed,25,Alexandria,Cash
+whole milk,1,944,10,Samy,55,Alexandria,Credit
+"whipped/sour cream,margarine,long life bakery product",3,1694,4,Adel,50,Alexandria,Cash
+"waffles,specialty bar",2,1266,2,Mohamed,25,Alexandria,Credit
+"frankfurter,citrus fruit,pip fruit,butter milk,beverages,frozen meals,brown bread,pickled vegetables,shopping bags",9,240,4,Adel,50,Alexandria,Cash
+"margarine,candy",2,1100,4,Adel,50,Alexandria,Credit
+"whole milk,rolls/buns,salt",3,1157,4,Adel,50,Alexandria,Credit
+"whole milk,soft cheese,sliced cheese",3,2488,2,Mohamed,25,Alexandria,Cash
+liquor (appetizer),1,1409,2,Mohamed,25,Alexandria,Credit
+"rolls/buns,meat spreads",2,2109,10,Samy,55,Alexandria,Credit
+"citrus fruit,pip fruit,root vegetables,whole milk,coffee,popcorn,chewing gum,detergent,newspapers,shopping bags",10,1976,10,Samy,55,Alexandria,Cash
+"frankfurter,beef,fish,root vegetables,whole milk,butter,yogurt,rolls/buns,roll products ",9,711,10,Samy,55,Alexandria,Credit
+soda,1,1929,2,Mohamed,25,Alexandria,Credit
+canned beer,1,383,4,Adel,50,Alexandria,Credit
+"liver loaf,root vegetables,other vegetables,processed cheese,pastry,sugar,detergent",7,1264,4,Adel,50,Alexandria,Cash
+"pastry,long life bakery product",2,709,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,pip fruit,root vegetables,UHT-milk,coffee,candles",6,583,4,Adel,50,Alexandria,Cash
+canned beer,1,2047,10,Samy,55,Alexandria,Cash
+"hard cheese,pasta,soda,waffles",4,507,2,Mohamed,25,Alexandria,Cash
+coffee,1,632,2,Mohamed,25,Alexandria,Credit
+"other vegetables,condensed milk,soda",3,1383,2,Mohamed,25,Alexandria,Credit
+"pork,whole milk,pasta,fruit/vegetable juice",4,1827,4,Adel,50,Alexandria,Credit
+"pork,beef,pip fruit,root vegetables,whole milk,rice,newspapers",7,2056,2,Mohamed,25,Alexandria,Cash
+"root vegetables,herbs,other vegetables",3,1345,2,Mohamed,25,Alexandria,Cash
+canned beer,1,903,2,Mohamed,25,Alexandria,Cash
+"frankfurter,chicken,hamburger meat,other vegetables,dessert,UHT-milk,oil,canned vegetables,cake bar",9,1640,4,Adel,50,Alexandria,Credit
+"processed cheese,soda,bottled beer,liquor,red/blush wine,napkins",6,1771,10,Samy,55,Alexandria,Credit
+"soda,waffles",2,176,2,Mohamed,25,Alexandria,Credit
+"pip fruit,canned beer,shopping bags",3,1771,2,Mohamed,25,Alexandria,Credit
+canned beer,1,1270,4,Adel,50,Alexandria,Cash
+"dog food,canned beer",2,696,10,Samy,55,Alexandria,Cash
+soda,1,1740,2,Mohamed,25,Alexandria,Cash
+"whole milk,sugar,bottled water,bottled beer",4,583,4,Adel,50,Alexandria,Cash
+"sausage,whole milk",2,905,10,Samy,55,Alexandria,Credit
+"pastry,semi-finished bread,coffee,bottled water,misc. beverages",5,2267,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,pip fruit,grapes,semi-finished bread,bottled water,soda,chewing gum",7,793,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,tropical fruit,yogurt,UHT-milk,pastry",5,202,2,Mohamed,25,Alexandria,Credit
+"soda,specialty bar",2,1713,4,Adel,50,Alexandria,Cash
+"whole milk,brown bread",2,1592,4,Adel,50,Alexandria,Credit
+"rolls/buns,pastry,mustard,soda,cake bar",5,626,2,Mohamed,25,Alexandria,Credit
+newspapers,1,206,4,Adel,50,Alexandria,Credit
+"sausage,butter,hard cheese,domestic eggs",4,1362,2,Mohamed,25,Alexandria,Cash
+specialty chocolate,1,938,10,Samy,55,Alexandria,Cash
+"whole milk,frozen meals,bottled water",3,2337,4,Adel,50,Alexandria,Credit
+"pork,whole milk,shopping bags",3,402,2,Mohamed,25,Alexandria,Credit
+"sausage,whole milk",2,870,2,Mohamed,25,Alexandria,Credit
+whole milk,1,562,2,Mohamed,25,Alexandria,Credit
+"bottled beer,liquor",2,1878,2,Mohamed,25,Alexandria,Cash
+"sausage,chocolate",2,110,4,Adel,50,Alexandria,Credit
+packaged fruit/vegetables,1,628,10,Samy,55,Alexandria,Cash
+"pork,other vegetables,UHT-milk",3,1108,10,Samy,55,Alexandria,Credit
+beef,1,169,10,Samy,55,Alexandria,Credit
+"meat,citrus fruit,tropical fruit,root vegetables,other vegetables,whole milk,butter,yogurt,sliced cheese,frozen vegetables,rice,Instant food products,baking powder,bottled water,syrup,female sanitary products,photo/film",17,2302,2,Mohamed,25,Alexandria,Cash
+"frozen vegetables,frozen dessert,semi-finished bread,margarine,long life bakery product,candy,detergent",7,1718,2,Mohamed,25,Alexandria,Cash
+"canned beer,long life bakery product",2,906,4,Adel,50,Alexandria,Cash
+sausage,1,1916,4,Adel,50,Alexandria,Cash
+"sausage,frozen potato products",2,1213,4,Adel,50,Alexandria,Credit
+"frozen meals,soda,specialty chocolate",3,2021,2,Mohamed,25,Alexandria,Cash
+"domestic eggs,waffles,napkins",3,687,4,Adel,50,Alexandria,Cash
+"whole milk,fruit/vegetable juice,chewing gum,shopping bags",4,1448,10,Samy,55,Alexandria,Cash
+"frankfurter,tropical fruit,other vegetables,whole milk,butter,frozen meals,fruit/vegetable juice",7,1704,2,Mohamed,25,Alexandria,Credit
+white wine,1,971,10,Samy,55,Alexandria,Credit
+"other vegetables,brown bread,pastry,bottled water,canned beer",5,1622,4,Adel,50,Alexandria,Credit
+"soda,liquor (appetizer)",2,595,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,tropical fruit,pip fruit,chewing gum",4,501,2,Mohamed,25,Alexandria,Credit
+"whole milk,yogurt,pastry,sweet spreads,soda",5,437,2,Mohamed,25,Alexandria,Credit
+"frankfurter,yogurt,UHT-milk,frozen vegetables,coffee,soda,fruit/vegetable juice,white wine,chewing gum,shopping bags",10,2215,4,Adel,50,Alexandria,Credit
+"other vegetables,semi-finished bread",2,2182,10,Samy,55,Alexandria,Cash
+"meat,other vegetables,salty snack",3,2220,2,Mohamed,25,Alexandria,Credit
+"sausage,tropical fruit,butter,frozen meals,pasta,fruit/vegetable juice",6,780,10,Samy,55,Alexandria,Cash
+"sausage,UHT-milk,brown bread,oil,canned beer,brandy,shopping bags",7,1943,2,Mohamed,25,Alexandria,Credit
+"rolls/buns,pastry",2,1086,10,Samy,55,Alexandria,Credit
+"ice cream,semi-finished bread",2,1157,10,Samy,55,Alexandria,Credit
+"soda,salty snack,cake bar,candy",4,944,4,Adel,50,Alexandria,Cash
+"soft cheese,ice cream",2,1614,2,Mohamed,25,Alexandria,Cash
+chocolate,1,334,4,Adel,50,Alexandria,Cash
+"sausage,other vegetables,dessert",3,251,2,Mohamed,25,Alexandria,Cash
+"hamburger meat,cream cheese ,brown bread",3,2419,10,Samy,55,Alexandria,Credit
+"pork,rolls/buns",2,2075,4,Adel,50,Alexandria,Credit
+"whole milk,meat spreads,fruit/vegetable juice",3,374,10,Samy,55,Alexandria,Credit
+"chicken,yogurt,whipped/sour cream",3,224,2,Mohamed,25,Alexandria,Credit
+soda,1,346,4,Adel,50,Alexandria,Credit
+"pork,yogurt",2,1133,4,Adel,50,Alexandria,Credit
+oil,1,1645,2,Mohamed,25,Alexandria,Cash
+soda,1,1273,4,Adel,50,Alexandria,Cash
+"meat,whole milk,yogurt",3,1592,4,Adel,50,Alexandria,Cash
+"pork,other vegetables,whole milk,frozen vegetables,brown bread,roll products ,canned vegetables,sparkling wine,chocolate,dental care",10,1842,4,Adel,50,Alexandria,Credit
+"sausage,chicken,hamburger meat,other vegetables,whole milk,butter milk,whipped/sour cream,white bread",8,1977,10,Samy,55,Alexandria,Cash
+"tropical fruit,pip fruit,UHT-milk,cream cheese ,pasta,sauces,baking powder,cat food,pet care,bottled water,bottled beer,salty snack,shopping bags",13,1980,4,Adel,50,Alexandria,Credit
+"whole milk,yogurt,domestic eggs,rolls/buns,fruit/vegetable juice,long life bakery product,specialty chocolate,specialty bar",8,1932,4,Adel,50,Alexandria,Cash
+"sausage,tropical fruit,yogurt,frozen meals,cat food,bottled water,soda,bottled beer,waffles",9,1255,4,Adel,50,Alexandria,Cash
+"pork,beef,other vegetables,whole milk,yogurt,margarine,fruit/vegetable juice",7,1284,10,Samy,55,Alexandria,Credit
+hamburger meat,1,1360,4,Adel,50,Alexandria,Credit
+"whole milk,cat food",2,230,2,Mohamed,25,Alexandria,Credit
+"sausage,meat,chicken,beef,citrus fruit,root vegetables,herbs,whole milk,butter,domestic eggs,roll products ,coffee,long life bakery product,waffles",14,1737,10,Samy,55,Alexandria,Credit
+"butter milk,yogurt",2,1073,10,Samy,55,Alexandria,Cash
+"pip fruit,yogurt,cream cheese ,meat spreads,coffee,specialty chocolate,seasonal products,cookware,shopping bags",9,1347,2,Mohamed,25,Alexandria,Credit
+cat food,1,2459,10,Samy,55,Alexandria,Credit
+"hamburger meat,berries,other vegetables,UHT-milk,hard cheese,processed cheese,canned vegetables,soda,waffles,specialty bar,newspapers",11,2023,2,Mohamed,25,Alexandria,Credit
+newspapers,1,1077,2,Mohamed,25,Alexandria,Credit
+"hamburger meat,herbs,UHT-milk,domestic eggs,oil,chocolate",6,1489,4,Adel,50,Alexandria,Cash
+fruit/vegetable juice,1,1313,2,Mohamed,25,Alexandria,Credit
+"chocolate,specialty bar,candy,napkins,flower (seeds)",5,623,10,Samy,55,Alexandria,Cash
+"sausage,spread cheese,domestic eggs,soda,shopping bags",5,2454,2,Mohamed,25,Alexandria,Credit
+newspapers,1,1382,4,Adel,50,Alexandria,Cash
+"fish,UHT-milk,cream cheese ,ice cream",4,1081,10,Samy,55,Alexandria,Cash
+"chewing gum,specialty bar",2,2430,4,Adel,50,Alexandria,Credit
+"pork,tropical fruit,pip fruit,other vegetables,whipped/sour cream,chocolate,chocolate marshmallow,shopping bags",8,899,10,Samy,55,Alexandria,Credit
+"bottled water,newspapers",2,368,2,Mohamed,25,Alexandria,Credit
+"rolls/buns,brown bread,soda,misc. beverages,bottled beer",5,535,4,Adel,50,Alexandria,Credit
+canned beer,1,492,10,Samy,55,Alexandria,Credit
+"ham,turkey,frozen vegetables,pastry",4,1246,10,Samy,55,Alexandria,Credit
+"tropical fruit,pip fruit,root vegetables,other vegetables,whole milk,curd,yogurt,tea,bottled water,salty snack,kitchen towels,newspapers",12,503,4,Adel,50,Alexandria,Cash
+"canned beer,specialty bar",2,876,10,Samy,55,Alexandria,Credit
+"bottled water,soda",2,649,4,Adel,50,Alexandria,Cash
+"tropical fruit,root vegetables,onions,other vegetables,curd,whipped/sour cream,spread cheese,white bread,bottled water,soda",10,995,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,other vegetables,cream cheese ,baking powder,long life bakery product",5,175,4,Adel,50,Alexandria,Cash
+"tropical fruit,berries,root vegetables,butter,UHT-milk,bottled water,soda",7,1897,10,Samy,55,Alexandria,Cash
+"frankfurter,sausage,tropical fruit,root vegetables,whole milk,pastry",6,1173,2,Mohamed,25,Alexandria,Credit
+canned beer,1,1987,10,Samy,55,Alexandria,Credit
+"other vegetables,cream cheese ",2,856,10,Samy,55,Alexandria,Credit
+"sausage,whole milk,spread cheese,mayonnaise,rolls/buns,pastry,pickled vegetables,bottled water,shopping bags",9,1791,4,Adel,50,Alexandria,Credit
+"yogurt,frozen dessert,rolls/buns,pastry,soda,fruit/vegetable juice,napkins",7,669,2,Mohamed,25,Alexandria,Credit
+"pip fruit,pastry",2,1564,4,Adel,50,Alexandria,Cash
+"whole milk,bottled water,bottled beer,newspapers",4,498,4,Adel,50,Alexandria,Cash
+"sausage,root vegetables,whole milk,whipped/sour cream,rolls/buns,mustard",6,1110,2,Mohamed,25,Alexandria,Credit
+frozen meals,1,2278,2,Mohamed,25,Alexandria,Credit
+"chicken,hamburger meat,herbs,dessert,beverages,oil,soda,dish cleaner",8,1997,2,Mohamed,25,Alexandria,Cash
+"whole milk,rolls/buns,bottled water",3,1327,2,Mohamed,25,Alexandria,Cash
+"sausage,other vegetables,dessert,yogurt,UHT-milk,cream cheese ,frozen vegetables,rolls/buns,brown bread,pastry,specialty bar",11,2037,2,Mohamed,25,Alexandria,Cash
+"sausage,whole milk,rolls/buns",3,458,2,Mohamed,25,Alexandria,Cash
+"other vegetables,whole milk",2,916,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,yogurt,UHT-milk,bottled water,soda",5,1612,10,Samy,55,Alexandria,Cash
+"hamburger meat,whole milk,tidbits,frozen fish,ice cream,sauces,salty snack,kitchen towels",8,1437,10,Samy,55,Alexandria,Cash
+photo/film,1,780,2,Mohamed,25,Alexandria,Cash
+"soda,bottled beer",2,373,10,Samy,55,Alexandria,Cash
+pork,1,2427,10,Samy,55,Alexandria,Credit
+"grapes,other vegetables,whole milk,sugar",4,1064,2,Mohamed,25,Alexandria,Credit
+"other vegetables,whole milk,butter,domestic eggs,waffles,candy,seasonal products,detergent",8,1486,4,Adel,50,Alexandria,Credit
+tropical fruit,1,628,4,Adel,50,Alexandria,Cash
+"chicken,beef,other vegetables",3,1243,4,Adel,50,Alexandria,Credit
+"tropical fruit,whole milk,sauces,sweet spreads,chocolate,newspapers",6,869,2,Mohamed,25,Alexandria,Credit
+"other vegetables,hard cheese,newspapers",3,1754,4,Adel,50,Alexandria,Credit
+"frankfurter,hamburger meat,UHT-milk,mayonnaise,rolls/buns,pastry,mustard,ketchup,Instant food products,soda,dish cleaner,dental care,shopping bags",13,1306,2,Mohamed,25,Alexandria,Cash
+"cream cheese ,coffee,chocolate,candy,make up remover,shopping bags",6,725,2,Mohamed,25,Alexandria,Cash
+bottled water,1,773,4,Adel,50,Alexandria,Credit
+canned beer,1,2088,4,Adel,50,Alexandria,Cash
+"frankfurter,citrus fruit,other vegetables,butter milk,yogurt,whipped/sour cream,rolls/buns,brown bread,pickled vegetables,canned fish,tea",11,2004,10,Samy,55,Alexandria,Credit
+"sausage,fish,curd,processed cheese,pastry",5,611,10,Samy,55,Alexandria,Cash
+"whole milk,frozen fish,rolls/buns,pickled vegetables",4,2380,4,Adel,50,Alexandria,Credit
+"rolls/buns,canned fish,canned beer",3,1260,4,Adel,50,Alexandria,Credit
+"hard cheese,candles",2,313,10,Samy,55,Alexandria,Cash
+"sausage,pip fruit,whole milk,white bread,salt,pasta,oil,sugar,bottled water,soda,bottled beer",11,2110,4,Adel,50,Alexandria,Credit
+"citrus fruit,domestic eggs,jam",3,2401,2,Mohamed,25,Alexandria,Credit
+"condensed milk,margarine,fruit/vegetable juice,canned beer",4,1884,10,Samy,55,Alexandria,Cash
+"brown bread,canned beer",2,769,4,Adel,50,Alexandria,Cash
+"beef,root vegetables,frozen vegetables,brown bread,misc. beverages",5,1007,2,Mohamed,25,Alexandria,Credit
+"butter,brown bread,seasonal products",3,1660,10,Samy,55,Alexandria,Cash
+"sausage,tropical fruit,pip fruit,whole milk,soft cheese,processed cheese,white bread,pastry,semi-finished bread,oil,mustard,ketchup,soda,misc. beverages,long life bakery product,waffles,chocolate,specialty chocolate,detergent,napkins,house keeping products",21,1147,4,Adel,50,Alexandria,Cash
+"canned beer,shopping bags",2,1313,10,Samy,55,Alexandria,Credit
+"grapes,whole milk,butter,rolls/buns,coffee,bottled water,soda,misc. beverages,pot plants",9,241,10,Samy,55,Alexandria,Cash
+"citrus fruit,root vegetables,other vegetables",3,2460,4,Adel,50,Alexandria,Cash
+canned beer,1,1721,4,Adel,50,Alexandria,Credit
+"pork,beef,root vegetables,other vegetables,whole milk,UHT-milk,frozen vegetables,rice,baking powder,dog food,soda",11,1761,10,Samy,55,Alexandria,Cash
+"curd cheese,bottled water,white wine",3,1837,4,Adel,50,Alexandria,Cash
+sugar,1,2233,4,Adel,50,Alexandria,Credit
+"citrus fruit,tropical fruit,whole milk,yogurt,whipped/sour cream,preservation products",6,1102,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,other vegetables,bottled water,fruit/vegetable juice,shopping bags",5,1712,10,Samy,55,Alexandria,Cash
+"frankfurter,pip fruit,root vegetables,other vegetables,curd,butter milk,spread cheese,soups,house keeping products",9,809,10,Samy,55,Alexandria,Cash
+"sausage,meat,pork,beef,root vegetables,other vegetables,UHT-milk,flour,detergent,shopping bags",10,1814,10,Samy,55,Alexandria,Credit
+"hamburger meat,dessert,soda,fruit/vegetable juice",4,1272,10,Samy,55,Alexandria,Cash
+"sausage,rolls/buns,pastry,bottled water",4,1475,10,Samy,55,Alexandria,Credit
+newspapers,1,1382,4,Adel,50,Alexandria,Credit
+"hamburger meat,root vegetables,other vegetables,whole milk,sliced cheese",5,307,10,Samy,55,Alexandria,Cash
+"sausage,pork,hamburger meat,citrus fruit,other vegetables,whole milk,soft cheese,domestic eggs,rolls/buns,sugar,cat food,chocolate",12,1951,10,Samy,55,Alexandria,Cash
+other vegetables,1,217,4,Adel,50,Alexandria,Cash
+"other vegetables,whole milk,curd,yogurt,cream cheese ,pastry,salty snack",7,1801,2,Mohamed,25,Alexandria,Credit
+"sausage,pork,tropical fruit,root vegetables,herbs,whole milk,curd,yogurt,whipped/sour cream,chewing gum,male cosmetics,newspapers",12,2093,4,Adel,50,Alexandria,Cash
+"UHT-milk,ice cream,bottled water,soda,shopping bags",5,1199,4,Adel,50,Alexandria,Credit
+shopping bags,1,792,10,Samy,55,Alexandria,Cash
+"citrus fruit,root vegetables,margarine,misc. beverages,long life bakery product,waffles",6,261,2,Mohamed,25,Alexandria,Credit
+bottled beer,1,2190,4,Adel,50,Alexandria,Cash
+"sausage,meat,tropical fruit,rolls/buns,margarine,bottled water,bottled beer,skin care,hygiene articles,shopping bags",10,1618,4,Adel,50,Alexandria,Cash
+"chicken,pip fruit,whole milk,rolls/buns,brown bread,pastry,semi-finished bread,margarine,bottled water,newspapers",10,763,10,Samy,55,Alexandria,Credit
+"sausage,citrus fruit,pip fruit,whole milk,dessert,domestic eggs,brown bread,margarine,specialty chocolate",9,2086,2,Mohamed,25,Alexandria,Cash
+rolls/buns,1,2217,10,Samy,55,Alexandria,Credit
+canned beer,1,540,2,Mohamed,25,Alexandria,Credit
+"chicken,hamburger meat,other vegetables,frozen vegetables,rolls/buns,pastry",6,419,2,Mohamed,25,Alexandria,Cash
+"rolls/buns,canned beer",2,1811,2,Mohamed,25,Alexandria,Credit
+"sausage,butter",2,1441,2,Mohamed,25,Alexandria,Credit
+"grapes,rolls/buns,pastry,bottled beer",4,440,4,Adel,50,Alexandria,Credit
+"sausage,other vegetables,whole milk,yogurt,cream,frozen vegetables,frozen potato products,roll products ,rice,cat food,misc. beverages,fruit/vegetable juice,bottled beer,salty snack,specialty chocolate",15,1540,2,Mohamed,25,Alexandria,Cash
+"pork,beverages,white bread",3,533,4,Adel,50,Alexandria,Credit
+whipped/sour cream,1,1370,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,berries,curd,yogurt,soda",5,1022,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,other vegetables,frozen meals,domestic eggs,fruit/vegetable juice,pot plants",6,1677,2,Mohamed,25,Alexandria,Credit
+"Instant food products,long life bakery product,specialty chocolate,cling film/bags,house keeping products",5,1559,4,Adel,50,Alexandria,Cash
+"tropical fruit,other vegetables,whole milk,dessert,bottled water,soda,canned beer,seasonal products",8,1488,4,Adel,50,Alexandria,Cash
+canned beer,1,233,2,Mohamed,25,Alexandria,Credit
+"pip fruit,other vegetables,butter milk,specialty cheese,frozen vegetables,white bread,sugar,coffee",8,1449,4,Adel,50,Alexandria,Credit
+"whipped/sour cream,long life bakery product,napkins,pot plants",4,2258,2,Mohamed,25,Alexandria,Cash
+"organic sausage,other vegetables,liquor (appetizer),red/blush wine",4,1549,4,Adel,50,Alexandria,Credit
+"root vegetables,other vegetables,whole milk,pastry,cling film/bags,shopping bags",6,1632,4,Adel,50,Alexandria,Credit
+"frankfurter,meat,beef,other vegetables,frozen vegetables,white bread,pastry,soups,pickled vegetables,specialty vegetables,cat food,soda",12,2101,10,Samy,55,Alexandria,Cash
+"frozen vegetables,soda",2,1044,4,Adel,50,Alexandria,Credit
+"meat,organic sausage,citrus fruit,whole milk,oil,soups",6,173,10,Samy,55,Alexandria,Cash
+"root vegetables,other vegetables,sparkling wine,popcorn,shopping bags",5,2456,10,Samy,55,Alexandria,Cash
+"chicken,root vegetables,other vegetables,whipped/sour cream,margarine,sauces,canned beer,shopping bags",8,2477,2,Mohamed,25,Alexandria,Credit
+"domestic eggs,pastry",2,924,10,Samy,55,Alexandria,Cash
+"frankfurter,meat,pork,citrus fruit,yogurt,whipped/sour cream,frozen vegetables,frozen potato products,soda",9,1627,4,Adel,50,Alexandria,Credit
+"pork,tropical fruit,yogurt,sugar,bottled water,light bulbs",6,1342,4,Adel,50,Alexandria,Credit
+"root vegetables,other vegetables,specialty chocolate",3,167,10,Samy,55,Alexandria,Credit
+pip fruit,1,605,4,Adel,50,Alexandria,Cash
+"ham,pip fruit,yogurt,frozen meals,bottled water,soda,napkins",7,1743,10,Samy,55,Alexandria,Credit
+"pork,root vegetables,other vegetables,pastry",4,1397,2,Mohamed,25,Alexandria,Credit
+"sugar,coffee",2,1506,10,Samy,55,Alexandria,Credit
+whole milk,1,1625,4,Adel,50,Alexandria,Credit
+"soda,bottled beer,liquor",3,1129,2,Mohamed,25,Alexandria,Credit
+"whole milk,cream cheese ,roll products ,napkins,dishes,cling film/bags",6,464,10,Samy,55,Alexandria,Cash
+"ham,tropical fruit,dog food,soda,canned beer",5,2371,2,Mohamed,25,Alexandria,Credit
+"pastry,soda",2,520,4,Adel,50,Alexandria,Credit
+ice cream,1,1098,4,Adel,50,Alexandria,Cash
+canned beer,1,1586,2,Mohamed,25,Alexandria,Credit
+specialty chocolate,1,677,10,Samy,55,Alexandria,Cash
+"berries,other vegetables,yogurt,margarine,mustard,fruit/vegetable juice,detergent",7,1726,10,Samy,55,Alexandria,Cash
+sausage,1,2375,2,Mohamed,25,Alexandria,Credit
+"chicken,root vegetables,other vegetables,whole milk,frozen vegetables,rolls/buns,margarine,soda",8,1685,10,Samy,55,Alexandria,Cash
+"tropical fruit,yogurt,frozen dessert,domestic eggs,tea",5,867,10,Samy,55,Alexandria,Cash
+"semi-finished bread,bottled beer,liquor",3,1733,10,Samy,55,Alexandria,Credit
+"sausage,hamburger meat,whole milk,dessert,rolls/buns,specialty chocolate,detergent",7,1513,10,Samy,55,Alexandria,Credit
+"tropical fruit,other vegetables,pastry,long life bakery product,waffles,chocolate,specialty bar,shopping bags",8,2047,4,Adel,50,Alexandria,Credit
+curd,1,876,2,Mohamed,25,Alexandria,Credit
+"whole milk,whipped/sour cream,pastry,salty snack,long life bakery product,chewing gum",6,1346,4,Adel,50,Alexandria,Cash
+"frankfurter,organic sausage,whole milk,chewing gum",4,1604,2,Mohamed,25,Alexandria,Credit
+flower soil/fertilizer,1,2286,4,Adel,50,Alexandria,Credit
+rolls/buns,1,2328,4,Adel,50,Alexandria,Cash
+"pastry,jam",2,241,10,Samy,55,Alexandria,Credit
+salty snack,1,1576,10,Samy,55,Alexandria,Cash
+"tropical fruit,whole milk,soda,red/blush wine",4,1838,4,Adel,50,Alexandria,Credit
+"pork,white bread,make up remover,napkins",4,2244,10,Samy,55,Alexandria,Credit
+"curd,rolls/buns,long life bakery product",3,811,2,Mohamed,25,Alexandria,Cash
+hygiene articles,1,1778,4,Adel,50,Alexandria,Cash
+ham,1,1041,2,Mohamed,25,Alexandria,Cash
+"root vegetables,yogurt,cat food,coffee,cling film/bags",5,1178,4,Adel,50,Alexandria,Cash
+citrus fruit,1,169,4,Adel,50,Alexandria,Credit
+bottled water,1,2152,2,Mohamed,25,Alexandria,Cash
+"onions,whole milk,domestic eggs,sugar,hygiene articles,light bulbs",6,1812,10,Samy,55,Alexandria,Credit
+"tropical fruit,pip fruit,whole milk,flower soil/fertilizer",4,2292,10,Samy,55,Alexandria,Cash
+ice cream,1,488,10,Samy,55,Alexandria,Credit
+tropical fruit,1,743,10,Samy,55,Alexandria,Cash
+"beef,cat food,newspapers",3,1808,4,Adel,50,Alexandria,Cash
+"citrus fruit,whipped/sour cream",2,2268,10,Samy,55,Alexandria,Credit
+"meat,chicken,other vegetables,whole milk",4,437,2,Mohamed,25,Alexandria,Cash
+"frankfurter,sausage,brown bread,canned fish,bottled water,canned beer,candles",7,2134,10,Samy,55,Alexandria,Credit
+"chicken,yogurt,cream cheese ,specialty cheese,margarine,canned vegetables,soda,candy,hygiene articles,dishes",10,1732,10,Samy,55,Alexandria,Cash
+pastry,1,1783,2,Mohamed,25,Alexandria,Credit
+"root vegetables,whole milk,butter,rice,bottled water,soda,canned beer,white wine,specialty chocolate,detergent,decalcifier,candles",12,1066,10,Samy,55,Alexandria,Cash
+bottled water,1,2401,2,Mohamed,25,Alexandria,Cash
+"soda,nut snack,flower (seeds)",3,637,4,Adel,50,Alexandria,Credit
+"tropical fruit,mustard,sauces",3,557,4,Adel,50,Alexandria,Credit
+beverages,1,1804,4,Adel,50,Alexandria,Cash
+"candy,photo/film",2,1557,4,Adel,50,Alexandria,Credit
+"other vegetables,whole milk,frozen potato products,brown bread,semi-finished bread,salt,canned vegetables",7,1267,10,Samy,55,Alexandria,Credit
+pork,1,171,2,Mohamed,25,Alexandria,Cash
+"soda,snack products,detergent",3,1812,2,Mohamed,25,Alexandria,Credit
+"soda,misc. beverages,candy",3,1007,10,Samy,55,Alexandria,Credit
+bottled beer,1,1514,4,Adel,50,Alexandria,Cash
+"citrus fruit,butter,yogurt,cat food,coffee,bottled water,chocolate,specialty chocolate",8,977,2,Mohamed,25,Alexandria,Cash
+packaged fruit/vegetables,1,1525,10,Samy,55,Alexandria,Credit
+"root vegetables,yogurt,whipped/sour cream,beverages,hard cheese,cream cheese ,organic products,soda,misc. beverages,fruit/vegetable juice,liquor (appetizer),specialty chocolate,shopping bags",13,463,2,Mohamed,25,Alexandria,Cash
+"whole milk,butter,brown bread,pastry,sweet spreads,soda,newspapers",7,2202,10,Samy,55,Alexandria,Credit
+"whipped/sour cream,ice cream,rolls/buns,semi-finished bread,soda",5,1374,4,Adel,50,Alexandria,Credit
+"pork,citrus fruit,dessert,whipped/sour cream,cream cheese ,salty snack,dishes",7,620,2,Mohamed,25,Alexandria,Cash
+"ham,beef,tropical fruit,whole milk,curd,yogurt,rolls/buns,ready soups,cat food",9,1922,4,Adel,50,Alexandria,Cash
+"root vegetables,herbs",2,1499,4,Adel,50,Alexandria,Credit
+soda,1,1549,4,Adel,50,Alexandria,Credit
+bottled beer,1,903,10,Samy,55,Alexandria,Credit
+"frankfurter,citrus fruit,grapes,rolls/buns,pastry,fruit/vegetable juice,chocolate,candy,shopping bags",9,2185,2,Mohamed,25,Alexandria,Credit
+finished products,1,1704,2,Mohamed,25,Alexandria,Cash
+other vegetables,1,649,2,Mohamed,25,Alexandria,Credit
+"chicken,citrus fruit,tropical fruit,pip fruit,whole milk,white bread",6,2206,4,Adel,50,Alexandria,Credit
+"whole milk,semi-finished bread,zwieback,soda,canned beer",5,1464,2,Mohamed,25,Alexandria,Credit
+"frankfurter,meat,pork,beef,berries,other vegetables,whole milk,domestic eggs,Instant food products,coffee,skin care",11,1725,10,Samy,55,Alexandria,Credit
+"yogurt,soft cheese,rolls/buns,specialty bar",4,2310,10,Samy,55,Alexandria,Cash
+"tropical fruit,other vegetables,yogurt",3,2077,10,Samy,55,Alexandria,Cash
+"pip fruit,bottled water,white wine,newspapers",4,505,2,Mohamed,25,Alexandria,Cash
+"whipped/sour cream,rolls/buns",2,1421,2,Mohamed,25,Alexandria,Credit
+bottled water,1,897,2,Mohamed,25,Alexandria,Credit
+"chicken,citrus fruit,root vegetables,butter,domestic eggs,brown bread,margarine,sweet spreads,dental care,shopping bags",10,1981,4,Adel,50,Alexandria,Credit
+rolls/buns,1,463,4,Adel,50,Alexandria,Credit
+flower soil/fertilizer,1,2321,10,Samy,55,Alexandria,Credit
+"citrus fruit,other vegetables,whole milk,domestic eggs,soda",5,1080,10,Samy,55,Alexandria,Cash
+whole milk,1,1601,10,Samy,55,Alexandria,Credit
+"pork,hygiene articles",2,2428,10,Samy,55,Alexandria,Cash
+"ice cream,brown bread,bottled water,soda",4,1492,2,Mohamed,25,Alexandria,Credit
+"pork,brown bread,bottled water,soda",4,280,10,Samy,55,Alexandria,Credit
+"sausage,other vegetables,rolls/buns,canned beer,shopping bags",5,2420,4,Adel,50,Alexandria,Cash
+yogurt,1,967,2,Mohamed,25,Alexandria,Credit
+"pip fruit,whole milk,curd,yogurt,whipped/sour cream,rolls/buns,oil,margarine,mustard,candles,newspapers",11,364,2,Mohamed,25,Alexandria,Credit
+"other vegetables,whole milk",2,487,2,Mohamed,25,Alexandria,Cash
+root vegetables,1,2366,4,Adel,50,Alexandria,Credit
+"berries,other vegetables",2,1607,10,Samy,55,Alexandria,Cash
+whipped/sour cream,1,1922,10,Samy,55,Alexandria,Cash
+"fish,coffee",2,748,4,Adel,50,Alexandria,Credit
+"tropical fruit,onions",2,329,4,Adel,50,Alexandria,Credit
+"other vegetables,butter milk,cream cheese ,rolls/buns",4,1743,10,Samy,55,Alexandria,Credit
+"ham,processed cheese,rolls/buns",3,211,4,Adel,50,Alexandria,Credit
+"soda,specialty bar",2,602,4,Adel,50,Alexandria,Cash
+"pastry,soda",2,2463,2,Mohamed,25,Alexandria,Cash
+"rolls/buns,canned fish",2,1439,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,pip fruit,berries,coffee,detergent,candles,shopping bags",7,1810,4,Adel,50,Alexandria,Credit
+"domestic eggs,soda,hygiene articles",3,1050,4,Adel,50,Alexandria,Cash
+"citrus fruit,instant coffee,fruit/vegetable juice,canned beer,chocolate,candy,house keeping products,shopping bags",8,425,4,Adel,50,Alexandria,Cash
+canned beer,1,2210,10,Samy,55,Alexandria,Credit
+"sausage,meat,whole milk,rolls/buns,cake bar,shopping bags",6,238,4,Adel,50,Alexandria,Cash
+whole milk,1,364,10,Samy,55,Alexandria,Cash
+chocolate,1,1125,4,Adel,50,Alexandria,Credit
+"liver loaf,whole milk,yogurt,frozen potato products,domestic eggs,rolls/buns,misc. beverages",7,1424,2,Mohamed,25,Alexandria,Cash
+"canned beer,shopping bags",2,2150,10,Samy,55,Alexandria,Cash
+"bottled beer,newspapers",2,500,10,Samy,55,Alexandria,Cash
+"berries,salty snack,nut snack",3,2240,10,Samy,55,Alexandria,Cash
+"sausage,beef,root vegetables,other vegetables,curd,cereals,soda,waffles",8,2257,4,Adel,50,Alexandria,Cash
+"white bread,semi-finished bread,soda",3,1800,10,Samy,55,Alexandria,Cash
+"cream cheese ,rolls/buns,soda,chewing gum",4,221,4,Adel,50,Alexandria,Cash
+"specialty chocolate,newspapers",2,1774,4,Adel,50,Alexandria,Credit
+"chicken,whole milk",2,775,4,Adel,50,Alexandria,Cash
+canned beer,1,1125,2,Mohamed,25,Alexandria,Cash
+"soap,napkins",2,585,2,Mohamed,25,Alexandria,Credit
+"pip fruit,whole milk,frozen vegetables,napkins,candles",5,783,2,Mohamed,25,Alexandria,Credit
+"pork,beef,grapes,other vegetables,baking powder,soda",6,328,10,Samy,55,Alexandria,Cash
+"packaged fruit/vegetables,soda,napkins",3,1321,4,Adel,50,Alexandria,Cash
+"sausage,berries,packaged fruit/vegetables,specialty fat",4,683,10,Samy,55,Alexandria,Credit
+whole milk,1,2345,2,Mohamed,25,Alexandria,Credit
+other vegetables,1,519,4,Adel,50,Alexandria,Cash
+"sausage,beef,root vegetables,whole milk,butter,curd,yogurt,cream cheese ,rolls/buns,margarine",10,1489,10,Samy,55,Alexandria,Cash
+"butter,white bread",2,2452,4,Adel,50,Alexandria,Cash
+"chicken,citrus fruit,tropical fruit,grapes,other vegetables,whole milk,yogurt,domestic eggs,flour,oil,coffee,fruit/vegetable juice",12,1994,2,Mohamed,25,Alexandria,Credit
+"cooking chocolate,female sanitary products",2,268,2,Mohamed,25,Alexandria,Credit
+"berries,whole milk,butter,whipped/sour cream,domestic eggs,flour,meat spreads,canned fish,bottled water,liquor,shopping bags",11,1084,10,Samy,55,Alexandria,Cash
+"berries,other vegetables,butter milk,yogurt,bottled water",5,2307,2,Mohamed,25,Alexandria,Cash
+"hamburger meat,rice,soups,sauces",4,933,4,Adel,50,Alexandria,Credit
+chocolate,1,113,2,Mohamed,25,Alexandria,Credit
+"sausage,rolls/buns,chocolate",3,554,2,Mohamed,25,Alexandria,Cash
+"butter milk,coffee",2,2096,4,Adel,50,Alexandria,Credit
+specialty bar,1,2450,10,Samy,55,Alexandria,Credit
+"fish,other vegetables,packaged fruit/vegetables,cat food,pet care,coffee,bottled water,red/blush wine",8,666,4,Adel,50,Alexandria,Credit
+"pip fruit,other vegetables,whole milk,frozen vegetables,chewing gum",5,250,2,Mohamed,25,Alexandria,Cash
+"frankfurter,other vegetables,dessert",3,328,2,Mohamed,25,Alexandria,Credit
+"ham,tropical fruit,butter,yogurt,processed cheese,white bread,soda,fruit/vegetable juice,specialty bar",9,726,2,Mohamed,25,Alexandria,Cash
+"sausage,onions,yogurt,detergent",4,1847,2,Mohamed,25,Alexandria,Credit
+"pip fruit,whole milk,butter,dessert,domestic eggs,rice,sugar,salty snack",8,1948,10,Samy,55,Alexandria,Cash
+"pork,beef,cream cheese ,tidbits,soda",5,517,4,Adel,50,Alexandria,Credit
+"citrus fruit,mustard,soda,canned beer,salty snack,chocolate,candy,shopping bags",8,2268,10,Samy,55,Alexandria,Cash
+"sausage,pip fruit,other vegetables,hard cheese,brown bread,oil,hygiene articles",7,2106,2,Mohamed,25,Alexandria,Credit
+"sausage,soda,shopping bags",3,1070,2,Mohamed,25,Alexandria,Cash
+"frankfurter,turkey,tropical fruit,grapes,root vegetables,other vegetables,whole milk,frozen vegetables,frozen meals,frozen potato products,pastry,pickled vegetables,sweet spreads,soda,misc. beverages,salty snack,cake bar,chocolate,detergent,house keeping products",20,1333,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,long life bakery product",2,353,2,Mohamed,25,Alexandria,Credit
+"pork,root vegetables,pastry,bottled beer",4,1485,10,Samy,55,Alexandria,Credit
+"citrus fruit,whole milk,pastry,soda,red/blush wine",5,357,10,Samy,55,Alexandria,Credit
+"whole milk,cream cheese ,specialty chocolate,candy",4,1110,2,Mohamed,25,Alexandria,Cash
+"sausage,butter,bottled beer",3,463,4,Adel,50,Alexandria,Cash
+"tropical fruit,condensed milk,dog food,bottled water,fruit/vegetable juice,specialty chocolate",6,2267,2,Mohamed,25,Alexandria,Cash
+"other vegetables,yogurt,beverages,UHT-milk,cream cheese ,long life bakery product,hygiene articles,napkins",8,1704,10,Samy,55,Alexandria,Credit
+misc. beverages,1,2154,2,Mohamed,25,Alexandria,Credit
+photo/film,1,408,10,Samy,55,Alexandria,Credit
+"pork,frozen potato products,rice,flower (seeds)",4,862,4,Adel,50,Alexandria,Cash
+"frankfurter,citrus fruit,tropical fruit,whole milk,white bread,chewing gum",6,1932,2,Mohamed,25,Alexandria,Cash
+"pork,root vegetables,onions,dessert,whipped/sour cream,UHT-milk,brown bread,newspapers",8,846,10,Samy,55,Alexandria,Cash
+"turkey,tropical fruit,whole milk,yogurt,beverages,hard cheese,cream cheese ,brown bread,baking powder,dog food,bottled water,soda,fruit/vegetable juice,canned beer,detergent,pot plants",16,2167,2,Mohamed,25,Alexandria,Cash
+"meat,turkey,hamburger meat,citrus fruit,pip fruit,whole milk,butter,yogurt,specialty cheese,rolls/buns,brown bread,Instant food products,bottled beer,specialty chocolate,newspapers",15,1394,2,Mohamed,25,Alexandria,Credit
+"pork,root vegetables,whole milk,pickled vegetables,coffee",5,1127,4,Adel,50,Alexandria,Credit
+"frankfurter,pork,tropical fruit,pip fruit,other vegetables,whipped/sour cream,beverages,white bread",8,1545,2,Mohamed,25,Alexandria,Credit
+"tropical fruit,berries,other vegetables,whole milk,butter,yogurt,cream cheese ,brown bread",8,758,10,Samy,55,Alexandria,Credit
+"citrus fruit,whole milk,butter milk,UHT-milk,domestic eggs,rolls/buns,semi-finished bread,margarine,bottled water",9,1868,10,Samy,55,Alexandria,Credit
+"other vegetables,whole milk,white bread",3,1080,10,Samy,55,Alexandria,Credit
+beef,1,1425,2,Mohamed,25,Alexandria,Credit
+"frankfurter,whole milk,bottled water",3,1883,2,Mohamed,25,Alexandria,Cash
+soda,1,2177,10,Samy,55,Alexandria,Cash
+cleaner,1,321,4,Adel,50,Alexandria,Credit
+"ham,whole milk,soft cheese,long life bakery product",4,1780,4,Adel,50,Alexandria,Credit
+rolls/buns,1,1903,2,Mohamed,25,Alexandria,Credit
+"beef,onions,other vegetables,whipped/sour cream,domestic eggs,pastry,flour,pet care,fruit/vegetable juice,canned beer,newspapers",11,251,2,Mohamed,25,Alexandria,Cash
+"sausage,other vegetables,butter,curd,whipped/sour cream,hard cheese,flour,sauces,misc. beverages,fruit/vegetable juice,salty snack",11,2115,10,Samy,55,Alexandria,Cash
+"packaged fruit/vegetables,whole milk,beverages,rolls/buns,napkins",5,992,10,Samy,55,Alexandria,Cash
+"bottled water,white wine",2,354,2,Mohamed,25,Alexandria,Cash
+"canned vegetables,newspapers",2,218,10,Samy,55,Alexandria,Credit
+"frankfurter,sausage,hamburger meat,tropical fruit,other vegetables,pastry,soda,salty snack,nut snack,detergent",10,2404,10,Samy,55,Alexandria,Credit
+"berries,other vegetables,yogurt,whipped/sour cream,soft cheese,processed cheese,pastry,roll products ,flour,cat food",10,1090,2,Mohamed,25,Alexandria,Credit
+"cat food,canned beer,newspapers",3,694,2,Mohamed,25,Alexandria,Credit
+"whipped/sour cream,specialty fat,waffles,specialty chocolate",4,592,4,Adel,50,Alexandria,Cash
+"pork,tropical fruit,grapes,root vegetables,other vegetables,whole milk,butter,yogurt,rolls/buns",9,1373,2,Mohamed,25,Alexandria,Credit
+chocolate,1,1765,2,Mohamed,25,Alexandria,Cash
+"frankfurter,pork,beef,tropical fruit,root vegetables,other vegetables,butter,rolls/buns,pastry,coffee,fruit/vegetable juice,chocolate,hygiene articles,newspapers",14,2129,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,onions,whole milk,whipped/sour cream,margarine,soda",6,1995,2,Mohamed,25,Alexandria,Cash
+"sausage,pip fruit,root vegetables,herbs,whole milk,processed cheese,mayonnaise,soda,rum",9,751,2,Mohamed,25,Alexandria,Credit
+"whole milk,butter,yogurt,frozen meals,rolls/buns,zwieback,margarine,pickled vegetables,fruit/vegetable juice,bottled beer",10,934,10,Samy,55,Alexandria,Cash
+"pork,bottled beer,salty snack,detergent,napkins",5,2239,4,Adel,50,Alexandria,Cash
+"sausage,spread cheese,mustard,bottled water,cleaner,shopping bags",6,1516,4,Adel,50,Alexandria,Credit
+"pip fruit,whole milk,domestic eggs,white bread,flour,specialty fat,baking powder,bottled water,fruit/vegetable juice,flower (seeds)",10,1336,2,Mohamed,25,Alexandria,Credit
+"whipped/sour cream,ice cream,pot plants",3,1902,2,Mohamed,25,Alexandria,Credit
+"chicken,hamburger meat,herbs,other vegetables,whole milk,yogurt,domestic eggs,rolls/buns,light bulbs",9,2490,4,Adel,50,Alexandria,Credit
+"bottled beer,liquor,liquor (appetizer),long life bakery product",4,1919,2,Mohamed,25,Alexandria,Credit
+canned beer,1,1129,4,Adel,50,Alexandria,Credit
+other vegetables,1,699,10,Samy,55,Alexandria,Credit
+"finished products,dessert,pastry,shopping bags",4,1877,4,Adel,50,Alexandria,Cash
+abrasive cleaner,1,940,10,Samy,55,Alexandria,Credit
+"bottled beer,nut snack",2,592,4,Adel,50,Alexandria,Cash
+"specialty cheese,soap",2,1578,4,Adel,50,Alexandria,Cash
+"citrus fruit,other vegetables,white bread,brown bread,roll products ,margarine,coffee,fruit/vegetable juice,syrup",9,1894,2,Mohamed,25,Alexandria,Credit
+"curd,yogurt,oil,bottled water,bottled beer,male cosmetics",6,2393,10,Samy,55,Alexandria,Credit
+"sausage,UHT-milk,domestic eggs,white bread,soda,cake bar",6,1670,2,Mohamed,25,Alexandria,Credit
+"other vegetables,pastry,canned fruit,chocolate,dishes",5,2227,10,Samy,55,Alexandria,Cash
+newspapers,1,1287,2,Mohamed,25,Alexandria,Cash
+"dessert,rolls/buns,waffles",3,2164,10,Samy,55,Alexandria,Credit
+"citrus fruit,butter,frozen vegetables,baking powder",4,1063,2,Mohamed,25,Alexandria,Cash
+"frankfurter,beef,other vegetables,chocolate,shopping bags",5,1809,2,Mohamed,25,Alexandria,Cash
+"whole milk,soda,specialty bar,newspapers",4,298,10,Samy,55,Alexandria,Cash
+"pastry,canned beer,chocolate,newspapers",4,684,4,Adel,50,Alexandria,Credit
+"beef,whipped/sour cream,roll products ",3,982,4,Adel,50,Alexandria,Cash
+"sausage,citrus fruit",2,1552,2,Mohamed,25,Alexandria,Cash
+"dessert,bottled water,fruit/vegetable juice",3,792,4,Adel,50,Alexandria,Cash
+"chewing gum,specialty bar",2,909,2,Mohamed,25,Alexandria,Credit
+packaged fruit/vegetables,1,794,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,tropical fruit,pip fruit,shopping bags",4,880,10,Samy,55,Alexandria,Cash
+"chicken,curd",2,2266,4,Adel,50,Alexandria,Cash
+"condensed milk,pastry,chocolate",3,176,4,Adel,50,Alexandria,Cash
+pip fruit,1,2454,10,Samy,55,Alexandria,Cash
+"pastry,chocolate,specialty bar",3,372,10,Samy,55,Alexandria,Credit
+ice cream,1,1978,10,Samy,55,Alexandria,Cash
+"frankfurter,grapes",2,2485,4,Adel,50,Alexandria,Cash
+"citrus fruit,oil,misc. beverages",3,2441,2,Mohamed,25,Alexandria,Cash
+"butter milk,white bread,pet care,newspapers",4,875,4,Adel,50,Alexandria,Cash
+other vegetables,1,250,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,other vegetables,frozen meals,rice,bottled beer,canned beer",6,2334,10,Samy,55,Alexandria,Credit
+"whole milk,ice cream",2,756,10,Samy,55,Alexandria,Cash
+"chewing gum,hygiene articles",2,1204,2,Mohamed,25,Alexandria,Credit
+"whole milk,coffee",2,1116,4,Adel,50,Alexandria,Credit
+canned beer,1,1875,2,Mohamed,25,Alexandria,Cash
+"chicken,beef,packaged fruit/vegetables,dessert,whipped/sour cream,soft cheese,frozen meals,rolls/buns,white bread,pasta,shopping bags",11,1004,2,Mohamed,25,Alexandria,Credit
+bottled beer,1,141,4,Adel,50,Alexandria,Cash
+canned beer,1,1227,2,Mohamed,25,Alexandria,Cash
+"yogurt,light bulbs",2,704,2,Mohamed,25,Alexandria,Cash
+rolls/buns,1,617,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,tropical fruit,whole milk,pastry,margarine,candles",6,1390,2,Mohamed,25,Alexandria,Cash
+"other vegetables,whole milk,yogurt,domestic eggs,roll products ,newspapers,shopping bags",7,1698,2,Mohamed,25,Alexandria,Cash
+"frankfurter,sausage,finished products,organic sausage,pastry,waffles",6,540,2,Mohamed,25,Alexandria,Credit
+"bottled beer,liquor,shopping bags",3,1412,2,Mohamed,25,Alexandria,Cash
+"other vegetables,whole milk,rolls/buns,flour",4,2494,4,Adel,50,Alexandria,Cash
+"frankfurter,sausage,chicken,citrus fruit,root vegetables,onions,other vegetables,butter,processed cheese,spread cheese,salad dressing,frozen vegetables,frozen fish,rolls/buns,flour,artif. sweetener,soda,candy,cleaner",19,1239,2,Mohamed,25,Alexandria,Credit
+frankfurter,1,180,2,Mohamed,25,Alexandria,Credit
+"chicken,citrus fruit,butter,margarine,bottled water,soda,fruit/vegetable juice,newspapers",8,1910,4,Adel,50,Alexandria,Credit
+"chicken,herbs,curd,oil,soda,canned beer,napkins",7,2271,10,Samy,55,Alexandria,Cash
+"bottled water,white wine,salty snack",3,1346,2,Mohamed,25,Alexandria,Credit
+"butter,sliced cheese,brown bread",3,643,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,pip fruit,other vegetables,condensed milk,frozen vegetables,pastry,waffles",7,1692,4,Adel,50,Alexandria,Cash
+canned beer,1,2366,10,Samy,55,Alexandria,Cash
+"chicken,rolls/buns,margarine,coffee,bottled water,red/blush wine,long life bakery product,candy,newspapers",9,998,4,Adel,50,Alexandria,Cash
+"tropical fruit,other vegetables,whole milk,margarine",4,1909,4,Adel,50,Alexandria,Cash
+whole milk,1,1779,2,Mohamed,25,Alexandria,Cash
+specialty chocolate,1,1527,10,Samy,55,Alexandria,Cash
+"zwieback,dishes",2,1575,2,Mohamed,25,Alexandria,Cash
+canned vegetables,1,356,4,Adel,50,Alexandria,Cash
+"pip fruit,root vegetables,other vegetables,beverages,cookware",5,331,2,Mohamed,25,Alexandria,Credit
+"sausage,sliced cheese,rolls/buns,sugar,candy",5,1888,2,Mohamed,25,Alexandria,Cash
+"sausage,rolls/buns,male cosmetics",3,1243,2,Mohamed,25,Alexandria,Cash
+"soda,salty snack",2,776,4,Adel,50,Alexandria,Credit
+"butter,beverages,sliced cheese,pastry,shopping bags",5,784,4,Adel,50,Alexandria,Cash
+"frankfurter,white wine,dish cleaner",3,690,2,Mohamed,25,Alexandria,Cash
+finished products,1,835,4,Adel,50,Alexandria,Credit
+"frankfurter,beef,berries,processed cheese,frozen meals,frozen potato products,rolls/buns,ready soups,bottled water,soda,fruit/vegetable juice,red/blush wine,long life bakery product,specialty bar",14,1070,4,Adel,50,Alexandria,Cash
+"butter milk,instant coffee",2,2435,2,Mohamed,25,Alexandria,Credit
+"whole milk,curd,red/blush wine,newspapers",4,2411,4,Adel,50,Alexandria,Credit
+whole milk,1,570,10,Samy,55,Alexandria,Cash
+"berries,other vegetables,yogurt,spread cheese,rolls/buns",5,1986,4,Adel,50,Alexandria,Cash
+"chicken,whole milk",2,999,10,Samy,55,Alexandria,Cash
+"rolls/buns,newspapers",2,2493,2,Mohamed,25,Alexandria,Credit
+"beef,tropical fruit,root vegetables,yogurt,brown bread,canned fish,canned beer,red/blush wine,newspapers",9,2477,10,Samy,55,Alexandria,Credit
+"sausage,rolls/buns,soda",3,2329,2,Mohamed,25,Alexandria,Credit
+"sausage,domestic eggs,rolls/buns,canned fish,coffee,canned beer,white wine,male cosmetics,napkins,shopping bags",10,1234,10,Samy,55,Alexandria,Credit
+"pork,root vegetables,other vegetables,beverages,rolls/buns,pastry,sauces,bottled water,soda,red/blush wine,sparkling wine,chocolate,specialty chocolate,candy,napkins,newspapers",16,767,4,Adel,50,Alexandria,Credit
+"beef,whole milk",2,2355,10,Samy,55,Alexandria,Credit
+"sausage,yogurt",2,1035,4,Adel,50,Alexandria,Credit
+"root vegetables,whole milk",2,1790,2,Mohamed,25,Alexandria,Cash
+"frankfurter,other vegetables,butter,yogurt,soft cheese,rolls/buns,newspapers",7,930,2,Mohamed,25,Alexandria,Credit
+"ice cream,rolls/buns",2,536,2,Mohamed,25,Alexandria,Credit
+"ice cream,chocolate",2,1717,10,Samy,55,Alexandria,Cash
+sparkling wine,1,622,2,Mohamed,25,Alexandria,Credit
+"tropical fruit,soda,rum",3,1165,10,Samy,55,Alexandria,Credit
+"long life bakery product,newspapers",2,2388,10,Samy,55,Alexandria,Credit
+"rolls/buns,Instant food products",2,1901,10,Samy,55,Alexandria,Credit
+"condensed milk,coffee",2,622,4,Adel,50,Alexandria,Cash
+"beef,root vegetables,whole milk,yogurt,pudding powder,sweet spreads",6,1386,10,Samy,55,Alexandria,Cash
+"whole milk,butter,butter milk,beverages,domestic eggs,rolls/buns,salt,coffee,chocolate,shopping bags",10,1793,4,Adel,50,Alexandria,Cash
+"curd cheese,rolls/buns,bottled beer",3,785,10,Samy,55,Alexandria,Cash
+"other vegetables,frozen meals,rolls/buns,bottled water,bottled beer,red/blush wine",6,1467,4,Adel,50,Alexandria,Cash
+"sausage,pork,beef,tropical fruit,grapes,other vegetables,whole milk,frozen dessert,domestic eggs,soda,chocolate",11,750,10,Samy,55,Alexandria,Credit
+"tropical fruit,whipped/sour cream,UHT-milk,salt,pasta,oil,salty snack,candy",8,1525,10,Samy,55,Alexandria,Cash
+"sausage,butter,butter milk,ice cream,coffee,salty snack",6,2284,10,Samy,55,Alexandria,Credit
+"whole milk,specialty chocolate,light bulbs",3,705,2,Mohamed,25,Alexandria,Credit
+"salty snack,specialty chocolate",2,2444,4,Adel,50,Alexandria,Cash
+"finished products,beef,frozen meals,rolls/buns,soda",5,1542,2,Mohamed,25,Alexandria,Cash
+"bottled beer,liquor",2,1728,4,Adel,50,Alexandria,Cash
+"citrus fruit,tropical fruit,pastry,seasonal products",4,474,2,Mohamed,25,Alexandria,Credit
+"herbs,whipped/sour cream,semi-finished bread,chewing gum,newspapers",5,2436,2,Mohamed,25,Alexandria,Cash
+"pip fruit,rolls/buns",2,657,4,Adel,50,Alexandria,Credit
+whole milk,1,2258,4,Adel,50,Alexandria,Credit
+"sausage,rolls/buns",2,491,4,Adel,50,Alexandria,Cash
+"sausage,beverages,brown bread,salt,soda,salty snack,popcorn,dental care,make up remover",9,2180,2,Mohamed,25,Alexandria,Cash
+"chicken,whole milk",2,728,4,Adel,50,Alexandria,Credit
+"ham,whole milk,hard cheese,cat food",4,1866,10,Samy,55,Alexandria,Credit
+specialty chocolate,1,488,10,Samy,55,Alexandria,Cash
+"rolls/buns,margarine,canned fish",3,2376,4,Adel,50,Alexandria,Cash
+"dessert,beverages",2,1611,10,Samy,55,Alexandria,Credit
+"salty snack,specialty chocolate",2,413,2,Mohamed,25,Alexandria,Credit
+"pork,bottled water,white wine,shopping bags",4,268,4,Adel,50,Alexandria,Credit
+"frankfurter,cream cheese ,white bread",3,2108,10,Samy,55,Alexandria,Credit
+sweet spreads,1,462,4,Adel,50,Alexandria,Cash
+whole milk,1,435,10,Samy,55,Alexandria,Credit
+"whole milk,curd,cream cheese ,shopping bags",4,2284,4,Adel,50,Alexandria,Credit
+"other vegetables,butter milk,UHT-milk,sliced cheese,cream cheese ,processed cheese,specialty cheese,canned vegetables",8,1710,2,Mohamed,25,Alexandria,Credit
+specialty bar,1,2368,2,Mohamed,25,Alexandria,Credit
+canned beer,1,640,4,Adel,50,Alexandria,Credit
+"sausage,coffee,long life bakery product,shopping bags",4,1972,10,Samy,55,Alexandria,Credit
+fruit/vegetable juice,1,2470,4,Adel,50,Alexandria,Cash
+"rolls/buns,napkins,shopping bags",3,1573,4,Adel,50,Alexandria,Cash
+"rolls/buns,bottled water",2,662,10,Samy,55,Alexandria,Credit
+"soft cheese,coffee,candy",3,1566,2,Mohamed,25,Alexandria,Credit
+"pip fruit,grapes,frozen meals,rolls/buns,mustard,canned beer,liqueur",7,1178,10,Samy,55,Alexandria,Cash
+"citrus fruit,tropical fruit,rolls/buns,soda,specialty bar",5,1754,2,Mohamed,25,Alexandria,Credit
+shopping bags,1,1137,2,Mohamed,25,Alexandria,Credit
+"root vegetables,margarine,candles",3,1478,10,Samy,55,Alexandria,Cash
+"canned beer,salty snack",2,571,4,Adel,50,Alexandria,Credit
+pork,1,1499,4,Adel,50,Alexandria,Cash
+"chicken,whole milk,rolls/buns",3,2086,2,Mohamed,25,Alexandria,Cash
+"rolls/buns,newspapers",2,418,4,Adel,50,Alexandria,Cash
+pip fruit,1,1381,2,Mohamed,25,Alexandria,Cash
+"whole milk,hard cheese,brown bread,coffee,soda",5,711,2,Mohamed,25,Alexandria,Credit
+"sausage,soda",2,1905,10,Samy,55,Alexandria,Cash
+"frankfurter,berries,whole milk,rice,coffee,cling film/bags",6,2250,2,Mohamed,25,Alexandria,Credit
+whipped/sour cream,1,1335,10,Samy,55,Alexandria,Credit
+"frankfurter,sausage,pork,beef,hamburger meat,tropical fruit,root vegetables,whole milk,yogurt,spread cheese,rolls/buns,pastry,bottled beer,canned beer,newspapers",15,1247,4,Adel,50,Alexandria,Credit
+"beef,tropical fruit,margarine,bottled water",4,2356,10,Samy,55,Alexandria,Credit
+"frankfurter,sausage,ham,grapes,other vegetables,dessert,whipped/sour cream,bottled water,soda",9,1900,2,Mohamed,25,Alexandria,Cash
+beverages,1,1675,2,Mohamed,25,Alexandria,Credit
+"pork,whipped/sour cream,rolls/buns,oil,soda,long life bakery product,chocolate,candy",8,1148,2,Mohamed,25,Alexandria,Credit
+canned beer,1,2104,2,Mohamed,25,Alexandria,Cash
+"herbs,whole milk,butter,soups,bottled water,bottled beer",6,2038,10,Samy,55,Alexandria,Credit
+"sausage,rolls/buns",2,919,4,Adel,50,Alexandria,Credit
+"sausage,whole milk,yogurt,UHT-milk,rolls/buns",5,1370,4,Adel,50,Alexandria,Credit
+"liver loaf,beef,whole milk,yogurt,soft cheese,frozen vegetables,white bread,roll products ,vinegar,baking powder,fruit/vegetable juice",11,1726,10,Samy,55,Alexandria,Cash
+"pork,root vegetables,whole milk,sliced cheese,frozen fish,domestic eggs,cake bar,chocolate marshmallow,candy",9,374,10,Samy,55,Alexandria,Cash
+"grapes,hard cheese,margarine,specialty fat,newspapers",5,1994,10,Samy,55,Alexandria,Credit
+"whole milk,butter,curd,rubbing alcohol",4,487,10,Samy,55,Alexandria,Cash
+"sausage,other vegetables,whipped/sour cream,ice cream,domestic eggs,rolls/buns,coffee,bottled water,newspapers",9,478,4,Adel,50,Alexandria,Credit
+"hamburger meat,pip fruit,other vegetables,whole milk,curd,roll products ",6,554,4,Adel,50,Alexandria,Cash
+"root vegetables,domestic eggs,white bread",3,1829,10,Samy,55,Alexandria,Cash
+"whole milk,butter,curd,whipped/sour cream,newspapers",5,2182,4,Adel,50,Alexandria,Cash
+"cream cheese ,rolls/buns,brown bread",3,1983,10,Samy,55,Alexandria,Credit
+"processed cheese,rolls/buns,specialty chocolate",3,1750,2,Mohamed,25,Alexandria,Credit
+"sausage,rolls/buns,canned beer",3,2476,10,Samy,55,Alexandria,Credit
+"cream cheese ,processed cheese,specialty bar",3,791,4,Adel,50,Alexandria,Credit
+"whole milk,cream cheese ,chewing gum",3,1941,4,Adel,50,Alexandria,Credit
+"sausage,tropical fruit,pip fruit,spices,pet care,canned beer",6,389,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,whole milk,pickled vegetables,soda",4,778,2,Mohamed,25,Alexandria,Cash
+"rolls/buns,brown bread,specialty bar",3,1030,4,Adel,50,Alexandria,Credit
+"other vegetables,whole milk,curd,whipped/sour cream,domestic eggs,brown bread,flour,coffee",8,1109,2,Mohamed,25,Alexandria,Credit
+"frankfurter,pork,other vegetables,brown bread,pickled vegetables,coffee,newspapers",7,1586,4,Adel,50,Alexandria,Cash
+"citrus fruit,tropical fruit,onions,other vegetables,pastry,bottled water,bathroom cleaner,newspapers",8,195,2,Mohamed,25,Alexandria,Cash
+"chicken,grapes",2,1342,10,Samy,55,Alexandria,Cash
+"bottled beer,light bulbs",2,1324,4,Adel,50,Alexandria,Cash
+soda,1,1018,4,Adel,50,Alexandria,Cash
+"frozen meals,specialty bar",2,2236,2,Mohamed,25,Alexandria,Credit
+waffles,1,1027,2,Mohamed,25,Alexandria,Credit
+chocolate,1,2256,2,Mohamed,25,Alexandria,Credit
+"turkey,roll products ,dishes",3,579,10,Samy,55,Alexandria,Credit
+grapes,1,1943,2,Mohamed,25,Alexandria,Credit
+"hamburger meat,whole milk,butter,UHT-milk,cat food,pet care,detergent",7,1952,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,curd,yogurt,whipped/sour cream",4,262,10,Samy,55,Alexandria,Credit
+bottled water,1,1365,2,Mohamed,25,Alexandria,Cash
+"rolls/buns,dishes",2,201,4,Adel,50,Alexandria,Credit
+"whole milk,pasta,long life bakery product,chocolate",4,1102,2,Mohamed,25,Alexandria,Cash
+specialty bar,1,381,4,Adel,50,Alexandria,Credit
+"grapes,hard cheese",2,1316,4,Adel,50,Alexandria,Cash
+"turkey,frozen potato products,soda",3,1494,10,Samy,55,Alexandria,Cash
+"whole milk,cake bar",2,709,4,Adel,50,Alexandria,Credit
+"yogurt,specialty chocolate",2,1325,2,Mohamed,25,Alexandria,Credit
+bottled water,1,2132,2,Mohamed,25,Alexandria,Credit
+"pork,tropical fruit,nuts/prunes,rolls/buns,newspapers",5,1524,10,Samy,55,Alexandria,Credit
+"beef,soft cheese,chewing gum",3,2463,2,Mohamed,25,Alexandria,Cash
+"hamburger meat,hard cheese,sauces,coffee,toilet cleaner,shopping bags",6,983,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,other vegetables,UHT-milk,domestic eggs,white bread,pickled vegetables",6,1371,10,Samy,55,Alexandria,Credit
+"other vegetables,butter,beverages,soda,photo/film,shopping bags",6,740,4,Adel,50,Alexandria,Credit
+"sausage,whole milk,domestic eggs,sugar,coffee,napkins,newspapers,shopping bags",8,1653,4,Adel,50,Alexandria,Credit
+"sausage,citrus fruit,whole milk,sliced cheese,frozen meals,white bread,chewing gum,photo/film",8,2296,4,Adel,50,Alexandria,Cash
+chicken,1,113,2,Mohamed,25,Alexandria,Credit
+"bottled water,soda",2,101,4,Adel,50,Alexandria,Credit
+"frankfurter,rolls/buns,ketchup,soda",4,2458,2,Mohamed,25,Alexandria,Credit
+"turkey,whole milk,liquor (appetizer),shopping bags",4,2289,10,Samy,55,Alexandria,Cash
+"mayonnaise,white wine,shopping bags",3,1530,2,Mohamed,25,Alexandria,Credit
+soda,1,2271,4,Adel,50,Alexandria,Cash
+"whole milk,rolls/buns",2,1492,10,Samy,55,Alexandria,Credit
+berries,1,162,2,Mohamed,25,Alexandria,Cash
+"yogurt,condensed milk,sliced cheese,rolls/buns,margarine,bottled water,soda,cling film/bags",8,2435,2,Mohamed,25,Alexandria,Credit
+rolls/buns,1,618,10,Samy,55,Alexandria,Credit
+"yogurt,soda",2,1586,4,Adel,50,Alexandria,Cash
+"tropical fruit,root vegetables,whole milk,butter,curd,yogurt,pudding powder,coffee",8,1426,4,Adel,50,Alexandria,Cash
+"berries,whole milk,flour,baking powder,dog food,chocolate",6,1364,4,Adel,50,Alexandria,Cash
+"salt,detergent",2,1259,4,Adel,50,Alexandria,Cash
+pastry,1,1871,4,Adel,50,Alexandria,Credit
+"curd,rolls/buns,pastry",3,1481,10,Samy,55,Alexandria,Credit
+"soda,fruit/vegetable juice,long life bakery product",3,2435,2,Mohamed,25,Alexandria,Cash
+"ice cream,brown bread,pastry,napkins",4,133,10,Samy,55,Alexandria,Cash
+"tropical fruit,whole milk,butter milk,brown bread,bottled water",5,1997,2,Mohamed,25,Alexandria,Cash
+"meat,tropical fruit,rolls/buns,instant coffee,soda,chocolate,newspapers",7,1879,2,Mohamed,25,Alexandria,Credit
+bottled beer,1,1150,10,Samy,55,Alexandria,Credit
+"butter,pastry,cat food,canned beer,hygiene articles,shopping bags",6,1211,10,Samy,55,Alexandria,Credit
+"frankfurter,pork,dessert,UHT-milk,margarine,specialty fat,napkins",7,872,2,Mohamed,25,Alexandria,Cash
+canned beer,1,2159,2,Mohamed,25,Alexandria,Cash
+"whole milk,instant coffee,bottled beer",3,537,2,Mohamed,25,Alexandria,Credit
+"frankfurter,grapes,yogurt,coffee,bottled water",5,789,4,Adel,50,Alexandria,Credit
+"root vegetables,other vegetables,whole milk,butter milk,frozen meals",5,2248,4,Adel,50,Alexandria,Credit
+hygiene articles,1,700,10,Samy,55,Alexandria,Credit
+"pip fruit,coffee",2,2468,2,Mohamed,25,Alexandria,Credit
+"root vegetables,yogurt,brown bread,shopping bags",4,1171,10,Samy,55,Alexandria,Cash
+"whole milk,dessert",2,370,2,Mohamed,25,Alexandria,Credit
+newspapers,1,1159,4,Adel,50,Alexandria,Credit
+"sausage,pip fruit,whole milk,curd,yogurt",5,624,4,Adel,50,Alexandria,Cash
+"chicken,root vegetables,yogurt,cream cheese ,napkins",5,2059,2,Mohamed,25,Alexandria,Cash
+"beef,whole milk,rolls/buns,pastry,cat food,waffles,chocolate,hygiene articles,newspapers,shopping bags",10,1498,2,Mohamed,25,Alexandria,Cash
+"turkey,tropical fruit,root vegetables,whole milk,newspapers",5,2267,2,Mohamed,25,Alexandria,Cash
+"whole milk,hard cheese,brown bread,bottled beer,hygiene articles,newspapers,shopping bags",7,478,4,Adel,50,Alexandria,Cash
+"nuts/prunes,soda,chocolate",3,2244,4,Adel,50,Alexandria,Credit
+"beef,root vegetables,other vegetables,white bread,canned fruit,soda,chocolate,newspapers",8,473,10,Samy,55,Alexandria,Cash
+bathroom cleaner,1,2278,2,Mohamed,25,Alexandria,Credit
+"grapes,dessert,yogurt,beverages,frozen vegetables,canned beer",6,711,4,Adel,50,Alexandria,Credit
+beef,1,1089,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,yogurt,UHT-milk,pastry,sauces,coffee,light bulbs",7,1979,2,Mohamed,25,Alexandria,Cash
+"grapes,salty snack",2,255,4,Adel,50,Alexandria,Credit
+"ham,other vegetables,hard cheese,pastry,chewing gum",5,779,4,Adel,50,Alexandria,Credit
+"frankfurter,whole milk,yogurt,rolls/buns,margarine",5,1021,2,Mohamed,25,Alexandria,Credit
+"beef,curd,frozen vegetables,frozen dessert,rolls/buns,coffee,newspapers,shopping bags",8,433,10,Samy,55,Alexandria,Cash
+"tropical fruit,pastry,soda,chocolate",4,1200,10,Samy,55,Alexandria,Credit
+canned beer,1,2496,10,Samy,55,Alexandria,Credit
+"sausage,whole milk,brown bread",3,2124,10,Samy,55,Alexandria,Credit
+frozen dessert,1,267,4,Adel,50,Alexandria,Cash
+"grapes,root vegetables,other vegetables,yogurt,white bread",5,2009,10,Samy,55,Alexandria,Cash
+"yogurt,dish cleaner,candles",3,831,10,Samy,55,Alexandria,Cash
+"whole milk,pastry,semi-finished bread",3,1421,4,Adel,50,Alexandria,Cash
+"whole milk,dog food,cat food,soda,chocolate,napkins",6,692,2,Mohamed,25,Alexandria,Cash
+"brown bread,sparkling wine",2,1561,2,Mohamed,25,Alexandria,Credit
+"other vegetables,condensed milk,soda,newspapers",4,781,10,Samy,55,Alexandria,Cash
+"canned beer,waffles,chocolate",3,147,10,Samy,55,Alexandria,Credit
+newspapers,1,1584,4,Adel,50,Alexandria,Cash
+"yogurt,canned beer",2,1532,2,Mohamed,25,Alexandria,Cash
+whole milk,1,829,10,Samy,55,Alexandria,Credit
+"curd,dessert,rolls/buns,seasonal products,dishes",5,2480,2,Mohamed,25,Alexandria,Cash
+"whole milk,ice cream,prosecco",3,265,4,Adel,50,Alexandria,Credit
+domestic eggs,1,554,4,Adel,50,Alexandria,Cash
+"sausage,tropical fruit,cream cheese ,pastry,bottled water",5,1702,10,Samy,55,Alexandria,Credit
+canned fruit,1,324,10,Samy,55,Alexandria,Credit
+"frankfurter,ham,meat,pip fruit,berries,UHT-milk,soft cheese,sliced cheese,cream cheese ,frozen vegetables,frozen fish,white bread,brown bread,sugar,sauces,sweet spreads,canned fish,pet care,fruit/vegetable juice,specialty bar,kitchen towels",21,490,2,Mohamed,25,Alexandria,Cash
+UHT-milk,1,2326,2,Mohamed,25,Alexandria,Cash
+whole milk,1,939,2,Mohamed,25,Alexandria,Credit
+whole milk,1,450,10,Samy,55,Alexandria,Cash
+"chicken,soda,liquor (appetizer),newspapers,shopping bags",5,957,10,Samy,55,Alexandria,Credit
+"sausage,other vegetables,beverages,rolls/buns,red/blush wine,specialty chocolate,shopping bags",7,1012,4,Adel,50,Alexandria,Credit
+semi-finished bread,1,1318,10,Samy,55,Alexandria,Cash
+"frankfurter,citrus fruit,other vegetables,UHT-milk,syrup,seasonal products,newspapers",7,886,2,Mohamed,25,Alexandria,Cash
+"fish,citrus fruit,tropical fruit,other vegetables,oil,margarine,white wine",7,1552,2,Mohamed,25,Alexandria,Cash
+"artif. sweetener,coffee",2,1298,2,Mohamed,25,Alexandria,Credit
+"finished products,other vegetables,pet care,misc. beverages,chocolate,newspapers",6,368,10,Samy,55,Alexandria,Credit
+"coffee,syrup",2,2295,2,Mohamed,25,Alexandria,Credit
+"onions,fruit/vegetable juice",2,1078,4,Adel,50,Alexandria,Cash
+"beef,other vegetables,whole milk,ice cream",4,641,2,Mohamed,25,Alexandria,Cash
+"canned beer,specialty bar",2,1948,10,Samy,55,Alexandria,Credit
+specialty chocolate,1,2061,4,Adel,50,Alexandria,Credit
+soda,1,2379,4,Adel,50,Alexandria,Credit
+"other vegetables,rice,coffee,specialty chocolate,seasonal products,hygiene articles,shopping bags",7,2095,2,Mohamed,25,Alexandria,Cash
+"onions,whipped/sour cream,newspapers",3,1824,2,Mohamed,25,Alexandria,Cash
+white bread,1,616,2,Mohamed,25,Alexandria,Cash
+"sausage,ham,curd,soda,cake bar,shopping bags",6,1189,4,Adel,50,Alexandria,Credit
+bottled beer,1,454,2,Mohamed,25,Alexandria,Credit
+"canned beer,salty snack,chocolate",3,1287,2,Mohamed,25,Alexandria,Cash
+coffee,1,1788,2,Mohamed,25,Alexandria,Cash
+"pip fruit,processed cheese,bottled water",3,1547,10,Samy,55,Alexandria,Credit
+"pork,bottled water",2,2447,2,Mohamed,25,Alexandria,Cash
+"pip fruit,other vegetables,whipped/sour cream,sliced cheese,rolls/buns",5,913,10,Samy,55,Alexandria,Cash
+"beef,citrus fruit,curd,butter milk",4,1371,10,Samy,55,Alexandria,Credit
+"rolls/buns,soda",2,1905,2,Mohamed,25,Alexandria,Credit
+"beverages,processed cheese,coffee",3,742,4,Adel,50,Alexandria,Cash
+pip fruit,1,1415,2,Mohamed,25,Alexandria,Cash
+"organic sausage,tropical fruit,packaged fruit/vegetables,whole milk,curd,yogurt,soft cheese,curd cheese,frozen vegetables,domestic eggs,rolls/buns,pastry,margarine,bottled water,cooking chocolate,hygiene articles,shopping bags",17,2189,10,Samy,55,Alexandria,Cash
+"berries,whole milk,curd,yogurt,rolls/buns,pastry,honey,chocolate",8,2325,10,Samy,55,Alexandria,Credit
+beef,1,1152,4,Adel,50,Alexandria,Credit
+"root vegetables,bottled water,white wine",3,2339,2,Mohamed,25,Alexandria,Cash
+"beef,other vegetables,whole milk,domestic eggs,margarine,pickled vegetables,bottled water,bottled beer,newspapers",9,2301,10,Samy,55,Alexandria,Credit
+"domestic eggs,rolls/buns,flour",3,668,2,Mohamed,25,Alexandria,Credit
+"dessert,specialty bar,newspapers",3,990,4,Adel,50,Alexandria,Cash
+fruit/vegetable juice,1,2401,4,Adel,50,Alexandria,Cash
+"grapes,pastry,coffee,hair spray",4,1400,4,Adel,50,Alexandria,Cash
+"bottled water,canned beer",2,1247,2,Mohamed,25,Alexandria,Cash
+shopping bags,1,997,4,Adel,50,Alexandria,Credit
+"whole milk,yogurt,frozen fish,domestic eggs,white bread,margarine,fruit/vegetable juice,waffles,skin care,hygiene articles",10,872,10,Samy,55,Alexandria,Credit
+"pip fruit,cream cheese ,rolls/buns",3,2057,2,Mohamed,25,Alexandria,Credit
+"frankfurter,sausage",2,520,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,root vegetables,whole milk,white bread,coffee",5,126,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,beverages",2,473,4,Adel,50,Alexandria,Credit
+"other vegetables,rolls/buns,canned fish",3,1893,2,Mohamed,25,Alexandria,Cash
+"beef,whole milk,yogurt,brown bread,dish cleaner,dishes",6,1885,4,Adel,50,Alexandria,Cash
+"frozen meals,cereals,shopping bags",3,454,2,Mohamed,25,Alexandria,Cash
+bottled water,1,512,2,Mohamed,25,Alexandria,Cash
+"sausage,pork,beef,hamburger meat,root vegetables,whole milk,butter,dessert,pasta,cat food,chocolate,candles,shopping bags",13,2221,4,Adel,50,Alexandria,Cash
+"sausage,other vegetables,rolls/buns",3,448,2,Mohamed,25,Alexandria,Cash
+"frozen vegetables,specialty chocolate",2,1542,2,Mohamed,25,Alexandria,Cash
+"chicken,berries,root vegetables,whole milk,butter,whipped/sour cream,cereals,napkins,photo/film,flower (seeds)",10,293,2,Mohamed,25,Alexandria,Cash
+rolls/buns,1,321,4,Adel,50,Alexandria,Cash
+"sausage,rolls/buns,mustard",3,1232,10,Samy,55,Alexandria,Credit
+"pork,fish,citrus fruit,whole milk,long life bakery product",5,1694,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,berries,whipped/sour cream",3,1149,2,Mohamed,25,Alexandria,Credit
+canned beer,1,1223,4,Adel,50,Alexandria,Credit
+"tropical fruit,whole milk,yogurt,whipped/sour cream,frozen meals,rolls/buns,waffles,newspapers,photo/film",9,1529,4,Adel,50,Alexandria,Credit
+"sausage,bottled beer,liquor",3,368,10,Samy,55,Alexandria,Credit
+misc. beverages,1,2082,10,Samy,55,Alexandria,Credit
+"processed cheese,soda",2,186,10,Samy,55,Alexandria,Cash
+"tropical fruit,onions,other vegetables,whole milk,canned vegetables,soda,fruit/vegetable juice,chocolate,newspapers",9,225,2,Mohamed,25,Alexandria,Cash
+"jam,cocoa drinks,soda",3,1866,2,Mohamed,25,Alexandria,Credit
+"pip fruit,hygiene articles",2,1410,4,Adel,50,Alexandria,Credit
+"chicken,other vegetables,whole milk,pastry",4,1978,10,Samy,55,Alexandria,Credit
+frozen vegetables,1,1771,2,Mohamed,25,Alexandria,Credit
+"other vegetables,whole milk,yogurt,frozen meals,semi-finished bread,cat food,soda,fruit/vegetable juice,chocolate,hygiene articles,newspapers",11,781,10,Samy,55,Alexandria,Cash
+"beverages,rolls/buns,chewing gum",3,2200,4,Adel,50,Alexandria,Cash
+"hamburger meat,other vegetables",2,1560,4,Adel,50,Alexandria,Credit
+"whole milk,curd,whipped/sour cream,cream cheese ,white bread,oil,sugar,baking powder,cat food,chocolate,cooking chocolate",11,2310,4,Adel,50,Alexandria,Cash
+brown bread,1,701,10,Samy,55,Alexandria,Credit
+sparkling wine,1,1632,4,Adel,50,Alexandria,Credit
+"beef,tropical fruit,yogurt",3,254,10,Samy,55,Alexandria,Cash
+"hamburger meat,root vegetables,yogurt,whipped/sour cream,sliced cheese,pasta,soda,nut snack,waffles",9,104,10,Samy,55,Alexandria,Cash
+"sausage,ham,bottled water",3,751,10,Samy,55,Alexandria,Cash
+"citrus fruit,whole milk,yogurt,whipped/sour cream,cat food,specialty chocolate,female sanitary products",7,1776,2,Mohamed,25,Alexandria,Cash
+finished products,1,638,10,Samy,55,Alexandria,Credit
+"dessert,frozen dessert,oil,soda,salty snack,chocolate,dental care",7,412,4,Adel,50,Alexandria,Credit
+"finished products,pip fruit,yogurt,chocolate",4,780,10,Samy,55,Alexandria,Cash
+"other vegetables,yogurt,whipped/sour cream,waffles",4,1915,2,Mohamed,25,Alexandria,Cash
+"sausage,berries,curd,whipped/sour cream,long life bakery product,specialty bar",6,180,10,Samy,55,Alexandria,Credit
+"frankfurter,tropical fruit,whole milk,rolls/buns,bottled water,napkins",6,326,4,Adel,50,Alexandria,Credit
+soda,1,1024,10,Samy,55,Alexandria,Cash
+"tropical fruit,pip fruit",2,2184,4,Adel,50,Alexandria,Credit
+"frankfurter,sausage,pastry",3,1517,10,Samy,55,Alexandria,Credit
+"tropical fruit,dishes",2,1688,10,Samy,55,Alexandria,Cash
+"pasta,soda,long life bakery product",3,772,10,Samy,55,Alexandria,Cash
+"soda,canned beer,newspapers",3,792,2,Mohamed,25,Alexandria,Credit
+"grapes,berries,butter milk,yogurt,pot plants",5,159,2,Mohamed,25,Alexandria,Cash
+specialty chocolate,1,1451,2,Mohamed,25,Alexandria,Cash
+"frankfurter,chicken,citrus fruit,root vegetables,packaged fruit/vegetables,domestic eggs,brown bread,artif. sweetener,bottled water,waffles,napkins",11,1347,10,Samy,55,Alexandria,Credit
+"sausage,whole milk,rolls/buns",3,253,4,Adel,50,Alexandria,Cash
+specialty bar,1,1276,10,Samy,55,Alexandria,Cash
+"frankfurter,beef,hamburger meat,grapes,whole milk,whipped/sour cream,mayonnaise,frozen vegetables,coffee,soda,misc. beverages,long life bakery product,hygiene articles",13,1651,10,Samy,55,Alexandria,Credit
+"sausage,pork,beef,tropical fruit,root vegetables,onions,other vegetables,UHT-milk,sliced cheese,mustard,ketchup,bottled water,soda,waffles,chocolate marshmallow,bathroom cleaner,napkins,newspapers",18,2059,4,Adel,50,Alexandria,Cash
+"dog food,bottled water,liquor,dish cleaner",4,1044,2,Mohamed,25,Alexandria,Credit
+"dessert,canned beer",2,454,2,Mohamed,25,Alexandria,Cash
+"yogurt,cake bar",2,2462,2,Mohamed,25,Alexandria,Credit
+"other vegetables,UHT-milk,sugar,soda",4,670,10,Samy,55,Alexandria,Cash
+"whole milk,soft cheese,rolls/buns,prosecco,napkins,pot plants",6,1921,2,Mohamed,25,Alexandria,Credit
+"tropical fruit,white bread,spices,Instant food products",4,2133,10,Samy,55,Alexandria,Cash
+brandy,1,1864,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,brandy",2,1877,10,Samy,55,Alexandria,Credit
+dish cleaner,1,1326,4,Adel,50,Alexandria,Cash
+canned beer,1,735,4,Adel,50,Alexandria,Credit
+"frozen dessert,bottled water,soda,bottled beer",4,1410,10,Samy,55,Alexandria,Credit
+"meat,turkey,hamburger meat,citrus fruit,root vegetables,herbs,other vegetables,whole milk,curd,yogurt,rolls/buns,pastry,rice,baking powder",14,2056,10,Samy,55,Alexandria,Cash
+"chicken,grapes,whole milk,yogurt,rolls/buns,bottled water,fruit/vegetable juice,bottled beer,chocolate,napkins",10,499,2,Mohamed,25,Alexandria,Cash
+canned beer,1,1155,4,Adel,50,Alexandria,Credit
+"citrus fruit,tropical fruit,pip fruit,onions,other vegetables,whole milk,yogurt,frozen fish,long life bakery product,newspapers,pot plants",11,406,10,Samy,55,Alexandria,Credit
+"chicken,root vegetables,UHT-milk,specialty chocolate",4,191,2,Mohamed,25,Alexandria,Credit
+"meat,root vegetables,onions,herbs,other vegetables,whole milk,flour,soda,seasonal products",9,2136,2,Mohamed,25,Alexandria,Cash
+"cream cheese ,zwieback",2,258,10,Samy,55,Alexandria,Credit
+"pip fruit,other vegetables,whole milk,domestic eggs,pastry,pasta,soups,dish cleaner",8,1231,2,Mohamed,25,Alexandria,Cash
+"sausage,chicken,beef,citrus fruit,tropical fruit,root vegetables,onions,herbs,other vegetables,whole milk,butter,curd,yogurt,frozen meals,domestic eggs",15,862,10,Samy,55,Alexandria,Cash
+"tropical fruit,dessert,yogurt,UHT-milk,domestic eggs,rolls/buns,brown bread,canned vegetables,meat spreads,cake bar,chocolate,specialty chocolate",12,1667,4,Adel,50,Alexandria,Credit
+pip fruit,1,692,2,Mohamed,25,Alexandria,Credit
+"pork,whole milk,cream cheese ,frozen fish,brown bread,sauces",6,100,4,Adel,50,Alexandria,Credit
+"chicken,pork,tropical fruit,curd cheese,cat food",5,1464,4,Adel,50,Alexandria,Credit
+"sausage,beef,citrus fruit,yogurt,brown bread,margarine,soda,long life bakery product,hygiene articles,napkins,pot plants",11,2074,10,Samy,55,Alexandria,Cash
+"beef,citrus fruit,whole milk,yogurt,rolls/buns,bottled water",6,1820,2,Mohamed,25,Alexandria,Cash
+"root vegetables,sugar,cat food",3,2264,4,Adel,50,Alexandria,Cash
+sliced cheese,1,1042,10,Samy,55,Alexandria,Cash
+"tropical fruit,butter milk",2,1875,2,Mohamed,25,Alexandria,Cash
+"whole milk,rolls/buns,canned beer",3,501,2,Mohamed,25,Alexandria,Cash
+hamburger meat,1,2193,4,Adel,50,Alexandria,Credit
+"yogurt,pet care",2,625,10,Samy,55,Alexandria,Cash
+"other vegetables,butter,margarine,specialty fat",4,970,2,Mohamed,25,Alexandria,Credit
+"beverages,cake bar",2,1374,10,Samy,55,Alexandria,Cash
+"beef,whole milk,pastry,semi-finished bread,specialty chocolate,chocolate marshmallow",6,1854,4,Adel,50,Alexandria,Credit
+"pip fruit,brown bread",2,676,4,Adel,50,Alexandria,Credit
+"frankfurter,sausage,root vegetables,rolls/buns,pickled vegetables,newspapers",6,1313,10,Samy,55,Alexandria,Cash
+"beef,root vegetables,other vegetables,whole milk",4,2099,4,Adel,50,Alexandria,Credit
+"soda,chocolate",2,1220,4,Adel,50,Alexandria,Credit
+"chicken,pork,whole milk,whipped/sour cream,coffee",5,1103,2,Mohamed,25,Alexandria,Credit
+hygiene articles,1,786,2,Mohamed,25,Alexandria,Credit
+"ham,grapes,berries,hard cheese,processed cheese,snack products,long life bakery product,waffles,female sanitary products,pot plants,shopping bags",11,406,4,Adel,50,Alexandria,Credit
+"grapes,white wine,dishes",3,585,10,Samy,55,Alexandria,Credit
+"chocolate,candy",2,2086,4,Adel,50,Alexandria,Cash
+"rolls/buns,fruit/vegetable juice,specialty chocolate,newspapers",4,964,10,Samy,55,Alexandria,Credit
+"beef,grapes,whole milk,butter,curd,ice cream,cat food,bottled water,dish cleaner",9,595,2,Mohamed,25,Alexandria,Cash
+"grapes,root vegetables,other vegetables,domestic eggs",4,1867,2,Mohamed,25,Alexandria,Cash
+rolls/buns,1,426,10,Samy,55,Alexandria,Credit
+"citrus fruit,tropical fruit,whole milk,curd,dessert,mayonnaise,domestic eggs,margarine,sugar,pot plants",10,414,10,Samy,55,Alexandria,Credit
+salty snack,1,638,10,Samy,55,Alexandria,Cash
+"beef,packaged fruit/vegetables,pot plants",3,600,10,Samy,55,Alexandria,Cash
+"whole milk,curd,yogurt,soft cheese,detergent,newspapers",6,256,4,Adel,50,Alexandria,Credit
+"meat,pork,other vegetables,brown bread,syrup",5,884,2,Mohamed,25,Alexandria,Cash
+salty snack,1,882,4,Adel,50,Alexandria,Cash
+"pastry,coffee,waffles",3,658,10,Samy,55,Alexandria,Credit
+"chicken,beef,flour,salty snack",4,607,10,Samy,55,Alexandria,Credit
+"sausage,pork,hamburger meat,tropical fruit,pip fruit,whole milk,yogurt,sliced cheese,frozen vegetables,white bread,dog food,coffee,bottled water,fruit/vegetable juice,long life bakery product,specialty chocolate,specialty bar,chocolate marshmallow,hygiene articles,pot plants",20,1418,4,Adel,50,Alexandria,Credit
+"soda,canned beer",2,1119,10,Samy,55,Alexandria,Cash
+"grapes,popcorn",2,1861,4,Adel,50,Alexandria,Credit
+"other vegetables,whole milk,yogurt,frozen vegetables,brown bread,pastry,flour,bottled water,soda,fruit/vegetable juice,canned beer,long life bakery product",12,620,4,Adel,50,Alexandria,Credit
+"whipped/sour cream,salt",2,1861,4,Adel,50,Alexandria,Cash
+"bottled water,napkins",2,312,2,Mohamed,25,Alexandria,Cash
+candy,1,1131,2,Mohamed,25,Alexandria,Credit
+"sausage,beef,berries,root vegetables,other vegetables,whole milk,butter,sliced cheese,rolls/buns,white bread,brown bread,pastry,jam,soda,fruit/vegetable juice,syrup,chocolate,dish cleaner,dental care,napkins,newspapers",21,1156,4,Adel,50,Alexandria,Cash
+"frankfurter,sausage,finished products,fish,whole milk,white bread,pastry,oil,margarine,sugar,fruit/vegetable juice,cake bar,chocolate",13,321,10,Samy,55,Alexandria,Credit
+"citrus fruit,domestic eggs,bottled water,soda",4,722,4,Adel,50,Alexandria,Credit
+newspapers,1,1890,4,Adel,50,Alexandria,Credit
+ice cream,1,1865,4,Adel,50,Alexandria,Credit
+"sausage,chicken,pip fruit,grapes,berries,root vegetables,onions,other vegetables,whole milk,butter,whipped/sour cream,ice cream,rolls/buns,margarine,mustard,ready soups,bottled water,canned beer,skin care,hygiene articles",20,2016,2,Mohamed,25,Alexandria,Cash
+"yogurt,white wine",2,2016,2,Mohamed,25,Alexandria,Credit
+"whole milk,rolls/buns",2,1517,2,Mohamed,25,Alexandria,Cash
+"frankfurter,sausage,pork,curd,soda,long life bakery product,napkins",7,2282,4,Adel,50,Alexandria,Cash
+"beef,oil,coffee,sparkling wine",4,1249,10,Samy,55,Alexandria,Credit
+"whole milk,waffles",2,2291,2,Mohamed,25,Alexandria,Credit
+"whole milk,butter,domestic eggs,baking powder",4,1737,10,Samy,55,Alexandria,Cash
+pip fruit,1,1791,2,Mohamed,25,Alexandria,Cash
+"nuts/prunes,liquor",2,2005,2,Mohamed,25,Alexandria,Cash
+"pork,tropical fruit,pip fruit,nuts/prunes,other vegetables,frozen meals,margarine,newspapers",8,130,2,Mohamed,25,Alexandria,Credit
+ice cream,1,597,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,other vegetables,spread cheese",3,2268,2,Mohamed,25,Alexandria,Cash
+"sausage,citrus fruit,soda,fruit/vegetable juice,salty snack,napkins,cling film/bags",7,1010,4,Adel,50,Alexandria,Cash
+"yogurt,cereals,specialty bar",3,1570,2,Mohamed,25,Alexandria,Credit
+other vegetables,1,1647,2,Mohamed,25,Alexandria,Credit
+"ham,yogurt,pastry,coffee,waffles,chocolate,female sanitary products",7,589,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,whole milk,bottled water,soda,fruit/vegetable juice,bottled beer",6,2357,10,Samy,55,Alexandria,Cash
+whole milk,1,772,10,Samy,55,Alexandria,Cash
+"whole milk,white bread,margarine,cat food,soda",5,1494,2,Mohamed,25,Alexandria,Credit
+"soda,canned beer",2,764,2,Mohamed,25,Alexandria,Credit
+"pastry,soda,misc. beverages,canned beer,salty snack,chocolate,shopping bags",7,2198,10,Samy,55,Alexandria,Credit
+"whole milk,brown bread,margarine",3,371,4,Adel,50,Alexandria,Cash
+soda,1,1740,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,whole milk",2,944,10,Samy,55,Alexandria,Cash
+red/blush wine,1,2079,2,Mohamed,25,Alexandria,Cash
+soda,1,1871,4,Adel,50,Alexandria,Cash
+"sausage,tropical fruit,other vegetables,whole milk,frozen vegetables,rolls/buns,white bread,brown bread,roll products ,oil,sugar",11,277,2,Mohamed,25,Alexandria,Cash
+semi-finished bread,1,1325,2,Mohamed,25,Alexandria,Cash
+"meat,citrus fruit,whole milk",3,185,2,Mohamed,25,Alexandria,Credit
+canned beer,1,2111,10,Samy,55,Alexandria,Cash
+"chicken,hamburger meat,citrus fruit,tropical fruit,pip fruit,other vegetables,yogurt,rolls/buns,mustard,canned vegetables,cake bar,napkins,newspapers",13,1075,2,Mohamed,25,Alexandria,Cash
+"hamburger meat,citrus fruit,tropical fruit,other vegetables,whipped/sour cream,beverages,white bread,hygiene articles,napkins",9,220,2,Mohamed,25,Alexandria,Cash
+"pet care,bottled water,misc. beverages,shopping bags",4,307,10,Samy,55,Alexandria,Cash
+canned beer,1,2365,10,Samy,55,Alexandria,Cash
+sugar,1,1417,2,Mohamed,25,Alexandria,Cash
+"frankfurter,beef,other vegetables,whole milk,butter milk,yogurt,hard cheese,coffee,photo/film",9,622,2,Mohamed,25,Alexandria,Credit
+newspapers,1,893,10,Samy,55,Alexandria,Credit
+"beef,whole milk,rolls/buns,white bread,margarine,newspapers",6,1528,10,Samy,55,Alexandria,Credit
+other vegetables,1,2021,4,Adel,50,Alexandria,Cash
+"yogurt,abrasive cleaner",2,2460,2,Mohamed,25,Alexandria,Cash
+"pork,root vegetables,brown bread,bottled water,soda",5,1277,2,Mohamed,25,Alexandria,Credit
+tropical fruit,1,917,4,Adel,50,Alexandria,Credit
+"other vegetables,whole milk,canned beer",3,484,10,Samy,55,Alexandria,Cash
+"root vegetables,white bread,chewing gum",3,2170,4,Adel,50,Alexandria,Cash
+"hamburger meat,other vegetables,whole milk,yogurt,whipped/sour cream,mayonnaise,frozen vegetables,frozen fish,soups,fruit/vegetable juice,canned beer,detergent",12,1249,4,Adel,50,Alexandria,Cash
+"chicken,tropical fruit,other vegetables,whole milk,dessert,frozen fish,mustard,pickled vegetables",8,1970,10,Samy,55,Alexandria,Credit
+"herbs,other vegetables,whipped/sour cream,UHT-milk,domestic eggs,sweet spreads,specialty chocolate,decalcifier,napkins",9,2386,2,Mohamed,25,Alexandria,Credit
+pip fruit,1,781,2,Mohamed,25,Alexandria,Cash
+chicken,1,303,2,Mohamed,25,Alexandria,Credit
+"hamburger meat,onions,other vegetables,whole milk,domestic eggs,waffles,napkins,pot plants",8,2341,4,Adel,50,Alexandria,Cash
+"pork,beef,berries,root vegetables,herbs,butter,yogurt,white bread,brown bread,bottled water,misc. beverages,bottled beer,liquor,hygiene articles",14,2192,2,Mohamed,25,Alexandria,Credit
+"root vegetables,whole milk,long life bakery product",3,2212,4,Adel,50,Alexandria,Credit
+"sausage,ham,frozen dessert,salty snack",4,283,10,Samy,55,Alexandria,Credit
+bottled water,1,1393,10,Samy,55,Alexandria,Credit
+"meat,chicken,pork,pip fruit,other vegetables,whole milk,butter milk,frozen vegetables,rolls/buns,rice,sugar,coffee,photo/film",13,320,10,Samy,55,Alexandria,Cash
+"roll products ,newspapers",2,1286,2,Mohamed,25,Alexandria,Credit
+"tropical fruit,other vegetables,whole milk,butter,yogurt,soft cheese,domestic eggs,cling film/bags",8,2004,2,Mohamed,25,Alexandria,Cash
+"other vegetables,zwieback,soda,chewing gum",4,142,10,Samy,55,Alexandria,Cash
+"meat,chicken,root vegetables,other vegetables,whole milk,yogurt,sliced cheese,cream cheese ,roll products ,oil,margarine,artif. sweetener,detergent,shopping bags",14,1105,2,Mohamed,25,Alexandria,Credit
+"ham,other vegetables,curd,whipped/sour cream,soft cheese,rolls/buns,long life bakery product",7,554,2,Mohamed,25,Alexandria,Credit
+"seasonal products,shopping bags",2,813,2,Mohamed,25,Alexandria,Credit
+"bottled water,bottled beer",2,2217,10,Samy,55,Alexandria,Cash
+other vegetables,1,1702,2,Mohamed,25,Alexandria,Cash
+fruit/vegetable juice,1,2282,10,Samy,55,Alexandria,Cash
+"sausage,organic products,specialty chocolate",3,591,4,Adel,50,Alexandria,Credit
+pip fruit,1,1189,2,Mohamed,25,Alexandria,Credit
+"frankfurter,whole milk,pastry,potato products",4,2375,10,Samy,55,Alexandria,Cash
+"frankfurter,whole milk",2,1265,10,Samy,55,Alexandria,Cash
+"dessert,rolls/buns,soda",3,1174,10,Samy,55,Alexandria,Cash
+"other vegetables,whole milk",2,1277,4,Adel,50,Alexandria,Cash
+red/blush wine,1,1886,4,Adel,50,Alexandria,Credit
+"domestic eggs,rolls/buns,margarine",3,2332,10,Samy,55,Alexandria,Cash
+"tropical fruit,other vegetables,soda",3,483,2,Mohamed,25,Alexandria,Cash
+"tropical fruit,yogurt,rolls/buns,candy,shopping bags",5,435,2,Mohamed,25,Alexandria,Credit
+"whole milk,domestic eggs,specialty chocolate",3,830,10,Samy,55,Alexandria,Cash
+"pork,whole milk,cake bar",3,700,4,Adel,50,Alexandria,Credit
+"citrus fruit,tropical fruit,pip fruit,rolls/buns,soda,canned beer",6,1953,10,Samy,55,Alexandria,Credit
+"berries,other vegetables,yogurt,whipped/sour cream",4,1918,4,Adel,50,Alexandria,Cash
+"root vegetables,yogurt,whipped/sour cream,UHT-milk,domestic eggs,rolls/buns,pickled vegetables,soda,bottled beer",9,509,4,Adel,50,Alexandria,Cash
+"other vegetables,whole milk,yogurt,rolls/buns,pastry,margarine,artif. sweetener,baking powder,soda,candles,newspapers",11,2423,10,Samy,55,Alexandria,Cash
+canned beer,1,1651,2,Mohamed,25,Alexandria,Cash
+"whole milk,pastry,soda,specialty bar",4,2244,2,Mohamed,25,Alexandria,Cash
+hygiene articles,1,1308,10,Samy,55,Alexandria,Cash
+"tropical fruit,curd,newspapers",3,2166,4,Adel,50,Alexandria,Credit
+"sausage,frozen fish,semi-finished bread,salty snack,popcorn,napkins",6,1422,4,Adel,50,Alexandria,Cash
+whipped/sour cream,1,1271,2,Mohamed,25,Alexandria,Cash
+sugar,1,1602,10,Samy,55,Alexandria,Credit
+"sausage,ham,tropical fruit,pip fruit,other vegetables,whole milk,curd,dessert,condensed milk,white bread,fruit/vegetable juice",11,2216,2,Mohamed,25,Alexandria,Credit
+root vegetables,1,1268,2,Mohamed,25,Alexandria,Credit
+liquor (appetizer),1,1522,10,Samy,55,Alexandria,Credit
+"pip fruit,root vegetables,other vegetables,whole milk,yogurt,rolls/buns",6,596,4,Adel,50,Alexandria,Cash
+canned beer,1,2009,4,Adel,50,Alexandria,Credit
+"pip fruit,whole milk,yogurt,whipped/sour cream,cream cheese ,margarine",6,2393,4,Adel,50,Alexandria,Credit
+"citrus fruit,root vegetables,whole milk,pastry,cat food,soda,cake bar,hygiene articles",8,1865,10,Samy,55,Alexandria,Credit
+"nuts/prunes,whole milk,hard cheese,processed cheese,newspapers",5,757,4,Adel,50,Alexandria,Credit
+"berries,root vegetables,hard cheese,spread cheese,bottled water,soda,bottled beer,napkins",8,1639,2,Mohamed,25,Alexandria,Cash
+"citrus fruit,grapes,whole milk,pastry,canned fruit,canned fish,chocolate,specialty bar,hygiene articles,napkins,shopping bags",11,1795,10,Samy,55,Alexandria,Cash
+"root vegetables,other vegetables,frozen vegetables,canned vegetables,coffee",5,2219,2,Mohamed,25,Alexandria,Credit
+coffee,1,748,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,other vegetables,whole milk,butter,dental care",5,1796,10,Samy,55,Alexandria,Credit
+"whipped/sour cream,canned fish",2,2448,4,Adel,50,Alexandria,Credit
+"whole milk,pastry,oil,popcorn,snack products,detergent,shopping bags",7,1487,4,Adel,50,Alexandria,Credit
+"fish,whole milk",2,1033,2,Mohamed,25,Alexandria,Credit
+"pastry,semi-finished bread,sugar",3,1391,10,Samy,55,Alexandria,Credit
+"sausage,whole milk",2,858,2,Mohamed,25,Alexandria,Credit
+"citrus fruit,pastry",2,2323,10,Samy,55,Alexandria,Cash
+"soda,bottled beer",2,1261,4,Adel,50,Alexandria,Credit
+frozen fruits,1,2210,10,Samy,55,Alexandria,Credit
+"sausage,chicken,onions,other vegetables,packaged fruit/vegetables,butter,yogurt,beverages,hard cheese,frozen vegetables,domestic eggs,white bread,bottled water,soda,fruit/vegetable juice,bottled beer,canned beer,sparkling wine,waffles,chocolate,candy,cleaner,dental care",23,2057,4,Adel,50,Alexandria,Cash
+bottled water,1,1812,2,Mohamed,25,Alexandria,Cash
+"sausage,tropical fruit,yogurt,canned beer,long life bakery product",5,248,10,Samy,55,Alexandria,Cash
+meat,1,509,4,Adel,50,Alexandria,Cash
+"ham,rolls/buns",2,2262,2,Mohamed,25,Alexandria,Credit
+"whole milk,condensed milk,ice cream,coffee,napkins,kitchen towels,shopping bags",7,1116,4,Adel,50,Alexandria,Cash
+"other vegetables,oil",2,264,4,Adel,50,Alexandria,Credit
+"dessert,soda,cake bar,shopping bags",4,1262,10,Samy,55,Alexandria,Credit
+bottled water,1,800,4,Adel,50,Alexandria,Credit
+chicken,1,1545,2,Mohamed,25,Alexandria,Credit
+"spread cheese,rolls/buns,white bread,pet care,fruit/vegetable juice,newspapers",6,482,2,Mohamed,25,Alexandria,Cash
+"waffles,candy",2,729,4,Adel,50,Alexandria,Credit
+chewing gum,1,1705,2,Mohamed,25,Alexandria,Cash
+bottled beer,1,1806,10,Samy,55,Alexandria,Cash
+"sausage,ham,beef,root vegetables,UHT-milk,pet care,soda",7,1126,4,Adel,50,Alexandria,Cash
+"frankfurter,canned fish,napkins,newspapers",4,1170,2,Mohamed,25,Alexandria,Credit
+"pork,root vegetables",2,1936,10,Samy,55,Alexandria,Cash
+"frankfurter,herbs",2,1154,4,Adel,50,Alexandria,Cash
+pastry,1,1469,2,Mohamed,25,Alexandria,Cash
+whole milk,1,1769,4,Adel,50,Alexandria,Credit
+"pork,pip fruit,other vegetables,butter milk,white bread,pastry,soda,fruit/vegetable juice",8,367,4,Adel,50,Alexandria,Cash
+"beef,other vegetables,whole milk,yogurt,brown bread,liquor,newspapers",7,1262,2,Mohamed,25,Alexandria,Credit
+soda,1,739,4,Adel,50,Alexandria,Credit
+soda,1,1479,10,Samy,55,Alexandria,Cash
+"whole milk,instant coffee,misc. beverages,fruit/vegetable juice,chewing gum,shopping bags",6,1004,10,Samy,55,Alexandria,Credit
+liqueur,1,1648,10,Samy,55,Alexandria,Cash
+"beef,whole milk,yogurt,pastry",4,2029,4,Adel,50,Alexandria,Credit
+"domestic eggs,brown bread,flour,oil,cat food,coffee,soda,candy,hygiene articles,kitchen towels",10,1594,4,Adel,50,Alexandria,Cash
+rolls/buns,1,2338,10,Samy,55,Alexandria,Cash
+"sausage,citrus fruit,whole milk",3,856,2,Mohamed,25,Alexandria,Credit
+whole milk,1,2005,2,Mohamed,25,Alexandria,Credit
+"bottled water,bottled beer",2,197,10,Samy,55,Alexandria,Cash
+whole milk,1,494,4,Adel,50,Alexandria,Credit
+"chocolate marshmallow,candy",2,1874,10,Samy,55,Alexandria,Credit
+"pip fruit,other vegetables,yogurt,frozen meals,pastry,waffles,specialty bar",7,1611,4,Adel,50,Alexandria,Credit
+yogurt,1,1025,10,Samy,55,Alexandria,Cash
+"hygiene articles,napkins",2,1662,4,Adel,50,Alexandria,Cash
+chocolate,1,2127,10,Samy,55,Alexandria,Cash
+"coffee,photo/film",2,993,10,Samy,55,Alexandria,Cash
+"citrus fruit,pip fruit,root vegetables,whole milk,butter,whipped/sour cream,salt,tea,bottled water,chocolate",10,303,2,Mohamed,25,Alexandria,Cash
+"pip fruit,whole milk,yogurt,soft cheese,sliced cheese,cream cheese ,margarine,bottled water,fruit/vegetable juice,rum,cling film/bags",11,2186,10,Samy,55,Alexandria,Cash
+"citrus fruit,tropical fruit,oil",3,1817,10,Samy,55,Alexandria,Cash
+"soda,waffles",2,1447,4,Adel,50,Alexandria,Credit
+"tropical fruit,whole milk,whipped/sour cream,sliced cheese,domestic eggs,rolls/buns,margarine,bottled water,fruit/vegetable juice",9,181,10,Samy,55,Alexandria,Cash
+"beef,whole milk,rolls/buns,canned vegetables,fruit/vegetable juice,waffles,chocolate,newspapers",8,1421,4,Adel,50,Alexandria,Cash
+"frankfurter,tropical fruit,other vegetables,whole milk,soft cheese,curd cheese,cat food,hygiene articles,shopping bags",9,2424,4,Adel,50,Alexandria,Credit
+"meat,whole milk,butter,hard cheese,rolls/buns",5,2379,4,Adel,50,Alexandria,Cash
+"frankfurter,beef,herbs,whole milk,rolls/buns",5,665,10,Samy,55,Alexandria,Credit
+"soda,canned beer",2,1165,4,Adel,50,Alexandria,Cash
+"frankfurter,sausage,butter milk,rolls/buns,margarine",5,816,10,Samy,55,Alexandria,Cash
+"tropical fruit,nuts/prunes,other vegetables,whole milk,dessert,sliced cheese,soda,bottled beer,napkins",9,237,4,Adel,50,Alexandria,Credit
+ice cream,1,787,4,Adel,50,Alexandria,Cash
+"sausage,whole milk,sliced cheese,pastry",4,2371,4,Adel,50,Alexandria,Credit
+"whole milk,yogurt,frozen meals,bottled water",4,489,2,Mohamed,25,Alexandria,Credit
+"sausage,other vegetables,whole milk,dessert,butter milk,yogurt,whipped/sour cream,brown bread,bottled water,soda,long life bakery product,cake bar",12,2105,2,Mohamed,25,Alexandria,Credit
+newspapers,1,692,10,Samy,55,Alexandria,Credit
+"beef,citrus fruit,cream cheese ,frozen fish,flour,margarine,sugar,baking powder,salty snack,chewing gum",10,1956,2,Mohamed,25,Alexandria,Credit
+"ice cream,long life bakery product,specialty chocolate,specialty bar",4,769,4,Adel,50,Alexandria,Credit
+cooking chocolate,1,1912,4,Adel,50,Alexandria,Cash
+"semi-finished bread,bottled water,soda,bottled beer",4,2101,4,Adel,50,Alexandria,Cash

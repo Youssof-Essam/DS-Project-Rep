@@ -1,0 +1,640 @@
+items,count,total,rnd,customer,age,city,paymentType
+rolls/buns,1,2196,7,Huda,39,Gharbia,Cash
+"frankfurter,rolls/buns,soda",3,1001,7,Huda,39,Gharbia,Credit
+specialty bar,1,469,7,Huda,39,Gharbia,Cash
+"butter milk,pastry",2,2252,7,Huda,39,Gharbia,Credit
+"frozen meals,coffee",2,1083,7,Huda,39,Gharbia,Credit
+berries,1,705,7,Huda,39,Gharbia,Cash
+"packaged fruit/vegetables,bottled water",2,623,7,Huda,39,Gharbia,Credit
+"other vegetables,red/blush wine",2,554,7,Huda,39,Gharbia,Credit
+"curd,flour,liquor (appetizer)",3,1103,7,Huda,39,Gharbia,Credit
+other vegetables,1,1983,7,Huda,39,Gharbia,Credit
+"root vegetables,herbs,other vegetables,whole milk,sliced cheese,rolls/buns",6,529,7,Huda,39,Gharbia,Cash
+"whole milk,whipped/sour cream,semi-finished bread,margarine",4,183,7,Huda,39,Gharbia,Cash
+"frankfurter,beef,hamburger meat,grapes,root vegetables,whole milk,butter,frozen dessert,potato products,bottled water,bottled beer",11,1146,7,Huda,39,Gharbia,Credit
+"sausage,pip fruit,whole milk,curd,yogurt,sliced cheese,rolls/buns,bottled water,hygiene articles",9,905,7,Huda,39,Gharbia,Credit
+"tropical fruit,root vegetables,herbs,whole milk,butter milk,whipped/sour cream,flour,hygiene articles",8,516,7,Huda,39,Gharbia,Cash
+"chicken,citrus fruit,tropical fruit,root vegetables,whole milk,frozen fish,rolls/buns",7,1781,7,Huda,39,Gharbia,Credit
+"hamburger meat,root vegetables,other vegetables,whole milk,yogurt,whipped/sour cream,specialty cheese,flour,margarine",9,267,7,Huda,39,Gharbia,Cash
+"UHT-milk,coffee",2,2279,7,Huda,39,Gharbia,Cash
+"bottled water,cake bar",2,2470,7,Huda,39,Gharbia,Credit
+newspapers,1,1644,7,Huda,39,Gharbia,Credit
+"beef,hamburger meat,pip fruit",3,2013,7,Huda,39,Gharbia,Credit
+"pork,citrus fruit,tropical fruit,root vegetables,other vegetables,curd,hygiene articles",7,1498,7,Huda,39,Gharbia,Cash
+"pork,citrus fruit,pip fruit,yogurt,fruit/vegetable juice,sparkling wine",6,2486,7,Huda,39,Gharbia,Cash
+"citrus fruit,tropical fruit,root vegetables,yogurt,canned vegetables,bottled water,soda,softener",8,2071,7,Huda,39,Gharbia,Credit
+"berries,packaged fruit/vegetables,whole milk,ice cream,fruit/vegetable juice,salty snack,specialty bar",7,708,7,Huda,39,Gharbia,Credit
+"frankfurter,root vegetables,pickled vegetables,soda,seasonal products",5,2134,7,Huda,39,Gharbia,Cash
+"frankfurter,soda",2,2259,7,Huda,39,Gharbia,Credit
+specialty bar,1,903,7,Huda,39,Gharbia,Cash
+"pip fruit,white wine,shopping bags",3,318,7,Huda,39,Gharbia,Credit
+"tropical fruit,root vegetables,coffee,bottled water,red/blush wine,candy,house keeping products,shopping bags",8,1489,7,Huda,39,Gharbia,Cash
+"yogurt,bottled water,dishes",3,114,7,Huda,39,Gharbia,Credit
+"whole milk,yogurt,frozen potato products,margarine,bottled water,fruit/vegetable juice,salty snack",7,206,7,Huda,39,Gharbia,Credit
+"herbs,yogurt",2,1655,7,Huda,39,Gharbia,Cash
+whole milk,1,660,7,Huda,39,Gharbia,Credit
+"sausage,dish cleaner,dishes",3,1787,7,Huda,39,Gharbia,Credit
+soap,1,2006,7,Huda,39,Gharbia,Credit
+"rolls/buns,canned beer",2,1713,7,Huda,39,Gharbia,Credit
+"citrus fruit,other vegetables,whole milk,curd,yogurt,potato products,fruit/vegetable juice,long life bakery product",8,2324,7,Huda,39,Gharbia,Cash
+"curd,UHT-milk,artif. sweetener,dental care",4,1138,7,Huda,39,Gharbia,Credit
+"beef,berries,onions,rolls/buns",4,1698,7,Huda,39,Gharbia,Credit
+rolls/buns,1,451,7,Huda,39,Gharbia,Credit
+"tropical fruit,onions,whole milk,butter,dishes",5,570,7,Huda,39,Gharbia,Credit
+"spread cheese,rolls/buns,bottled water,newspapers",4,2290,7,Huda,39,Gharbia,Cash
+"tropical fruit,spread cheese,rolls/buns,soda",4,564,7,Huda,39,Gharbia,Credit
+"whole milk,yogurt,bottled beer,white wine,salty snack,napkins",6,2234,7,Huda,39,Gharbia,Cash
+"chicken,onions,herbs,hygiene articles",4,115,7,Huda,39,Gharbia,Cash
+"frankfurter,chicken,pork,citrus fruit,other vegetables,whole milk,butter milk,whipped/sour cream,cream cheese ,frozen dessert,domestic eggs,rolls/buns,sugar,baking powder",14,835,7,Huda,39,Gharbia,Cash
+bottled beer,1,1474,7,Huda,39,Gharbia,Credit
+"root vegetables,whole milk,butter,coffee",4,578,7,Huda,39,Gharbia,Credit
+yogurt,1,950,7,Huda,39,Gharbia,Credit
+bottled water,1,1394,7,Huda,39,Gharbia,Credit
+"fish,berries,other vegetables,whole milk,dessert,yogurt,spread cheese,coffee,white wine,red/blush wine",10,182,7,Huda,39,Gharbia,Credit
+"beef,tropical fruit,root vegetables,herbs,other vegetables,whole milk,yogurt,hard cheese,rolls/buns,brown bread,bottled water,bottled beer,salty snack,shopping bags",14,1192,7,Huda,39,Gharbia,Cash
+"beef,root vegetables,whole milk,cream cheese ",4,1950,7,Huda,39,Gharbia,Credit
+"beef,hamburger meat,berries,pastry,hygiene articles",5,1114,7,Huda,39,Gharbia,Credit
+"sausage,grapes,rolls/buns,soda,salty snack",5,1594,7,Huda,39,Gharbia,Cash
+"tropical fruit,other vegetables,whole milk,yogurt,soft cheese,hard cheese,spread cheese,curd cheese,frozen vegetables,ice cream,pastry,coffee,fruit/vegetable juice,hygiene articles",14,519,7,Huda,39,Gharbia,Credit
+canned beer,1,379,7,Huda,39,Gharbia,Credit
+"beef,grapes,berries,whole milk,yogurt,rolls/buns,newspapers,pot plants",8,997,7,Huda,39,Gharbia,Credit
+"rolls/buns,coffee,instant coffee,salty snack,specialty chocolate",5,898,7,Huda,39,Gharbia,Credit
+"frankfurter,citrus fruit,whole milk,yogurt,sliced cheese,specialty cheese,pastry,fruit/vegetable juice",8,1369,7,Huda,39,Gharbia,Cash
+"curd,yogurt,spread cheese,sugar,canned vegetables",5,1494,7,Huda,39,Gharbia,Credit
+"artif. sweetener,soda,photo/film",3,1227,7,Huda,39,Gharbia,Cash
+"tropical fruit,pip fruit,grapes,root vegetables,herbs,yogurt,baking powder,seasonal products,pot plants,shopping bags",10,407,7,Huda,39,Gharbia,Cash
+"ice cream,long life bakery product",2,1799,7,Huda,39,Gharbia,Credit
+"sausage,whole milk,whipped/sour cream,pasta,pet care,fruit/vegetable juice",6,193,7,Huda,39,Gharbia,Cash
+"pork,herbs,other vegetables,yogurt,domestic eggs,specialty bar,dishes",7,299,7,Huda,39,Gharbia,Cash
+"frankfurter,pip fruit,root vegetables,curd,yogurt,UHT-milk,white bread,pastry,instant coffee,waffles,dish cleaner",11,365,7,Huda,39,Gharbia,Cash
+"frankfurter,turkey,citrus fruit",3,1183,7,Huda,39,Gharbia,Credit
+"UHT-milk,vinegar,waffles,chocolate",4,1129,7,Huda,39,Gharbia,Cash
+"ham,chicken,citrus fruit,pip fruit,herbs,other vegetables,butter,napkins",8,1067,7,Huda,39,Gharbia,Cash
+"hamburger meat,citrus fruit,packaged fruit/vegetables,rolls/buns,vinegar,cocoa drinks,specialty chocolate",7,796,7,Huda,39,Gharbia,Cash
+"pork,other vegetables",2,1767,7,Huda,39,Gharbia,Credit
+"turkey,whole milk,UHT-milk,fruit/vegetable juice",4,758,7,Huda,39,Gharbia,Credit
+"tropical fruit,pasta,bottled water",3,103,7,Huda,39,Gharbia,Cash
+"sausage,hamburger meat,whole milk,rolls/buns,oil,pickled vegetables,softener,hygiene articles",8,180,7,Huda,39,Gharbia,Cash
+"sausage,citrus fruit,whole milk,cream cheese ,processed cheese,frozen vegetables,rolls/buns,pastry,fruit/vegetable juice,chewing gum",10,1483,7,Huda,39,Gharbia,Cash
+"domestic eggs,specialty bar,seasonal products,shopping bags",4,909,7,Huda,39,Gharbia,Credit
+"frankfurter,other vegetables,zwieback",3,2125,7,Huda,39,Gharbia,Credit
+"sausage,tropical fruit,whole milk,yogurt,processed cheese,pastry,margarine,Instant food products,coffee,popcorn,house keeping products",11,621,7,Huda,39,Gharbia,Cash
+bottled beer,1,1728,7,Huda,39,Gharbia,Cash
+Instant food products,1,226,7,Huda,39,Gharbia,Cash
+"soda,chocolate,specialty chocolate,newspapers,shopping bags",5,1397,7,Huda,39,Gharbia,Credit
+"sausage,pork",2,909,7,Huda,39,Gharbia,Cash
+"root vegetables,whole milk,butter,yogurt,whipped/sour cream,soft cheese,cream cheese ,domestic eggs,brown bread,jam,misc. beverages,fruit/vegetable juice,napkins,pot plants",14,467,7,Huda,39,Gharbia,Credit
+"whole milk,yogurt,chocolate",3,1371,7,Huda,39,Gharbia,Credit
+"ham,tropical fruit,grapes,onions,other vegetables,yogurt,whipped/sour cream,soft cheese,sliced cheese,frozen vegetables,white bread,pastry,semi-finished bread,oil,cat food,bottled water,fruit/vegetable juice,detergent,house keeping products",19,1269,7,Huda,39,Gharbia,Credit
+"other vegetables,cream cheese ,coffee,dishes",4,1111,7,Huda,39,Gharbia,Cash
+oil,1,1370,7,Huda,39,Gharbia,Credit
+pip fruit,1,1508,7,Huda,39,Gharbia,Cash
+"UHT-milk,coffee",2,1604,7,Huda,39,Gharbia,Cash
+brandy,1,2428,7,Huda,39,Gharbia,Cash
+yogurt,1,2201,7,Huda,39,Gharbia,Credit
+"other vegetables,oil,margarine,dishes",4,305,7,Huda,39,Gharbia,Cash
+"sausage,condensed milk,rolls/buns,coffee",4,869,7,Huda,39,Gharbia,Cash
+"rolls/buns,soda,waffles,shopping bags",4,1043,7,Huda,39,Gharbia,Cash
+"butter,yogurt,rolls/buns,jam,soda",5,1809,7,Huda,39,Gharbia,Credit
+"whole milk,curd,ice cream,Instant food products,canned fish,newspapers",6,242,7,Huda,39,Gharbia,Cash
+"frankfurter,root vegetables,rolls/buns,vinegar,sugar,mustard,cat food,napkins",8,1590,7,Huda,39,Gharbia,Cash
+"beef,citrus fruit,root vegetables,butter,yogurt,whipped/sour cream,frozen meals,pasta,oil,fruit/vegetable juice,waffles,dishes,cookware",13,2266,7,Huda,39,Gharbia,Cash
+"yogurt,condensed milk,rolls/buns,pickled vegetables,bottled water,brandy",6,815,7,Huda,39,Gharbia,Credit
+"ham,tropical fruit,pip fruit,other vegetables,whole milk,processed cheese,frozen vegetables,brown bread,soda,shopping bags",10,112,7,Huda,39,Gharbia,Cash
+"dessert,UHT-milk,rolls/buns,pastry,canned beer",5,592,7,Huda,39,Gharbia,Credit
+"domestic eggs,long life bakery product,seasonal products",3,2477,7,Huda,39,Gharbia,Credit
+oil,1,2359,7,Huda,39,Gharbia,Credit
+rum,1,323,7,Huda,39,Gharbia,Credit
+rolls/buns,1,1270,7,Huda,39,Gharbia,Cash
+"beef,citrus fruit,pip fruit,yogurt,rolls/buns,flour,margarine,soups,bottled water",9,705,7,Huda,39,Gharbia,Credit
+"tropical fruit,butter,butter milk,brown bread,long life bakery product",5,2478,7,Huda,39,Gharbia,Credit
+"hamburger meat,pip fruit,other vegetables,butter,cream cheese ,mayonnaise,domestic eggs,pastry,rice,margarine,canned fruit,canned fish,coffee,tea,candles",15,1790,7,Huda,39,Gharbia,Cash
+napkins,1,383,7,Huda,39,Gharbia,Cash
+"root vegetables,white bread,sugar,liquor",4,122,7,Huda,39,Gharbia,Credit
+"sausage,root vegetables,other vegetables,whole milk,curd,yogurt,hard cheese,white bread",8,1360,7,Huda,39,Gharbia,Credit
+"chocolate,candy",2,602,7,Huda,39,Gharbia,Credit
+bags,1,1277,7,Huda,39,Gharbia,Cash
+"pork,citrus fruit,soda,canned beer,chocolate,hygiene articles",6,183,7,Huda,39,Gharbia,Cash
+soda,1,1578,7,Huda,39,Gharbia,Cash
+"whipped/sour cream,baking powder",2,1938,7,Huda,39,Gharbia,Cash
+"tropical fruit,pip fruit,root vegetables,whole milk,yogurt,rolls/buns,sweet spreads,cat food,pet care,hygiene articles,shopping bags",11,2116,7,Huda,39,Gharbia,Credit
+"butter,rolls/buns,newspapers",3,889,7,Huda,39,Gharbia,Cash
+"whole milk,yogurt,sliced cheese,mayonnaise,rolls/buns,pasta,specialty chocolate",7,966,7,Huda,39,Gharbia,Credit
+soda,1,1799,7,Huda,39,Gharbia,Cash
+"sausage,meat,turkey,citrus fruit,tropical fruit,pip fruit,root vegetables,onions,herbs,other vegetables,whole milk,curd,yogurt,whipped/sour cream,soft cheese,cream cheese ,frozen vegetables,brown bread,pastry,semi-finished bread,margarine",21,137,7,Huda,39,Gharbia,Cash
+butter,1,322,7,Huda,39,Gharbia,Cash
+"tropical fruit,pip fruit,root vegetables,whole milk,yogurt,beverages,domestic eggs,white bread,sweet spreads,soda",10,1724,7,Huda,39,Gharbia,Cash
+"beef,pot plants",2,1949,7,Huda,39,Gharbia,Credit
+"frozen vegetables,frozen meals",2,1548,7,Huda,39,Gharbia,Cash
+"pork,berries,whole milk,dessert,whipped/sour cream,fruit/vegetable juice,candy",7,1750,7,Huda,39,Gharbia,Credit
+"ice cream,soda,specialty chocolate",3,1828,7,Huda,39,Gharbia,Cash
+"other vegetables,domestic eggs,soda",3,608,7,Huda,39,Gharbia,Cash
+"other vegetables,pastry",2,375,7,Huda,39,Gharbia,Cash
+canned beer,1,1745,7,Huda,39,Gharbia,Credit
+canned beer,1,1195,7,Huda,39,Gharbia,Credit
+"root vegetables,onions,whipped/sour cream,UHT-milk,frozen dessert,margarine,syrup",7,2442,7,Huda,39,Gharbia,Cash
+"cat food,chocolate",2,1012,7,Huda,39,Gharbia,Cash
+"citrus fruit,whole milk,baking powder,cocoa drinks,skin care,shopping bags",6,2442,7,Huda,39,Gharbia,Credit
+"rolls/buns,sugar,sweet spreads,chewing gum,newspapers",5,1199,7,Huda,39,Gharbia,Cash
+"butter milk,hard cheese",2,776,7,Huda,39,Gharbia,Cash
+"pastry,soda",2,832,7,Huda,39,Gharbia,Cash
+"pork,beef,other vegetables,hard cheese,cream cheese ,rolls/buns,brown bread,napkins",8,2162,7,Huda,39,Gharbia,Cash
+"margarine,napkins",2,1280,7,Huda,39,Gharbia,Cash
+"dessert,rolls/buns,bottled water,specialty bar",4,1937,7,Huda,39,Gharbia,Cash
+"whipped/sour cream,pastry,canned fish,soda,waffles,dish cleaner,napkins",7,1984,7,Huda,39,Gharbia,Cash
+"sausage,brown bread,meat spreads,canned fish",4,789,7,Huda,39,Gharbia,Cash
+dessert,1,782,7,Huda,39,Gharbia,Cash
+butter,1,1339,7,Huda,39,Gharbia,Cash
+"frankfurter,sausage,hard cheese,soda,nut snack,shopping bags",6,1859,7,Huda,39,Gharbia,Credit
+"butter,sliced cheese,misc. beverages,fruit/vegetable juice",4,1891,7,Huda,39,Gharbia,Credit
+"whole milk,yogurt,hard cheese,rolls/buns,bottled water",5,1664,7,Huda,39,Gharbia,Credit
+"other vegetables,rolls/buns",2,2342,7,Huda,39,Gharbia,Cash
+"pip fruit,root vegetables,other vegetables,whole milk,yogurt",5,1038,7,Huda,39,Gharbia,Credit
+"processed cheese,rolls/buns,soda",3,1182,7,Huda,39,Gharbia,Cash
+sausage,1,1634,7,Huda,39,Gharbia,Cash
+"soda,canned beer",2,2103,7,Huda,39,Gharbia,Credit
+"other vegetables,whole milk,coffee",3,116,7,Huda,39,Gharbia,Credit
+pastry,1,1943,7,Huda,39,Gharbia,Credit
+"frankfurter,pip fruit,frozen vegetables,fruit/vegetable juice,nut snack",5,2288,7,Huda,39,Gharbia,Credit
+"chicken,citrus fruit,tropical fruit,root vegetables,other vegetables,whole milk",6,1093,7,Huda,39,Gharbia,Credit
+"whole milk,rolls/buns,pastry",3,1776,7,Huda,39,Gharbia,Cash
+"pip fruit,nuts/prunes,root vegetables,condensed milk,rolls/buns,pickled vegetables,coffee,canned beer,liquor (appetizer)",9,1106,7,Huda,39,Gharbia,Cash
+canned beer,1,743,7,Huda,39,Gharbia,Credit
+"other vegetables,whole milk,yogurt,specialty cheese,bottled water,misc. beverages,fruit/vegetable juice",7,1686,7,Huda,39,Gharbia,Cash
+specialty bar,1,2246,7,Huda,39,Gharbia,Cash
+"ham,citrus fruit,root vegetables,whipped/sour cream,canned beer,napkins",6,2111,7,Huda,39,Gharbia,Credit
+"pork,hamburger meat,pip fruit,herbs,other vegetables,whole milk,butter,sliced cheese,processed cheese,rolls/buns,pastry,roll products ,margarine",13,1893,7,Huda,39,Gharbia,Cash
+"tropical fruit,grapes,UHT-milk,pickled vegetables,jam,coffee,salty snack",7,1652,7,Huda,39,Gharbia,Cash
+"yogurt,cream cheese ,rolls/buns,chocolate",4,2303,7,Huda,39,Gharbia,Credit
+"frankfurter,sausage,citrus fruit,root vegetables,other vegetables,whole milk,yogurt,whipped/sour cream,frozen vegetables,white bread,brown bread,pasta,vinegar,soda,salty snack,detergent",16,1630,7,Huda,39,Gharbia,Cash
+"whole milk,frozen vegetables",2,1394,7,Huda,39,Gharbia,Cash
+"hamburger meat,root vegetables,frozen vegetables,rolls/buns,brown bread,margarine,soda,fruit/vegetable juice,white wine,kitchen towels,newspapers",11,2449,7,Huda,39,Gharbia,Cash
+"rolls/buns,pastry,pasta,soda,fruit/vegetable juice,specialty chocolate",6,1064,7,Huda,39,Gharbia,Cash
+frankfurter,1,119,7,Huda,39,Gharbia,Credit
+"rolls/buns,soda",2,441,7,Huda,39,Gharbia,Cash
+photo/film,1,2076,7,Huda,39,Gharbia,Credit
+"whole milk,butter,curd,frozen vegetables,bottled water,bottled beer,detergent,pot plants,shopping bags",9,1736,7,Huda,39,Gharbia,Cash
+"frozen meals,pastry,pasta",3,831,7,Huda,39,Gharbia,Cash
+"rolls/buns,brown bread",2,1042,7,Huda,39,Gharbia,Cash
+"sausage,rolls/buns,soda,chocolate",4,765,7,Huda,39,Gharbia,Credit
+long life bakery product,1,295,7,Huda,39,Gharbia,Credit
+"other vegetables,soda,specialty bar",3,1455,7,Huda,39,Gharbia,Credit
+"whole milk,dessert,yogurt,sliced cheese,rolls/buns,soda,seasonal products",7,1220,7,Huda,39,Gharbia,Credit
+"dessert,frozen potato products,specialty chocolate",3,1898,7,Huda,39,Gharbia,Cash
+frozen fish,1,1062,7,Huda,39,Gharbia,Cash
+fruit/vegetable juice,1,1928,7,Huda,39,Gharbia,Cash
+tropical fruit,1,1056,7,Huda,39,Gharbia,Cash
+"soda,bottled beer,liquor,red/blush wine",4,780,7,Huda,39,Gharbia,Cash
+bottled water,1,1454,7,Huda,39,Gharbia,Credit
+"other vegetables,whole milk,bottled water,soda,fruit/vegetable juice,salty snack,dental care,newspapers",8,1417,7,Huda,39,Gharbia,Credit
+"yogurt,frozen vegetables",2,1944,7,Huda,39,Gharbia,Credit
+"root vegetables,whole milk,rolls/buns",3,246,7,Huda,39,Gharbia,Cash
+"frankfurter,hamburger meat,whole milk,cream cheese ,salty snack",5,505,7,Huda,39,Gharbia,Cash
+"bottled beer,white wine",2,700,7,Huda,39,Gharbia,Credit
+"other vegetables,butter milk,rolls/buns,oil,bottled water,fruit/vegetable juice,softener,dishes",8,2265,7,Huda,39,Gharbia,Credit
+"citrus fruit,tropical fruit,dessert,condensed milk,margarine",5,403,7,Huda,39,Gharbia,Cash
+"tropical fruit,pip fruit,other vegetables,frozen vegetables,ice cream,brown bread,pastry,flour,pickled vegetables,coffee,soda,misc. beverages,fruit/vegetable juice",13,678,7,Huda,39,Gharbia,Credit
+other vegetables,1,2235,7,Huda,39,Gharbia,Credit
+"whole milk,whipped/sour cream,semi-finished bread,baking powder,pickled vegetables,bottled water,soda,napkins",8,2258,7,Huda,39,Gharbia,Cash
+"sausage,other vegetables,cream cheese ,domestic eggs,soda",5,1433,7,Huda,39,Gharbia,Cash
+"meat spreads,specialty bar",2,254,7,Huda,39,Gharbia,Credit
+bottled water,1,1998,7,Huda,39,Gharbia,Cash
+"ham,root vegetables,other vegetables,dessert,brown bread,pasta,margarine,bottled water,fruit/vegetable juice,red/blush wine",10,791,7,Huda,39,Gharbia,Cash
+"pork,other vegetables,rolls/buns,canned fish,chocolate",5,1174,7,Huda,39,Gharbia,Credit
+"yogurt,frozen vegetables,napkins,newspapers,pot plants",5,883,7,Huda,39,Gharbia,Cash
+"chicken,beef,root vegetables,whole milk,cream cheese ,pet care,newspapers",7,470,7,Huda,39,Gharbia,Credit
+"berries,butter milk,yogurt,pet care,soda,napkins",6,327,7,Huda,39,Gharbia,Cash
+soda,1,718,7,Huda,39,Gharbia,Cash
+"pip fruit,root vegetables,other vegetables,dessert,domestic eggs,margarine,cereals,soda,candles",9,778,7,Huda,39,Gharbia,Credit
+"sausage,meat,chicken,pip fruit,whole milk,dessert,whipped/sour cream,processed cheese,domestic eggs,rolls/buns,white bread,pickled vegetables,soda,fruit/vegetable juice,salty snack,long life bakery product,waffles,pot plants",18,922,7,Huda,39,Gharbia,Cash
+"soda,specialty chocolate,newspapers",3,246,7,Huda,39,Gharbia,Cash
+"bottled beer,chocolate,specialty bar",3,1102,7,Huda,39,Gharbia,Credit
+"meat,root vegetables,whole milk,yogurt,whipped/sour cream,domestic eggs,seasonal products,shopping bags",8,2021,7,Huda,39,Gharbia,Cash
+"frankfurter,sausage,ham,hard cheese,processed cheese",5,852,7,Huda,39,Gharbia,Credit
+"tropical fruit,yogurt,whipped/sour cream",3,216,7,Huda,39,Gharbia,Credit
+white wine,1,2318,7,Huda,39,Gharbia,Cash
+"other vegetables,coffee,bottled water,salty snack",4,1875,7,Huda,39,Gharbia,Cash
+"pork,root vegetables,other vegetables,dessert,condensed milk,hard cheese,specialty cheese,frozen vegetables,ice cream,pickled vegetables,canned fish,cat food,salty snack,nut snack,waffles,seasonal products",16,106,7,Huda,39,Gharbia,Credit
+onions,1,757,7,Huda,39,Gharbia,Cash
+shopping bags,1,2493,7,Huda,39,Gharbia,Credit
+"meat,rolls/buns,soda",3,1617,7,Huda,39,Gharbia,Cash
+"whole milk,fruit/vegetable juice",2,1186,7,Huda,39,Gharbia,Cash
+yogurt,1,1345,7,Huda,39,Gharbia,Credit
+"chicken,brown bread,bottled water,newspapers",4,583,7,Huda,39,Gharbia,Cash
+"root vegetables,shopping bags",2,1621,7,Huda,39,Gharbia,Cash
+"tropical fruit,nuts/prunes,whole milk,cream cheese ,domestic eggs,rolls/buns,white bread,flour,margarine,cat food,bottled water,bottled beer,softener,hygiene articles,napkins",15,1024,7,Huda,39,Gharbia,Credit
+domestic eggs,1,1856,7,Huda,39,Gharbia,Credit
+"butter,candy",2,807,7,Huda,39,Gharbia,Credit
+"other vegetables,white bread,newspapers",3,1524,7,Huda,39,Gharbia,Cash
+"butter,brown bread,bottled beer,white wine,shopping bags",5,2406,7,Huda,39,Gharbia,Credit
+"pork,tropical fruit,onions,herbs,whole milk,butter,frozen vegetables,rolls/buns,jam,bottled water,liquor (appetizer)",11,1523,7,Huda,39,Gharbia,Cash
+"ham,turkey,tropical fruit,whole milk,butter,frozen meals,pastry,roll products ,semi-finished bread,cat food,soda,waffles,cake bar,specialty chocolate,kitchen towels,shopping bags",16,664,7,Huda,39,Gharbia,Credit
+bottled water,1,765,7,Huda,39,Gharbia,Cash
+"beef,pip fruit,root vegetables,whole milk,yogurt,flour,dog food,canned beer",8,107,7,Huda,39,Gharbia,Credit
+"sausage,yogurt,white wine,red/blush wine,shopping bags",5,1275,7,Huda,39,Gharbia,Credit
+"oil,fruit/vegetable juice,dishes",3,1912,7,Huda,39,Gharbia,Cash
+whole milk,1,1302,7,Huda,39,Gharbia,Cash
+"frankfurter,soft cheese,rolls/buns",3,1204,7,Huda,39,Gharbia,Cash
+newspapers,1,182,7,Huda,39,Gharbia,Cash
+"pip fruit,rolls/buns,pet care,soda,waffles,chocolate marshmallow,napkins",7,1381,7,Huda,39,Gharbia,Credit
+shopping bags,1,2119,7,Huda,39,Gharbia,Credit
+"whole milk,butter,yogurt,rolls/buns",4,2419,7,Huda,39,Gharbia,Credit
+"ice cream,newspapers",2,402,7,Huda,39,Gharbia,Cash
+"chicken,hamburger meat,citrus fruit,whole milk,butter,yogurt,whipped/sour cream,curd cheese,pickled vegetables",9,968,7,Huda,39,Gharbia,Cash
+yogurt,1,869,7,Huda,39,Gharbia,Cash
+"tropical fruit,root vegetables,other vegetables,bottled water,soda,bottled beer,prosecco,chocolate,hygiene articles",9,1494,7,Huda,39,Gharbia,Credit
+"ham,curd,dessert,beverages,UHT-milk,cream cheese ,brown bread,mustard,sweet spreads",9,1519,7,Huda,39,Gharbia,Cash
+"sausage,root vegetables,whole milk,fruit/vegetable juice,popcorn,candy",6,299,7,Huda,39,Gharbia,Credit
+"pork,citrus fruit,tropical fruit,whole milk,frozen vegetables,domestic eggs,honey,canned vegetables,red/blush wine,chocolate marshmallow,napkins",11,242,7,Huda,39,Gharbia,Credit
+rolls/buns,1,161,7,Huda,39,Gharbia,Credit
+"frankfurter,whole milk,rolls/buns,coffee,salty snack,kitchen towels",6,1293,7,Huda,39,Gharbia,Credit
+"rolls/buns,soda,fruit/vegetable juice",3,2268,7,Huda,39,Gharbia,Credit
+"meat,chicken,hamburger meat,citrus fruit,whole milk,butter,butter milk,yogurt,soft cheese,frozen vegetables,domestic eggs,rolls/buns,fruit/vegetable juice,seasonal products",14,1073,7,Huda,39,Gharbia,Cash
+"citrus fruit,pip fruit,whole milk,sliced cheese,salty snack",5,1885,7,Huda,39,Gharbia,Cash
+bottled beer,1,2325,7,Huda,39,Gharbia,Cash
+"beef,citrus fruit,tropical fruit,whole milk,yogurt,margarine,specialty fat,mustard,canned vegetables,napkins",10,215,7,Huda,39,Gharbia,Cash
+"beef,root vegetables,herbs,other vegetables,whole milk,butter,curd,whipped/sour cream,rolls/buns,pastry,margarine",11,1148,7,Huda,39,Gharbia,Cash
+"citrus fruit,candy",2,967,7,Huda,39,Gharbia,Credit
+turkey,1,2142,7,Huda,39,Gharbia,Credit
+photo/film,1,756,7,Huda,39,Gharbia,Cash
+beef,1,1079,7,Huda,39,Gharbia,Credit
+"whole milk,waffles,napkins",3,1830,7,Huda,39,Gharbia,Credit
+"soft cheese,soda,white wine",3,1623,7,Huda,39,Gharbia,Credit
+tropical fruit,1,1190,7,Huda,39,Gharbia,Cash
+"chicken,pork,frozen vegetables,soda,canned beer,liquor (appetizer),hygiene articles,newspapers",8,2259,7,Huda,39,Gharbia,Credit
+salty snack,1,193,7,Huda,39,Gharbia,Credit
+"frankfurter,tropical fruit,root vegetables,rolls/buns,mustard,canned fish,misc. beverages,bottled beer,shopping bags",9,549,7,Huda,39,Gharbia,Cash
+"sausage,tropical fruit,whole milk,yogurt,whipped/sour cream,white bread,bottled water",7,253,7,Huda,39,Gharbia,Cash
+"beverages,cream cheese ,rolls/buns,candy",4,721,7,Huda,39,Gharbia,Credit
+fruit/vegetable juice,1,2128,7,Huda,39,Gharbia,Credit
+"frankfurter,chicken,pork,beef,hamburger meat,tropical fruit,berries,whole milk,pastry,roll products ,oil,margarine,sugar,artif. sweetener,mustard,soups,cereals,jam,bottled water,bottled beer,candles,pot plants",22,546,7,Huda,39,Gharbia,Cash
+"pet care,waffles",2,2261,7,Huda,39,Gharbia,Cash
+sugar,1,1486,7,Huda,39,Gharbia,Credit
+"finished products,chicken,citrus fruit,root vegetables,other vegetables,dessert,domestic eggs,spices,pickled vegetables,bottled water,soda,popcorn,chocolate marshmallow,detergent",14,2328,7,Huda,39,Gharbia,Cash
+whole milk,1,2374,7,Huda,39,Gharbia,Cash
+"sausage,pastry,waffles",3,813,7,Huda,39,Gharbia,Cash
+"other vegetables,yogurt,whipped/sour cream,jam,fruit/vegetable juice,chocolate,dishes,newspapers",8,683,7,Huda,39,Gharbia,Credit
+"ham,tropical fruit,whole milk,dessert,butter milk,yogurt,hard cheese,processed cheese,white bread,cat food,fruit/vegetable juice,napkins",12,1902,7,Huda,39,Gharbia,Credit
+"frankfurter,soda,newspapers",3,231,7,Huda,39,Gharbia,Cash
+"tropical fruit,pip fruit,root vegetables,other vegetables,whole milk,bottled water",6,202,7,Huda,39,Gharbia,Cash
+"root vegetables,soda,liquor",3,1663,7,Huda,39,Gharbia,Credit
+soda,1,1336,7,Huda,39,Gharbia,Credit
+"ham,UHT-milk,cream cheese ,coffee,bottled water,napkins",6,2421,7,Huda,39,Gharbia,Cash
+"hygiene articles,house keeping products",2,1266,7,Huda,39,Gharbia,Cash
+"tropical fruit,root vegetables,other vegetables,yogurt,whipped/sour cream,rolls/buns,margarine,instant coffee,soda,newspapers",10,1335,7,Huda,39,Gharbia,Cash
+"root vegetables,whole milk,honey,pudding powder,newspapers",5,1944,7,Huda,39,Gharbia,Cash
+"sausage,ham,pork,other vegetables,whole milk,dessert,whipped/sour cream,semi-finished bread,pudding powder,fruit/vegetable juice,salty snack,long life bakery product",12,2378,7,Huda,39,Gharbia,Credit
+"chicken,tropical fruit,rolls/buns,pastry,bottled water,red/blush wine,chocolate,newspapers",8,1242,7,Huda,39,Gharbia,Credit
+canned beer,1,2325,7,Huda,39,Gharbia,Credit
+"pip fruit,other vegetables,yogurt,whipped/sour cream,domestic eggs,brown bread,specialty vegetables,coffee,specialty chocolate,pot plants",10,2060,7,Huda,39,Gharbia,Credit
+"root vegetables,other vegetables,whole milk,sliced cheese,rolls/buns,cat food,shopping bags",7,964,7,Huda,39,Gharbia,Credit
+"sausage,tropical fruit,whole milk,dessert,butter milk,yogurt,soft cheese,sliced cheese,ice cream,white bread,coffee,soda,salty snack,long life bakery product,chewing gum,chocolate,napkins,newspapers,shopping bags",19,830,7,Huda,39,Gharbia,Cash
+"tropical fruit,grapes,root vegetables,other vegetables,rolls/buns,tea,bottled beer",7,2290,7,Huda,39,Gharbia,Cash
+"fruit/vegetable juice,seasonal products",2,692,7,Huda,39,Gharbia,Cash
+"whole milk,butter,yogurt,rolls/buns,candles,newspapers",6,1989,7,Huda,39,Gharbia,Credit
+pickled vegetables,1,1876,7,Huda,39,Gharbia,Credit
+"yogurt,canned vegetables,pot plants",3,1762,7,Huda,39,Gharbia,Cash
+"citrus fruit,berries,butter,butter milk,yogurt,sliced cheese,frozen vegetables,frozen chicken,soda",9,142,7,Huda,39,Gharbia,Cash
+"nuts/prunes,other vegetables,whole milk,ice cream,soda,newspapers",6,1240,7,Huda,39,Gharbia,Cash
+"tropical fruit,other vegetables,rolls/buns,salt,margarine,soda,bottled beer,salty snack",8,2375,7,Huda,39,Gharbia,Credit
+"sausage,tropical fruit,other vegetables,whole milk,domestic eggs,white wine,detergent,softener",8,753,7,Huda,39,Gharbia,Credit
+rolls/buns,1,2336,7,Huda,39,Gharbia,Credit
+"yogurt,cream cheese ,rolls/buns,chocolate",4,2108,7,Huda,39,Gharbia,Cash
+"tropical fruit,yogurt,sliced cheese,brown bread,margarine,bottled water,soda,candy,newspapers",9,551,7,Huda,39,Gharbia,Cash
+"butter,sliced cheese,frozen meals,pastry,soda,fruit/vegetable juice,chocolate,specialty bar",8,1212,7,Huda,39,Gharbia,Cash
+"whole milk,butter,yogurt,beverages,dishes",5,1255,7,Huda,39,Gharbia,Credit
+"canned beer,newspapers",2,1900,7,Huda,39,Gharbia,Cash
+dog food,1,904,7,Huda,39,Gharbia,Credit
+"root vegetables,whipped/sour cream,oil,pet care",4,899,7,Huda,39,Gharbia,Cash
+"pip fruit,yogurt",2,1914,7,Huda,39,Gharbia,Cash
+"sausage,hamburger meat,citrus fruit,whole milk,yogurt,white bread",6,665,7,Huda,39,Gharbia,Cash
+"beverages,sauces,sweet spreads,pot plants",4,2489,7,Huda,39,Gharbia,Credit
+"tropical fruit,pip fruit,sugar,napkins,cling film/bags,shopping bags",6,2036,7,Huda,39,Gharbia,Credit
+"hamburger meat,tropical fruit,other vegetables,whole milk,butter,yogurt,whipped/sour cream,hard cheese,white bread,Instant food products,tea,soda,bottled beer,specialty bar",14,1938,7,Huda,39,Gharbia,Cash
+"cream cheese ,instant coffee,salty snack,waffles,kitchen towels,shopping bags",6,1600,7,Huda,39,Gharbia,Cash
+canned beer,1,1198,7,Huda,39,Gharbia,Credit
+"spread cheese,white bread,newspapers",3,257,7,Huda,39,Gharbia,Credit
+"root vegetables,soft cheese",2,207,7,Huda,39,Gharbia,Credit
+"tropical fruit,pip fruit,whole milk,pastry",4,1350,7,Huda,39,Gharbia,Credit
+cookware,1,2307,7,Huda,39,Gharbia,Credit
+"grapes,other vegetables,soda,canned beer",4,1776,7,Huda,39,Gharbia,Credit
+rolls/buns,1,963,7,Huda,39,Gharbia,Cash
+"pasta,sauces",2,880,7,Huda,39,Gharbia,Cash
+"citrus fruit,tropical fruit,baking powder,fruit/vegetable juice,waffles,specialty bar,candles,flower (seeds)",8,1242,7,Huda,39,Gharbia,Credit
+"pork,onions,domestic eggs,pastry,soda,shopping bags",6,218,7,Huda,39,Gharbia,Cash
+"dessert,soda",2,2220,7,Huda,39,Gharbia,Credit
+"whole milk,dessert,coffee,bottled water",4,1929,7,Huda,39,Gharbia,Cash
+"frankfurter,sausage,curd,processed cheese,soda,canned beer",6,1558,7,Huda,39,Gharbia,Cash
+"sausage,other vegetables,dessert,yogurt,condensed milk,hard cheese,spread cheese,bottled water,fruit/vegetable juice,shopping bags",10,1986,7,Huda,39,Gharbia,Credit
+canned beer,1,1554,7,Huda,39,Gharbia,Credit
+bottled beer,1,1056,7,Huda,39,Gharbia,Credit
+"pastry,bottled water,specialty chocolate",3,2349,7,Huda,39,Gharbia,Cash
+"sausage,meat,yogurt",3,758,7,Huda,39,Gharbia,Cash
+rubbing alcohol,1,687,7,Huda,39,Gharbia,Credit
+"chicken,red/blush wine",2,1155,7,Huda,39,Gharbia,Credit
+"soda,chewing gum",2,549,7,Huda,39,Gharbia,Cash
+photo/film,1,979,7,Huda,39,Gharbia,Credit
+canned beer,1,1055,7,Huda,39,Gharbia,Credit
+"fruit/vegetable juice,long life bakery product,newspapers",3,1165,7,Huda,39,Gharbia,Cash
+"ham,light bulbs",2,608,7,Huda,39,Gharbia,Credit
+"chewing gum,seasonal products",2,2427,7,Huda,39,Gharbia,Cash
+cat food,1,2363,7,Huda,39,Gharbia,Credit
+"whole milk,white bread,newspapers",3,110,7,Huda,39,Gharbia,Cash
+chicken,1,1896,7,Huda,39,Gharbia,Cash
+"chicken,root vegetables,other vegetables,whole milk,frozen vegetables,domestic eggs,brown bread,canned vegetables",8,2042,7,Huda,39,Gharbia,Credit
+"dessert,specialty chocolate",2,1809,7,Huda,39,Gharbia,Credit
+"meat,other vegetables,whole milk,hard cheese,fruit/vegetable juice,long life bakery product",6,1752,7,Huda,39,Gharbia,Credit
+"tropical fruit,root vegetables,other vegetables,whole milk,yogurt,rice,oil,bathroom cleaner",8,463,7,Huda,39,Gharbia,Credit
+"sausage,meat,whole milk,curd,dessert,yogurt,brown bread,dental care,male cosmetics",9,1195,7,Huda,39,Gharbia,Cash
+"tropical fruit,whole milk",2,1439,7,Huda,39,Gharbia,Cash
+"dessert,soft cheese,brown bread,pastry,soda,long life bakery product,hygiene articles,shopping bags",8,692,7,Huda,39,Gharbia,Cash
+"other vegetables,whole milk,salty snack",3,1038,7,Huda,39,Gharbia,Cash
+"sausage,bottled water",2,803,7,Huda,39,Gharbia,Cash
+"beef,pip fruit,whole milk,butter,curd,yogurt,condensed milk,white bread,detergent",9,2274,7,Huda,39,Gharbia,Credit
+rolls/buns,1,916,7,Huda,39,Gharbia,Cash
+"whole milk,sugar,cat food",3,2087,7,Huda,39,Gharbia,Credit
+"pastry,coffee,chewing gum",3,2187,7,Huda,39,Gharbia,Cash
+"citrus fruit,dessert,yogurt,UHT-milk,frozen vegetables,frozen fish,zwieback,spices,waffles",9,141,7,Huda,39,Gharbia,Credit
+"pip fruit,pastry,margarine",3,263,7,Huda,39,Gharbia,Credit
+"turkey,tropical fruit,root vegetables,other vegetables,butter,whipped/sour cream,hard cheese,ketchup,fruit/vegetable juice,candy,napkins",11,1063,7,Huda,39,Gharbia,Cash
+"margarine,misc. beverages,bottled beer",3,2418,7,Huda,39,Gharbia,Credit
+"bottled water,newspapers",2,1714,7,Huda,39,Gharbia,Credit
+"frankfurter,sausage,rolls/buns,brown bread,soda,shopping bags",6,1360,7,Huda,39,Gharbia,Credit
+"sausage,root vegetables,beverages,rolls/buns,soda",5,704,7,Huda,39,Gharbia,Credit
+"pip fruit,root vegetables,UHT-milk,condensed milk,frozen fish,candy",6,1220,7,Huda,39,Gharbia,Cash
+bathroom cleaner,1,854,7,Huda,39,Gharbia,Credit
+"beef,root vegetables,whole milk,margarine",4,172,7,Huda,39,Gharbia,Credit
+"tropical fruit,curd",2,927,7,Huda,39,Gharbia,Credit
+"chicken,curd,butter milk,UHT-milk,rolls/buns,fruit/vegetable juice,newspapers",7,2429,7,Huda,39,Gharbia,Cash
+"bottled water,canned beer,white wine",3,1878,7,Huda,39,Gharbia,Credit
+"turkey,other vegetables,butter,rolls/buns,pastry,oil",6,950,7,Huda,39,Gharbia,Cash
+"pork,hamburger meat,tropical fruit,pip fruit,other vegetables,whipped/sour cream,beverages,white bread",8,240,7,Huda,39,Gharbia,Cash
+"root vegetables,whole milk,domestic eggs,female sanitary products,newspapers",5,1643,7,Huda,39,Gharbia,Cash
+hamburger meat,1,2291,7,Huda,39,Gharbia,Credit
+"sausage,whole milk,semi-finished bread,flour,fruit/vegetable juice,napkins",6,610,7,Huda,39,Gharbia,Credit
+"UHT-milk,bottled water,chewing gum,cling film/bags,shopping bags",5,1933,7,Huda,39,Gharbia,Cash
+"salty snack,chocolate",2,2424,7,Huda,39,Gharbia,Credit
+"white bread,brown bread",2,2495,7,Huda,39,Gharbia,Credit
+"tropical fruit,pip fruit,berries,ice cream,white bread",5,1172,7,Huda,39,Gharbia,Credit
+chocolate,1,2271,7,Huda,39,Gharbia,Cash
+"frankfurter,sausage,onions,other vegetables,curd,dessert,condensed milk,soft cheese,rolls/buns,pastry,potato products,soda,rum,specialty chocolate,shopping bags",15,594,7,Huda,39,Gharbia,Cash
+bottled water,1,529,7,Huda,39,Gharbia,Cash
+salty snack,1,1696,7,Huda,39,Gharbia,Cash
+"bottled water,soda,female sanitary products",3,440,7,Huda,39,Gharbia,Credit
+"butter,hard cheese,white bread,chocolate,candy",5,1170,7,Huda,39,Gharbia,Credit
+chewing gum,1,379,7,Huda,39,Gharbia,Cash
+"root vegetables,onions,other vegetables,whole milk",4,2412,7,Huda,39,Gharbia,Credit
+candy,1,790,7,Huda,39,Gharbia,Cash
+"sausage,yogurt,rolls/buns",3,365,7,Huda,39,Gharbia,Credit
+"liver loaf,dessert,domestic eggs,soda,cleaner,shopping bags",6,341,7,Huda,39,Gharbia,Credit
+"tropical fruit,packaged fruit/vegetables,sliced cheese",3,880,7,Huda,39,Gharbia,Cash
+"frozen dessert,margarine,canned fruit,soda,shopping bags",5,1890,7,Huda,39,Gharbia,Cash
+"rolls/buns,bottled water,dental care,shopping bags",4,2327,7,Huda,39,Gharbia,Credit
+"whole milk,jam,canned fish,waffles",4,955,7,Huda,39,Gharbia,Cash
+candy,1,1530,7,Huda,39,Gharbia,Credit
+"yogurt,margarine,fruit/vegetable juice,shopping bags",4,987,7,Huda,39,Gharbia,Cash
+"citrus fruit,newspapers",2,2404,7,Huda,39,Gharbia,Credit
+"sausage,rolls/buns,soda",3,332,7,Huda,39,Gharbia,Cash
+"sausage,citrus fruit,whole milk,pastry,bottled water,soda,bottled beer,canned beer",8,125,7,Huda,39,Gharbia,Cash
+canned beer,1,296,7,Huda,39,Gharbia,Cash
+soda,1,1201,7,Huda,39,Gharbia,Credit
+"frankfurter,rolls/buns,soda,specialty bar",4,140,7,Huda,39,Gharbia,Credit
+pastry,1,598,7,Huda,39,Gharbia,Credit
+"bottled water,white wine",2,1645,7,Huda,39,Gharbia,Credit
+soda,1,321,7,Huda,39,Gharbia,Credit
+"tropical fruit,dessert,soft cheese,brown bread,shopping bags",5,952,7,Huda,39,Gharbia,Credit
+"soda,bottled beer,shopping bags",3,2226,7,Huda,39,Gharbia,Credit
+"citrus fruit,root vegetables,whole milk,curd",4,121,7,Huda,39,Gharbia,Cash
+"yogurt,sliced cheese,frozen meals",3,1190,7,Huda,39,Gharbia,Cash
+"tropical fruit,yogurt,soda,newspapers,shopping bags",5,2196,7,Huda,39,Gharbia,Cash
+specialty chocolate,1,2445,7,Huda,39,Gharbia,Cash
+whole milk,1,2168,7,Huda,39,Gharbia,Cash
+"whole milk,yogurt,hard cheese,cream cheese ,margarine,sugar,misc. beverages,detergent,dishes",9,1702,7,Huda,39,Gharbia,Credit
+"sausage,pork,citrus fruit,bottled water,soda,misc. beverages,canned beer,red/blush wine",8,415,7,Huda,39,Gharbia,Credit
+"coffee,shopping bags",2,1216,7,Huda,39,Gharbia,Cash
+"frankfurter,beef,other vegetables,whole milk,domestic eggs,rolls/buns",6,976,7,Huda,39,Gharbia,Cash
+specialty bar,1,1808,7,Huda,39,Gharbia,Credit
+"whipped/sour cream,domestic eggs,salt,sugar,canned vegetables,soda,canned beer,dish cleaner,hygiene articles,shopping bags",10,989,7,Huda,39,Gharbia,Credit
+"herbs,packaged fruit/vegetables",2,991,7,Huda,39,Gharbia,Cash
+"soda,canned beer",2,2417,7,Huda,39,Gharbia,Cash
+"domestic eggs,brown bread,fruit/vegetable juice,waffles",4,1136,7,Huda,39,Gharbia,Credit
+"grapes,whole milk,ice cream,bottled water,chocolate",5,173,7,Huda,39,Gharbia,Credit
+"beverages,cream cheese ,rolls/buns",3,793,7,Huda,39,Gharbia,Cash
+"finished products,cream cheese ,bottled water,specialty bar,shopping bags",5,1156,7,Huda,39,Gharbia,Credit
+"grapes,berries,pet care,pot plants",4,1468,7,Huda,39,Gharbia,Credit
+misc. beverages,1,1891,7,Huda,39,Gharbia,Credit
+"curd,rolls/buns",2,1138,7,Huda,39,Gharbia,Credit
+"turkey,citrus fruit,tropical fruit,pip fruit,grapes,cream cheese ,semi-finished bread,margarine,fruit/vegetable juice,specialty bar,shopping bags",11,340,7,Huda,39,Gharbia,Credit
+"whole milk,ice cream,soda",3,855,7,Huda,39,Gharbia,Credit
+"yogurt,frozen meals,soda",3,2319,7,Huda,39,Gharbia,Credit
+"whole milk,pastry,newspapers",3,1039,7,Huda,39,Gharbia,Cash
+"misc. beverages,specialty chocolate,candy",3,2422,7,Huda,39,Gharbia,Credit
+"citrus fruit,tropical fruit,yogurt,frozen fish,rolls/buns,canned vegetables,soda,fruit/vegetable juice,red/blush wine,chocolate,candy,seasonal products,hygiene articles",13,1857,7,Huda,39,Gharbia,Credit
+chocolate,1,541,7,Huda,39,Gharbia,Cash
+"bottled water,specialty chocolate",2,681,7,Huda,39,Gharbia,Cash
+"ham,yogurt,UHT-milk,sliced cheese,frozen vegetables,frozen dessert,semi-finished bread,sweet spreads,fruit/vegetable juice,newspapers,shopping bags",11,1235,7,Huda,39,Gharbia,Credit
+"bottled water,male cosmetics",2,2396,7,Huda,39,Gharbia,Cash
+"citrus fruit,coffee,canned beer,chewing gum,shopping bags",5,299,7,Huda,39,Gharbia,Credit
+"chicken,pip fruit,root vegetables,herbs,whole milk,frozen vegetables,domestic eggs",7,390,7,Huda,39,Gharbia,Credit
+"turkey,whole milk,domestic eggs,rolls/buns,flour,mustard,cereals,long life bakery product",8,363,7,Huda,39,Gharbia,Cash
+"citrus fruit,tropical fruit,yogurt,rolls/buns,red/blush wine",5,2413,7,Huda,39,Gharbia,Cash
+"curd,whipped/sour cream,newspapers",3,479,7,Huda,39,Gharbia,Cash
+"ham,other vegetables,processed cheese,rolls/buns,white bread,brown bread,margarine",7,2149,7,Huda,39,Gharbia,Cash
+"frankfurter,other vegetables,yogurt,UHT-milk,soft cheese,domestic eggs,rolls/buns,dish cleaner",8,2241,7,Huda,39,Gharbia,Credit
+"frankfurter,root vegetables,whole milk,margarine",4,1392,7,Huda,39,Gharbia,Credit
+"whole milk,yogurt,coffee",3,424,7,Huda,39,Gharbia,Cash
+"frankfurter,hamburger meat,pip fruit,other vegetables,butter milk,yogurt,sliced cheese,coffee,specialty bar",9,2263,7,Huda,39,Gharbia,Credit
+"chicken,whole milk,salty snack,long life bakery product",4,1274,7,Huda,39,Gharbia,Cash
+"citrus fruit,other vegetables,whole milk,yogurt,bottled water,bottled beer",6,1083,7,Huda,39,Gharbia,Credit
+"onions,other vegetables,whole milk,curd,yogurt,brown bread,rice,margarine,canned beer,cake bar,dish cleaner,hygiene articles,napkins,house keeping products",14,1781,7,Huda,39,Gharbia,Credit
+"citrus fruit,semi-finished bread,newspapers",3,163,7,Huda,39,Gharbia,Credit
+"whole milk,processed cheese,pastry,soda",4,172,7,Huda,39,Gharbia,Credit
+"beef,other vegetables,packaged fruit/vegetables,dog food",4,887,7,Huda,39,Gharbia,Credit
+"sausage,root vegetables,butter,oil,pickled vegetables,bottled beer,shopping bags",7,884,7,Huda,39,Gharbia,Credit
+"whole milk,curd,soda,bottled beer,cling film/bags",5,2091,7,Huda,39,Gharbia,Cash
+"yogurt,bottled water,soda,newspapers",4,2005,7,Huda,39,Gharbia,Cash
+"citrus fruit,tropical fruit,pip fruit,yogurt,ice cream,soda",6,747,7,Huda,39,Gharbia,Cash
+"tropical fruit,other vegetables,whole milk,curd,frozen fish,domestic eggs,baking powder,cling film/bags",8,2196,7,Huda,39,Gharbia,Credit
+bottled beer,1,1735,7,Huda,39,Gharbia,Cash
+"bottled water,soda,cake bar,chocolate,shopping bags",5,2215,7,Huda,39,Gharbia,Credit
+whipped/sour cream,1,2025,7,Huda,39,Gharbia,Credit
+"oil,pickled vegetables,hygiene articles",3,2071,7,Huda,39,Gharbia,Credit
+softener,1,115,7,Huda,39,Gharbia,Cash
+"curd,yogurt,bathroom cleaner",3,2041,7,Huda,39,Gharbia,Cash
+rolls/buns,1,648,7,Huda,39,Gharbia,Cash
+"pip fruit,grapes,whole milk,rolls/buns",4,808,7,Huda,39,Gharbia,Cash
+"condensed milk,bottled water,fruit/vegetable juice,bottled beer,canned beer",5,998,7,Huda,39,Gharbia,Credit
+chewing gum,1,1821,7,Huda,39,Gharbia,Credit
+"sausage,tropical fruit,berries,other vegetables,whole milk,curd,mayonnaise,rolls/buns,flour,margarine,sugar,cake bar,chocolate",13,1946,7,Huda,39,Gharbia,Cash
+"root vegetables,other vegetables,butter,domestic eggs,bottled water,soda,misc. beverages",7,775,7,Huda,39,Gharbia,Cash
+"root vegetables,UHT-milk,condensed milk,white bread,shopping bags",5,1683,7,Huda,39,Gharbia,Cash
+"root vegetables,onions,yogurt,whipped/sour cream,UHT-milk,salt,coffee,bottled water,bottled beer",9,1952,7,Huda,39,Gharbia,Credit
+"sausage,root vegetables,other vegetables,whole milk,soda,candy",6,2023,7,Huda,39,Gharbia,Cash
+"grapes,other vegetables,frozen dessert",3,1122,7,Huda,39,Gharbia,Cash
+butter,1,762,7,Huda,39,Gharbia,Credit
+"beef,root vegetables,yogurt,whipped/sour cream,frozen vegetables,soups",6,842,7,Huda,39,Gharbia,Cash
+"pip fruit,other vegetables,brown bread,fruit/vegetable juice,specialty chocolate",5,100,7,Huda,39,Gharbia,Cash
+male cosmetics,1,516,7,Huda,39,Gharbia,Cash
+margarine,1,2334,7,Huda,39,Gharbia,Credit
+sweet spreads,1,1418,7,Huda,39,Gharbia,Cash
+"whipped/sour cream,newspapers",2,1915,7,Huda,39,Gharbia,Credit
+male cosmetics,1,2120,7,Huda,39,Gharbia,Credit
+misc. beverages,1,2321,7,Huda,39,Gharbia,Cash
+"root vegetables,other vegetables,whole milk,yogurt,long life bakery product,newspapers",6,604,7,Huda,39,Gharbia,Credit
+"whole milk,rolls/buns,brown bread,oil,sauces",5,1587,7,Huda,39,Gharbia,Cash
+"tropical fruit,onions,whole milk,cream cheese ,specialty cheese,bottled water,soda",7,1943,7,Huda,39,Gharbia,Credit
+"tropical fruit,frozen dessert,rolls/buns,bottled water,flower (seeds)",5,784,7,Huda,39,Gharbia,Cash
+"chicken,tropical fruit,root vegetables,other vegetables,beverages,coffee,bottled beer,liquor",8,1107,7,Huda,39,Gharbia,Credit
+whole milk,1,290,7,Huda,39,Gharbia,Cash
+"beef,whole milk,sliced cheese",3,2110,7,Huda,39,Gharbia,Credit
+"beef,citrus fruit,other vegetables",3,677,7,Huda,39,Gharbia,Cash
+rolls/buns,1,1792,7,Huda,39,Gharbia,Credit
+"sausage,tropical fruit,berries,yogurt,shopping bags",5,348,7,Huda,39,Gharbia,Credit
+"yogurt,canned beer",2,233,7,Huda,39,Gharbia,Cash
+"semi-finished bread,bottled beer,red/blush wine",3,572,7,Huda,39,Gharbia,Credit
+"sausage,pip fruit,berries,whole milk,curd,dessert,butter milk,yogurt,whipped/sour cream,soft cheese,sliced cheese,curd cheese,domestic eggs,rolls/buns,sugar,long life bakery product",16,2137,7,Huda,39,Gharbia,Cash
+"brandy,liquor,liquor (appetizer),long life bakery product,dish cleaner,napkins,dishes,shopping bags",8,2305,7,Huda,39,Gharbia,Credit
+"chicken,pork,herbs,other vegetables,canned fish,misc. beverages,napkins,newspapers",8,2124,7,Huda,39,Gharbia,Credit
+"tropical fruit,whole milk,salty snack,kitchen towels",4,2116,7,Huda,39,Gharbia,Credit
+rolls/buns,1,230,7,Huda,39,Gharbia,Cash
+citrus fruit,1,1915,7,Huda,39,Gharbia,Credit
+"whole milk,brown bread,flower (seeds)",3,1969,7,Huda,39,Gharbia,Credit
+candles,1,2339,7,Huda,39,Gharbia,Cash
+"beef,white bread",2,1368,7,Huda,39,Gharbia,Credit
+"frankfurter,processed cheese,domestic eggs,white bread,brown bread,ketchup,soda,hygiene articles",8,1556,7,Huda,39,Gharbia,Credit
+"tropical fruit,whole milk,cream cheese ,oil,cake bar",5,484,7,Huda,39,Gharbia,Cash
+"citrus fruit,grapes",2,947,7,Huda,39,Gharbia,Credit
+"frankfurter,margarine,bottled water,red/blush wine,long life bakery product",5,2337,7,Huda,39,Gharbia,Cash
+canned beer,1,2180,7,Huda,39,Gharbia,Credit
+"brown bread,salty snack",2,464,7,Huda,39,Gharbia,Credit
+tropical fruit,1,207,7,Huda,39,Gharbia,Credit
+fruit/vegetable juice,1,715,7,Huda,39,Gharbia,Credit
+"tropical fruit,whole milk",2,1872,7,Huda,39,Gharbia,Credit
+"yogurt,rolls/buns,specialty bar",3,1975,7,Huda,39,Gharbia,Cash
+"other vegetables,yogurt,whipped/sour cream,mayonnaise,domestic eggs,canned fruit,pet care,misc. beverages,sparkling wine",9,625,7,Huda,39,Gharbia,Cash
+"other vegetables,whole milk,whipped/sour cream,coffee,flower (seeds)",5,455,7,Huda,39,Gharbia,Cash
+"pork,root vegetables,herbs,whole milk,frozen vegetables,rolls/buns,sweet spreads,detergent,flower (seeds)",9,621,7,Huda,39,Gharbia,Cash
+ice cream,1,342,7,Huda,39,Gharbia,Cash
+"chicken,butter",2,2428,7,Huda,39,Gharbia,Cash
+"candy,hygiene articles",2,1523,7,Huda,39,Gharbia,Credit
+rolls/buns,1,1808,7,Huda,39,Gharbia,Credit
+"root vegetables,whole milk,long life bakery product,cling film/bags",4,2168,7,Huda,39,Gharbia,Credit
+canned beer,1,2026,7,Huda,39,Gharbia,Credit
+"canned fish,canned beer,chocolate",3,1805,7,Huda,39,Gharbia,Cash
+coffee,1,1783,7,Huda,39,Gharbia,Cash
+"butter,yogurt,frozen vegetables,frozen potato products,pickled vegetables",5,165,7,Huda,39,Gharbia,Credit
+"chicken,citrus fruit,other vegetables,whole milk,female sanitary products",5,448,7,Huda,39,Gharbia,Credit
+"curd,cream cheese ,rolls/buns,flour,margarine,cat food,coffee,whisky",8,1667,7,Huda,39,Gharbia,Cash
+"curd,zwieback",2,747,7,Huda,39,Gharbia,Credit
+shopping bags,1,2394,7,Huda,39,Gharbia,Credit
+"yogurt,frozen vegetables,cat food",3,695,7,Huda,39,Gharbia,Credit
+"citrus fruit,onions,UHT-milk,brown bread,pastry,bottled water,fruit/vegetable juice",7,2316,7,Huda,39,Gharbia,Credit
+"sausage,rolls/buns,cookware",3,126,7,Huda,39,Gharbia,Cash
+"tropical fruit,grapes,yogurt,frozen vegetables,ice cream,rolls/buns,sugar,soda,detergent,dish cleaner",10,2134,7,Huda,39,Gharbia,Credit
+"whole milk,butter milk,hard cheese,coffee,chocolate,candy",6,637,7,Huda,39,Gharbia,Cash
+"soda,misc. beverages,salty snack,chewing gum",4,1361,7,Huda,39,Gharbia,Credit
+"brown bread,pastry,semi-finished bread,dog food,coffee,fruit/vegetable juice",6,586,7,Huda,39,Gharbia,Credit
+"hamburger meat,grapes,whole milk,pastry,pasta,soda",6,881,7,Huda,39,Gharbia,Credit
+"grapes,liquor (appetizer),waffles",3,451,7,Huda,39,Gharbia,Cash
+yogurt,1,730,7,Huda,39,Gharbia,Credit
+"frankfurter,hamburger meat,whole milk,coffee,bottled water,bottled beer,waffles,chocolate",8,2369,7,Huda,39,Gharbia,Cash
+"processed cheese,brown bread",2,1864,7,Huda,39,Gharbia,Cash
+"frankfurter,meat,other vegetables,mustard,bottled beer,detergent",6,2365,7,Huda,39,Gharbia,Credit
+"chewing gum,chocolate,specialty chocolate",3,334,7,Huda,39,Gharbia,Credit
+ice cream,1,460,7,Huda,39,Gharbia,Cash
+"pastry,margarine,candy",3,918,7,Huda,39,Gharbia,Cash
+chewing gum,1,667,7,Huda,39,Gharbia,Cash
+"coffee,shopping bags",2,242,7,Huda,39,Gharbia,Cash
+"citrus fruit,tropical fruit,UHT-milk,bottled water,soda,misc. beverages,fruit/vegetable juice,napkins",8,2155,7,Huda,39,Gharbia,Credit
+"butter milk,rolls/buns",2,635,7,Huda,39,Gharbia,Cash
+canned beer,1,249,7,Huda,39,Gharbia,Cash
+canned beer,1,1749,7,Huda,39,Gharbia,Cash
+"chicken,tropical fruit,other vegetables,shopping bags",4,2338,7,Huda,39,Gharbia,Cash
+"sausage,grapes,whole milk,seasonal products",4,2137,7,Huda,39,Gharbia,Cash
+"spread cheese,rolls/buns",2,2268,7,Huda,39,Gharbia,Cash
+"hamburger meat,white bread,pasta,specialty vegetables,bottled water,soda,snack products,waffles,cake bar,candy",10,1409,7,Huda,39,Gharbia,Credit
+"brown bread,pastry,long life bakery product",3,2125,7,Huda,39,Gharbia,Credit
+"chicken,citrus fruit,other vegetables",3,1517,7,Huda,39,Gharbia,Credit
+"curd,yogurt",2,1242,7,Huda,39,Gharbia,Credit
+rolls/buns,1,898,7,Huda,39,Gharbia,Cash
+"sausage,rolls/buns,chocolate,candy,shopping bags",5,1588,7,Huda,39,Gharbia,Cash
+"mayonnaise,tidbits,rolls/buns,bottled water,soda,cake bar",6,1493,7,Huda,39,Gharbia,Cash
+"sausage,beef,whipped/sour cream,rolls/buns,salt,Instant food products,soda,softener",8,573,7,Huda,39,Gharbia,Cash
+"bottled beer,shopping bags",2,968,7,Huda,39,Gharbia,Credit
+"frozen meals,cat food,hair spray",3,1680,7,Huda,39,Gharbia,Credit
+"yogurt,zwieback,soda,chocolate marshmallow,shopping bags",5,2185,7,Huda,39,Gharbia,Cash
+"frankfurter,chicken,beef,other vegetables,dessert,yogurt,frozen vegetables,rolls/buns,baking powder,pickled vegetables,seasonal products",11,1292,7,Huda,39,Gharbia,Credit
+"frankfurter,tropical fruit,berries,whole milk,dessert,yogurt,whipped/sour cream,domestic eggs,pasta,specialty vegetables,sweet spreads,soda,long life bakery product,napkins,shopping bags",15,1990,7,Huda,39,Gharbia,Cash
+"whole milk,curd,frozen dessert,rolls/buns,long life bakery product",5,2376,7,Huda,39,Gharbia,Cash
+"sausage,tropical fruit,berries,other vegetables,dessert,frozen fish,frozen potato products,red/blush wine,seasonal products",9,708,7,Huda,39,Gharbia,Cash
+other vegetables,1,899,7,Huda,39,Gharbia,Credit
+"beef,hamburger meat,berries,root vegetables,onions,other vegetables,dessert,yogurt,frozen meals,rolls/buns,sugar,cat food,soda,fruit/vegetable juice,salty snack,popcorn,cake bar",17,828,7,Huda,39,Gharbia,Cash
+"yogurt,pickled vegetables,soda,fruit/vegetable juice,bottled beer,salty snack",6,1124,7,Huda,39,Gharbia,Credit
+sugar,1,2086,7,Huda,39,Gharbia,Cash
+"sausage,citrus fruit,tropical fruit,berries,root vegetables,other vegetables,condensed milk,curd cheese,roll products ,pasta,oil,coffee,soda,fruit/vegetable juice,bottled beer,abrasive cleaner,bathroom cleaner,napkins",18,1801,7,Huda,39,Gharbia,Cash
+"frankfurter,meat,citrus fruit,pip fruit,other vegetables,whole milk,yogurt,sliced cheese,canned beer,house keeping products",10,952,7,Huda,39,Gharbia,Cash
+bottled beer,1,972,7,Huda,39,Gharbia,Cash
+"citrus fruit,pip fruit,specialty cheese,bottled water,soda",5,575,7,Huda,39,Gharbia,Credit
+"butter milk,yogurt,salty snack,specialty chocolate",4,174,7,Huda,39,Gharbia,Cash
+"other vegetables,whole milk,butter milk,yogurt,whipped/sour cream,domestic eggs,pastry,popcorn",8,234,7,Huda,39,Gharbia,Credit
+"frankfurter,pork,hamburger meat,pip fruit,other vegetables,whole milk,rolls/buns,white bread,pastry,Instant food products,waffles,chocolate",12,163,7,Huda,39,Gharbia,Credit
+"cream cheese ,chocolate marshmallow",2,1582,7,Huda,39,Gharbia,Credit
+"yogurt,UHT-milk,domestic eggs,rolls/buns,long life bakery product",5,2195,7,Huda,39,Gharbia,Credit
+"ham,whole milk,white bread",3,1794,7,Huda,39,Gharbia,Cash
+"sausage,pork,citrus fruit,tropical fruit,pip fruit,root vegetables,whole milk,butter,curd,yogurt,cream,sliced cheese,hard cheese,frozen vegetables,frozen fish,frozen potato products,brown bread,margarine,baking powder,cat food,pet care,soda,fruit/vegetable juice,nut snack,chocolate,female sanitary products,hygiene articles,napkins,house keeping products",29,2459,7,Huda,39,Gharbia,Cash
+"chicken,pork,beef,hamburger meat,citrus fruit,other vegetables,packaged fruit/vegetables,whole milk,pastry,napkins",10,1213,7,Huda,39,Gharbia,Credit
+"frankfurter,citrus fruit,grapes,root vegetables,onions,other vegetables,whole milk,rolls/buns,soups,bottled beer,newspapers",11,675,7,Huda,39,Gharbia,Credit
+"citrus fruit,whole milk,whipped/sour cream,rolls/buns,margarine,cling film/bags",6,1696,7,Huda,39,Gharbia,Cash
+"root vegetables,whole milk,flour,sugar,soda,misc. beverages",6,2300,7,Huda,39,Gharbia,Credit
+"beef,curd,yogurt,whipped/sour cream,frozen meals,brown bread,canned fish,coffee,candy,cling film/bags",10,681,7,Huda,39,Gharbia,Cash
+"citrus fruit,cream cheese ",2,1155,7,Huda,39,Gharbia,Cash
+"chicken,pork,beef,berries,other vegetables,whole milk,rolls/buns",7,2211,7,Huda,39,Gharbia,Cash
+soda,1,1292,7,Huda,39,Gharbia,Cash
+"pork,rolls/buns,pastry,napkins,newspapers",5,233,7,Huda,39,Gharbia,Cash
+"beef,other vegetables,whole milk,bottled beer",4,661,7,Huda,39,Gharbia,Cash
+"herbs,frozen vegetables,dog food,bottled water,bottled beer,specialty chocolate",6,696,7,Huda,39,Gharbia,Cash
+"root vegetables,herbs,whipped/sour cream,domestic eggs",4,1757,7,Huda,39,Gharbia,Cash
+"chicken,coffee",2,2260,7,Huda,39,Gharbia,Credit
+newspapers,1,2001,7,Huda,39,Gharbia,Cash
+"whole milk,soda",2,689,7,Huda,39,Gharbia,Cash
+"chicken,root vegetables,other vegetables,whole milk,butter,yogurt,specialty cheese,domestic eggs,pastry,rice,canned fish,misc. beverages,detergent,house keeping products",14,2477,7,Huda,39,Gharbia,Credit
+"other vegetables,whole milk,cream cheese ,frozen meals,rolls/buns,brown bread,bottled water,newspapers",8,276,7,Huda,39,Gharbia,Credit
+"ham,butter,condensed milk",3,462,7,Huda,39,Gharbia,Cash
+"sausage,domestic eggs,zwieback,fruit/vegetable juice,newspapers",5,2054,7,Huda,39,Gharbia,Credit
+grapes,1,2382,7,Huda,39,Gharbia,Credit
+"pip fruit,frozen vegetables,bottled water",3,522,7,Huda,39,Gharbia,Credit
+"UHT-milk,bottled water",2,1636,7,Huda,39,Gharbia,Cash
+"sausage,other vegetables,whole milk,hard cheese,frozen meals,ice cream,brown bread,pastry,salty snack,shopping bags",10,1926,7,Huda,39,Gharbia,Cash
+"hamburger meat,yogurt,margarine,sauces,canned vegetables,soda",6,1094,7,Huda,39,Gharbia,Cash
+sparkling wine,1,1563,7,Huda,39,Gharbia,Cash
+"butter,bottled water,liquor,specialty bar,dishes,shopping bags",6,465,7,Huda,39,Gharbia,Cash
+"liver loaf,whole milk,curd,frozen meals",4,2002,7,Huda,39,Gharbia,Cash
+"hamburger meat,brown bread,semi-finished bread",3,1770,7,Huda,39,Gharbia,Cash
+"sausage,other vegetables,cream cheese ,soda,canned beer,white wine,specialty chocolate",7,356,7,Huda,39,Gharbia,Cash
+"cream cheese ,white bread,Instant food products,fruit/vegetable juice",4,2330,7,Huda,39,Gharbia,Credit
+"citrus fruit,grapes,whole milk,dessert,yogurt,brown bread,pastry,soda,newspapers,shopping bags",10,1884,7,Huda,39,Gharbia,Credit
+"frankfurter,mayonnaise,semi-finished bread,canned beer,sparkling wine,chewing gum,shopping bags",7,314,7,Huda,39,Gharbia,Cash
+"yogurt,artif. sweetener,fruit/vegetable juice,shopping bags",4,1106,7,Huda,39,Gharbia,Cash
+salty snack,1,380,7,Huda,39,Gharbia,Cash
+"sausage,citrus fruit",2,996,7,Huda,39,Gharbia,Cash
+"butter,salt,margarine,sugar",4,2278,7,Huda,39,Gharbia,Cash
+"frankfurter,pork,pip fruit,other vegetables,hard cheese,frozen meals,frozen dessert,pastry,semi-finished bread,sugar,soda,salty snack,specialty chocolate,specialty bar,candy,seasonal products",16,162,7,Huda,39,Gharbia,Cash
+"nuts/prunes,yogurt,fruit/vegetable juice,specialty chocolate",4,2369,7,Huda,39,Gharbia,Credit
+"tropical fruit,frozen vegetables",2,1419,7,Huda,39,Gharbia,Cash
+coffee,1,563,7,Huda,39,Gharbia,Credit
+"chicken,pip fruit,soda",3,657,7,Huda,39,Gharbia,Credit
+"tropical fruit,whole milk,curd,dessert,pasta,cat food,fruit/vegetable juice,waffles",8,1949,7,Huda,39,Gharbia,Cash
+sausage,1,2260,7,Huda,39,Gharbia,Cash
+whole milk,1,1426,7,Huda,39,Gharbia,Cash
+"rolls/buns,bottled beer",2,2048,7,Huda,39,Gharbia,Cash
+"curd,brown bread,canned fruit,shopping bags",4,1741,7,Huda,39,Gharbia,Credit
+"other vegetables,domestic eggs",2,1744,7,Huda,39,Gharbia,Credit
+whole milk,1,605,7,Huda,39,Gharbia,Credit
+chicken,1,2266,7,Huda,39,Gharbia,Cash
+root vegetables,1,1830,7,Huda,39,Gharbia,Credit
+"pastry,coffee,liquor (appetizer),red/blush wine,shopping bags",5,2188,7,Huda,39,Gharbia,Cash
+"root vegetables,other vegetables,butter milk,rolls/buns,salt",5,508,7,Huda,39,Gharbia,Credit
+"citrus fruit,curd cheese,abrasive cleaner,house keeping products",4,1500,7,Huda,39,Gharbia,Cash
+"dessert,white bread,margarine,sugar,chocolate",5,1503,7,Huda,39,Gharbia,Cash
+"pork,frozen vegetables,pastry",3,743,7,Huda,39,Gharbia,Credit
+"citrus fruit,herbs,other vegetables,dessert,sugar,shopping bags",6,2395,7,Huda,39,Gharbia,Credit
