@@ -16,6 +16,6 @@ totals<- as.numeric(vector())
    totals<-append(totals,x)
  }
 
-# plots a scatter plot of ages and their corresponding total
-plot(ages,totals)
-
+# plots a bar plot of ages and their corresponding total
+barplot(totals,names.arg = ages)
+text(x=barplot(totals,names.arg = ages,col="steelblue"),y=totals,pos=1,labels = totals,cex=1,col="white")
