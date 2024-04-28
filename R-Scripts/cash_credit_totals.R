@@ -14,8 +14,11 @@ df<-read.csv("Datasets/all_cities.csv")
 cities<- sort(unique(df$city))
 
 totals<-c(sum(df$total[ tolower(df$paymentType) == "cash"]),sum(df$total[ tolower(df$paymentType) == "credit"]))
-#par(mar=c(0,0,2,0))
+par(mar=c(0,0,2,0))
+payment<-c("Cash","Credit")
+
 chart<- pie(totals, paste(round(totals/sum(totals)*100,2),"%"),main="All cities",col = c("red","blue"))
+
 legend("bottomright",payment,fill = c("red","blue"))
 
 for (citiy in cities) {
