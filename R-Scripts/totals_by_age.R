@@ -17,5 +17,5 @@ totals<- as.numeric(vector())
  }
 
 # plots a bar plot of ages and their corresponding total
-barplot(totals,names.arg = ages)
-text(x=barplot(totals,names.arg = ages,col="steelblue"),y=totals,pos=1,labels = totals,cex=1,col="white")
+# barplot(totals,names.arg = ages)
+text(x=barplot(totals/1000000,names.arg = ages,col="steelblue",xlab = "Age",ylab = "Million EGP",ylim = c(0,2)),y=totals/1000000,pos=3,labels = round(totals/1000000,3) ,cex=0.7)

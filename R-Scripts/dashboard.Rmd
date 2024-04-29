@@ -1,0 +1,48 @@
+---
+title: "Grocery Store Report"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+# Summary
+
+## Column {data-width=500, .tabset .tabset-pills}
+
+
+### Totals By City
+
+```{r}
+source("total_spending_byCity.R")
+```
+
+### Totals By Age
+
+```{r}
+source("totals_by_age.R")
+```
+
+## Column {data-width=500, .tabset}
+
+
+### Total
+
+```{r}
+source("cash_credit_totals.R")
+chart1()
+```
+
+### All Cities
+
+```{r}
+source("cash_credit_totals.R")
+chart2()
+
+```
+
+# Page 2
