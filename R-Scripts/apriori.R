@@ -5,7 +5,12 @@ setwd(dir)
 
 library(arules)
 
-items<-read.transactions("Datasets/items.csv",sep = ",")
 
-ruleset<-apriori(items,parameter = list(support=0.007,confidence=0.25,minlen=2))
-inspect(sort(ruleset,by="lift")[1:5])
+get_ruleset<-function(supp,conf){
+  items<-read.transactions("Datasets/items.csv",sep = ",")
+  rule<-apriori(items,parameter = list(support=supp,confidence=conf,minlen=2))
+  rule_frame<-DATAFRAME(from = rule,separate=TRUE)
+  return(rule_frame)
+}
+
+
