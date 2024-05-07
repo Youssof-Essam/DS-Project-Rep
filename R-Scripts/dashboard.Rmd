@@ -12,7 +12,7 @@ library(flexdashboard)
 
 # Summary
 
-## Column {data-width=500, .tabset .tabset-pills}
+## Column {data-width=700, .tabset .tabset-pills }
 
 
 ### Totals By City
@@ -27,22 +27,41 @@ source("total_spending_byCity.R")
 source("totals_by_age.R")
 ```
 
-## Column {data-width=500, .tabset}
+### Total Spending Distribution
+
+```{r}
+source("total_spending_distribution.R")
+chart
+```
+
+## Column {data-width=300}
 
 
-### Total
+### Cash and Credit Totals
 
 ```{r}
 source("cash_credit_totals.R")
 chart1()
 ```
 
-### All Cities
+
+
+# Details
+
+## Column {data-width=300}
+
+### Sales
+```{r}
+source("stats.R")
+valueBox(total_sales,color = "primary")
+
+```
+
+## Column {data-width=600}
+
+### Cash and Credit Totals
 
 ```{r}
 source("cash_credit_totals.R")
 chart2()
-
 ```
-
-# Page 2

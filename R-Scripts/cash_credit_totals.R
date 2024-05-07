@@ -18,6 +18,7 @@ totals<-c(sum(df$total[ tolower(df$paymentType) == "cash"]),sum(df$total[ tolowe
 payment<-c("Cash","Credit")
 
 chart1<- function(){
+  par(mar=c(0,0,1,0))
   pie(totals, paste(round(totals/sum(totals)*100,2),"%"),main="All cities",col = c("red","blue"))
   legend("bottomright",payment,fill = c("red","blue"))
 } 
@@ -28,10 +29,11 @@ chart2<- function(){
     by_city<-df[df$city==citiy,]
     totals<-c(sum(by_city$total[ tolower(by_city$paymentType) == "cash"]),sum(by_city$total[ tolower(by_city$paymentType) == "credit"]))
     payment<-c("Cash","Credit")
-    par(mar=c(0,0,2,0))
+    par(mar=c(0,0,1,0))
     chart<- pie(totals, paste(round(totals/sum(totals)*100,2),"%"),main=citiy,col = c("red","blue"))
     legend("bottomright",payment,fill = c("red","blue"))
   }
 }
+
 
 
