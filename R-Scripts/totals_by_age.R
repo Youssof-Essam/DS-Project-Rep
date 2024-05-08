@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-df<-read.csv("all_cities.csv")
-=======
 # Changes and sets working directory
 dir<-getwd()
 dir<-gsub("R-Scripts","",dir)
@@ -22,4 +19,3 @@ totals<- as.numeric(vector())
 # plots a bar plot of ages and their corresponding total
 # barplot(totals,names.arg = ages)
 text(x=barplot(totals/1000000,names.arg = ages,col="steelblue",xlab = "Age",ylab = "Million EGP",ylim = c(0,2)),y=totals/1000000,pos=3,labels = round(totals/1000000,3) ,cex=0.7)
->>>>>>> 00985fffa6984d5eae003299eb0db6540a03c863

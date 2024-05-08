@@ -8,11 +8,19 @@ output:
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
+library(DT)
+source("apriori.R")
+{s<-readline("Enter Support:");}
+{c<-readline("Enter Confidence:");}
+s<-as.numeric(s)
+c<-as.numeric(c)
+rule<-get_ruleset(s,c)
+rule<-data.frame("LHS"=rule$LHS,"RHS"=rule$RHS,"Support"=round(rule$support,4),"Confidence"=round(rule$confidence,4),"Lift"=round(rule$lift,4))
 ```
 
 # Summary
 
-## Column {data-width=500, .tabset .tabset-pills}
+## Column {data-width=700, .tabset .tabset-pills }
 
 
 ### Totals By City
@@ -27,22 +35,38 @@ source("total_spending_byCity.R")
 source("totals_by_age.R")
 ```
 
-## Column {data-width=500, .tabset}
+### Total Spending Distribution
+
+```{r}
+source("total_spending_distribution.R")
+chart
+```
+
+## Column {data-width=300}
 
 
-### Total
+### Cash and Credit Totals
 
 ```{r}
 source("cash_credit_totals.R")
 chart1()
 ```
 
-### All Cities
 
+
+# Details
+
+## Column {data-width=500}
+
+### K-Means
 ```{r}
-source("cash_credit_totals.R")
-chart2()
-
 ```
 
-# Page 2
+## Column {data-width=500}
+
+### Association Rules
+
+```{r}
+datatable(rule)
+
+```
