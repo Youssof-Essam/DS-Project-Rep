@@ -7,15 +7,25 @@ output:
 ---
 
 ```{r setup, include=FALSE}
+# Changes and sets working directory
+dir<-getwd()
+dir<-gsub("R-Scripts","",dir)
+setwd(dir)
+
 library(flexdashboard)
 library(DT)
-source("apriori.R")
+source("R-Scripts/kmeans.R")
+source("R-Scripts/apriori.R")
+
 {s<-readline("Enter Support:");}
 {c<-readline("Enter Confidence:");}
+{ncl<-readline("Enter Number of Centers:");}
 s<-as.numeric(s)
 c<-as.numeric(c)
+ncl<-as.numeric(ncl)
 rule<-get_ruleset(s,c)
 rule<-data.frame("LHS"=rule$LHS,"RHS"=rule$RHS,"Support"=round(rule$support,4),"Confidence"=round(rule$confidence,4),"Lift"=round(rule$lift,4))
+k<-calc(ncl)
 ```
 
 # Summary
@@ -56,10 +66,19 @@ chart1()
 
 # Details
 
-## Column {data-width=500}
+## Column {data-width=500, .tabset .tabset-pills}
 
-### K-Means
+
+### Table
+
 ```{r}
+datatable(show_table())
+```
+
+### Plot
+
+```{r}
+show_plot()
 ```
 
 ## Column {data-width=500}
